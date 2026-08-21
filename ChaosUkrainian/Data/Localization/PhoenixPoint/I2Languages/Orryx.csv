@@ -1,0 +1,10 @@
+Key,Ukrainian
+KEY_DAMAGE_TYPE_BASH,УДАР
+KEY_DAMAGE_TYPE_BASH_DESC,"УДАР завдає шкоди та шокового значення, що дорівнює вазі предмета в руці, помноженій на силу. 25% цього значення застосовується до предмета, яким завдається удар."
+KEY_OPTIONS_ANIMATION_SPEED_FAST,ШВИДКО
+KEY_OPTIONS_ANIMATION_SPEED_FASTER,ДУЖЕ ШВИДКО
+KEY_OPTIONS_ANIMATION_SPEED_FASTEST,НАЙШВИДШЕ
+KEY_OPTIONS_ANIMATION_SPEED_LEVEL,ШВИДКІСТЬ АНІМАЦІЇ
+KEY_OPTIONS_ANIMATION_SPEED_STANDARD,СТАНДАРТНО
+KEY_STATUS_PANIC_IMMUNITY_DESCRIPTION,Імунітет до паніки протягом одного ходу.
+KEY_STATUS_PANIC_IMMUNITY_NAME,ВІДНОВЛЕННЯ

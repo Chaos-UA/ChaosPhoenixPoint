@@ -1,0 +1,46 @@
+Key,Type,Desc,English,Chinese (Simplified),French,German,Italian,Polish,Russian,Spanish,UI_Tester
+KEY_BCR10_HAVEN,Text,,Towa,东和,Towa,Towa,,Towa,Това,Towa,Towa
+KEY_BCR10_LEADER,Text,,Hikari Towa,东和光,Hikari Towa,Hikari Towa,,Hikari Towa,Хикари Това,Hikari Towa,Hikari Towa
+KEY_BCR10_MOTTO,Text,,---,---,---,---,,---,---,---,---
+KEY_BCR11_HAVEN,Text,,Harmony,和谐,Harmonie,Harmonie,,Harmonia,Гармония,Armonía,Harmonie
+KEY_BCR11_LEADER,Text,,James O'Hearn,詹姆斯·欧赫恩,James O'Hearn,James O'Hearn,,James O'Hearn,Джеймс О'Хирн,James O'Hearn,James O'Hearn
+KEY_BCR11_MOTTO,Text,,"With Music, Rise",跟着音乐躁动起来,"Avec la musique, l'éveil","Mit Musik, erhebt euch",,Powstańcie wśród muzyki,Воспрянь под музыку,"Si hay música, ponte en pie","Si hay música, ponte en pie"
+KEY_BCR12_HAVEN,Text,,New Sydney,新悉尼,New Sydney,Neu-Sydney,,Nowe Sydney,Нью-Сидней,Nueva Sídney,Nueva Sídney
+KEY_BCR12_LEADER,Text,,Harry Brown-Beresford,哈利·布朗-贝雷斯福德,Harry Brown-Beresford,Harry Brown-Beresford,,Harry Brown-Beresford,Гарри Браун-Бересфорд,Harry Brown-Beresford,Harry Brown-Beresford
+KEY_BCR12_MOTTO,Text,,On Their Behalf,以他们之名,En leur nom,An ihrer Statt,,W ich imieniu,От их имени,En su nombre,On Their Behalf
+KEY_BCR13_HAVEN,Text,,The Reformed,改革者,Les Réformés,Der Geläuterte,Il Ravveduto,Zreformowani,Реформаторы,El reformado,Der Geläuterte
+KEY_BCR13_LEADER,Text,,Joseph Saxton,约瑟夫·萨克顿,Joseph Saxton,Joseph Saxton,Joseph Saxton,Joseph Saxton,Джозеф Сакстон,Joseph Saxton,Джозеф Сакстон
+KEY_BCR13_MOTTO,Text,,"Cursed Be All Who Follow The Weak, For We Are The True Disciples",诅咒那些追随弱者之人，因为我们才是真正的门徒,"Maudits soient ceux qui suivent les faibles, car nous sommes les véritables disciples.","Verflucht seien alle, die den Schwachen folgen, denn wir sind die wahren Jünger.","Dannati siano coloro che seguono il debole, perché noi siamo i veri discepoli","Przeklęci niech będą ci, którzy podążają za słabymi, albowiem to my jesteśmy prawdziwymi uczniami","Будь проклят тот, кто следует за слабым, ибо мы есть истинные последователи","Malditos sean aquellos que siguen a los débiles, pues nosotros somos los auténticos Discípulos","Przeklęci niech będą ci, którzy podążają za słabymi, albowiem to my jesteśmy prawdziwymi uczniami"
+KEY_BCR14_HAVEN,Text,,Emrys,爱慕里斯,Emrys,Emrys,Emrys,Emrys,Эмрис,Emrys,Emrys
+KEY_BCR14_LEADER,Text,,"John ""Merlin"" Smith",约翰“梅林”史密斯,"John ""Merlin"" Smith",John „Merlin“ Smith,"John “Merlino"" Smith",John „Merlin” Smith,Джон «Мерлин» Смит,"John ""Merlín"" Smith","John “Merlino"" Smith"
+KEY_BCR14_MOTTO,Text,,What Does Not Kill You Makes You Stronger,宝剑锋从磨砺出，梅花香自苦寒来,Ce qui ne vous tue pas vous rend plus forts,"Was dich nicht umbringt, macht dich stärker.",Ciò che non uccide fortifica,"Co cię nie zabije, to cię wzmocni","Что тебя не убивает, то делает тебя сильнее",Lo que no te mata te hace más fuerte,Ce qui ne vous tue pas vous rend plus forts
+KEY_BCR15_HAVEN,Text,,New Warsaw,新华沙,Nouvelle Varsovie,Neu-Warschau,Nuova Varsavia,Nowa Warszawa,Нью-Варшава,Nueva Varsovia,
+KEY_BCR15_LEADER,Text,,Tomasz Lu Baer,托马什·鲁·贝尔,Tomasz Lu Baer,Tomasz Lu Baer,Tomasz Lu Baer,Tomasz Lu Baer,Томаш Лу Бар,Tomasz Lu Baer,Tomasz Lu Baer
+KEY_BCR15_MOTTO,Text,,---,---,---,---,---,---,---,---,
+KEY_BCR1_HAVEN,Text,,Longinus Point,朗基努斯点,Longinus Point,Longinuspunkt,,Longinus Point,Точка Лонгинус,Punto Longinus,Longinus Point
+KEY_BCR1_LEADER,Text,,Justinian Cyneweard,查士丁尼·基涅维尔德,Justinian Cyneweard,Justinian Cyneweard,,Justinian Cyneweard,Юстиниан Синьюард,Justinian Cyneweard,Justinian Cyneweard
+KEY_BCR1_MOTTO,Text,,---,---,---,---,,---,---,---,---
+KEY_BCR2_HAVEN,Text,,Aatxe,安特克斯,Aatxe,Aatxe,,Aatxe,Аатксе,Aatxe,Аатксе
+KEY_BCR2_LEADER,Text,,Erik-Logan Hughes,埃里克-洛根·修斯,Erik-Logan Hughes,Erik-Logan Hughes,,Erik-Logan Hughes,Эрик-Логан Хьюз,Erik-Logan Hughes,Erik-Logan Hughes
+KEY_BCR2_MOTTO,Text,,"Nola bizi, hala hil","Nola bizi, hala hil","Nola bizi, hala hil","Nola bizi, hala hil",,"Nola bizi, hala hil","Как ты живешь, так ты и умрешь.","Nola bizi, hala hil","Как ты живешь, так ты и умрешь."
+KEY_BCR3_HAVEN,Text,,Dokkum,多克姆,Dokkum,Dokkum,,Dokkum,Доккум,Dokkum,Dokkum
+KEY_BCR3_LEADER,Text,,Boris Eysbroek,伯瑞斯·艾斯布洛克,Boris Eysbroek,Boris Eysbroek,,Boris Eysbroek,Борис Эйсбрук,Boris Eysbroek,Boris Eysbroek
+KEY_BCR3_MOTTO,Text,,---,---,---,---,,---,---,---,---
+KEY_BCR4_HAVEN,Text,,R.E.M.E. Corporation,R.E.M.E. 集团,Société R.E.M.E.,R.E.M.E. Corporation,R.E.M.E. Corporation,Korporacja R.E.M.E.,Корпорация R.E.M.E.,Corporación R.E.M.E.,R.E.M.E. Corporation
+KEY_BCR4_LEADER,Text,,Jachlan Wisopp,杰克兰·韦索普,Jachlan Wisopp,Jachlan Wisopp,Jachlan Wisopp,Jachlan Wisopp,Яхлан Висопп,Jachlan Wisopp,Jachlan Wisopp
+KEY_BCR4_MOTTO,Text,,Work Today To Get Fed Tomorrow,今天的努力工作是为了明天能吃饱饭,Travaillez aujourd'hui pour être nourris demain,"Arbeite heute, um morgen essen zu können.",,"Pracuj dziś, by jutro mieć co włożyć do ust","Работай сегодня, чтобы быть сытым завтра",Trabaja hoy para poder comer mañana,Travaillez aujourd'hui pour être nourris demain
+KEY_BCR5_HAVEN,Text,,Cedar Ark,雪松方舟,Arche de Cèdre,Cedar Ark,,Cedrowa Arka,Кедровый Ковчег,Arca de cedro,Zedernholz-Arche
+KEY_BCR5_LEADER,Text,,Mike Spark,麦克·斯帕克,Mike Spark,Mike Spark,,Mike Spark,Майк Спарк,Mike Spark,Mike Spark
+KEY_BCR5_MOTTO,Text,,---,---,---,---,,---,---,---,---
+KEY_BCR6_HAVEN,Text,,Scheria,斯克里亚,Scheria,Scheria,,Scheria,Шерия,Esqueria,Esqueria
+KEY_BCR6_LEADER,Text,,Ulysses J. Black,尤利西斯·J.·布莱克,Ulysses J. Black,Ulysses J. Black,,Ulysses J. Black,Улисс Дж. Блэк,Ulises J. Black,Ulysses J. Black
+KEY_BCR6_MOTTO,Text,,Faber est Suae Quisque Fortunae,Faber est Suae Quisque Fortunae,Faber est Suae Quisque Fortunae,Faber est Suae Quisque Fortunae,,Faber est Suae Quisque Fortunae,Каждый сам кузнец своей судьбы,Faber est Suae Quisque Fortunae,Faber est Suae Quisque Fortunae
+KEY_BCR7_HAVEN,Text,,Bastion Irazu,依拉苏堡垒,Bastion Irazu,Bastion Irazu,Bastion Irazu,Bastion Irazu,Бастион Иразу,Fortaleza Irazu,Fortaleza Irazu
+KEY_BCR7_LEADER,Text,,Fabio Mena,法比奥·梅纳,Fabio Mena,Fabio Mena,,Fabio Mena,Фабио Мена,Fabio Mena,Fabio Mena
+KEY_BCR7_MOTTO,Text,,Presidium Perpetua Aeternum Quaerere,寻求庇护,Presidium Perpetua Aeternum Quaerere,Presidium Perpetua Aeternum Quaerere,Presidium Perpetua Aeternum Quaerere,Presidium Perpetua Aeternum Quaerere,В бесконечных поисках защиты,Presidium Perpetua Aeternum Quaerere,Presidium Prepetua Aeternum Quaerere
+KEY_BCR8_HAVEN,Text,,Dustwood,尘埃森林,Bois de poussière,Dustwood,,Dustwood,Даствуд,Bosque del ocaso,Bois de poussière
+KEY_BCR8_LEADER,Text,,Ryan Dustin Wood,莱恩·达斯特·伍德,Ryan Dustin Wood,Ryan Dustin Wood,,Ryan Dustin Wood,Райан Дастин Вуд,Ryan Dustin Wood,Ryan Dustin Wood 
+KEY_BCR8_MOTTO,Text,,---,---,---,---,,---,---,---,---
+KEY_BCR9_HAVEN,Text,,Genova,热内亚,Gênes,Genua,,Genova,Генова,Génoa,Genova
+KEY_BCR9_LEADER,Text,,Walter Ivan Toso,沃尔特·伊万·托索,Walter Ivan Toso,Walter Ivan Toso,,Walter Ivan Toso,Вальтер Иван Тосо,Walter Ivan Toso,Вальтер Иван Тосо
+KEY_BCR9_MOTTO,Text,,Inter Nos Nostra Lex,Inter Nos Nostra Lex,Inter Nos Nostra Lex,Inter Nos Nostra Lex,,Inter Nos Nostra Lex,Мы среди нашего закона,Inter Nos Nostra Lex,Мы среди нашего закона

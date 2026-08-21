@@ -1,0 +1,1538 @@
+Key,Type,Desc,English,Chinese (Simplified),French,German,Italian,Polish,Russian,Spanish,UI_Tester
+KEY_TUTORIAL_BASE_DESCRIPTION_C,Text,,"Your Base is your stronghold containing ALL FACILITIES, as well as vital resources such as Food, Materials, and Tech.
+
+Phoenix Point is in bad shape. You need to repair your vehicle bay before you can launch your Manticore aircraft - and it will take some time.
+
+START REPAIR OF YOUR VEHICLE BAY
+Move the cursor to the REPAIR FACILITY button and press <size=60>:A:</size>
+
+THEN RETURN TO GEOSCAPE WITH :LT: AND ADVANCE TIME WITH <size=60>:X:</size>","你的基地是将所有设施及重要资源，如食物、材料、和科技包含在内的大本营。
+
+ 凤凰点的情况不容乐观。发射蝎狮飞行器之前，你需要修理载具港 - 这需要一些时间。
+ 
+ 开始修理载具港
+移动光标至“维修设施”按钮后按 :A:。
+ 
+ 然后按 :LT: 返回世界地图并按 :X: 加速时间","Votre base est la forteresse contenant TOUTES LES INSTALLATIONS, ainsi que les ressources vitales comme la nourriture, les matériaux et la technologie.
+
+ Phoenix Point a connu de meilleurs jours. Vous devrez réparer votre garage avant de pouvoir lancer votre vaisseau Manticore, ce qui prendra du temps.
+ 
+ COMMENCEZ LES RÉPARATIONS DE VOTRE GARAGE.
+ Placez le curseur sur le bouton RÉPARER L'INSTALLATION et appuyez sur :A:
+ 
+ RETOURNEZ ENSUITE AU GEOSCAPE AVEC :LT: ET ACCÉLÉREZ LE TEMPS AVEC :X:","Deine Basis ist deine Festung. Sie umfasst ALLE ANLAGEN sowie Ressourcen wie Nahrung, Materialien und Technik.
+ 
+Phoenix Point ist in einem schlechten Zustand. Du musst deinen Hangar reparieren, bevor du dein Manticore-Fluggerät starten kannst – und das wird etwas Zeit in Anspruch nehmen.
+ 
+BEGINNE MIT DER REPARATUR DES HANGARS
+Bewege den Cursor auf „REPARATUR“ und drücke <size=60>:A:</size>.
+ 
+KEHRE DANN ZUR GEOSCAPE MIT :LT: ZURÜCK UND LASSE DIE ZEIT MIT <size=60>:X:</size> VERGEHEN.","La base è la tua roccaforte, in cui si trovano TUTTE LE STRUTTURE e risorse di vitale importanza come cibo, materiali e tecnologia.
+ 
+ Phoenix Point è in cattive condizioni. Devi riparare il tuo garage veicoli prima di poter decollare col tuo Manticore e questo richiederà un po' di tempo.
+
+ INIZIA A RIPARARE IL GARAGE VEICOLI
+ Sposta il cursore sul pulsante RIPARA STRUTTURA e premi :A:
+ 
+ POI TORNA AL GLOBO CON :LT: E FAI AVANZARE IL TEMPO CON :X:","Baza to Twoja twierdza, w której znajdują się WSZYSTKIE OBIEKTY, a także niezbędne zasoby takie jak żywność, materiały i technologie.
+ 
+ Baza Phoenix Point jest w kiepskim stanie. Aby wystartować statkiem powietrznym Mantykora, musisz naprawić swój warsztat, a to zajmie trochę czasu.
+ 
+ ZACZNIJ NAPRAWIAĆ WARSZTAT
+ Przesuń kursor na przycisk NAPRAW OBIEKT i naciśnij przycisk :A:
+ 
+ NASTĘPNIE WRÓĆ DO WIDOKU GLOBU ZA POMOCĄ :LT: I PRZYWRÓĆ UPŁYW CZASU, NACISKAJĄC :X:","Ваша база – ваша крепость. Здесь находятся ВСЕ ОБЪЕКТЫ, а также жизненно важные ресурсы, такие как провиант, материалы и технологии.
+ 
+Ваша база в плачевном состоянии. Вам необходимо отремонтировать транспортный отсек, прежде чем вы сможете запустить свою Мантикору. Это займет какое-то время.
+ 
+ НАЧНИТЕ РЕМОНТ ВАШЕГО ТРАНСПОРТНОГО ОТСЕКА
+ Наведите курсор на кнопку ПОЧИНИТЬ ОБЪЕКТ и нажмите :A:
+ 
+ ПОТОМ ВЕРНИТЕСЬ К ГЕОСКОПУ С ПОМОЩЬЮ :LT: И ПЕРЕМОТАЙТЕ ВРЕМЯ С ПОМОЩЬЮ :X:","Tu base es una fortaleza que incluye todas las instalaciones, además de los recursos vitales como la comida, los materiales y la tecnología.
+
+ El Punto Fénix está en mal estado. Necesitas reparar la plataforma de vehículos para que la nave Mantícora pueda despegar, pero esto llevará tiempo.
+ 
+ EMPIEZA LA REPARACIÓN DE LA PLATAFORMA DE VEHÍCULOS
+Mueve el cursor hasta el botón de reparar las instalaciones y pulsa :A:
+
+ DESPUÉS REGRESA A LA GEOVISTA CON :LT: Y HAZ QUE AVANCE EL TIEMPO CON :X:",
+KEY_TUTORIAL_BASE_DESCRIPTION_K,Text,,"Your Base is your stronghold containing ALL FACILITIES, as well as vital resources such as Food, Materials, and Tech.
+
+Phoenix Point is in bad shape. You need to repair your vehicle bay before you can launch your Manticore aircraft - and it will take some time.
+
+START REPAIR OF YOUR VEHICLE BAY
+:LMB: on the REPAIR FACILITY button.
+
+THEN RETURN TO GEOSCAPE AND ADVANCE TIME","你的基地是将所有设施及重要资源，如食物、材料、和科技包含在内的大本营。
+
+ 凤凰点的情况不容乐观。发射蝎狮飞行器之前，你需要修理载具港——这需要一些时间。
+
+ 开始修理载具港
+ :LMB: 点击“维修设施”按钮。
+
+ 然后返回世界地图并加速时间","Votre base est la forteresse contenant TOUTES LES INSTALLATIONS, ainsi que les ressources vitales comme la nourriture, les matériaux et la technologie.
+
+ Phoenix Point a connu de meilleurs jours. Vous devrez réparer votre garage avant de pouvoir lancer votre vaisseau Manticore, ce qui prendra du temps.
+ 
+ COMMENCEZ LES RÉPARATIONS DE VOTRE GARAGE.
+ :LMB: sur le bouton RÉPARER L'INSTALLATION.
+ 
+ RETOURNEZ ENSUITE AU GEOSCAPE ET ACCÉLÉREZ LE TEMPS.","Deine Basis ist deine Festung. Sie umfasst ALLE ANLAGEN sowie Ressourcen wie Nahrung, Materialien und Technik.
+ 
+Phoenix Point ist in einem schlechten Zustand. Du musst deinen Hangar reparieren, bevor du dein Manticore-Fluggerät starten kannst – und das wird dauern.
+ 
+BEGINNE MIT DER REPARATUR DES HANGARS
+:LMB: auf „REPARATUR“.
+ 
+KEHRE DANN ZUR GEOSCAPE ZURÜCK UND LASSE DIE ZEIT WEITERLAUFEN","La base è la tua roccaforte, in cui si trovano TUTTE LE STRUTTURE e risorse di vitale importanza come cibo, materiali e tecnologia.
+ 
+ Phoenix Point è in cattive condizioni. Devi riparare il tuo garage veicoli prima di poter decollare col tuo Manticore e questo richiederà un po' di tempo.
+
+ INIZIA A RIPARARE IL GARAGE VEICOLI
+ :LMB: sul pulsante RIPARA STRUTTURA.
+
+ POI TORNA AL GLOBO E FAI AVANZARE IL TEMPO","Baza to Twoja twierdza, w której znajdują się WSZYSTKIE OBIEKTY, a także niezbędne zasoby, takie jak żywność, materiały i technologie.
+ 
+ Baza Phoenix Point jest w kiepskim stanie. Aby wystartować statkiem powietrznym Mantykora, musisz naprawić swój warsztat, a to zajmie trochę czasu.
+ 
+ ZACZNIJ NAPRAWIAĆ WARSZTAT
+ Kliknij :LMB: przycisk NAPRAW OBIEKT.
+ 
+ NASTĘPNIE WRÓĆ DO WIDOKU GLOBU I PRZYWRÓĆ UPŁYW CZASU","Ваша база – ваша крепость. Здесь находятся ВСЕ ОБЪЕКТЫ, а также жизненно важные ресурсы, такие как провиант, материалы и технологии.
+ 
+Ваша база в плачевном состоянии. Вам необходимо отремонтировать транспортный отсек, прежде чем вы сможете запустить свою Мантикору. Это займет какое-то время.
+ 
+ НАЧНИТЕ РЕМОНТ ВАШЕГО ТРАНСПОРТНОГО ОТСЕКА
+ нажмите :LMB: на кнопку ПОЧИНИТЬ ОБЪЕКТ.
+ 
+ ЗАТЕМ ВЕРНИТЕСЬ К ГЕОСКОПУ И ПЕРЕМОТАЙТЕ ВРЕМЯ","Tu base es una fortaleza que incluye todas las instalaciones, además de los recursos vitales como la comida, los materiales y la tecnología.
+
+ El Punto Fénix está en mal estado. Necesitas reparar la plataforma de vehículos para que la nave Mantícora pueda despegar, pero esto llevará tiempo.
+ 
+ EMPIEZA LA REPARACIÓN DE LA PLATAFORMA DE VEHÍCULOS
+:LMB: en el botón de REPARAR INSTALACIONES.
+ 
+ DESPUÉS REGRESA A LA GEOVISTA Y HAZ QUE AVANCE EL TIEMPO",
+KEY_TUTORIAL_EXPLORATION_DESCRIPTION_C,Text,,"Initially, all sites on the Geoscape are unexplored (marked with a question mark).
+
+You need at least one soldier onboard an aircraft in order to explore. Exploration takes time and you may get ambushed, so be on your guard.
+
+EXPLORE THE SITE
+Press <size=60>:A:</size> on the site to show the site menu, and select ""EXPLORE""
+","最初，世界地图上的所有地点都是未探索的（以问号标记）。
+
+ 飞行器上至少需要一名士兵才能进行探索。探索会花费时间，而且有可能遭到伏击，所以要保持警惕。
+
+ 探索地点
+ 按 :A: 点选地点来弹出地点菜单，然后选择“探索”","Au tout début, tous les sites du Geoscape sont inexplorés (ils sont marqués d'un point d'interrogation).
+ 
+ Il vous faudra au moins un soldat à bord d'un vaisseau pour les explorer. L'exploration prend du temps et vous courez le risque d'être pris en embuscade, alors restez vigilant.
+
+ EXPLORER UN SITE
+ Appuyez sur :A: sur le site pour afficher le menu du site, puis sélectionnez « EXPLORER ».","Zunächst erscheinen alle Orte auf der Geoscape unerforscht (mit einem Fragezeichen gekennzeichnet).
+ 
+Du benötigst mindestens einen Soldaten an Bord eines Fluggeräts, um einen Ort zu erkunden. Diese Erkundung braucht Zeit, und du kannst dabei in einen Hinterhalt geraten, also sei stets wachsam.
+
+ERKUNDE DEN ORT
+Drücke <size=60>:A:</size> auf dem Ort, um das entsprechende Menü zu öffnen. Wähle dann „ERKUNDEN“.","All'inizio, tutti i siti del Globo sono inesplorati (e segnalati da un punto interrogativo).
+ 
+ Hai bisogno di avere almeno un soldato a bordo del velivolo per esplorarli. L'esplorazione richiede tempo e potresti cadere in un'imboscata, perciò stai in guardia.
+ 
+ ESPLORA IL SITO
+ Premi :A: sul sito per mostrare il menu del sito, poi seleziona ""ESPLORA""","Początkowo wszystkie obszary na Globie są niezbadane (oznaczone znakiem zapytania).
+ 
+ Aby odkrywać nowe tereny, potrzebujesz co najmniej jednego żołnierza na pokładzie statku powietrznego. Odkrywanie terenów zajmuje nieco czasu i możesz wpaść w zasadzkę, dlatego zachowaj czujność.
+ 
+ ZBADAJ OBSZAR
+ Naciśnij :A: na danym obszarze, aby wyświetlić menu obszaru i wybierz „ZBADAJ”","В начале игры все неразведанные места помечаются вопросительным знаком.
+ 
+ Чтобы разведать местность, на борту вашего самолета должен быть хотя бы один солдат. Разведка требует времени, а еще вы можете попасть в засаду, так что будьте начеку.
+ 
+ ИССЛЕДОВАТЬ МЕСТНОСТЬ
+  нажмите :A: на местность, чтобы вызвать меню местности, и выберите ""ИССЛЕДОВАТЬ""","Los lugares en la Geovista estarán inexplorados de entrada (aparecen con un signo de interrogación).
+ 
+ Necesitas al menos a un soldado en la nave para poder explorar. La exploración lleva su tiempo y te pueden tender una emboscada, así que ten cuidado.
+ 
+ EXPLORA EL LUGAR
+ Pulsa :A: en el lugar para mostrar el menú de lugares y selecciona «EXPLORAR»",
+KEY_TUTORIAL_EXPLORATION_DESCRIPTION_K,Text,,"Initially, all sites on the Geoscape are unexplored (marked with a question mark).
+
+You need at least one soldier onboard an aircraft in order to explore. Exploration takes time and you may get ambushed, so be on your guard.
+
+EXPLORE THE SITE
+:LMB: on the site to show the site menu, and select ""EXPLORE""
+","最初，世界地图上的所有地点都是未探索的（带有问号标记）。
+
+ 飞行器上至少需要一名士兵才能进行探索。探索会花费时间，而且有可能遭到伏击，所以要保持警惕。
+
+ 探索地点
+ :LMB: 点击地点来弹出地点菜单，然后选择“探索”","Au tout début, tous les sites du Geoscape sont inexplorés (ils sont marqués d'un point d'interrogation).
+ 
+ Il vous faudra au moins un soldat à bord d'un vaisseau pour les explorer. L'exploration prend du temps et vous courez le risque d'être pris en embuscade, alors restez vigilant.
+
+ EXPLORER UN SITE
+ :LMB: sur le site pour afficher le menu de site, puis sélectionnez « EXPLORER ».","Zunächst erscheinen alle Orte auf der Geoscape unerforscht (mit einem Fragezeichen gekennzeichnet).
+ 
+Du benötigst mindestens einen Soldaten an Bord eines Fluggeräts, um einen Ort zu erkunden. Diese Erkundung braucht Zeit, und du kannst dabei in einen Hinterhalt geraten, also sei stets wachsam.
+
+ERKUNDE DEN ORT
+:LMB: auf dem Ort, um das entsprechende Menü zu öffnen. Wähle dann „ERKUNDEN“.","All'inizio, tutti i siti del Globo sono inesplorati (e segnalati da un punto interrogativo).
+ 
+ Hai bisogno di avere almeno un soldato a bordo del velivolo per esplorarli. L'esplorazione richiede tempo e potresti cadere in un'imboscata, perciò stai in guardia.
+ 
+ ESPLORA IL SITO
+ :LMB: sul sito per mostrare il menu del sito, poi seleziona ""ESPLORA""","Początkowo wszystkie obszary na globie są niezbadane (oznaczone znakiem zapytania).
+ 
+ Aby odkrywać nowe tereny, potrzebujesz co najmniej jednego żołnierza na pokładzie statku powietrznego. Odkrywanie terenów zajmuje nieco czasu i możesz wpaść w zasadzkę, dlatego zachowaj czujność.
+ 
+ ZBADAJ OBSZAR
+ Kliknij :LMB: dany obszar, aby wyświetlić menu obszaru i wybierz „ZBADAJ”","В начале игры все неразведанные места помечаются вопросительным знаком.
+ 
+ Чтобы разведать местность, на борту вашего самолета должен быть хотя бы один солдат. Разведка требует времени, а еще вы можете попасть в засаду, так что будьте начеку.
+ 
+ ИССЛЕДОВАТЬ МЕСТНОСТЬ
+  нажмите :LMB: на местность, чтобы вызвать меню местности, и выберите ""ИССЛЕДОВАТЬ""","Los lugares en la Geovista estarán inexplorados de entrada (aparecen con un signo de interrogación).
+ 
+ Necesitas al menos a un soldado en la nave para poder explorar. La exploración lleva su tiempo y te pueden tender una emboscada, así que ten cuidado.
+ 
+ EXPLORA EL LUGAR
+ :LMB: en el lugar para mostrar el menú de lugares y selecciona «EXPLORAR»",
+KEY_TUTORIAL_GEOSCAPE_DESCRIPTION_C,Text,,"The GEOSCAPE shows the world and all locations and sites of interest.
+
+In the beginning, all you know about is your base, Phoenix Point.
+
+GEOSCAPE CONTROLS
+Move globe: <size=60>:LTS:</size>
+Zoom in/out: <size=60>:RTSUP:</size> and <size=60>:RTSDOWN:</size>
+Use directional buttons to navigate menus and :B: to return
+
+GO TO THE ""BASES"" MENU WITH :RT:","世界地图显示整个世界中的所有地区和兴趣点。
+
+ 游戏开始时，你唯一了解的地方只有你的基地：凤凰点。
+
+ 世界地图控制
+ 转动地球仪：<size=60>:LTS:</size>
+放大/缩进：<size=60>:RTSUP:</size> 和 <size=60>:RTSDOWN:</size>
+使用方向键浏览菜单并按 :B: 返回
+
+ 按 :RT: 转至“基地”菜单","Le GEOSCAPE montre le monde et tous les lieux et sites d'intérêt.
+
+ Au début, vous ne connaissez que votre base, Phoenix Point.
+ 
+ COMMANDES DU GEOSCAPE
+ Déplacer le globe : <size=60>:LTS:</size>
+ Agrandir/réduire : <size=60>:RTSUP:</size> et <size=60>:RTSDOWN:</size>
+ Utilisez les touches directionnelles pour parcourir les menus et :B: pour revenir
+ 
+ ACCÉDEZ AU MENU « BASES » AVEC :RT:.","Die GEOSCAPE zeigt die Welt und alle wichtigen Orte.
+ 
+Am Anfang siehst du nur deine Basis, Phoenix Point.
+ 
+GEOSCAPE-STEUERUNG
+Globus bewegen: <size=60>:LTS:</size>
+Rein-/Rauszoomen: <size=60>:RTSUP:</size> und <size=60>:RTSDOWN:</size>
+Verwende die Richtungstasten, um in den Menüs zu navigieren und :B: für Zurück
+
+ WECHSELE INS MENÜ „BASEN“ mit :RT:","Il GLOBO mostra il mondo e tutte le località o i siti di interesse.
+
+ Inizialmente, sarai a conoscenza solo della tua base, Phoenix Point.
+
+ COMANDI DEL GLOBO
+ Spostare il globo: <size=60>:LTS:</size>
+ Zoom avanti/indietro: <size=60>:RTSUP:</size> e <size=60>:RTSDOWN:</size>
+ Usa i tasti direzionali per navigare tra i menu e :B: per tornare indietro
+ 
+ VAI AL MENU ""BASI"" CON :RT:","GLOB przedstawia świat oraz wszystkie miejsca i obszary zainteresowania.
+
+ Na początku znasz tylko swoją bazę – Phoenix Point.
+
+ STEROWANIE NA GLOBIE
+ Przesuwanie globu: <size=60>:LTS:</size>
+ Przybliżanie/oddalanie: <size=60>:RTSUP:</size> i <size=60>:RTSDOWN:</size>
+ Przyciski kierunku umożliwiają nawigację w menu, a przycisk :B: powrót
+ 
+PRZEJDŹ DO MENU „BAZY” ZA POMOCĄ :RT:","ГЕОСКОП показывает карту мира и все места и точки, которые могут представлять интерес.
+ 
+ В начале игры вы видите только вашу базу, – Точку Феникс.
+
+ УПРАВЛЕНИЕ ГЕОСКОПОМ
+Крутить глобус: <size=60>:LTS:</size>
+ Приблизить/отдалить: <size=60>:RTSUP:</size> и <size=60>:RTSDOWN:</size>
+ Используйте кнопки направления для навигации в меню и :B: для возврата
+
+ ВЫБЕРИТЕ КНОПКУ «БАЗЫ» при помощи :RT:","La GEOVISTA muestra el mundo, las ubicaciones y los lugares de interés.
+
+ Al principio, lo único que conoces es tu base: Punto Fénix.
+ 
+CONTROLES DE LA GEOVISTA
+ Mover globo: <size=60>:LTS:</size>
+ Acercarse/Alejarse: <size=60>:RTSUP:</size> y <size=60>:RTSDOWN:</size>
+ Usa los botones de dirección para moverte por los menús y :B: para volver atrás.
+
+ SELECCIONA EL BOTÓN DE «BASES» con :RT:",
+KEY_TUTORIAL_GEOSCAPE_DESCRIPTION_K,Text,,"The GEOSCAPE shows the world and all locations and sites of interest.
+
+In the beginning, all you know about is your base, Phoenix Point.
+
+GEOSCAPE CONTROLS
+Move globe: Hold down :LMB: and drag
+Zoom in/out: :MW:
+
+SELECT THE ""BASES"" BUTTON with :LMB:","世界地图显示整个世界中的所有地区和兴趣点。
+
+ 游戏开始时，你唯一了解的地方只有你的基地：凤凰点。
+
+ 世界地图控制
+ 转动地球仪：按住 :LMB: 并拖动
+ 放大/缩进：:MW:
+ 
+ 使用 :LMB: 选择“基地”按钮","Le GEOSCAPE permet d'afficher le monde ainsi que les lieux et les sites d'intérêts.
+ 
+ Au début du jeu, vous ne connaîtrez que votre base, Phoenix Point.
+ 
+ COMMANDES DU GEOSCAPE
+ Déplacer le globe : maintenez :LMB: et faites glisser
+ Zoom av./arr. : :MW:
+ 
+ SÉLECTIONNEZ LE BOUTON « BASES » avec :LMB:","Die GEOSCAPE zeigt die Welt und alle wichtigen Orte.
+ 
+Am Anfang siehst du nur deine Basis, Phoenix Point.
+ 
+GEOSCAPE-STEUERUNG
+Globus bewegen: :LMB: gedrückt halten und ziehen
+Rein-/Rauszoomen: :MW:
+ 
+WÄHLE „BASEN“ mit :LMB:","Il GLOBO mostra il mondo e tutte le località o i siti di interesse.
+
+ Inizialmente, sarai a conoscenza solo della tua base, Phoenix Point.
+
+ COMANDI DEL GLOBO
+ Spostare il globo: tieni premuto :LMB: e trascina
+Zoom avanti/indietro: :MW:
+ 
+ SELEZIONA IL PULSANTE ""BASI"" con :LMB:","GLOB przedstawia świat oraz wszystkie miejsca i obszary zainteresowania.
+
+ Na początku wiesz tylko o swojej bazie – Phoenix Point.
+ 
+STEROWANIE GLOBEM
+ Przesuwanie globu: przytrzymaj :LMB: i przeciągnij
+Przybliżanie/oddalanie: :MW:
+ 
+ WYBIERZ PRZYCISK „BAZY” za pomocą :LMB:","ГЕОСКОП показывает карту мира и все места и точки, которые могут представлять интерес.
+ 
+ В начале игры вы видите только вашу базу, – Точку Феникс.
+
+ УПРАВЛЕНИЕ ГЕОСКОПОМ
+Крутить глобус: Зажмите :LMB: и тащите
+Приблизить/отдалить: :MW:
+ 
+ ВЫБЕРИТЕ КНОПКУ ""БАЗЫ"" при помощи :LMB:","La GEOVISTA muestra el mundo, las ubicaciones y los lugares.
+ 
+ Al principio, lo único que conoces es tu base: Punto Fénix.
+ 
+ CONTROLES DE LA GEOVISTA
+ Mover globo: Mantener abajo :LMB: y arrastrar
+ Acercarse/Alejarse: :MW:
+ 
+ SELECCIONAR EL BOTÓN DE “BASES” con :LMB:",
+KEY_TUTORIAL_MANTICORE_DESCRIPTION_C,Text,,"The Manticore is YOUR AIRCRAFT for transporting soldiers and exploring the world. The aircraft’s crew is shown in the Aircraft bar in the bottom of the screen, using their soldier class icons.
+
+SEND YOUR MANTICORE TO THE UNEXPLORED SITE
+Move the cursor to the location with <size=60>:LTS:</size> and press :A:, then select ""MOVE"" with <size=60>:A:</size>","蝎狮是用来运送士兵和探索世界的飞行器。屏幕底部的飞行器条将使用士兵的兵种图标来表示飞行器中的乘员。
+
+ 将蝎狮派往未探索地点
+ 用 :LTS: 将光标移至地点后按 :A:，然后用 :A: 选择“移动”。","La Manticore est le VAISSEAU vous permettant de transporter vos troupes et d'explorer le monde. Son équipage est affiché dans la jauge du vaisseau située en bas de l'écran, avec leurs icônes de classes de soldats.
+
+ ENVOYEZ VOTRE MANTICORE EN TERRITOIRE INEXPLORÉ.
+ Déplacez le curseur sur le lieu avec :LTS: et appuyez sur :A:, puis sélectionnez « SE DÉPLACER » avec :A:","Der Manticore ist DEIN FLUGGERÄT, mit dem du Soldaten transportierst und die Welt erkundest. In der Fluggeräteleiste am unteren Bildschirmrand wird die Besatzung mit den entsprechenden Klassensymbolen angezeigt.
+ 
+SENDE DEINEN MANTICORE ZUM UNERFORSCHTEN ORT
+Bewege den Cursor mit <size=60>:LTS:</size> dorthin und drücke :A:, wähle dann „BEWEGEN“ mit <size=60>:A:</size> aus.","Il Manticore è il TUO VELIVOLO per il trasporto dei soldati e l'esplorazione del mondo. L'equipaggio del velivolo viene mostrato nella barra del velivolo in basso sullo schermo: ogni soldato è rappresentato dall'icona della sua classe.
+ 
+ MANDA IL MANTICORE IN UN SITO INESPLORATO
+ Sposta il cursore sulla posizione con :LTS: e premi :A:, poi seleziona ""MUOVI"" con :A:","Mantykora to Twój STATEK POWIETRZNY do transportu żołnierzy i odkrywania świata. Skład załogi z informacjami o klasie żołnierzy w formie ikon możesz zobaczyć na pasku Statek powietrzny u dołu ekranu.
+ 
+ WYŚLIJ MANTYKORĘ NA NIEZBADANY OBSZAR
+ Przesuń kursor w wybrane miejsce za pomocą :LTS: i naciśnij przycisk :A:, a następnie wybierz „RUCH”, również naciskając :A:","Мантикора – это ваш САМОЛЕТ для перевозки солдат и исследования мира. Экипаж самолета показан на панели самолетов внизу экрана с помощью значков классов солдат.
+ 
+ ОТПРАВЬТЕ СВОЮ МАНТИКОРУ В НЕИССЛЕДОВАННУЮ ОБЛАСТЬ
+  Наведите курсор на местность с помощью :LTS: и нажмите :A:, потом выберите ""ДВИГАТЬСЯ"" также при помощи :A:","La Mantícora es tu nave de transporte de soldados y de exploración del mundo. La tripulación de la nave se muestra en la barra de la nave en la parte inferior de la pantalla. Aparecen con el icono de su clase de soldado.
+ 
+ ENVÍA A LA MANTÍCORA HASTA UN LUGAR SIN EXPLORAR
+ Mueve el cursor hasta ahí con :LTS: y pulsa :A:. Después, selecciona «MOVER» con :A:.",
+KEY_TUTORIAL_MANTICORE_DESCRIPTION_K,Text,,"The Manticore is YOUR AIRCRAFT for transporting soldiers and exploring the world. The aircraft’s crew is shown in the Aircraft bar in the bottom of the screen, using their soldier class icons.
+
+SEND YOUR MANTICORE TO THE UNEXPLORED SITE
+:LMB: on the location, then select ""MOVE"" from the action menu.","蝎狮是用来运送士兵和探索世界的飞行器。屏幕底部的飞行器条将使用士兵的兵种图标来表示飞行器中的乘员。
+
+ 将蝎狮派往未探索地点
+ :LMB: 点击地点，然后在行动菜单中选择“移动”。","La Manticore est le VAISSEAU vous permettant de transporter vos troupes et d'explorer le monde. Son équipage est affiché dans la jauge du vaisseau située en bas de l'écran, avec leurs icônes de classes de soldats.
+
+ ENVOYEZ VOTRE MANTICORE EN TERRITOIRE INEXPLORÉ.
+ :LMB: à l'endroit cible et sélectionnez « SE DÉPLACER » à partir du menu des actions.","Der Manticore ist DEIN FLUGGERÄT, mit dem du Soldaten transportierst und die Welt erkundest. In der Fluggeräteleiste am unteren Bildschirmrand wird die Besatzung mit den entsprechenden Klassensymbolen angezeigt.
+ 
+SENDE DEINEN MANTICORE ZUM UNERFORSCHTEN ORT
+:LMB: auf dem Ort. Wähle dann im Aktionsmenü „BEWEGEN“ aus.","Il Manticore è il TUO VELIVOLO per il trasporto dei soldati e l'esplorazione del mondo. L'equipaggio del velivolo viene mostrato nella barra del velivolo in basso sullo schermo: ogni soldato è rappresentato dall'icona della sua classe.
+ 
+ MANDA IL MANTICORE IN UN SITO INESPLORATO
+ :LMB: sulla posizione, poi seleziona ""SPOSTA"" dal menu azione.","Mantykora to Twój STATEK POWIETRZNY do transportu żołnierzy i odkrywania świata. Skład załogi z informacjami o klasie żołnierzy w formie ikon możesz zobaczyć na pasku Statek powietrzny u dołu ekranu.
+ 
+ WYŚLIJ MANTYKORĘ NA NIEZBADANY OBSZAR
+ Kliknij :LMB: dane miejsce, a następnie wybierz „RUCH” z menu akcji.","Мантикора – это ваш САМОЛЕТ для перевозки солдат и исследования мира. Экипаж самолета показан на панели самолетов внизу экрана с помощью значков классов солдат.
+ 
+ ОТПРАВЬТЕ СВОЮ МАНТИКОРУ В НЕИССЛЕДОВАННУЮ ОБЛАСТЬ
+  нажмите :LMB: на локацию, потом выберите ""ДВИГАТЬСЯ"" из меню действий.","La Mantícora es tu nave de transporte de soldados y de exploración del mundo. La tripulación de la nave se muestra en la barra de la nave en la parte inferior de la pantalla. Aparecen con el icono de su clase de soldado.
+ 
+ ENVÍA A LA MANTÍCORA HASTA UN LUGAR SIN EXPLORAR
+ :LMB: en la ubicación y, después, selecciona «MOVER» en el menú de acciones.",
+KEY_TUTORIAL_TACTICAL1_AP_PART2_DESCRIPTION_C,Text,,"Action controls
+
+Select Action: Use <size=60>:RT:</size> to enter the Action Bar and <size=60>:DLEFT:</size> and <size=60>:DRIGHT:</size> to select, and <size=60>:A:</size> to perform action.
+
+Movement: <size=60>:A:</size> then select MOVE to go to the Selection Marker location","行动控制
+ 
+ 选择行动：使用 :RT: 进入行动条，用 :DLEFT: 和 :DRIGHT: 进行选择，并按 :A: 执行。
+ 
+ 移动：按 :A: 然后选择“移动”即可前往选择标记位置","Commandes d'action
+ 
+ Sélectionner une action : utilisez :RT: pour accéder à la barre d'actions, :DLEFT: et :DRIGHT: pour sélectionner, puis :A: pour effectuer une action.
+ 
+ Déplacement : :A:, puis sélectionnez SE DÉPLACER pour aller à l'emplacement du marqueur de sélection","Aktionskontrollen
+ 
+Aktion wählen: Mit <size=60>:RT:</size> die Aktionsleiste aufrufen und mit <size=60>:DLEFT:</size> und <size=60>:DRIGHT:</size> die Aktion auswählen, mit <size=60>:A:</size> ausführen.
+ 
+Bewegung: <size=60>:A:</size>, dann BEWEGEN wählen, um zum Auswahlmarker zu gehen","Comandi azione
+ 
+ Seleziona azione: usa :RT: per accedere alla barra azione e :DLEFT: e :DRIGHT: per selezionare, quindi premi :A: per eseguire l'azione.
+
+ Movimento: :A:, poi seleziona MUOVI per spostarti nella posizione con l'indicatore di selezione","Sterowanie akcją
+ 
+ Wybierz akcję: naciśnij :RT:, aby przejść do paska akcji, użyj :DLEFT: i :DRIGHT:, aby wybrać akcję, a następnie naciśnij :A:, aby wykonać akcję.
+ 
+ Ruch: naciśnij :A: i wybierz RUCH, aby przejść do położenia wskaźnika wyboru","Управление действиями
+
+ Выбрать действие: нажмите :RT:, чтобы открыть панель действий, а затем :DLEFT: и :DRIGHT:, чтобы выбрать действие и :A:, чтобы выполнить действие.
+
+ Перемещение: нажмите :A:, а затем выберите команду ПЕРЕМЕСТИТЬСЯ, чтобы отправиться на выбранную клетку","Controles de acción
+ 
+ Seleccionar acción::RT: para acceder a la barra de acciones y :DLEFT: y :DRIGHT: para seleccionar. Luego, pulsa :A: para realizar la acción
+ 
+ Movimiento: :A: y después seleccionar MOVER para ir a la ubicación del marcador de selección",
+KEY_TUTORIAL_TACTICAL1_AP_PART2_DESCRIPTION_K,Text,,"Action controls
+
+Select Action: :LMB: on the action icon
+Perform Action: :LMB: on the action button or icon
+
+Movement: :LMB: then select MOVE to go to the Selection Marker location
+
+Direct Movement: :RMB: to go directly to the Selection Marker location","行动控制
+ 
+ 选择行动：:LMB: 点击行动图标
+执行行动：:LMB: 点击行动按钮或图标
+
+ 移动：:LMB: 然后选择“移动”即可前往选择标记位置
+
+ 直接移动：:RMB: 直接前往选择标记位置","Commandes d'actions
+ 
+ Sélectionner une action : :LMB: sur l'icône de l'action
+ Effectuer l'action : :LMB: sur le bouton d'action ou l'icône
+
+ Déplacement : :LMB:, puis sélectionnez SE DÉPLACER pour aller à l'emplacement du marqueur de sélection
+ 
+ Déplacement direct : :RMB: pour vous rendre directement à l'emplacement du marqueur de sélection","Aktionssteuerung
+ 
+Aktion auswählen: :LMB: auf dem Aktionssymbol
+Aktion ausführen: :LMB: auf dem Aktionsbutton oder dem Symbol
+ 
+Bewegen: :LMB: und wähle dann BEWEGEN, um zum Auswahlmarker zu gehen
+ 
+Direkte Bewegung: Mit :RMB: direkt zur Position des Auswahlmarkers","Comandi azione
+ 
+ Seleziona azione: :LMB: sull'icona dell'azione
+ Eseguire un'azione: :LMB: sul pulsante azione o sull'icona
+ 
+ Movimento: :LMB:, poi seleziona MUOVI per spostarti nella posizione con l'indicatore di selezione
+
+ Movimento diretto: :RMB: per spostarti direttamente nella posizione con l'indicatore di selezione","Sterowanie akcjami
+ 
+ Wybór akcji: kliknij :LMB: ikonę akcji
+Wykonanie akcji: kliknij :LMB: przycisk lub ikonę akcji
+ 
+ Ruch: kliknij :LMB:, a następnie wybierz RUCH, aby przejść do miejsca, w którym znajduje się wskaźnik wyboru
+ 
+ Bezpośredni ruch: kliknij RMB:, aby bezpośrednio udać się do miejsca, w którym znajduje się wskaźnik wyboru","Управление действиями
+
+ Выбрать действие: нажмите :LMB: на иконку действия
+ Совершить действие: нажмите :LMB: на кнопку действия или иконку
+ 
+ Движение: :LMB:, потом выберите ДВИГАТЬСЯ, чтобы начать движение к выбранной области
+
+ Прямое движение: нажмите :RMB:, чтобы переместиться прямо в выбранную локацию","Controles de acción
+ 
+ Seleccionar acción: :LMB: en el icono de la acción
+ Realizar acción: :LMB: en el botón o icono de acción
+
+ Movimiento: :LMB: y después seleccionar MOVER para ir a la ubicación del marcador de selección
+ 
+ Movimiento directo: :RMB: para ir directamente a la ubicación del marcador de selección",
+KEY_TUTORIAL_TACTICAL1_FREE_AIM_DESCRIPTION_C,Text,,"When shooting, you  can enter Free Aim mode for PRECISE TARGETING of body parts.
+
+Each body part has its own Hit Points and Armor value. Damage prediction is also shown for the targeted body part.
+
+The outer BLUE CIRCLE shows you where all shots will land. The more accurate the weapon, the smaller the circle.
+
+FREE AIM CONTROLS
+Enter Free Aim: <size=60>:RTS:</size>
+Move Crosshair: <size=60>:LTS:</size>
+Zoom in/Out: <size=60>:RTS:</size>
+Exit Free Aim: <size=60>:B:</size>
+
+ENTER FREE AIM MODE AND SHOOT THE ENEMY","你可以在射击时进入自由瞄准模式，精确瞄准身体部位。
+
+ 每一个身体部位都拥有各自的生命值和护甲值。目标身体部位还会显示伤害预测。
+
+ 外侧蓝圈表示所有子弹的最终落点。武器准度越高，圆圈就越小。
+
+ 自由瞄准控制
+ 进入自由瞄准：:RTS:
+移动准星：:LTS:
+ 放大/缩进：:RTS:
+退出自由瞄准：:B:
+ 
+ 进入自由瞄准模式并射击敌人","Lorsque vous tirez, le mode Visée libre vous permet de CIBLER AVEC PRÉCISION les parties du corps.
+ 
+ Chaque partie du corps possède ses propres points de vie et sa propre armure. Une prédiction des dégâts s'affiche également pour la partie du corps visée.
+ 
+ Le CERCLE BLEU externe vous montre l'endroit où vos tirs atterriront. Plus l'arme est précise, plus votre cercle sera restreint.
+ 
+ COMMANDES DE VISÉE LIBRE
+ Entrer en mode Visée libre : :RTS:
+ Déplacer le pointeur : :LTS:
+ Zoom av./arr. : :RTS:
+ Quitter le mode Visée libre : :B:
+ 
+ ENTREZ EN MODE VISÉE LIBRE ET TIREZ SUR L'ENNEMI.","Beim Schießen kannst du für PRÄZISES INS-VISIER-NEHMEN von Körperteilen in den Modus für Freies Zielen wechseln.
+ 
+Jedes Körperteil hat eigene Trefferpunkte und einen Rüstungswert. Für das Körperteil, auf das du zielst, wird außerdem eine Schadensvorhersage angezeigt.
+ 
+Der äußere BLAUE KREIS zeigt dir, wo alle Schüsse landen. Je genauer die Waffe, desto kleiner der Kreis.
+ 
+STEUERUNG FÜR DAS FREIE ZIELEN
+Rufe das freie Zielen auf: <size=60>:RTS:</size>
+Bewege das Fadenkreuz: <size=60>:LTS:</size>
+Rein-/Rauszoomen: <size=60>:RTS:</size>
+Freies Zielen verlassen: <size=60>:B:</size>
+ 
+IN FREIES ZIELEN WECHSELN UND SCHIESSEN","Quando spari, puoi attivare la modalità mira libera per MIRARE CON PRECISIONE a una parte del corpo.
+ 
+ Ogni parte del corpo ha i propri punti ferita e un valore armatura. Viene mostrata anche la previsione dei danni per le parti del corpo prese di mira.
+ 
+ Il CERCHIO BLU esterno mostra dove i colpi avranno effetto. Più l'arma è precisa, più piccolo sarà il cerchio.
+ 
+ COMANDI MIRA LIBERA
+ Entra nella modalità mira libera: :RTS :
+ Sposta il mirino: :LTS:
+ Zoom avanti/indietro: :RTS:
+ Esci dalla modalità mira libera: :B:
+ 
+ ENTRA IN MODALITÀ MIRA LIBERA E SPARA AL NEMICO","Podczas strzelania możesz wejść w tryb swobodnego celowania, by PRECYZYJNIE MIERZYĆ w części ciała.
+ 
+ Każdej części ciała przypisano określoną liczbę punktów życia i pancerza. Przewidywane obrażenia są również wyświetlane w odniesieniu do części ciała wziętej na celownik. 
+ 
+ Zewnętrzne NIEBIESKIE KOŁO wskazuje, gdzie trafią wszystkie strzały. Im dokładniejsza broń, tym mniejsze koło.
+
+ STEROWANIE SWOBODNYM CELOWANIEM
+ Przechodzenie do trybu swobodnego celowania: :RTS:
+ Przesuwanie celownika: :LTS:
+ Przybliżanie/oddalanie: przewiń :RTS:
+ Opuszczanie trybu swobodnego celowania: :B:
+ 
+ PRZEJDŹ DO TRYBU SWOBODNEGO CELOWANIA i STRZEL DO WROGA","Во время стрельбы вы можете войти в режим свободной стрельбы для более ТОЧНОГО НАВЕДЕНИЯ оружия на части тела.
+ 
+ Каждая часть тела имеет свои собственные очки здоровья и броню. Также при выборе части тела показывается прогнозируемый урон.
+ 
+ Внешний СИНИЙ КРУГ показывает вам, куда попадут ваши снаряды или пули. Чем точнее оружие, тем меньше круг.
+ 
+ УПРАВЛЕНИЕ СВОБОДНОЙ СТРЕЛЬБОЙ
+Войти в режим свободной стрельбы: :RTS:
+ Двигать прицел: :LTS:
+ Приблизить/отдалить: :RTS:
+ Выйти из режима: :B:
+ 
+ ВОЙДИТЕ В РЕЖИМ СВОБОДНОЙ СТРЕЛЬБЫ И ВЫСТРЕЛИТЕ ВО ВРАГА","Al disparar, puedes entrar en el modo de apuntado libre para apuntar de forma precisa a partes del cuerpo concretas.
+ 
+ Las partes del cuerpo tienen puntos de salud y armadura independientes. La predicción de daño se muestra en la parte del cuerpo seleccionada.
+ 
+ El círculo externo azul te indica dónde impactarán los disparos. Cuanto más precisa sea el arma, más pequeños serán los círculos.
+ 
+ CONTROLES DEL APUNTADO LIBRE
+ Entrar en apuntado libre::RTS:
+ Mover puntero: :LTS:
+Acercarse/alejarse: :RTS:
+ Salir de apuntado libre: :B:
+ 
+ ENTRA EN EL MODO DE APUNTADO LIBRE Y DISPARA AL ENEMIGO",
+KEY_TUTORIAL_TACTICAL1_FREE_AIM_DESCRIPTION_K,Text,,"When shooting, you  can enter Free Aim mode for PRECISE TARGETING of body parts.
+
+Each body part has its own Hit Points and Armor value. Damage prediction is also shown for the targeted body part.
+
+The outer BLUE CIRCLE shows you where all shots will land. The more accurate the weapon, the smaller the circle.
+
+FREE AIM CONTROLS
+Enter Free Aim: Press the Free Aim icon or scroll :MW:
+Move Crosshair: move the mouse
+Zoom in/Out: scroll :MW:
+Exit Free Aim: ESC
+
+ENTER FREE AIM MODE AND SHOOT THE ENEMY","你可以在射击时进入自由瞄准模式，精确瞄准敌人的各个身体部位。
+
+ 每一个身体部位都拥有各自的生命值和护甲值。目标身体部位还会显示伤害预测。
+
+ 外侧蓝圈表示所有子弹的最终落点。武器准度越高，圆圈就越小。
+
+ 自由瞄准控制
+ 进入自由瞄准：点击“自由瞄准”图标或滚动 :MW:
+ 移动准星：移动鼠标
+ 放大/缩进：滚动 :MW:
+ 退出自由瞄准：ESC
+ 
+ 进入自由瞄准模式并射击敌人","Lorsque vous tirez, le mode Visée libre vous permet de CIBLER AVEC PRÉCISION les parties du corps.
+ 
+ Chaque partie du corps possède ses propres points de vie et sa propre armure. Une prédiction des dégâts s'affiche également pour la partie du corps visée.
+ 
+ Le CERCLE BLEU externe vous montre l'endroit où vos tirs atterriront. Plus l'arme est précise, plus votre cercle sera restreint.
+ 
+ COMMANDES DE VISÉE LIBRE
+ Entrer en mode Visée libre : appuyez sur l'icône de visée libre ou faites défiler :MW:
+ Déplacer le pointeur : déplacez la souris
+ Zoom av./arr. : faites défiler :MW:
+ Quitter le mode Visée libre : ÉCHAP
+
+ ENTREZ EN MODE VISÉE LIBRE ET TIREZ SUR L'ENNEMI.","Beim Schießen kannst du für PRÄZISES INS-VISIER-NEHMEN von Körperteilen in den Modus für Freies Zielen wechseln.
+ 
+Jedes Körperteil hat eigene Trefferpunkte und einen Rüstungswert. Für das Körperteil, auf das du zielst, wird außerdem eine Schadensvorhersage angezeigt.
+ 
+Der äußere BLAUE KREIS zeigt dir, wo alle Schüsse landen. Je genauer die Waffe, desto kleiner der Kreis.
+ 
+STEUERUNG FÜR DAS FREIE ZIELEN
+Rufe das freie Zielen auf: Drücke auf das entsprechende Symbol oder scrolle mit :MW:
+Bewege das Fadenkreuz mit der Maus
+Rein-/Rauszoomen: scrollen mit :MW:
+Freies Zielen verlassen: ESC
+ 
+WECHSLE IN DEN MODUS FÜR FREIES ZIELEN UND SCHIESSE AUF DEN FEIND","Quando spari, puoi attivare la modalità mira libera per MIRARE CON PRECISIONE a una parte del corpo.
+ 
+ Ogni parte del corpo ha i propri punti ferita e un valore armatura. Viene mostrata anche la previsione dei danni per le parti del corpo prese di mira.
+ 
+ Il CERCHIO BLU esterno mostra dove i colpi avranno effetto. Più l'arma è precisa, più piccolo sarà il cerchio.
+ 
+ COMANDI MIRA LIBERA
+ Entra nella modalità mira libera: premi l'icona Mira libera o scorri con :MW:
+ Sposta il mirino: sposta il mouse
+ Zoom avanti/indietro: scorri con :MW:
+ Esci dalla modalità mira libera: ESC
+ 
+ ENTRA IN MODALITÀ MIRA LIBERA E SPARA AL NEMICO","Podczas strzelania możesz wejść w tryb swobodnego celowania, by PRECYZYJNIE MIERZYĆ w części ciała.
+ 
+ Każdej części ciała przypisano określoną liczbę punktów życia i pancerza. Przewidywane obrażenia są również wyświetlane w odniesieniu do części ciała wziętej na celownik. 
+ 
+ Zewnętrzne NIEBIESKIE KOŁO wskazuje, gdzie trafią wszystkie strzały. Im dokładniejsza broń, tym mniejsze koło.
+
+ STEROWANIE SWOBODNYM CELOWANIEM
+ Przechodzenie do trybu swobodnego celowania: naciśnij ikonę Swobodne celowanie lub przewiń :MW:
+ Przesuwanie celownika: poruszaj myszą
+ Przybliżanie/oddalanie: przewiń :MW:
+ Opuszczanie trybu swobodnego celowania: naciśnij ESC
+ 
+ PRZEJDŹ DO TRYBU SWOBODNEGO CELOWANIA i STRZEL DO WROGA","Во время стрельбы вы можете войти в режим свободной стрельбы для более ТОЧНОГО НАВЕДЕНИЯ оружия на части тела.
+ 
+ Каждая часть тела имеет свои собственные очки здоровья и броню. Также при выборе части тела показывается прогнозируемый урон.
+ 
+ Внешний СИНИЙ КРУГ показывает вам, куда попадут ваши снаряды или пули. Чем точнее оружие, тем меньше круг.
+ 
+ УПРАВЛЕНИЕ СВОБОДНОЙ СТРЕЛЬБОЙ
+Войти в режим свободной стрельбы: нажмите иконку свободной стрельбы или прокрутите :MW:
+ Двигать прицел: двигайте мышью
+Приблизить/отдалить: прокрутите :MW:
+ Выйти из режима: ESC
+ 
+ ВОЙДИТЕ В РЕЖИМ СВОБОДНОЙ СТРЕЛЬБЫ И ВЫСТРЕЛИТЕ ВО ВРАГА","Al disparar, puedes entrar en el modo de apuntado libre para apuntar de forma precisa a partes del cuerpo concretas.
+ 
+ Las partes del cuerpo tienen puntos de salud y armadura independientes. La predicción de daño se muestra en la parte del cuerpo seleccionada.
+ 
+ El círculo externo azul te indica dónde impactarán los disparos. Cuanto más precisa sea el arma, más pequeños serán los círculos.
+ 
+ CONTROLES DEL APUNTADO LIBRE
+ Entrar en apuntado libre: pulsar el icono de apuntado libre o mover :MW:
+ Mover puntero: mover el ratón
+ Acercarse/alejarse: mover :MW:
+ Salir de apuntado libre: ESC
+ 
+ ENTRA EN EL MODO DE APUNTADO LIBRE Y DISPARA AL ENEMIGO",
+KEY_TUTORIAL_TACTICAL1_MOVEMENT_DESCRIPTION_BIND_C,Text,,"TRY THE CAMERA CONTROLS
+
+Camera movement: <size=60>:LTS:</size>
+Camera rotation: <size=60>:RTSLEFT:</size> and <size=60>:RTSRIGHT:</size>
+Camera zoom: <size=60>:DUP:</size> and <size=60>:DDOWN:</size>
+Floor level focus: <size=60>:RTSUP:</size> and <size=60>:RTSDOWN:</size>
+
+MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE
+Мove the Selection Marker with <size=60>:LTS:</size> and press <size=60>:A:</size>","尝试视角控制
+ 
+ 视角移动：:LTS:
+视角旋转：:RTS: 向左与向右
+ 视角缩放：:DUP: 和 :DDOWN:
+ 楼层聚焦： :RTS: 向上与向下
+
+ 将你的士兵移动至高亮显示的方格处
+用 :LTS: 移动选择标记并按 :A:","TESTER LES COMMANDES DE LA CAMÉRA
+ 
+ Mouvement de caméra : :LTS:
+Rotation de caméra : :RTS: vers la gauche et la droite
+ Zoom : :DUP: et :DDOWN:
+ Plan étage : :RTS: vers le haut et le bas
+ 
+ DÉPLACER VOTRE SOLDAT VERS LA CASE EN ÉVIDENCE
+ Déplacez le marqueur de sélection avec :LTS: et appuyez sur :A:","TESTE DIE KAMERASTEUERUNG
+ 
+Kamerabewegung: <size=60>:LTS:</size>
+Kamerarotation: <size=60>:RTSLEFT:</size> und <size=60>:RTSRIGHT:</size> / <size=60>:RTSUP:</size> und <size=60>:RTSDOWN:</size>
+Kamerazoom: <size=60>:DUP:</size> und <size=60>:DDOWN:</size>
+Ebenenfokus: <size=60>:RTS:</size> hoch und runter
+ 
+BEWEGE DEINEN SOLDATEN AUF DAS HERVORGEHOBENE FELD
+Bewege den Auswahlmarker mit <size=60>:LTS:</size> und drücke <size=60>:A:</size>","PROVA I COMANDI DELLA TELECAMERA
+ 
+ Movimento della telecamera: :LTS:
+Rotazione della telecamera: :RTS: sinistra e destra
+ Zoom della telecamera: :DUP: e :DDOWN:
+ Focus livello pavimento: :RTS: su e giù
+ 
+ SPOSTA IL TUO SOLDATO SULLA CASELLA EVIDENZIATA
+ Sposta l'indicatore di selezione con :LTS: e premi :A:","WYPRÓBUJ STEROWANIE KAMERĄ
+ 
+ Ruch kamery: :LTS:
+ Obrót kamery: :RTS: w lewo i w prawo
+ Przybliżanie kamery: :DUP: i :DDOWN:
+ Zmiana przybliżenia piętra: :RTS: w górę i w dół
+ 
+PRZEMIEŚĆ ŻOŁNIERZA NA PODŚWIETLONE POLE
+ Przenieś wskaźnik wyboru za pomocą :LTS: i naciśnij :A:","ПОПРОБУЙТЕ УПРАВЛЯТЬ КАМЕРОЙ
+ 
+ Движение камеры: :LTS:
+ Поворот камеры: :RTS: вправо и влево
+ Приблизить/отдалить: :DUP: и :DDOWN:
+ Фокусировка на уровне земли: :RTS: вверх и вниз
+ 
+ПЕРЕМЕСТИТЕ СВОЕГО СОЛДАТА НА ВЫДЕЛЕННУЮ КЛЕТКУ
+ Переместите отметку выбора с помощью :LTS: и нажмите :A:","PRUEBA LOS CONTROLES DE LA CÁMARA
+ 
+ Movimiento de la cámara: :LTS:
+Rotación de la cámara: :RTS: a izquierda y derecha
+ Acercar/alejar la cámara: :DUP: y :DDOWN:
+ Cambiar nivel de suelo: :RTS: arriba y abajo
+
+ MUEVE AL SOLDADO A LA CASILLA RESALTADA
+ Mueve el marcador de selección con :LTS: y pulsa :A:",
+KEY_TUTORIAL_TACTICAL1_MOVEMENT_DESCRIPTION_BIND_K,Text,,"TRY THE CAMERA CONTROLS
+
+Camera movement: :LMB: + drag
+Camera rotation: [<color=#ECBA62>{[Rotate Left]}</color>] and [<color=#ECBA62>{[Rotate Right]}</color>]
+Camera zoom: [<color=#ECBA62>{[Discrete Zoom In]}</color>] and [<color=#ECBA62>{[Discrete Zoom Out]}</color>]
+Floor level focus: scroll :MW: up or down
+
+MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE
+:LMB: on the destination tile","尝试视角控制
+视角移动：:LMB: + 拖拽
+视角旋转：[<color=#ECBA62>{[Rotate Left]}</color>] 和 [<color=#ECBA62>{[Rotate Right]}</color>]
+视角缩放：[<color=#ECBA62>{[Discrete Zoom In]}</color>] 和 [<color=#ECBA62>{[Discrete Zoom Out]}</color>]，按住 :MW:
+楼层聚焦：向上或向下滚动 :MW: 
+
+将你的士兵移动至高亮显示的方格处
+:LMB: 点击目标方格","TESTER LES COMMANDES DE LA CAMÉRA
+Mouvement de caméra : :LMB: + glisser
+Rotation de caméra : [<color=#ECBA62>{[Rotate Left]}</color>] and [<color=#ECBA62>{[Rotate Right]}</color>]
+Zoom : [<color=#ECBA62>{[Discrete Zoom In]}</color>] and [<color=#ECBA62>{[Discrete Zoom Out]}</color>], maintenez :MW:
+Plan étage : faites défiler :MW: vers le haut ou le bas
+
+DÉPLACER VOTRE SOLDAT VERS LA CASE EN ÉVIDENCE
+:LMB: sur la case de destination","TESTE DIE KAMERASTEUERUNG
+Kamerabewegung: :LMB: + ziehen
+Kamerarotation: [<color=#ECBA62>{[Rotate Left]}</color>] und [<color=#ECBA62>{[Rotate Right]}</color>]
+Kamerazoom: [<color=#ECBA62>{[Discrete Zoom In]}</color>] und [<color=#ECBA62>{[Discrete Zoom Out]}</color>], :MW: halten
+Ebenenfokus: :MW: hoch-/runter
+
+BEWEGE DEINEN SOLDATEN AUF DAS HERVORGEHOBENE FELD
+:LMB: auf das Zielfeld","PROVA I COMANDI DELLA TELECAMERA
+Movimento della telecamera: :LMB: + trascina
+Rotazione della telecamera: [<color=#ECBA62>{[Rotate Left]}</color>] e [<color=#ECBA62>{[Rotate Right]}</color>]
+Zoom della telecamera: [<color=#ECBA62>{[Discrete Zoom In]}</color>] e [<color=#ECBA62>{[Discrete Zoom Out]}</color>], tieni premuto :MW:
+Focus livello pavimento: scorri con :MW: su e giù
+
+SPOSTA IL TUO SOLDATO SULLA CASELLA EVIDENZIATA
+:LMB: sulla casella di destinazione","WYPRÓBUJ STEROWANIE KAMERĄ
+Ruch kamery: kliknij :LMB: i przeciągnij.
+Obrót kamery: [<color=#ECBA62>{[Rotate Left]}</color>] i [<color=#ECBA62>{[Rotate Right]}</color>].
+Przybliżenie kamery: [<color=#ECBA62>{[Discrete Zoom In]}</color>] i [<color=#ECBA62>{[Discrete Zoom Out]}</color>], przytrzymaj :MW:.
+Zmiana piętra: przewiń :MW: w górę lub w dół.
+
+PRZEMIEŚĆ ŻOŁNIERZA NA PODŚWIETLONE POLE
+Kliknij :LMB: docelowe pole.","ОЗНАКОМЬТЕСЬ С УПРАВЛЕНИЕМ КАМЕРОЙ
+Движение камеры: нажмите :LMB: и перетащите
+Вращение камеры: [<color=#ECBA62>{[Rotate Left]}</color>] и [<color=#ECBA62>{[Rotate Right]}</color>]
+Масштабирование камеры: [<color=#ECBA62>{[Discrete Zoom In]}</color>] и [<color=#ECBA62>{[Discrete Zoom Out]}</color>], удерживайте :MW:
+Фокус на уровне пола: крутите :MW: вверх или вниз
+
+ПЕРЕМЕСТИТЕ ВАШЕГО СОЛДАТА НА ВЫДЕЛЕННУЮ КЛЕТКУ
+Щелкните :LMB: по нужной клетке","PRUEBA LOS CONTROLES DE LA CÁMARA
+Movimiento de la cámara: :LMB: y arrastrar
+Rotación de la cámara: [<color=#ECBA62>{[Rotate Left]}</color>] y [<color=#ECBA62>{[Rotate Right]}</color>]
+Acercar/alejar la cámara: [<color=#ECBA62>{[Discrete Zoom In]}</color>] y [<color=#ECBA62>{[Discrete Zoom Out]}</color>], mantener :MW:
+Cambiar nivel de suelo: mover :MW: hacia arriba o abajo
+
+MUEVE AL SOLDADO A LA CASILLA RESALTADA
+:LMB: en la casilla de destino",
+KEY_TUTORIAL_TACTICAL1_SELECTION_DESCRIPTION_BIND_C,Text,,"SELECT YOUR SOLDIER
+Move the Selection Marker onto the soldier and press <size=60>:A:</size>","选择你的士兵
+ 移动选择标记至士兵身上并按 <size=60>:A:</size>","SÉLECTIONNER VOTRE SOLDAT
+ Déplacez le marqueur de sélection sur le soldat et appuyez sur <size=60>:A:</size>","WÄHLE DEINEN SOLDATEN AUS
+Bewege den Auswahlmarker auf den Soldaten und drücke <size=60>:A:</size>","SELEZIONA IL TUO SOLDATO
+ Sposta l'indicatore di selezione sul soldato e poi premi <size=60>:A:</size>","WYBIERZ ŻOŁNIERZA
+ Przesuń wskaźnik na wybranego żołnierza i wciśnij przycisk <size=60>:A:</size>","ВЫБЕРИТЕ СОЛДАТА
+Передвиньте маркер выбора на солдата и нажмите <size=60>:A:</size>","SELECCIONA AL SOLDADO
+ Mueve el cursor de selección sobre el soldado y pulsa <size=60>:A:</size>",
+KEY_TUTORIAL_TACTICAL1_SELECTION_DESCRIPTION_K,Text,,"SELECT YOUR SOLDIER
+
+:LMB: on the soldier","选择你的士兵
+:LMB: 点击士兵","SÉLECTIONNER VOTRE SOLDAT
+:LMB: sur le soldat","WÄHLE DEINEN SOLDATEN
+:LMB: auf den Soldaten","SELEZIONA I SOLDATI
+:LMB: sul soldato","WYBIERZ ŻOŁNIERZA
+Kliknij :LMB: żołnierza.","ВЫБЕРИТЕ СВОЕГО СОЛДАТА
+Щелкните :LMB: по солдату","SELECCIONA UN SOLDADO
+:LMB: en el soldado",
+KEY_TUTORIAL_TACTICAL1_SHOOTING_DESCRIPTION_C,Text,,"A soldier's movement is interrupted if an enemy is SPOTTED. This doesn't end the soldier's turn.
+
+The HEALTH BAR  indicates the current Hit Points.
+
+When targeting an enemy, the AMOUNT OF DAMAGE from an attack is shown on the Health Bar.
+
+The brighter the color, the higher the DAMAGE POTENTIAL.
+
+This shot is marked in white. It’s almost guaranteed to kill the Arthron.
+
+SELECT ""FIRE WEAPON""
+<size=60>:RT:</size>
+
+FIRE AT THE ENEMY
+<size=60>:A:</size>","如果发现敌人，士兵的移动就会中断，但这并不会结束士兵的回合。
+
+ 健康条代表当前生命值。
+ 
+瞄准敌人时，攻击的伤害数值将显示在健康条上。
+
+ 颜色越明亮，说明潜在伤害越高。
+
+ 此次射击以白色标记。几乎可以保证击杀此蟹钳人。
+
+ 选择“发射武器”
+ :RT:
+ 
+ 向敌人开火
+:A:","Le déplacement d'un soldat est interrompu si un ennemi est DÉTECTÉ. Cela ne met pas fin au tour du soldat.
+ 
+ La JAUGE DE SANTÉ indique les points de vie actuels.
+ 
+ Lorsque vous ciblez un ennemi, le NOMBRE DE POINTS DÉGÂTS d'une attaque s'affiche sur la jauge de santé.
+
+ Plus la couleur est vive, plus le POTENTIEL DE DÉGÂTS est élevé.
+
+ Ce coup est marqué en blanc. C'est presque garanti qu'il tuera l'Arthron.
+
+ SÉLECTIONNER « UTILISER ARME »
+ :RT:
+ 
+ TIRER SUR L'ENNEMI
+:A:","Die Bewegung eines Soldaten wird unterbrochen, wenn ein Gegner ENTDECKT wird. Damit wird der Zug des Soldaten nicht beendet.
+ 
+Die GESUNDHEITSLEISTE zeigt die aktuellen Trefferpunkte an.
+ 
+Wenn du auf einen Gegner zielst, wird die HÖHE DES SCHADENS durch einen Angriff auf der Gesundheitsleiste angezeigt.
+ 
+Je heller die Farbe, desto größer das SCHADENSPOTENZIAL.
+
+Dieser Schuss ist weiß markiert. Es ist so gut wie sicher, dass der Arthron getötet wird.
+ 
+WÄHLE „WAFFE ABFEUERN“
+<size=60>:RT:</size>
+
+FEUERE AUF DEN FEIND
+<size=60>:A:</size>","Il movimento di un soldato viene interrotto se viene INDIVIDUATO un nemico. Ciò non termina il turno del soldato.
+ 
+ La BARRA SALUTE indica i punti ferita attuali.
+ 
+ Quando si mira a un nemico, la QUANTITÀ DI DANNI ricevuti da un attacco viene mostrata nella barra salute.
+ 
+ Più brillante è il colore, più alto è il POTENZIALE DI DANNO.
+ 
+ Questo colpo è contrassegnato in bianco. L'uccisione di Arthron è quasi garantita.
+
+ SELEZIONA ""SPARA CON L'ARMA""
+ :RT:
+ 
+ SPARA AL NEMICO
+ :A:","Ruch żołnierza zostaje przerwany po WYKRYCIU wroga. Nie kończy to tury żołnierza.
+ 
+ Na PASKU ZDROWIA podane są bieżące punkty życia.
+ 
+ Podczas celowania we wroga LICZBA OBRAŻEŃ zadanych przy ataku jest wyświetlana na pasku zdrowia.
+ 
+ Im jaśniejszy kolor, tym większe POTENCJALNE OBRAŻENIA.
+ 
+ Ten strzał oznaczony jest na biało. To, że arthron zginie, jest niemal pewne.
+
+ WYBIERZ „STRZELAJ Z BRONI”
+ :RT:
+ 
+ STRZEL DO WROGA
+ :A:","Движение солдата прерывается, если ОБНАРУЖЕН враг. Это не завершает ход солдата.
+ 
+ ПАНЕЛЬ ЗДОРОВЬЯ показывает текущие очки здоровья.
+
+ При наведении на противника количество УРОНА ОТ АТАКИ отображается на панели здоровья.
+
+ Чем ярче цвет, тем сильнее ПОТЕНЦИАЛ УРОНА.
+ 
+ Этот выстрел показан белым. Он почти гарантированно убьет артрона.
+
+ ВЫБЕРИТЕ ""ВЫСТРЕЛ"" 
+ :RT:
+ 
+ ВЫСТРЕЛИТЕ ВО ВРАГА
+ :A:","El movimiento de un soldado se interrumpe si detecta a un enemigo. Esto no finaliza el turno del soldado.
+ 
+ La barra de salud indica los puntos de salud actuales.
+ 
+ Al apuntar a un enemigo, la cantidad de daño recibida por los ataque se muestra en la barra de salud.
+ 
+ Cuanto más intenso sea el color, mayor será el daño potencial.
+ 
+ Este disparo está marcado de blanco. Que el Arthron muera con el disparo está casi garantizado.
+
+ SELECCIONA «DISPARO DE ARMA»
+ :RT:
+ 
+ DISPARA AL ENEMIGO
+ :A:",
+KEY_TUTORIAL_TACTICAL1_SHOOTING_DESCRIPTION_K,Text,,"A soldier's movement is interrupted if an enemy is SPOTTED. This doesn't end the soldier's turn.
+
+The HEALTH BAR  indicates the current Hit Points.
+
+When targeting an enemy, the AMOUNT OF DAMAGE from an attack is shown on the Health Bar.
+
+The brighter the color, the higher the DAMAGE POTENTIAL.
+
+This shot is marked in white. It’s almost guaranteed to kill the Arthron.
+
+SELECT ""FIRE WEAPON""
+:LMB: on the ""Fire Weapon"" icon
+
+FIRE AT THE ENEMY
+:LMB: on the ""FIRE WEAPON"" button
+","如果发现敌人，士兵的移动就会中断，但这并不会结束士兵的回合。
+
+ 健康条代表当前生命值。
+ 
+瞄准敌人时，攻击的伤害数值将显示在健康条上。
+
+ 颜色越明亮，说明可能造成的伤害越高。
+
+ 此次射击以全白标记，因此几乎可以保证击杀这个蟹钳人。
+
+ 选择“发射武器”
+ :LMB: 点击“发射武器”图标
+
+ 向敌人开火
+ :LMB: 点击“发射武器”按钮","Le déplacement d'un soldat est interrompu si un ennemi est DÉTECTÉ. Cela ne met pas fin au tour du soldat.
+ 
+ La JAUGE DE SANTÉ indique les points de vie actuels.
+ 
+ Lorsque vous ciblez un ennemi, le NOMBRE DE POINTS DÉGÂTS d'une attaque s'affiche sur la jauge de santé.
+
+ Plus la couleur est vive, plus le POTENTIEL DE DÉGÂTS est élevé.
+
+ Ce coup est marqué en blanc. C'est presque garanti qu'il tuera l'Arthron.
+
+ SÉLECTIONNER « UTILISER ARME »
+ :LMB: sur l'icône « Utiliser arme »
+ 
+ TIRER SUR L'ENNEMI
+ :LMB: sur le bouton « UTILISER ARME »","Die Bewegung eines Soldaten wird unterbrochen, wenn ein Gegner ENTDECKT wird. Damit wird der Zug des Soldaten nicht beendet.
+ 
+Die GESUNDHEITSLEISTE zeigt die aktuellen Trefferpunkte an.
+ 
+Wenn du auf einen Gegner zielst, wird die HÖHE DES SCHADENS durch einen Angriff auf der Gesundheitsleiste angezeigt.
+ 
+Je heller die Farbe, desto größer das SCHADENSPOTENZIAL.
+
+Dieser Schuss ist weiß markiert. Es ist so gut wie sicher, dass der Arthron getötet wird.
+ 
+WÄHLE „WAFFE ABFEUERN“
+:LMB: auf dem Symbol für „Waffe abfeuern“
+ 
+FEUERE AUF DEN FEIND
+:LMB: auf dem Button „WAFFE ABFEUERN“","Il movimento di un soldato viene interrotto se viene INDIVIDUATO un nemico. Ciò non termina il turno del soldato.
+ 
+ La BARRA SALUTE indica i punti ferita attuali.
+ 
+ Quando si mira a un nemico, la QUANTITÀ DI DANNI ricevuti da un attacco viene mostrata nella barra salute.
+ 
+ Più brillante è il colore, più alto è il POTENZIALE DI DANNO.
+ 
+ Questo colpo è contrassegnato in bianco. L'uccisione dell'Arthron è quasi garantita.
+
+ SELEZIONA ""SPARA CON L'ARMA""
+ :LMB: sull'icona ""Spara con l'arma""
+
+ SPARA AL NEMICO
+ :LMB: sul pulsante ""SPARA CON L'ARMA""","Ruch żołnierza zostaje przerwany po WYKRYCIU wroga. Nie kończy to tury żołnierza.
+ 
+ Na PASKU ZDROWIA podane są bieżące punkty życia.
+ 
+ Podczas celowania we wroga LICZBA OBRAŻEŃ zadanych przy ataku jest wyświetlana na pasku zdrowia.
+ 
+ Im jaśniejszy kolor, tym większe POTENCJALNE OBRAŻENIA.
+ 
+ Ten strzał oznaczony jest na biało. To, że arthron zginie, jest niemal pewne.
+
+ WYBIERZ „STRZELAJ Z BRONI”
+ Kliknij :LMB: ikonę „Strzelaj z broni”
+ 
+ STRZEL DO WROGA
+ Kliknij :LMB: przycisk „STRZELAJ Z BRONI”","Движение солдата прерывается, если ОБНАРУЖЕН враг. Это не завершает ход солдата.
+ 
+ ПАНЕЛЬ ЗДОРОВЬЯ показывает текущие очки здоровья.
+
+ При наведении на противника количество УРОНА ОТ АТАКИ отображается на панели здоровья.
+
+ Чем ярче цвет, тем сильнее ПОТЕНЦИАЛ УРОНА.
+ 
+ Этот выстрел показан белым. Он почти гарантированно убьет артрона.
+
+ ВЫБЕРИТЕ ""ВЫСТРЕЛИТЬ"" 
+  нажмите :LMB: на иконку ""Выстрел""
+ 
+ ВЫСТРЕЛИТЕ ВО ВРАГА
+  нажмите :LMB: на кнопку ""ВЫСТРЕЛ""","El movimiento de un soldado se interrumpe si detecta a un enemigo. Esto no finaliza el turno del soldado.
+ 
+ La barra de salud indica los puntos de salud actuales.
+ 
+ Al apuntar a un enemigo, la cantidad de daño recibida por los ataque se muestra en la barra de salud.
+ 
+ Cuanto más intenso sea el color, mayor será el daño potencial.
+ 
+ Este disparo está marcado de blanco. Que el Arthron muera con el disparo está casi garantizado.
+
+ SELECCIONA «DISPARO DE ARMA»
+ :LMB: en el icono «Disparo de arma»
+ 
+ DISPARA AL ENEMIGO
+ :LMB: en el botón «Disparo de arma»",
+KEY_TUTORIAL_TACTICAL1_STANDBY_DESCRIPTION_BIND_C,Text,,"Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. 
+
+You can order a soldier to enter Standby Mode by selecting the icon from the Action Bar, or using <size=60>:B:</size>
+
+SELECT STANDBY MODE
+","一名士兵用完行动点数之后便会进入预备模式，并且会选中下一名士兵。所有士兵都没有剩余行动点数时，你的回合结束。
+
+ 你可以在行动条中选择相应图标，或是按 <size=60>:B:</size> 来命令士兵进入预备模式。
+
+ 选择预备模式","Une fois qu'un soldat tombe à court de points d'action, il entre en mode Stand-by et le soldat suivant est sélectionné. Si aucun soldat n'a de points d'action, votre tour se termine.
+ 
+ Vous pouvez donner l'ordre à un soldat d'entrer en mode Stand-by en sélectionnant l'icône à partir de la barre d'actions ou en utilisant <size=60>:B:</size>.
+ 
+ SÉLECTIONNEZ LE MODE STAND-BY","Sobald ein Soldat keine AP mehr hat, wechselt er in den BEREITSCHAFTSMODUS und der nächste Soldat wird ausgewählt. Wenn kein Soldat mehr AP hat, endet dein Zug.
+
+Du kannst einem Soldaten in den Bereitschaftsmodus versetzen, indem du das Symbol in der Aktionsleiste auswählst oder <size=60>:B:</size> drückst
+ 
+BEREITSCHAFTSMODUS WÄHLEN","Quando un soldato termina i PA entra nella modalità attesa e il soldato successivo viene selezionato. Se non ci sono soldati con PA residui, il turno termina. 
+ 
+ Puoi ordinare a un soldato di entrare in modalità attesa selezionando l'icona dalla barra azione, oppure premendo <size=60>:B:</size>
+
+ SELEZIONA MODALITÀ ATTESA","Gdy żołnierz wykorzysta wszystkie PA, przechodzi do trybu czuwania i można wybrać kolejnego żołnierza. Jeżeli żaden żołnierz nie ma niewykorzystanych PA, tura się kończy.
+
+ Możesz nakazać żołnierzowi przejście do trybu czuwania, wybierając ikonę z paska akcji lub naciskając przycisk <size=60>:B:</size>.
+ 
+ WYBIERZ TRYB CZUWANIA","Когда у солдата заканчиваются ОД, он переходит в режим ожидания, и выбирается следующий солдат. Если у вас не осталось солдат с ОД, то ход завершается.
+
+ Вы можете отдать солдату приказ перейти в режим ожидания, выбрав соответствующий значок на панели действий или с помощью кнопки <size=60>:B:</size>
+ 
+ ВЫБЕРИТЕ РЕЖИМ ОЖИДАНИЯ","Cuando un soldado se queda sin puntos de acción, entra en modo reposo y se selecciona al siguiente soldado. Si no hay soldados con puntos de acción, termina tu turno.
+ 
+ Puedes ordenar a un soldado que entre en modo reposo seleccionando el icono en la barra de acciones o usando <size=60>:B:</size>
+
+ SELECCIONA EL MODO REPOSO",
+KEY_TUTORIAL_TACTICAL1_STANDBY_DESCRIPTION_BIND_K,Text,,"Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. 
+
+You can order a soldier to enter Standby Mode by using the [<color=#ECBA62>{[SetEndTurnAbility]}</color>], or selecting the icon from the Action Bar.
+
+SELECT STANDBY MODE
+","一名士兵用完行动点数之后便会进入预备模式，并且会选中下一名士兵。所有士兵都没有剩余行动点数时，你的回合结束。
+
+ 你可以按 [<color=#ECBA62>{[SetEndTurnAbility]}</color>] 键，或在行动条中选择相应图标来命令士兵进入预备模式。
+
+ 选择预备模式","Une fois qu'un soldat est à court de points d'action, il entre en mode Stand-by et le soldat suivant est sélectionné. Si aucun soldat n'a de points d'action, votre tour se termine.
+ 
+ Vous pouvez donner l'ordre à un soldat d'entrer en mode Stand-by en utilisant [<color=#ECBA62>{[SetEndTurnAbility]}</color>] ou en sélectionnant l'icône à partir de la barre d'actions.
+ 
+SÉLECTIONNEZ LE MODE STAND-BY.","Sobald ein Soldat keine AP mehr hat, wechselt er in den BEREITSCHAFTSMODUS und der nächste Soldat wird ausgewählt. Wenn kein Soldat mehr AP hat, endet dein Zug.
+ 
+Du kannst einen Soldaten in den Bereitschaftsmodus versetzen, indem du die [<color=#ECBA62>{[SetEndTurnAbility]}</color>] verwendest oder das Symbol in der Aktionsleiste auswählst.
+ 
+BEREITSCHAFTSMODUS WÄHLEN","Quando un soldato termina i PA, entra nella modalità attesa e il soldato successivo viene selezionato. Se non ci sono soldati con PA residui, il turno termina. 
+ 
+ Puoi ordinare a un soldato di entrare in modalità attesa utilizzando [<color=#ECBA62>{[SetEndTurnAbility]}</color>], oppure selezionando l'icona dalla barra azione
+ 
+ SELEZIONA LA MODALITÀ ATTESA","Gdy żołnierz wykorzysta wszystkie PA, przechodzi w tryb czuwania i wybrany zostaje kolejny żołnierz. Jeżeli żaden żołnierz nie ma już PA, tura się kończy.
+ 
+ Możesz nakazać żołnierzowi przejście w tryb czuwania za pomocą klawisza [<color=#ECBA62>{[SetEndTurnAbility]}</color>] lub poprzez wybranie ikony z paska akcji.
+ 
+ WYBIERZ TRYB CZUWANIA","Когда у солдата заканчиваются ОД, он переходит в режим ожидания, и выбирается следующий солдат. Если у вас не осталось солдат с ОД, то ход завершается. 
+ 
+ Вы можете отдать солдату приказ перейти в режим ожидания, нажав [<color=#ECBA62>{[SetEndTurnAbility]}</color>] или выбрав соответствующий значок на панели действий.
+ 
+ ВЫБЕРИТЕ РЕЖИМ ОЖИДАНИЯ","Cuando un soldado se queda sin puntos de acción, entra en modo reposo y se selecciona al siguiente soldado. Si no hay soldados con puntos de acción, termina tu turno.
+ 
+ Puedes ordenar a un soldado a que entre en modo reposo si le das a [<color=#ECBA62>{[SetEndTurnAbility]}</color>] o si seleccionas el icono en la barra de acciones
+ 
+ SELECCIONA EL MODO REPOSO","Une fois qu'un soldat tombe à court de points d'action, il entre en mode Stand-by et le soldat suivant est sélectionné. Si aucun soldat n'a de points d'action, votre tour se termine.
+ 
+ Vous pouvez donner l'ordre à un soldat d'entrer en mode Stand-by en utilisant [<color=#ECBA62>{[SetEndTurnAbility]}</color>], en sélectionnant l'icône à partir de la barre d'action ou en utilisant le bouton :B: de la manette.
+ 
+ SÉLECTIONNEZ LE MODE STAND-BY."
+KEY_TUTORIAL_TACTICAL1_TURNS_DESCRIPTION_BIND_C,Text,,You can end your turn at any time by pressing <size=60>:BACK:</size>,你可以在任何时候按 :BACK: 结束你的回合。,Terminez votre tour à tout moment en appuyant sur :BACK:.,Mit <size=60>:BACK:</size> kannst du deinen Zug jederzeit beenden.,Puoi mettere fine al tuo turno in qualsiasi momento premendo :BACK:.,"Możesz zakończyć swoją turę w dowolnym momencie, wciskając :BACK:.","Вы можете завершить свой ход в любое время, нажав кнопку :BACK:.",Puedes terminar tu turno en cualquier momento pulsando :BACK:.,
+KEY_TUTORIAL_TACTICAL1_TURNS_DESCRIPTION_BIND_K,Text,,You can end your turn at any time by pressing the END TURN button on the screen or the [<color=#ECBA62>{[EndTurn]}</color>] key,你可以随时点击屏幕上的“结束回合”按钮，或按 [<color=#ECBA62>{[EndTurn]}</color>] 键来结束你的回合,Terminez votre tour à tout moment en appuyant sur le bouton TERMINER TOUR de l'écran ou la touche [<color=#ECBA62>{[EndTurn]}</color>].,"Du kannst deinen Zug jederzeit beenden, indem du den Button „ZUG BEENDEN“ anklickst oder die [<color=#ECBA62>{[EndTurn]}</color>]-Taste drückst","Puoi mettere fine al tuo turno in qualsiasi momento premendo il pulsante FINE TURNO sullo schermo, oppure il tasto [<color=#ECBA62>{[EndTurn]}</color>]",Możesz zakończyć swoją turę w dowolnej chwili. W tym celu naciśnij przycisk KONIEC TURY na ekranie lub klawisz [<color=#ECBA62>{[EndTurn]}</color>].,"Вы можете завершить свой ход в любое время, нажав кнопку ЗАВЕРШИТЬ ХОД на экране или клавишу [<color=#ECBA62>{[EndTurn]}</color>]",Puedes terminar tu turno en cualquier momento si pulsas el botón de “TERMINA EL TURNO” en la pantalla o si pulsas la tecla [<color=#ECBA62>{[EndTurn]}</color>].,
+KEY_TUTORIAL_TACTICAL2_GRENADE_DESCRIPTION_C,Text,,"Grenades do area damage around the spot where they land. An orange sphere shows the area of effect. The distance at which a grenade can be thrown depends on the soldier's Strength and abilities.
+
+SELECT THE ""THROW GRENADE"" ACTION
+Then target the space between the two enemies.
+
+Throw grenade <size=60>:A:</size>","手雷可对落点周围造成范围伤害。有效范围将以橙色球体显示。手雷的投掷距离取决于士兵的力量和技能。
+
+选择“投掷手雷”行动
+然后瞄准两个敌人之间的空隙。
+
+投掷手雷 :A:","Les grenades infligent des dégâts de zone tout autour de leur point d'impact. Une sphère orange montre leur aire d'effet. La distance de lancer d'une grenade dépend de la puissance d'un soldat et de ses capacités.
+
+SÉLECTIONNEZ L'ACTION « JETER GRENADE »
+Puis visez la zone située entre les deux ennemis.
+
+Lancez la grenade avec :A:","Granaten verursachen dort, wo sie landen, Flächenschäden. Eine orange Kugel zeigt den Wirkungsbereich. Die Entfernung, über die du eine Granate werfen kannst, hängt von der Kraft und den Fähigkeiten des Soldaten ab.
+
+WÄHLE DIE AKTION „GRANATE WERFEN“
+Ziele auf den Platz zwischen den beiden Feinden.
+
+Granate werfen: <size=60>:A:</size>","Le granate infliggono danni ad area nel punto in cui cadono. L'area interessata è segnalata da una sfera arancione. La distanza che la granata può coprire con un lancio dipende dalla forza e dalle abilità del soldato.
+
+SELEZIONA L'AZIONE ""LANCIA GRANATA""
+Poi mira allo spazio tra due nemici.
+
+Lancia la granata con :A:","Granaty powodują zniszczenia obszarowe w miejscu, w którym upadną. Pomarańczowa sfera pokazuje objęty zniszczeniami obszar. Dystans, na jaki żołnierz może rzucić granat, zależy od siły i umiejętności żołnierza.
+
+WYBIERZ AKCJĘ „RZUĆ GRANATEM”
+Następnie wyceluj w miejsce pomiędzy dwoma wrogami.
+
+Aby rzucić granatem, naciśnij przycisk :A:.","Гранаты наносят урон по области. Оранжевая сфера показывает радиус поражения. Расстояние, на которое может быть брошена граната, зависит от силы и способностей солдата.
+
+ВЫБЕРИТЕ ДЕЙСТВИЕ «МЕТНУТЬ ГРАНАТУ»
+Затем прицельтесь, чтобы попасть между двумя врагами.
+
+Метнуть гранату :A:","Las granadas causan daño en área alrededor del punto de impacto. Una esfera naranja indica el zona afectada. La distancia a la que se puede lanzar una granada depende de la fuerza y de las habilidades del soldado.
+
+SELECCIONA LA ACCIÓN DE LANZAR LA GRANADA
+Después, selecciona el espacio entre los dos enemigos.
+
+Lanza la granada :A:",
+KEY_TUTORIAL_TACTICAL2_GRENADE_DESCRIPTION_K,Text,,"Grenades do area damage around the spot where they land. An orange sphere shows the area of effect. The distance at which a grenade can be thrown depends on the soldier's Strength and abilities.
+
+SELECT THE ""THROW GRENADE"" ACTION
+Then target the space between the two enemies.
+
+Throw the grenade with :LMB:","手雷可对落点周围造成范围伤害。有效范围将以橙色球体显示。手雷的投掷距离取决于士兵的力量和技能。
+
+选择“投掷手雷”行动
+然后瞄准两个敌人之间的空隙。
+
+按 :LMB: 投掷手雷","Les grenades infligent des dégâts de zone tout autour de leur point d'impact. Une sphère orange montre leur aire d'effet. La distance de lancer d'une grenade dépend de la puissance d'un soldat et de ses capacités.
+
+SÉLECTIONNEZ L'ACTION « JETER GRENADE »
+puis visez la zone située entre les deux ennemis.
+
+Lancez la grenade avec :LMB:.","Granaten verursachen dort, wo sie landen, Flächenschäden. Eine orange Kugel zeigt den Wirkungsbereich. Die Entfernung, über die du eine Granate werfen kannst, hängt von der Kraft und den Fähigkeiten des Soldaten ab.
+
+WÄHLE DIE AKTION „GRANATE WERFEN“
+Ziele auf den Platz zwischen den beiden Feinden.
+
+Wirf die Granate mit :LMB:","Le granate infliggono danni ad area nel punto in cui cadono. L'area interessata è segnalata da una sfera arancione. La distanza che la granata può coprire con un lancio dipende dalla forza e dalle abilità del soldato.
+
+SELEZIONA L'AZIONE ""LANCIA GRANATA""
+Poi mira allo spazio tra due nemici.
+
+Lancia la granata con :LMB:","Granaty powodują zniszczenia obszarowe w miejscu, w którym upadną. Pomarańczowa sfera pokazuje objęty zniszczeniami obszar. Dystans, na jaki żołnierz może rzucić granat, zależy od siły i umiejętności żołnierza.
+
+WYBIERZ AKCJĘ „RZUĆ GRANATEM”
+Następnie wyceluj w miejsce pomiędzy dwoma wrogami.
+
+Aby rzucić granatem, kliknij :LMB:.","Гранаты наносят урон по области. Оранжевая сфера показывает радиус поражения. Расстояние, на которое может быть брошена граната, зависит от силы и способностей солдата.
+
+ВЫБЕРИТЕ ДЕЙСТВИЕ «МЕТНУТЬ ГРАНАТУ»
+Затем прицельтесь, чтобы попасть между двумя врагами.
+
+Бросьте гранату, нажав :LMB:","Las granadas causan daño en área alrededor del punto de impacto. Una esfera naranja indica el zona afectada. La distancia a la que se puede lanzar una granada depende de la fuerza y de las habilidades del soldado.
+
+SELECCIONA LA ACCIÓN DE “LANZA LA GRANADA”
+Después, selecciona el espacio entre los dos enemigos.
+
+Lanza la granada con :LMB:",
+KEY_TUTORIAL_TACTICAL2_INVENTORY_DESCRIPTION_BIND_C,Text,,"The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.
+
+ENCUMBRANCE
+If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.
+
+ACCESS THE INVENTORY
+Press <size=60>:DLEFT:</size>","物品栏显示士兵携带的所有物品，以及地上和相邻箱子中的物品。
+
+ 负重
+ 如果所有携带的物品和护甲的重量之和大于士兵的力量，则士兵将受到移动惩罚。
+
+ 打开物品栏
+ 按 :DLEFT:。","L'inventaire montre tous les objets transportés par un soldat, ainsi que ceux au sol ou dans des caisses à proximité.
+ 
+ CHARGE
+ Si le poids des objets transportés et de l'armure dépasse la puissance du soldat, il subit alors une pénalité de mouvement.
+ 
+ ACCÉDER À L'INVENTAIRE
+ Appuyez sur :DLEFT:","Das Inventar zeigt dir alles, was ein Soldat trägt, sowie die Gegenstände auf dem Boden oder in Kisten in der Nähe.
+
+LAST
+Wenn das Gewicht aller mitgeführten Gegenstände und Rüstungen höher ist als die Stärke des Soldaten, erhält er eine Bewegungsstrafe.
+ 
+ZUGRIFF AUF DAS INVENTAR
+Drücke <size=60>:DLEFT:</size>","L'inventario mostra tutto ciò che viene trasportato da un soldato, ma anche gli oggetti sul terreno o in casse adiacenti.
+ 
+ INGOMBRO
+ Se il peso di tutti gli oggetti trasportati e dell'armatura è superiore alla forza del soldato, il soldato riceve una penalità sul movimento.
+ 
+ACCEDI ALL'INVENTARIO
+ Premi :DLEFT:","W ekwipunku możesz zobaczyć wszystko, co ma przy sobie żołnierz, a także przedmioty na ziemi lub w sąsiadujących skrzyniach.
+
+ OBCIĄŻENIE
+ Jeżeli ciężar wszystkich przenoszonych przedmiotów i pancerza jest większy od siły żołnierza, wówczas żołnierz otrzymuje karne punkty poruszania się.
+
+ DOSTĘP DO EKWIPUNKU
+ Naciśnij :DLEFT:","В инвентаре показано всё, что есть у солдата, а также предметы на земле или в соседних ящиках.
+ 
+ПЕРЕГРУЗКА
+Если вес всех переносимых предметов и брони больше, чем сила солдата, то перемещение солдата ограничивается.
+
+ВОЙДИТЕ В ИНВЕНТАРЬ
+Нажмите :DLEFT:","El inventario muestra lo que el soldado lleva encima y los objetos en el suelo o en cajas adyacentes.
+ 
+ CARGA
+ Si el peso de los objetos y de la armadura es superior a la fuerza del soldado, este recibe una penalización a la velocidad.
+ 
+ ACCEDE AL INVENTARIO
+ Pulsa :DLEFT:",
+KEY_TUTORIAL_TACTICAL2_INVENTORY_DESCRIPTION_BIND_K,Text,,"The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.
+
+ENCUMBRANCE
+If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.
+
+ACCESS THE INVENTORY
+Press the inventory icon or the [<color=#ECBA62>{[SetInventoryAbility]}</color>] key","物品栏显示士兵携带的所有物品，以及地上和相邻箱子中的物品。
+
+负重
+如果所有携带的物品和护甲的重量之和大于士兵的力量，则士兵将受到移动惩罚。
+
+打开物品栏
+点击物品栏图标或按 [<color=#ECBA62>{[SetInventoryAbility]}</color>] 键","L'inventaire montre tous les objets transportés par un soldat, ainsi que ceux au sol ou dans des caisses à proximité.
+
+CHARGE
+Si le poids des objets transportés et de l'armure dépasse la puissance du soldat, il subit alors une pénalité de mouvement.
+
+ACCÉDER À L'INVENTAIRE
+Appuyez sur l'icône d'inventaire ou sur la touche [<color=#ECBA62>{[SetInventoryAbility]}</color>]","Das Inventar zeigt dir alles, was ein Soldat trägt, sowie die Gegenstände auf dem Boden oder in Kisten in der Nähe.
+
+LAST
+Wenn das Gewicht aller mitgeführten Gegenstände und Rüstungen höher ist als die Stärke des Soldaten, dann erhält der Soldat eine Bewegungsstrafe.
+
+ZUGRIFF AUF DAS INVENTAR
+Drücke das Inventarsymbol oder die [<color=#ECBA62>{[SetInventoryAbility]}</color>]-Taste","L'inventario mostra tutto ciò che viene trasportato da un soldato, ma anche gli oggetti sul terreno o in casse adiacenti.
+
+INGOMBRO
+Se il peso di tutti gli oggetti trasportati e dell'armatura è superiore alla forza del soldato, il soldato riceve una penalità sul movimento.
+
+ACCEDI ALL'INVENTARIO
+Premi l'icona inventario oppure usa il tasto [<color=#ECBA62>{[SetInventoryAbility]}</color>]","W ekwipunku możesz zobaczyć wszystko, co ma przy sobie żołnierz, a także przedmioty na ziemi lub w sąsiadujących skrzyniach.
+
+OBCIĄŻENIE
+Jeżeli ciężar wszystkich przenoszonych przedmiotów i pancerza jest większy od siły żołnierza, wówczas żołnierz otrzymuje karne punkty poruszania się.
+
+DOSTĘP DO EKWIPUNKU
+Naciśnij ikonę ekwipunku lub klawisz [<color=#ECBA62>{[SetInventoryAbility]}</color>].","В инвентаре показано все, что есть у солдата, а также предметы на земле или в соседних ящиках.
+
+ПЕРЕГРУЗКА
+Если вес всех переносимых предметов и брони больше, чем сила солдата, то перемещение солдата ограничивается.
+
+ДОСТУП К ИНВЕНТАРЮ
+Нажмите значок инвентаря или клавишу [<color=#ECBA62>{[SetInventoryAbility]}</color>]","El inventario muestra lo que el soldado lleva encima y los objetos en el suelo o en cajas adyacentes.
+
+CARGA
+Si el peso de los objetos y de la armadura es superior a la fuerza del soldado, este recibe una penalización a la velocidad.
+
+ACCEDE AL INVENTARIO
+Pulsa el icono del inventario o la tecla [<color=#ECBA62>{[SetInventoryAbility]}</color>].",
+KEY_TUTORIAL_TACTICAL2_OVERWATCH_DESCRIPTION_BIND_C,Text,,"The Overwatch ability allows soldiers to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, it is attacked automatically.
+
+OVERWATCH CONTROLS
+Enter Overwatch mode: Select the Overwatch icon from the Action Bar, or press <size=60>:Y:</size>
+Select target position: <size=60>:LTS:</size>
+Change width of overwatch zone: <size=60>:LB:</size> and <size=60>:RB:</size>
+Confirm Overwatch: <size=60>:A:</size>
+
+MOVE YOUR SOLDIER AND SET OVERWATCH
+<size=60>:A:</size> on the highlighted target position towards the two approaching enemies.","警戒技能可以让士兵在敌人的回合中守卫某片区域。如果敌人进入了锥形警戒区，士兵将会自动发起攻击。
+
+警戒控制
+进入警戒模式：选择行动条中的“警戒”图标，或按 :Y: 
+选择目标位置： :LTS:
+变更警戒区范围 :LB: 和 :RB:
+确认警戒： :A:
+
+移动士兵并设置警戒
+面朝正在接近的两名敌人，在高亮目标位置按 :A:。","La capacité Vigilance permet aux soldats de défendre une zone pendant le tour ennemi. Si un ennemi pénètre dans le cône de vigilance, il sera automatiquement attaqué.
+
+COMMANDES DE LA VIGILANCE
+Entrer en mode Vigilance : sélectionnez l'icône de Vigilance dans la barre d'actions, ou appuyez sur :Y:
+Sélectionner la position ciblée : :LTS:
+Modifier la zone de vigilance : :LB: et :RB:
+Confirmer le mode Vigilance : :A:
+
+DÉPLACER VOS SOLDATS ET LES PLACER EN MODE VIGILANCE.
+:A: sur la position cible en évidence à proximité des deux ennemis en approche.","Die Fähigkeit „Überwachung“ ermöglicht es Soldaten, ein Gebiet während des Zugs des Feindes zu beschützen. Wenn ein Gegner den Überwachungskegel betritt, wird er automatisch angegriffen.
+
+STEUERUNG VON ÜBERWACHUNG
+Überwachungsmodus aktivieren: Wähle das entsprechende Symbol auf der Aktionsleiste oder drücke <size=60>:Y:</size>
+Zielposition auswählen: <size=60>:LTS:</size>
+Änderung der Breite der Überwachungszone: <size=60>:LB:</size> und <size=60>:RB:</size>
+Überwachung bestätigen: <size=60>:A:</size>
+
+BEWEGE DEINEN SOLDATEN UND AKTIVIERE DIE ÜBERWACHUNG
+<size=60>:A:</size> auf der hervorgehobenen Zielposition in Richtung der beiden kommenden Gegner.","L'abilità Guardia permette ai soldati di tenere sotto controllo un'area durante il turno del nemico. Se un nemico entra nel cono di guardia, viene attaccato in automatico.
+
+COMANDI GUARDIA
+Entra nella modalità Guardia: seleziona l'icona Guardia dalla barra azione, o premi :Y:
+Seleziona la posizione del bersaglio: :LTS:
+Cambia il raggio della zona di Guardia: :LB: e :RB:
+Conferma Guardia: :A:
+
+SPOSTA I TUOI SOLDATI E ORGANIZZA LA GUARDIA
+:A: sulla posizione d'arrivo in evidenza in direzione dei due nemici in avvicinamento.","Umiejętność Obserwacja umożliwia żołnierzom strzeżenie obszaru w trakcie tury przeciwnika. Jeżeli wróg wejdzie w stożkowaty obszar objęty obserwacją, zostanie automatycznie zaatakowany.
+
+STEROWANIE OBSERWACJĄ
+Przejście w tryb obserwacji: wybierz ikonę Obserwacja z paska akcji lub naciśnij przycisk :Y:.
+Wybierz docelową pozycję: :LTS:.
+Zmień szerokość obserwowanej strefy: :LB: i :RB:.
+Potwierdź ustawienia obserwacji: naciśnij przycisk :A:.
+
+PRZEMIEŚĆ ŻOŁNIERZA I USTAW OBSERWACJĘ
+Kliknij :A: podświetloną pozycję docelową w kierunku dwóch zbliżających się wrogów.","Способность Наблюдение позволяет солдатам охранять территорию во время хода противника. Если враг зайдет в область наблюдения, то он будет автоматически атакован.
+
+УПРАВЛЕНИЕ НАБЛЮДЕНИЕМ
+Перейти в режим наблюдения: Нажмите на значок Наблюдение на панели действий, либо нажмите :Y:
+Выбрать область наблюдения: :LTS:
+Изменить ширину зоны наблюдения: :LB: и :RB:
+Подтвердить режим наблюдения: :A:
+
+ПЕРЕМЕСТИТЕ ВАШЕГО СОЛДАТА И ЗАДАЙТЕ ОБЛАСТЬ НАБЛЮДЕНИЯ
+Нажмите :A: на выделенной зоне наблюдения в направлении двух приближающихся врагов.","La habilidad de Supervisión permite a los soldados defender una zona durante el turno del enemigo. Si un enemigo entra en el cono de Supervisión, el soldado ataca automáticamente.
+
+CONTROLES DE SUPERVISIÓN
+Entrar en modo Supervisión: seleccionar el icono de Supervisión en la barra de acciones o pulsar :Y:
+Seleccionar la zona: :LTS:
+Cambiar el grosor de la zona de Supervisión: :LB: y :RB:
+Confirmar Supervisión: :A:
+
+MUEVE A LOS SOLDADOS Y USA SUPERVISIÓN
+:A: en la zona resaltada cerca de los enemigos que se acercan.",
+KEY_TUTORIAL_TACTICAL2_OVERWATCH_DESCRIPTION_BIND_K,Text,,"The Overwatch ability allows soldiers to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, it is attacked automatically.
+
+OVERWATCH CONTROLS
+Enter Overwatch mode: Select the Overwatch icon from the Action Bar or press [<color=#ECBA62>{[SetOverwatchAbility]}</color>]
+Select target position: Move Mouse
+Change width of overwatch zone: CTRL + :MW:
+Confirm Overwatch: :LMB:
+
+MOVE YOUR SOLDIER AND SET OVERWATCH
+:LMB: on the highlighted target position towards the two approaching enemies.","警戒技能可以让士兵在敌人的回合中守卫某片区域。如果敌人进入了锥形警戒区，士兵将会自动发起攻击。
+
+警戒控制
+进入警戒模式：选择行动条中的“警戒”图标，或按 [<color=#ECBA62>{[SetOverwatchAbility]}</color>] 键
+选择目标位置：移动鼠标
+变更警戒区范围：Ctrl + :MW: 
+确认警戒：:LMB:
+
+移动士兵并设置警戒
+面朝正在接近的两名敌人，:LMB: 点击高亮显示的目标位置。","La capacité Vigilance permet aux soldats de défendre une zone pendant le tour ennemi. Si un ennemi pénètre dans le cône de vigilance, il sera automatiquement attaqué.
+
+COMMANDES DE LA VIGILANCE
+Entrer en mode Vigilance : sélectionnez l'icône de Vigilance dans la barre d'actions ou appuyez sur [<color=#ECBA62>{[SetOverwatchAbility]}</color>]
+Sélectionner la position ciblée : déplacez la souris
+Modifier la zone de vigilance : CTRL + :MW:
+Confirmer le mode Vigilance : :LMB:.
+
+DÉPLACER VOS SOLDATS ET LES PLACER EN MODE VIGILANCE.
+:LMB: sur la position cible en évidence à proximité des deux ennemis qui approchent.","Die Fähigkeit „Überwachung“ ermöglicht es Soldaten, ein Gebiet während des Zugs des Feindes zu beschützen. Wenn ein Gegner den Überwachungskegel betritt, wird er automatisch angegriffen.
+
+STEUERUNG VON ÜBERWACHUNG
+Aktivieren des Überwachungsmodus: Wähle das entsprechende Symbol auf der Aktionsleiste, oder drücke [<color=#ECBA62>{[SetOverwatchAbility]}</color>]
+Zielposition auswählen: Mit der Maus
+Änderung der Breite der Überwachungszone: STRG + :MW:
+Überwachung bestätigen: :LMB:
+
+BEWEGE DEINEN SOLDATEN UND AKTIVIERE DIE ÜBERWACHUNG
+:LMB: oder auf der hervorgehobenen Zielposition in Richtung der beiden kommenden Gegner.","L'abilità Guardia permette ai soldati di tenere sotto controllo un'area durante il turno del nemico. Se un nemico entra nel cono di guardia, viene attaccato in automatico.
+
+COMANDI GUARDIA
+Entra nella modalità Guardia: seleziona l'icona Guardia dalla barra azione, o premi [<color=#ECBA62>{[SetOverwatchAbility]}</color>]
+Seleziona la posizione del bersaglio: sposta il mouse
+Cambia il raggio della zona di Guardia: CTRL + :MW:
+Conferma Guardia: :LMB:
+
+SPOSTA I TUOI SOLDATI E ORGANIZZA LA GUARDIA
+:LMB: sulla posizione d'arrivo in evidenza in direzione dei due nemici in avvicinamento.","Zdolność Obserwacja umożliwia żołnierzom strzeżenie obszaru w trakcie tury przeciwnika. Jeżeli wróg wejdzie w stożkowaty obszar objęty obserwacją, zostanie automatycznie zaatakowany.
+
+STEROWANIE OBSERWACJĄ
+Przejście w tryb obserwacji: wybierz ikonę Obserwacja z paska akcji, naciśnij klawisz [<color=#ECBA62>{[SetOverwatchAbility]}</color>].
+Wybór pozycji docelowej: przesuń myszkę.
+Zmiana szerokości obserwowanej strefy: CTRL + :MW:.
+Potwierdzenie ustawienia obserwacji: kliknij :LMB:.
+
+PRZEMIEŚĆ ŻOŁNIERZA I USTAW OBSERWACJĘ
+Kliknij :LMB: podświetloną pozycję docelową w kierunku dwóch zbliżających się wrogów.","Способность Наблюдение позволяет солдатам охранять территорию во время хода противника. Если враг зайдет в область наблюдения, то он будет автоматически атакован.
+
+УПРАВЛЕНИЕ НАБЛЮДЕНИЕМ
+Перейти в режим наблюдения: Нажмите на значок Наблюдение на панели действий, либо нажмите [<color=#ECBA62>{[SetOverwatchAbility]}</color>]
+Выбрать область наблюдения: Переместите мышь
+Изменить ширину зоны наблюдения: CTRL + :MW:
+Подтвердить режим наблюдения: :LMB:
+
+ПЕРЕМЕСТИТЕ ВАШЕГО СОЛДАТА И ЗАДАЙТЕ ОБЛАСТЬ НАБЛЮДЕНИЯ
+Нажмите :LMB: на выделенной зоне наблюдения в направлении двух приближающихся врагов.","La habilidad de Supervisión permite a los soldados defender una zona durante el turno del enemigo. Si un enemigo entra en el cono de Supervisión, el soldado ataca.
+
+CONTROLES DE SUPERVISIÓN
+Entrar en modo Supervisión: seleccionar el icono de Supervisión en la barra de acciones o pulsar [<color=#ECBA62>{[SetOverwatchAbility]}</color>]
+Seleccionar la zona: mover el ratón
+Cambiar el tamaño de la zona de Supervisión: CTRL + :MW:
+Confirmar Supervisión: :LMB:
+
+MUEVE A LOS SOLDADOS Y USA SUPERVISIÓN
+:LMB: en la zona resaltada cerca de los enemigos que se acercan.",
+KEY_TUTORIAL_TACTICAL2_READY_ITEMS_DESCRIPTION_BIND_C,Text,,"Items in the ready section of the inventory are shown in the Ready Items Bar. They can be selected for use without an AP cost.
+
+READY ITEMS BAR CONTROLS
+
+Select next item: <size=60>:X:</size>
+
+SELECT THE GRENADE","物品栏中准备就绪的物品将显示在“就绪”物品条中。选中并使用这些物品不会消耗行动点数。
+
+就绪物品条控制
+
+选择下一物品： :X:
+
+选择手雷","Les objets de la section « Prêt » de l'inventaire seront affichés dans la barre d'objets prêts. Ils peuvent être utilisés sans dépenser de points d'action.
+
+COMMANDES DE LA BARRE D'OBJETS PRÊTS
+
+Sélectionner objet suivant : :X:
+
+SÉLECTIONNEZ LA GRENADE.","Gegenstände im Abschnitt „Bereit“ im Inventar werden in der entsprechenden Leiste angezeigt. Du kannst sie ohne weitere AP-Kosten einsetzen.
+
+AUSWAHL DER „BEREITEN“ GEGENSTÄNDE
+
+Auswählen des nächsten Gegenstands: <size=60>:X:</size>
+
+WÄHLE DIE GRANATE AUS","Gli oggetti nella sezione Pronto dell'inventario sono mostrati nella barra oggetti pronti. Possono essere selezionati per l'uso senza spendere alcun PA.
+
+COMANDI DELLA BARRA OGGETTI PRONTI
+
+Selezionare l'oggetto successivo: :X:
+
+SELEZIONA LA GRANATA","Przedmioty w sekcji „Gotowe” ekwipunku są wyświetlane na pasku przedmiotów gotowych do użycia. Można z nich korzystać bez straty punktów akcji.
+
+STEROWANIE PASKIEM PRZEDMIOTÓW GOTOWYCH DO UŻYCIA
+
+Wybierz następny przedmiot: naciśnij przycisk X.
+
+WYBIERZ GRANAT","Предметы из раздела Готовые вашего инвентаря отображаются на панели готовых предметов. При их выборе ОД не расходуются.
+
+УПРАВЛЕНИЕ ПАНЕЛЬЮ ГОТОВЫХ ПРЕДМЕТОВ
+
+Выбрать следующий предмет: :X:
+
+ВЫБОР ГРАНАТЫ","Los objetos en la sección de objetos listos del inventario se muestran en la barra de objetos listos. Puedes seleccionarlos para su uso sin coste de puntos de acción.
+
+CONTROLES DE LA BARRA DE OBJETOS LISTOS
+
+Seleccionar siguiente objeto: :X:
+
+SELECCIONA LA GRANADA",
+KEY_TUTORIAL_TACTICAL2_READY_ITEMS_DESCRIPTION_BIND_K,Text,,"Items in the ready section of the inventory are shown in the Ready Items Bar. They can be selected for use without an AP cost.
+
+READY ITEMS BAR CONTROLS
+Select item: Use :LMB: on the item's icon or keys <color=#ECBA62>[{[TacSelectItem1]}], [{[TacSelectItem2]}], [{[TacSelectItem3]}] or [{[TacSelectItem4]}]</color>
+Select next item: <color=#ECBA62>[{[CycleWeapons]}]</color> key
+
+SELECT THE GRENADE","位于物品栏就绪区域的物品将显示在就绪物品条中。选择并使用这些物品不会消耗行动点数。
+
+就绪物品条控制
+选择物品：:LMB: 点击物品图标或按 <color=#ECBA62>[{[TacSelectItem1]}]、[{[TacSelectItem2]}]、[{[TacSelectItem3]}] 或 [{[TacSelectItem4]}]</color> 键
+选择下一物品：按 <color=#ECBA62>[{[CycleWeapons]}]</color> 键
+
+选择手雷","Les objets de la section « Prêt » de l'inventaire seront affichés dans la barre d'objets prêts. Ils peuvent être utilisés sans dépenser de points d'action.
+
+COMMANDES DE LA BARRE D'OBJETS PRÊTS
+Sélectionner un objet : utilisez :LMB: sur l'icône de l'objet désiré ou les touches <color=#ECBA62>[{[TacSelectItem1]}], [{[TacSelectItem2]}], [{[TacSelectItem3]}] ou [{[TacSelectItem4]}]</color>
+Sélectionner l'objet suivant : touche <color=#ECBA62>[{[CycleWeapons]}]</color>
+
+SÉLECTIONNEZ LA GRENADE.","Gegenstände im Abschnitt „Bereit“ im Inventar werden in der entsprechenden Leiste angezeigt. Du kannst sie ohne weitere AP-Kosten einsetzen.
+
+AUSWAHL DER „BEREITEN“ GEGENSTÄNDE
+Gegenstand auswählen: Verwende :LMB: auf dem entsprechenden Symbol, oder die Tasten <color=#ECBA62>[{[TacSelectItem1]}], [{[TacSelectItem2]}], [{[TacSelectItem3]}] oder [{[TacSelectItem4]}]</color>
+Auswählen des nächsten Gegenstands: <color=#ECBA62>[{[CycleWeapons]}]</color>-Taste
+
+WÄHLE DIE GRANATE AUS","Gli oggetti nella sezione Pronto dell'inventario sono mostrati nella barra oggetti pronti. Possono essere selezionati per l'uso senza spendere alcun PA.
+
+COMANDI DELLA BARRA OGGETTI PRONTI
+Seleziona oggetto: usa :LMB: sull'icona dell'oggetto oppure i tasti <color=#ECBA62>[{[TacSelectItem1]}], [{[TacSelectItem2]}], [{[TacSelectItem3]}] o [{[TacSelectItem4]}]</color>
+Seleziona l'oggetto successivo: tasto <color=#ECBA62>[{[CycleWeapons]}]</color>
+
+SELEZIONA LA GRANATA","Przedmioty w sekcji „Gotowe” ekwipunku są wyświetlane na pasku przedmiotów gotowych do użycia. Można z nich korzystać bez utraty punktów akcji.
+
+KORZYSTANIE Z PASKA PRZEDMIOTÓW GOTOWYCH DO UŻYCIA
+Wybór przedmiotu: kliknij :LMB: ikonę przedmiotu lub naciśnij klawisz <color=#ECBA62>[{[TacSelectItem1]}], [{[TacSelectItem2]}], [{[TacSelectItem3]}] lub [{[TacSelectItem4]}]</color>.
+Wybór następnego przedmiotu: naciśnij klawisz <color=#ECBA62>[{[CycleWeapons]}]</color>.
+
+WYBIERZ GRANAT","Предметы из раздела Готовые вашего инвентаря отображаются на панели готовых предметов. При их выборе ОД не расходуются.
+
+УПРАВЛЕНИЕ ПАНЕЛЬЮ ГОТОВЫХ ПРЕДМЕТОВ
+Выбрать предмет: Щелкните :LMB: по значку предмета, либо нажмите <color=#ECBA62>[{[TacSelectItem1]}], [{[TacSelectItem2]}], [{[TacSelectItem3]}] или [{[TacSelectItem4]}]</color>
+Выбрать следующий предмет: нажмите клавишу <color=#ECBA62>[{[CycleWeapons]}]</color>
+
+ВЫБОР ГРАНАТЫ","Los objetos en la sección de objetos listos del inventario se muestran en la barra de objetos listos. Puedes seleccionarlos para su uso sin coste de puntos de acción.
+
+CONTROLES DE LA BARRA DE OBJETOS LISTOS
+Seleccionar objeto: usar :LMB: sobre el icono del objeto o las teclas <color=#ECBA62>[{[TacSelectItem1]}], [{[TacSelectItem2]}], [{[TacSelectItem3]}] o [{[TacSelectItem4]}]</color>
+Seleccionar siguiente objeto: pulsar la tecla <color=#ECBA62>[{[CycleWeapons]}]</color>
+
+SELECCIONA LA GRANADA",

@@ -1,0 +1,251 @@
+Key,Ukrainian
+KEY_ABORT_LEGEND,Перервати
+KEY_AC_LEG_HOPLITE_NAME,НОГА ОХОРОНЦЯ
+KEY_ADD_TO_SCRAP_LEGEND,Додати до списку на брухт
+KEY_AIRCRAFT_CREW_LEGEND,Екіпаж
+KEY_AIR_FORCE_LEGEND,Повітряні сили
+KEY_ATTRIBUTES_SERVICE_RECORD_LEGEND,Характеристики / Послужний список
+KEY_BUILD_LEGEND,Будувати
+KEY_CANCEL_LEGEND,Скасувати
+KEY_CLASS_FILTER_LEGEND,Фільтр класу
+KEY_CLASS_FILTER_SELECT_LEGEND,Вибрати / скасувати вибір класу
+KEY_CONE_WIDTH_LEGEND,Ширина області спостереження
+KEY_CONFIRM_LEGEND,Підтвердити
+KEY_CONTROLS_GEOSCAPE_DPAD_DOWN_NEW,УПОВІЛЬНИТИ ЧАС
+KEY_CONTROLS_GEOSCAPE_DPAD_LEFT_NEW,"ІНФОРМАЦІЯ ПРО РЕСУРСИ
+ПОПЕРЕДНЯ ОДИНИЦЯ"
+KEY_CONTROLS_GEOSCAPE_DPAD_RIGHT_NEW,"ІНФОРМАЦІЯ ПРО РЕСУРСИ
+НАСТУПНА ОДИНИЦЯ"
+KEY_CONTROLS_GEOSCAPE_DPAD_UP_NEW,ПРИСКОРИТИ ЧАС
+KEY_CONTROLS_GEOSCAPE_LB_NEW,"ВІДКРИТИ МЕНЮ ЛІТАКІВ
+ПОПЕРЕДНІЙ ЛІТАК"
+KEY_CONTROLS_GEOSCAPE_LTHUMB_PRESS_NEW,РОЗДІЛ ЦІЛЕЙ
+KEY_CONTROLS_GEOSCAPE_RB_NEW,"ВІДКРИТИ МЕНЮ ЛІТАКІВ
+НАСТУПНИЙ ЛІТАК"
+KEY_CONTROLS_GEOSCAPE_RTHUMB_LEFT_NEW,ПОПЕРЕДНЯ ОДИНИЦЯ
+KEY_CONTROLS_GEOSCAPE_RTHUMB_PRESS_NEW,ВІДКРИТИ МЕНЮ ЗОНДА
+KEY_CONTROLS_GEOSCAPE_RTHUMB_RIGHT_NEW,НАСТУПНА ОДИНИЦЯ
+KEY_CONTROLS_TACTICAL_DPAD_LEFT_NEW,ПЕРША ЗДАТНІСТЬ ЛІВОРУЧ
+KEY_CONTROLS_TACTICAL_DPAD_RIGHT_NEW,ПЕРША ЗДАТНІСТЬ ПРАВОРУЧ
+KEY_CONTROLS_TACTICAL_LTHUMB_NEW,"ПЕРЕМІСТИТИ МАРКЕР РУХУ
+ПРИЦІЛ ВІЛЬНОГО ПРИЦІЛЮВАННЯ"
+KEY_CONTROLS_TACTICAL_LTHUMB_PRESS_NEW,ІНФОРМАЦІЯ ПРО ОДИНИЦЮ
+KEY_CONTROLS_TACTICAL_LT_NEW,"МЕНЮ СТРІЛЬБИ
+ВІЛЬНЕ ПРИЦІЛЮВАННЯ"
+KEY_CONTROLS_TACTICAL_RTHUMB_PRESS_NEW,РЮКЗАК
+KEY_CONTROLS_TACTICAL_RT_NEW,СТРІЛЯТИ
+KEY_CORRUPTION,Скверна
+KEY_DEPLOY,Висадка
+KEY_DEPLOY_LEGEND,Відправити
+KEY_DEPLOY_SQUAD_LEGEND,Відправити загін
+KEY_DESINGAGE_CONFIRMATION,"ВИ ВПЕВНЕНІ, ЩО ХОЧЕТЕ ВІДСТУПИТИ?"
+KEY_DETAILED_ANALYSIS_LEGEND,Детальний аналіз
+KEY_DRONES,Зонди
+KEY_DRONES_AND_DEPLOY,Зонди/Висадка
+KEY_EDIT_UNIT_LEGEND,Редагувати
+KEY_EQUIPMENT_LEGEND,Спорядження
+KEY_EQUIP_FILTER_LEGEND,Фільтр складу
+KEY_FREE_AIM_LEGEND,Вільне прицілювання
+KEY_GAME_SUMMARY_GAMETIME_FORMAT_FIXED,{0}р {1}м {2}д
+KEY_GEOSCAPE_BASES_LEGEND,Бази
+KEY_GEOSCAPE_CONDITION_CRITICAL,Критичний стан
+KEY_GEOSCAPE_DEPLOY_MOVE,Перемістити
+KEY_GEOSCAPE_DEPLOY_PROBES_LEGEND,Відправити / Зонди
+KEY_GEOSCAPE_EVENT_LOG_LEGEND,Журнал подій
+KEY_GEOSCAPE_GO_TO_MANUFACTURE_LEGEND,Перейти до виробництва
+KEY_GEOSCAPE_LOCATE_BASE,Знайти базу
+KEY_GEOSCAPE_OBJECTIVES_LEGEND,Завдання
+KEY_GEOSCAPE_PLAY_PAUSE_LEGEND,Пуск / Пауза
+KEY_GEOSCAPE_PROBES_LEGEND,Зонди
+KEY_IGNORE_LEGEND,Ігнорувати
+KEY_IMPORTANCE_WARNING_LABEL,ВАЖЛИВЕ ПОПЕРЕДЖЕННЯ
+KEY_INFO_LEGEND,Інфо
+KEY_INVENTORY_MANUFACTURE_NOT_AVAILABLE,Неможливо виготовити
+KEY_INVENTORY_MANUFACTURE_NO_RESOURCES,Недостатньо ресурсів
+KEY_INVENTORY_MANUFACTURE_RESEARCH_NEEDED,Потрібне дослідження
+KEY_INVENTORY_SCRAP_LEGEND,Розібрати
+KEY_INVENTORY_SCRAP_OR_MANUFACTURE_LEGEND,Розібрати / Виготовити
+KEY_INV_EQUIP_LEGEND,Екіпірувати
+KEY_INV_TACTICAL_UNDO_LEGEND,Скасувати дії в інвентарі
+KEY_INV_TO_BODY_LEGEND,Рюкзак
+KEY_INV_TO_GROUND_LEGEND,Викинути
+KEY_INV_TO_STORE_LEGEND,Склад
+KEY_KILL_LEGEND,Вбити
+KEY_LAUNCH_LEGEND,Запустити
+KEY_LICENSE_MESSAGE_BOX_DISAGREE,"Ви не можете отримати доступ до гри, якщо не приймете Умови надання послуг і Політику конфіденційності."
+KEY_LOCAL_LEGEND,Геолокація
+KEY_MANUFACTURE_LEGEND,Виготовити
+KEY_MOVE_AIM_LEGEND,Прицілюватися
+KEY_MOVE_CONE_LEGEND,Переміщати область спостереження
+KEY_NEXT_ENTRY_LEGEND,Наступний запис
+KEY_NO_LEGEND,Ні
+KEY_OK_LEGEND,ОК
+KEY_OPTIONS_APPLY_LEGEND,Застосувати
+KEY_OPTIONS_CONTROLLER_SCHEME_2,СХЕМА КОНТРОЛЕРА
+KEY_OPTIONS_CUSTOMIZE_LEGEND,Налаштувати
+KEY_OPTIONS_DELETE_LEGEND,Видалити
+KEY_OPTIONS_GEOSCAPE_CAMERA_SPEED,ШВИДКІСТЬ КАМЕРИ ГЕОСКОПА
+KEY_OPTIONS_LOAD_LEGEND,Завантажити
+KEY_OPTIONS_NEW_SAVE_LEGEND,Нове збереження
+KEY_OPTIONS_OVERWRITE_LEGEND,Перезаписати
+KEY_OPTIONS_SAVE_GAME_HEADER,ЗБЕРЕГТИ ГРУ
+KEY_OPTIONS_TACTICAL_CAMERA_SPEED,ШВИДКІСТЬ ТАКТИЧНОЇ КАМЕРИ
+KEY_OPTION_BUTTON_LEGEND,Натиснути
+KEY_OPTION_CHECKBOX_LEGEND,Перемкнути
+KEY_OPTION_DROPDOWN_LEGEND,Обрати
+KEY_OPTION_PICKER_LEGEND,Змінити
+KEY_PLATFORM_LICENSE_MESSAGE_BOX_DISAGREE,"Ви не можете отримати доступ до гри, якщо не приймете Умови надання послуг."
+KEY_PLATFORM_RECONNECT_CONTROLLER_PS4,"Будь ласка, підключіть бездротовий контролер DUALSHOCK®4 повторно або натисніть :A: на вже підключеному бездротовому контролері DUALSHOCK®4."
+KEY_PLATFORM_RECONNECT_CONTROLLER_PS4_US,"Будь ласка, підключіть бездротовий контролер DUALSHOCK®4 повторно або натисніть :A: на вже підключеному бездротовому контролері DUALSHOCK®4."
+KEY_PLATFORM_RECONNECT_CONTROLLER_PS5,"Будь ласка, підключіть бездротовий контролер повторно або натисніть :A: на вже підключеному бездротовому контролері."
+KEY_PLATFORM_RECONNECT_CONTROLLER_PS5_US,"Будь ласка, підключіть бездротовий контролер повторно або натисніть :A: на вже підключеному бездротовому контролері."
+KEY_PLATFORM_RECONNECT_CONTROLLER_XBOX,"Будь ласка, підключіть бездротовий контролер Xbox повторно або натисніть :A: на вже підключеному бездротовому контролері Xbox."
+KEY_PLAYGO_ATCOMPLETE_DESCRIPTION,"Завантаження завершено. Натисніть кнопку «ОК», щоб продовжити гру"
+KEY_PLAYGO_ATPROGRESS_DESCRIPTION,"Натиснувши кнопку «ОК», ви перейдете до головного меню гри. Ваш прогрес буде збережено."
+KEY_PLAYGO_ATPROGRESS_TITLE,"Щоб продовжити, зачекайте, поки гра завантажиться повністю."
+KEY_PLAYGO_DESCRIPTION,Потрібно завершити завантаження гри.
+KEY_PLAYGO_PROGRESS_FORMAT,{0} МБ / {1} МБ  ({2} год. {3} хв.)
+KEY_PLAYGO_TUTORIAL_DESCRIPTION,"Ви не можете пропустити навчання та обрати максимальну складність, поки завантаження гри не завершиться повністю."
+KEY_PREVIOUS_ENTRY_LEGEND,Попередній запис
+KEY_PRODUCE_LEGEND,Виробити
+KEY_PS4_EU_LICENSE,"Будь-який контент, придбаний у внутрішньоігровому магазині, купуватиметься в компанії Sony Interactive Entertainment Network Europe Limited («SIENE») і підпадатиме під дію Умов надання послуг та Угоди користувача мережі PlayStation™Network, які доступні в PlayStation™Store. Будь ласка, перевіряйте права використання для кожної покупки, оскільки вони можуть відрізнятися залежно від предмета. Якщо не вказано інше, контент, доступний у будь-якому внутрішньоігровому магазині, має той самий віковий рейтинг, що й гра.
+"
+KEY_PS4_EU_LICENSE_TITLE,УМОВИ НАДАННЯ ПОСЛУГ SONY INTERACTIVE ENTERTAINMENT
+KEY_PS4_US_LICENSE,"Придбання та використання предметів підпадає під дію Умов надання послуг мережі та Угоди користувача. Ця онлайн-послуга була надана вам за субліцензією компанією Sony Interactive Entertainment America.
+"
+KEY_PS4_US_LICENSE_TITLE,УМОВИ НАДАННЯ ПОСЛУГ SONY INTERACTIVE ENTERTAINMENT
+KEY_RAISE_LEGEND,Підняти в черзі
+KEY_RECRUIT_LEGEND,Завербувати
+KEY_RENAME_UNIT_LEGEND,Перейменувати
+KEY_REPLENISH_LEGEND,Поповнити
+KEY_RESEARCH_LEGEND,Дослідити
+KEY_RETRY_LEGEND,Спробувати ще раз
+KEY_SCRAP_ALL_LEGEND,Здати все на брухт
+KEY_SCRAP_ITEM_LEGEND,Здати предмет на брухт
+KEY_SCRAP_MANUFACTURE_LEGEND,Здати на брухт / Виготовити
+KEY_SCRAP_VEHICLE_LEGEND,Здати машину на брухт
+KEY_SELECT_LEGEND,Вибрати
+KEY_SELECT_MODULE_LEGEND,Вибрати модуль
+KEY_SELECT_UNSELECT_LEGEND,Вибрати / Скасувати вибір
+KEY_SELECT_WEAPON_LEGEND,Вибрати зброю
+KEY_SHOOT_LEGEND,Стріляти
+KEY_SOLDIER_ACQUIRE_ABILITY_LEGEND,Отримати здатність
+KEY_SOLDIER_AUGMENT_LEGEND,Аугментувати
+KEY_SOLDIER_DISMISS_LEGEND,Звільнити
+KEY_SOLDIER_HIDE_HELMET_LEGEND,Сховати шолом
+KEY_SOLDIER_MUTATE_LEGEND,Мутувати
+KEY_SOLDIER_RANDOMIZE_LEGEND,Випадково
+KEY_SOLDIER_SKILLPOINTS_RESET_LEGEND,Скинути очки вмінь
+KEY_STEAM_HOME_SOCIAL_REDEEM_ICON_2,Активувати коди для додаткового контенту
+KEY_STORAGE_FILTER_LEGEND,Фільтр складу
+KEY_TACTICAL_VIEW_ENEMY_LEGEND,Переглянути ворогів
+KEY_TARGET_ENEMY_LEGEND,Вибрати ворога
+KEY_TEAM_LEGEND,КОМАНДА
+KEY_TIME_PLAYING,ГРА
+KEY_TRANSFER_UNIT_LEGEND,Перенести
+KEY_TUT1_AP_DESCRIPTION_NEW,"Рушаймо в атаку!
+
+Клітинки в межах СИНЬОЇ ЗОНИ дозволяють солдатам рухатися й стріляти в один хід.
+
+Синя ЛІНІЯ СТРІЛЬБИ буде проведена від вибраної клітинки, якщо з неї можна влучити по ворогу.
+
+ПЕРЕМІСТІТЬСЯ НА ПІДСВІЧЕНУ КЛІТИНКУ Й НАТИСНІТЬ :A:"
+KEY_TUT1_FREE_AIM_DESCRIPTION_NEW_C,"Під час стрільби ви можете увійти в режим Вільного прицілювання для ТОЧНОГО НАВЕДЕННЯ.
+
+УВІЙТИ В РЕЖИМ ВІЛЬНОГО ПРИЦІЛЮВАННЯ
+<size=60>:LT:</size>"
+KEY_TUT1_FREE_AIM_DESCRIPTION_PART2_NEW_C,"У режимі Вільного прицілювання ви стріляєте від першої особи солдата.
+
+Зовнішнє СИНЄ КОЛО показує, куди влучать усі постріли. Що точніша зброя, то менше коло.
+
+Стрільба по різних ЧАСТИНАХ ТІЛА може вивести їх з ладу, позбавивши ворога деяких здатностей.
+
+КЕРУВАННЯ ВІЛЬНИМ ПРИЦІЛЮВАННЯМ
+Перемістити приціл: <size=60>:RTS:</size> <size=60>:LTS:</size>
+Наблизити/віддалити: <size=60>:DUP:</size> і <size=60>:DDOWN:</size>
+Вийти з вільного прицілювання: <size=60>:B:</size>
+
+ВИСТРІЛИТИ У ВОРОГА <size=60>:RT:</size>"
+KEY_TUT1_MOVEMENT_DESCRIPTION_BIND_NEW_C,"СПРОБУЙТЕ КЕРУВАННЯ КАМЕРОЮ
+
+Рух камери: <size=60>:LTS:</size>
+Поворот камери: <size=60>:RTSLEFT:</size> і <size=60>:RTSRIGHT:</size>
+Масштабування камери: <size=60>:DUP:</size> і <size=60>:DDOWN:</size>
+Рівень фокусування: <size=60>:RTSUP:</size> і <size=60>:RTSDOWN:</size>"
+KEY_TUT1_MOVEMENT_PART2_DESCRIPTION_NEW_BIND_C,"ПЕРЕМІСТІТЬ СОЛДАТА НА ПІДСВІЧЕНУ КЛІТИНКУ
+
+Перемістіть Маркер вибору за допомогою <size=60>:LTS:</size> і натисніть <size=60>:A:</size>
+"
+KEY_TUT1_SELECTION_DESCRIPTION_BIND_NEW_C,"ВИБЕРІТЬ СОЛДАТА
+Натисніть <size=60>:RB:</size> або <size=60>:LB:</size>, або перемістіть Маркер вибору на солдата й натисніть <size=60>:A:</size>"
+KEY_TUT1_SHOOTING_DESCRIPTION_NEW_C,"Ваш рух перерветься, якщо ви ПОМІТИТЕ ВОРОГА. Це не завершує ваш хід.
+
+ВИБЕРІТЬ «СТРІЛЬБА ЗІ ЗБРОЇ»
+<size=60>:LT:</size>
+"
+KEY_TUT1_SHOOTING_PART2_DESCRIPTION__NEW_C,"Коли ви цілитеся у ворога, КІЛЬКІСТЬ ШКОДИ від атаки показується на смузі здоров'я.
+
+Що біліша смуга, то БІЛЬША ЙМОВІРНІСТЬ, ЩО ШКОДУ БУДЕ ЗАВДАНО.
+
+Ця смуга повністю заповнена чисто білим кольором, що означає гарантоване вбивство.
+
+ВІДКРИЙТЕ ВОГОНЬ ПО ВОРОГУ
+<size=60>:RT:</size>
+"
+KEY_TUT2_JETPACKJUMP_DESCRIPTION_NEW_C,"Важка броня для торса оснащена реактивними ранцями, які дозволяють солдатам ПЕРЕЛІТАТИ ЧЕРЕЗ ПЕРЕШКОДИ та досягати дуже високих точок.
+
+Використайте <size=60>:RTSVERT:</size>, щоб перемістити камеру та показати НАЙВИЩИЙ РІВЕНЬ вежі.
+
+Здатність «Реактивний стрибок» використовує 3 Очки дій (ОД)."
+KEY_TUT2_SPOTTEDENEMIES_DESCRIPTION_NEW_C,"Усі союзники та помічені вороги з'являться у вигляді іконок над панеллю дій.
+
+Коли ви активували стрільбу, удар або лікування, ви можете вибрати ІКОНКУ ПЕРСОНАЖА за допомогою <size=60>:LB:</size> і <size=60>:RB:</size>, щоб зробити ціллю конкретного персонажа"
+KEY_TUT3_HANDGRENADE_DESCRIPTION_NEW,"Ручні гранати (:HANDGRENADE:) можна екіпірувати в Готовий слот і використовувати, як будь-яку іншу зброю, щоб ЗАВДАВАТИ ШКОДИ ПО ОБЛАСТІ.
+
+Помаранчева сфера показує область ураження.
+
+Щоб тримати гранату, персонажу потрібна рука, а щоб кинути гранату — 2 Очки дій (ОД). Відстань, на яку можна кинути гранату, залежить від Сили та здатностей солдата.
+
+ВИБЕРІТЬ ДІЮ «КИНУТИ ГРАНАТУ»!
+
+Наведіться на простір між двома ворогами <size=60>:RTS:</size>
+
+Киньте гранату <size=60>:A:</size>"
+KEY_TUTORIAL_BASE_DESCRIPTION_NEW_C,"Ваша База — це ваша фортеця, де розташовані ВСІ ОБ'ЄКТИ, а також життєво важливі ресурси, як-от Провіант, Матеріали та Технології. Phoenix Point у поганому стані. Вам потрібно відремонтувати Ангар, перш ніж ви зможете запустити свій літак Мантикора — і це займе певний час. ПОЧНІТЬ РЕМОНТ АНГАРА Виберіть ангар і натисніть <size=60>:A:</size>, щоб відкрити меню об'єкта, а потім натисніть кнопку РЕМОНТ ОБ'ЄКТА. ПОТІМ ПОВЕРНІТЬСЯ ДО ГЕОСКОПА ЗА ДОПОМОГОЮ <size=60>:LT:</size> ТА ПРИСКОРІТЬ ЧАС ЗА ДОПОМОГОЮ <size=60>:X:</size>"
+KEY_TUTORIAL_EQUIPMENT_DESCRIPTION_C,"Ви можете ЕКІПІРУВАТИ СОЛДАТІВ новою зброєю, бронею та іншими предметами, вибираючи доступне спорядження зі складу у відповідні слоти в розділі інвентарю.
+
+Ви можете миттєво екіпірувати або виготовити предмети в ГОТОВИХ слотах за допомогою кнопок +БОЄПРИПАСИ та +ПРЕДМЕТ.
+
+Розділ БРОНЯ показує броню, яку солдат носить на ногах, тілі та голові.
+
+Розділ КРІПЛЕННЯ використовується для спеціального спорядження, яке можна прикріпити лише до відповідної частини броні."
+KEY_TUTORIAL_GEOSCAPE_DESCRIPTION_NEW_C,"ГЕОСКОП показує світ, а також усі локації та місця, що становлять інтерес.
+
+На початку вам відомо лише про вашу базу — Phoenix Point.
+
+КЕРУВАННЯ ГЕОСКОПОМ
+Обертати глобус: <size=60>:LTS:</size>
+Наблизити/віддалити: <size=60>:RTSUP:</size> і <size=60>:RTSDOWN:</size>
+Використовуйте кнопки контролера для навігації в меню та <size=60>:B:</size> для повернення
+
+ПЕРЕЙДІТЬ ДО МЕНЮ «БАЗИ» ЗА ДОПОМОГОЮ <size=60>:RT:</size>"
+KEY_TUTORIAL_MANTICORE_DESCRIPTION_NEW_C,"Мантикора — це ВАШ ЛІТАК для перевезення солдатів і дослідження світу. Екіпаж літака показано на панелі Літаків унизу екрана за допомогою іконок класів солдатів.
+
+ВІДПРАВТЕ СВОЮ МАНТИКОРУ ДО НЕДОСЛІДЖЕНОГО МІСЦЯ
+Перемістіть курсор до локації за допомогою <size=60>:LTS:</size> і натисніть <size=60>:A:</size>, потім виберіть «ПЕРЕМІСТИТИ» за допомогою <size=60>:A:</size>"
+KEY_TUTORIAL_MIST_DESCRIPTION_C,"Туман відображає ПОШИРЕННЯ ПАНДОРАВІРУСУ по всій планеті. Пандоранські мутації намагатимуться будувати колонії на ділянках землі, вкритих туманом, а потім атакуватимуть притулки поблизу.
+
+Щоб протистояти цій загрозі, вам потрібно буде виготовляти спорядження.
+
+ВИБЕРІТЬ ЕКРАН «ВИРОБНИЦТВО»
+"
+KEY_TUTORIAL_PERSONNEL_DESCRIPTION_C,"Перш ніж відправити загін на розвідку, вам слід екіпірувати солдатів та підвищити їхній рівень.
+
+ВИБЕРІТЬ ЕКРАН «ПЕРСОНАЛ»"
+KEY_TYPE_FILTER_LEGEND,Фільтр типу
+KEY_TYPE_FILTER_SELECT_LEGEND,Вибрати тип
+KEY_UNITS_LEGEND,Екіпаж
+KEY_UNITS_WEAPON_LEGEND,Екіпаж / Зброя
+KEY_UNIT_INFO_LEGEND,Інформація про одиницю
+KEY_YES_LEGEND,Так
+KEY_ZOOM_IN_LEGEND,Наблизити / Віддалити

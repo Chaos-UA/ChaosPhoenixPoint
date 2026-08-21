@@ -1,0 +1,33 @@
+[h1]Chaos Inventory — Aircraft Become Real Storage[/h1]
+[i]Tired of every aircraft sharing one giant faction-wide junk drawer? Give each aircraft its own cargo hold instead.[/i]
+
+In vanilla Phoenix Point, "aircraft storage" doesn't really exist — equipping a soldier on a plane silently reads and writes whichever base (or the shared global pool) happens to be docked underneath it. There's no such thing as "this gear belongs to this aircraft." This mod fixes that: every aircraft gets its own unlimited, genuinely separate cargo hold, with a full UI to match.
+
+[h2]What It Does[/h2]
+[list]
+[*][b]Unlimited aircraft storage[/b] — an aircraft can carry any amount of gear, completely exempt from base/faction storage-capacity limits. Loading up a plane never eats into your base's capacity.
+[*][b]Per-aircraft isolation[/b] — unequip an item from a soldier on Aircraft A, and it goes into [i]that aircraft's own cargo[/i] — not a shared pool, not the docked base, and definitely not Aircraft B parked next to it.
+[*][b]No cross-aircraft snooping[/b] — a soldier who isn't currently on a given aircraft can't equip whatever is sitting in that aircraft's hold.
+[*][b]Base ↔ aircraft transfer while docked[/b] — right-click any item in the merged Storage list to move it to any other reachable location: the docked base, another docked aircraft, or back out to Global Inventory.
+[*][b]Global Inventory stays accessible[/b] — freshly manufactured or looted gear is usable from anywhere until you deliberately assign it somewhere specific. Non-instantly-manufactured Global items do require being at (or docked to) a base to equip, to keep manufacturing logic sane — items that build instantly are exempt from that restriction.
+[*][b]Ground-vehicle crews included[/b] — tanks/crawlers riding along on an aircraft get the exact same per-aircraft isolation as human soldiers.
+[*][b]Mission loot goes home automatically[/b] — items recovered from a mission now get credited straight to the aircraft that flew it (or, if the reward isn't tied to one specific aircraft, a random one docked at the site) instead of always dumping into Global Inventory.
+[/list]
+
+[h2]The Merged Storage View[/h2]
+Every equip screen now shows items from [b]everywhere[/b] at once, color-coded so you always know what you're looking at:
+[list]
+[*][b]White[/b] — belongs to the aircraft/base you're currently viewing.
+[*][b]Light blue[/b] — equipable from here, but actually sourced from a docked neighbor or Global Inventory.
+[*][b]Red[/b] — not reachable right now. Hover or click it to see exactly what would fix that ("dock to any base" or "dock to aircraft X", whichever actually applies).
+[/list]
+The Air Force tab also shows each aircraft's claimed cargo alongside its real weapon/module loadout, with its own filter, an "unload" menu, and a live cargo-count badge next to each aircraft's crew count.
+
+[h2]Compatibility[/h2]
+[list]
+[*]Pure Harmony patching — no vanilla files are modified.
+[*]Safe to disable mid-save: every item always physically lives in vanilla's own Global Inventory. This mod only tracks which aircraft has "claimed" what, as metadata layered on top — turn it off and everything is still exactly where vanilla itself would show it.
+[*]Actively tested for compatibility with [b]Terra from the Void (TFTV)[/b], including its shared-battery laser weapon ammo mechanic — several ammo/reload interaction bugs between the two mods have been found and fixed. Works fine without TFTV installed too.
+[/list]
+
+No configuration needed — the whole feature set is always on.

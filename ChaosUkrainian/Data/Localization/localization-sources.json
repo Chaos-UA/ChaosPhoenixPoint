@@ -1,0 +1,13 @@
+{
+  "Sources": [
+    {
+      "Directory": "PhoenixPoint"
+    },
+    {
+      "Directory": "TFTV",
+      "RequiredModId": "phoenixrising.tftv",
+      "LoadAfterDirectory": "PhoenixPoint",
+      "UseFileNameAsCategory": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+Key,Type,Desc,English,Chinese (Simplified),French,German,Italian,Polish,Russian,Spanish,UI_Tester
+KEY_ATTRIBUTES_MAX,Text,,MAX,最大,MAX,MAX,MASSIMO,MAKS.,МАКС.,MÁXIMO,MASSIMO
+KEY_CONTAINMENT_ALIENTYPE,Text,,PANDORAN TYPE,潘多拉体类型,TYPE DE PANDORIEN,PANDORANER-ART,TIPO PANDORA,TYP PANDORANA,ТИП ПАНДОРАНА,TIPO DE PANDORIANO,TIPO DE PANDORIANO
+KEY_CONTAINMENT_SLOTS,Text,,CONTAINMENT SLOTS,控制槽位,ESPACES DE CONFINEMENT,EINDÄMMUNGSPLÄTZE,SLOT DI CONTENIMENTO,MIEJSCA NA WIĘŹNIÓW,ЯЧЕЙКИ ИЗОЛЯТОРА,HUECOS DE CONTENCIÓN,PLÄTZE IN SICHERHEITSVERWAHRUNGSEINRICHTUNGEN
+KEY_DEPLOY_SQUAD,Text,,DEPLOY SQUAD,部署小队,DÉPLOYER ESCOUADE,EINSATZTEAM EINSETZEN,SCHIERA SQUADRA,WYŚLIJ ODDZIAŁ,ОТПРАВИТЬ ОТРЯД,DESPLEGAR PELOTÓN,DÉPLOYER ESCOUADE
+KEY_FATIGUE_CONFIRMATION,Text,,Some of your soldiers are tired or exhausted. They will have reduced Action Points for the battle. Do you wish to proceed?,你的一些士兵已经感到疲倦或筋疲力尽。他们的战斗行动点数将会减少。仍要继续吗？,Certains de vos soldats sont fatigués ou épuisés. Cela réduit leurs points d'action en combat. Souhaitez-vous continuer ?,Einige deiner Soldaten sind müde oder erschöpft. Im Kampf haben sie weniger Aktionspunkte. Fortfahren?,Alcuni dei tuoi soldati sono stanchi o esausti. Per la battaglia avranno quindi un numero di punti azione ridotti. Vuoi procedere?,"Niektórzy żołnierze są zmęczeni lub wycieńczeni, przez co będą mieli w bitwie mniej punktów akcji. Czy chcesz kontynuować?",Некоторые из ваших солдат устали или истощены. В битве у них будет меньше очков действия. Вы хотите продолжить?,"Algunos de tus soldados están cansados o exhaustos, por lo que irán al combate con menos puntos de acción. ¿Quieres continuar?",Alcuni dei tuoi soldati sono stanchi o esausti. Per la battaglia avranno quindi un numero di punti azione ridotti. Vuoi procedere?
+KEY_GEOROSTER_ACTIONS,Text,,ACTIONS,行动,ACTIONS,AKTIONEN,AZIONI,CZYNNOŚCI,ДЕЙСТВИЯ,ACCIONES,CZYNNOŚCI
+KEY_GEOROSTER_ARMOUR,Text,,ARMOR,护甲,ARMURE,RÜSTUNG,ARMATURA,PANCERZ,БРОНЯ,ARMADURA,ARMATURA
+KEY_GEOROSTER_BACK,Text,,BACK,返回,RETOUR,ZURÜCK,INDIETRO,WSTECZ,НАЗАД,ATRÁS,INDIETRO
+KEY_GEOROSTER_BODY,Text,,BACKPACK,背包,SAC À DOS,RUCKSACK,ZAINO,PLECAK,РЮКЗАК,MOCHILA,SAC À DOS
+KEY_GEOROSTER_CANCEL,Text,,CANCEL,取消,ANNULER,ABBRECHEN,ANNULLA,ANULUJ,ОТМЕНА,CANCELAR,ABBRECHEN
+KEY_GEOROSTER_DISALLOW,Text,,DISALLOW,不允许,REJETER,NICHT ERLAUBEN,RIFIUTA,NIE ZEZWALAJ,ЗАПРЕТИТЬ,RECHAZAR,NICHT ERLAUBEN
+KEY_GEOROSTER_EQUIP,Text,,EQUIPMENT,装备,ÉQUIPEMENT,AUSRÜSTUNG,EQUIPAGGIAMENTO,SPRZĘT,СНАРЯЖЕНИЕ,EQUIPO,EQUIPAGGIAMENTO
+KEY_GEOROSTER_MOUNTS,Text,,MOUNTS,搭载,GREFFES,MONTIERT,MONTATURE,MONTOWANE,КРЕПЛЕНИЯ,SUJECIONES,ANGEBRACHT
+KEY_GEOROSTER_NAME,Text,,SOLDIER NAME,士兵姓名,NOM DU SOLDAT,SOLDATENNAME,NOME SOLDATO,IMIĘ I NAZWISKO ŻOŁNIERZA,ИМЯ СОЛДАТА,NOMBRE DEL SOLDADO,IMIĘ I NAZWISKO ŻOŁNIERZA
+KEY_GEOROSTER_PROGRESS,Text,,TRAINING,训练,ENTRAÎNEMENT,TRAINING,ADDESTRAMENTO,SZKOLENIE,ПОДГОТОВКА,ENTRENAMIENTO,ADDESTRAMENTO
+KEY_GEOROSTER_RENAME_CHARACTER,Text,,Rename this soldier?,重新命名此士兵？,Renommer ce soldat ?,Diesen Einheit umbenennen?,Vuoi rinominare questo soldato?,Zmienić nazwę tego żołnierza?,Дать другое имя этому солдату?,¿Quieres cambiar el nombre a este soldado?,
+KEY_GEOROSTER_STORES,Text,,STORES,仓库,ENTREPÔTS,LAGER,MAGAZZINI,MAGAZYNY,СКЛАДЫ,ALMACENES,ENTREPÔTS
+KEY_GEOROSTER_TRANSFER,Text,,TRANSFER,转移,TRANSFÉRER,TRANSFER,TRASFERISCI,PRZENIESIENIE,ПЕРЕНЕСТИ,TRASLADAR,PRZENIESIENIE
+KEY_GEOSCAPE_PANDORANS_TT,Text,,All captured Pandorans held in the Containment facilities,所有关押在控制设施中的潘多拉体,Tous les Pandoriens détenus dans les centres de confinement.,Alle gefangenen Pandoraner in den Eindämmungsanlagen,I Pandora catturati sono tenuti nelle Strutture di contenimento.,Wszyscy pojmani Pandoranie umieszczeni w więzieniu,"Все пойманные пандораны, находящиеся в изоляционных помещениях",Todos los pandorianos capturados y retenidos en las instalaciones de contención,Todos los pandorianos capturados y retenidos en las instalaciones de contención
+KEY_GEOSCAPE_SOLDIERS_TT,Text,,Phoenix soldiers on active duty,所有位于凤凰基地宿舍中的士兵,Tous les soldats dans les quartiers d'habitation de la base Phoenix,Phoenix-Soldaten im aktiven Dienst,Tutti i soldati negli alloggi della base Phoenix,Wszyscy żołnierze przebywający w kwaterach bazy Projektu Phoenix,Все солдаты в жилых помещениях Базы Феникс,Todos los soldados que están en alojamientos de bases Fénix,Tous les soldats dans les quartiers d'habitation de la base Phoenix
+KEY_GEOSCAPE_VEHICLES_TT,Text,,All ground vehicles under Phoenix command,所有凤凰计划持有的载具,Tous les véhicules en possession du Projet Phoenix,Alle Fahrzeuge im Besitz von Phoenix,Tutti i veicoli appartenenti al Progetto Phoenix,"Wszystkie pojazdy, będące w posiadaniu Projektu Phoenix",Вся техника Проекта Феникс,Todos los vehículos en posesión del proyecto Fénix,"Wszystkie pojazdy, będące w posiadaniu Projektu Phoenix"
+KEY_HARVEST,Text,,HARVEST,收割,RÉCOLTER,ERNTE,PRELEVA,ŻNIWA,СБОР,"COSECHAR
+",
+KEY_READY_ITEM_SLOTS_USED_TT,Text,,NO WEAPON EQUIPPED,未装备武器,AUCUNE ARME ÉQUIPÉE,KEINE WAFFE BEREIT,NESSUNA ARMA EQUIPAGGIATA,BRAK WYPOSAŻONEJ BRONI,ПУСТЫЕ ЯЧЕЙКИ ГОТОВЫХ ПРЕДМЕТОВ {0}/{1},ОРУЖИЕ НЕ ЭКИПИРОВАНО,NO HAY ARMA EQUIPADA
+KEY_ROSTER_LOCATION,Text,,LOCATION,地点,LIEU,STANDORT,POSIZIONE,LOKALIZACJA,МЕСТО,UBICACIÓN,LOKALIZACJA
+KEY_SQUAD_SLOTS_USED,Text,,SQUAD SLOTS USED {0}/{1},小队已使用槽位 {0}/{1},EMPLACEMENTS D'ESCOUADES UTILISÉS {0}/{1},PLÄTZE EINSATZTEAM: {0}/{1},SLOT SQUADRA UTILIZZATI {0}/{1},UŻYWANE MIEJSCA W ODDZIALE {0}/{1},ИСПОЛЬЗОВАНО ЯЧЕЕК ОТРЯДА {0}/{1},HUECOS DE PELOTÓN USADOS: {0}/{1},EMPLACEMENTS D'ESCOUADES UTILISÉS {0}/{1}
+KEY_STATUS_GEO_INJURED,Text,,INJURED,受伤,BLESSÉ,VERLETZT,FERITE SUBITE,RANNY,РАНЕНИЕ,HERIDO,FERITE SUBITE
+KEY_STATUS_GEO_READY,Text,,READY,就绪,PRÊT,BEREIT,IN USO,GOTOWY,ГОТОВНОСТЬ,LISTO,ГОТОВНОСТЬ
+KEY_STATUS_GEO_TRAINING,Text,,TRAINING,训练,ENTRAÎNEMENT,TRAINING,ADDESTRAMENTO,SZKOLENIE,ПОДГОТОВКА,ENTRENAMIENTO,ADDESTRAMENTO
+KEY_STATUS_GEO_WORKING,Text,,WORKING,工作,TRAVAIL,ARBEITET,AL LAVORO,PRACUJE,РАБОТА,TRABAJANDO,TRABAJANDO
+KEY_STATUS_RECOVERY_TIME,Text,,{0:f0}h to heal,{0:f0} 小时后恢复,{0:f0} h pour guérir,{0:f0}h für die Heilung,{0:f0} ore alla guarigione,Wyleczenie zajmie {0:f0} godz.,{0:f0} ч до восстановления здоровья,{0:f0} h para sanar,{0:f0} ч до восстановления здоровья
+KEY_VEHICLE_LIMIT,Text,,Only one Vehicle can be deployed into a mission,一个任务中只可部署一辆载具,Seul un véhicule peut être déployé lors d'une mission,Maximal ein Fahrzeug pro Mission erlaubt.,Puoi schierare solo 1 veicolo durante una missione.,Możesz wysłać na misję tylko jeden pojazd,На задание можно отправить только одну единицу техники.,Sólo se puede desplegar un Vehículo por misión,

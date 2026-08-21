@@ -1,0 +1,33 @@
+Key,Ukrainian
+KEY_DIPLOMACY_ANU,Возвеличена
+KEY_DIPLOMACY_CONTACT,Встановити контакт з іншою фракцією
+KEY_DIPLOMACY_DEATH,Фракцію знищено
+KEY_DIPLOMACY_FACTION_NAME_TT,Це назва фракції
+KEY_DIPLOMACY_HAVEN_COUNT_TT,"Кількість притулків, що належать фракції"
+KEY_DIPLOMACY_ICON_GATE_TT,"Неможливо підвищити репутацію з цією фракцією, доки завдання фракції не буде успішно завершено"
+KEY_DIPLOMACY_ICON_HAVEN_TT,"Кількість притулків, які контролює ця фракція"
+KEY_DIPLOMACY_ICON_LEADER_TT,Лідер фракції
+KEY_DIPLOMACY_ICON_POPULATION_TT,Загальне населення всіх притулків фракції
+KEY_DIPLOMACY_INCREASE,"Захищайте притулки від нападів, щоб покращити свою репутацію"
+KEY_DIPLOMACY_LOCATE,ЗНАЙТИ ЗАВДАННЯ
+KEY_DIPLOMACY_NJ,Тобіас Вест
+KEY_DIPLOMACY_RELATIONSHIP_TOWARDS_TT,Ставлення до {0}
+KEY_DIPLOMACY_RELATIONS_INCREASE,"Ви повинні підвищити свою репутацію з цією фракцією, щоб отримувати від неї подальші завдання"
+KEY_DIPLOMACY_RESEARCH,Потрібне дослідження фракції для встановлення дипломатичних відносин
+KEY_DIPLOMACY_SYN,Рада Синедріона
+KEY_FACTION_NAME_ALIEN,Пандорани
+KEY_FACTION_NAME_ANU,Послідовники Ану
+KEY_FACTION_NAME_ENVIRONMENT,Середовище
+KEY_FACTION_NAME_INACTIVE,Неактивні
+KEY_FACTION_NAME_NEUTRAL,Незалежні
+KEY_FACTION_NAME_NEW_JERICHO,Новий Єрихон
+KEY_FACTION_NAME_PHOENIX,Проєкт «Фенікс»
+KEY_FACTION_NAME_SYNEDRION,Синедріон
+KEY_MISSION_DIPLOMACY_DEDICATED,Союзники
+KEY_MISSION_DIPLOMACY_FRIENDLY,Підтримка
+KEY_MISSION_DIPLOMACY_HOSTILE,Агресія
+KEY_MISSION_DIPLOMACY_NEUTRAL,Дружні
+KEY_MISSION_DIPLOMACY_SUPPORTIVE,Однодумці
+KEY_MISSION_DIPLOMACY_SUSPICIOUS,Недружні
+KEY_MISSION_DIPLOMACY_UNFRIENDLY,Ворожі
+KEY_MISSION_DIPLOMACY_VERY_HOSTILE,Війна

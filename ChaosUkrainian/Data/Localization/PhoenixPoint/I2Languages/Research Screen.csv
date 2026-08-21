@@ -1,0 +1,26 @@
+Key,Ukrainian
+KEY_RESEARCH_ALLY_RESEARCH,ДОСЛІДЖЕННЯ СОЮЗНИКА
+KEY_RESEARCH_BIOPSY_CONFIRM,"Це дослідження призведе до розтину таких пандоранів: {0} x {1}. Ви впевнені, що хочете почати?"
+KEY_RESEARCH_CLASS_UNLOCKED,Новий клас тепер доступний для навчання: {0}
+KEY_RESEARCH_COMPLETE,Дослідження завершено: {0}
+KEY_RESEARCH_COMPLETED,ЗАВЕРШЕНО
+KEY_RESEARCH_COMPLETE_HEAD,ДОСЛІДЖЕННЯ ЗАВЕРШЕНО
+KEY_RESEARCH_DAMAGE_BONUS,Завдана шкода типу {1} збільшена на 10%.
+KEY_RESEARCH_EFFECTS,БОНУСНІ ЕФЕКТИ
+KEY_RESEARCH_FACILITY,ДОСТУПНИЙ НОВИЙ ОБ'ЄКТ БАЗИ
+KEY_RESEARCH_FACTION,Тепер можливі дипломатичні відносини з {1}.
+KEY_RESEARCH_MISSION,Доступне спеціальне завдання!
+KEY_RESEARCH_NEW_AVAILABLE,ДОСТУПНЕ НОВЕ ДОСЛІДЖЕННЯ
+KEY_RESEARCH_NEW_CLASS,ДОСТУПНИЙ НОВИЙ КЛАС СОЛДАТА
+KEY_RESEARCH_NEW_MANUFACTURING,ДОСТУПНІ НОВІ ПРЕДМЕТИ ДЛЯ ВИРОБНИЦТВА
+KEY_RESEARCH_NEW_RESEARCH,НОВЕ ДОСЛІДЖЕННЯ
+KEY_RESEARCH_NOT_AVAILABLE,НЕМАЄ ДОСТУПНИХ ДОСЛІДЖЕНЬ
+KEY_RESEARCH_PHOENIXPEDIA_ENTRY,Доступний новий запис у Феніксопедії
+KEY_RESEARCH_PRODUCTION,Наступне тепер доступне для виробництва на нашій базі:
+KEY_RESEARCH_REQUIREMENTS_NOT_MET_TT,Вимоги не виконано
+KEY_RESEARCH_REVERSE_ENGINEERING_COMPLETED,"Процедура зворотної інженерії дала очікувані результати. Цей предмет тепер доступний для масового виробництва."
+KEY_RESEARCH_REVERSE_ENGINEERING_CONFIRM,"Це дослідження призведе до розбирання таких предметів: {0} x {1}. Ви впевнені, що хочете почати?"
+KEY_RESEARCH_REVERSE_ENGINEERING_COST,Потрібні предмети для початку: {0}/{1}
+KEY_RESEARCH_REVERSE_ENGINEERING_DESCRIPTION,"Дослідницькі та інженерні протоколи показують 98,5% шансу успішно застосувати зворотну інженерію до цього експоната та підготувати його до виробництва. У процесі кілька предметів, ймовірно, будуть знищені та стануть непридатними."
+KEY_RESEARCH_REVERSE_ENGINEERING_NAME,Зворотна інженерія: {0}
+KEY_RESEARCH_SHARED_RESEARCH,СПІЛЬНЕ ДОСЛІДЖЕННЯ

@@ -1,0 +1,6 @@
+Key,Type,Desc,English,Chinese (Simplified),French,German,Italian,Polish,Russian,Spanish,UI_Tester
+KEY_CINEMATIC_GALLERY,Text,,CINEMATIC GALLERY,过场动画画廊,GALERIE CINÉMATIQUE,FILMSEQUENZEN,GALLERIA FILMATI,GALERIA PRZERYWNIKÓW FILMOWYCH,ГАЛЛЕРЕЯ СО СЦЕНАМИ,GALERÍA DE CINEMÁTICAS,
+KEY_MUTOID_BASE_LEGEND,Text,,Mutoid / Base,变异 / 基地,Mutoïde/base,Mutoid / Basis,Mutoide / Base,Mutoid / Baza,Мутоиды/база,Mutoide/Base,
+KEY_PLACEHOLDER,Text,,ASDF,ASDF,ASDF,ASDF,ASDF,ASDF,ASDF,ASDF,
+KEY_RECRUIT_BASE_LEGEND,Text,,Recruit / Base,招募 / 基地,Recrue/base,Rekruten / Basis,Recluta / Base,Rekrut / Baza,Новобранцы/база,Reclutar/Base,
+KEY_WEAPON_LEGEND,Text,,Weapon,武器,Arme,Waffe,Arma,Broń,Оружие,Arma,

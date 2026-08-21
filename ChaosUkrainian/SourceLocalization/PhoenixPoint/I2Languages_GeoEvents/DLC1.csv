@@ -1,0 +1,574 @@
+Key,Type,Desc,English,UI_Tester,Chinese,French,Spanish,Italian,German,Russian,Polish,0
+PROG_PU10_CHOICE_0_OUTCOME_GENERAL,Text,,A rogue Synedrion mercenary has approached us with an interesting offer. He claims to have a recording of a secret communication between Subject 24 and leaders of the Malthusian faction and is willing to sell it to us for a price.,,一名不守规矩的平衡议会佣兵找到我们，并向我们提供了一个有意思的交易。他自称有一份 24 号实验对象与马尔萨斯派系首领之间的秘密谈话录音，并且愿意卖给我们。,Un mercenaire sans scrupules du Synédrion nous a fait une offre intéressante. Il dit avoir un enregistrement d'une communication secrète entre Sujet 24 et les chefs d'une faction malthusienne et il est prêt à nous la vendre si nous lui offrons le bon prix.,Un mercenario solitario de Synedrion se ha puesto en contacto con una oferta interesante. Asegura que posee las grabaciones de una comunicación secreta entre el Sujeto 24 y los líderes de la facción Maltusiana y que está dispuesto a vendérnoslas.,"Un mercenario corrotto di Synedrion si è fatto avanti con una proposta interessante. Dice di avere la registrazione di una comunicazione segreta tra il Soggetto 24 e i leader della fazione Malthusiana, e vorrebbe vendercela.","Ein abtrünniger Synedrion-Söldner hat uns kontaktiert und ein interessantes Angebot unterbreitet. Er behauptet, eine Aufzeichnung geheimer Kommunikation zwischen Versuchsperson 24 und den Anführern der malthusianischen Fraktion zu besitzen, und bietet sie uns zum Kauf an.","Наемник, предавший Синедрион, обратился к нам с интересным предложением. Он якобы располагает записью тайных сообщений между Подопытным №24 и лидерами Мальтузианской фракции и готов продать ее нам за вознаграждение.","Zbuntowany najemnik Synedrionu złożył nam interesującą propozycję. Twierdzi, iż jest w posiadaniu zapisu tajnych rozmów pomiędzy Obiektem 24 a Maltuzjańską Rewoltą. Chce nam je sprzedać.",
+PROG_PU10_CHOICE_0_TEXT,Text,,Accept.,,接受。,Accepter.,Aceptar.,Accetta.,Annehmen.,Принять.,Akceptuj.,
+PROG_PU10_CHOICE_1_OUTCOME_GENERAL,Text,,Disappointed by our response the mercenary ended all communication saying he could get a better deal elsewhere. Any subsequent attempts to reestablish contact or find the person have ended in failure.,,佣兵对我们的回应很是失望，立刻停止了与我们的一切通讯，并称自己可以在其他地方达成更好的交易。我们想要找到这名佣兵的位置并再次与他建立联系，但均未获得成功。,"Déçu par notre réponse, le mercenaire a mis fin à toute communication en disant qu'il pourrait obtenir une meilleure offre ailleurs. Toutes les tentatives ultérieures visant à rétablir le contact ou à trouver la personne se sont soldées par un échec..",Nuestra respuesta a decepcionado al mercenario y ha cortado toda comunicación; dice que puede llegar a mejores acuerdos en otros lados. Los intentos subsiguientes por restablecer el contacto no han tenido éxito.,"Infastidito dalla nostra risposta, il mercenario ha interrotto ogni comunicazione dicendo che può fare affari migliori altrove. Qualsiasi tentativo successivo di ristabilire un contatto o trovare la persona è stato fallimentare.","Enttäuscht von unserer Reaktion brach der Söldner den Kontakt ab und erklärte, er würde anderswo ein besseres Geschäft machen. Jegliche Versuche, die Verbindung wiederherzustellen oder ihn aufzuspüren, schlugen fehl.","Разочарованный нашим ответом, наемник прервал диалог и заявил, что заключит более выгодную сделку в другом месте. Любые дальнейшие попытки установить контакт или найти его закончились провалом.","Rozczarowany naszą reakcją najemnik zakończył rozmowę, dodając, że wszędzie dostanie lepszą ofertę. Wszelkie próby ponownego nawiązania kontaktu lub znalezienia go zakończyły się niepowodzeniem.",
+PROG_PU10_CHOICE_1_TEXT,Text,,Refuse.,,拒绝。,Refuser.,Rechazar.,Rifiuta.,Ablehnen.,Отказаться.,Odmów.,
+PROG_PU10_TEXT_GENERAL_0,Text,,A rogue Synedrion mercenary has approached us with an interesting offer. He claims to have a recording of a secret communication between Subject 24 and leaders of the Malthusian faction and is willing to sell it to us for a price.,,一名不守规矩的平衡议会佣兵找到我们，并向我们提供了一个有意思的交易。他自称有一份 24 号实验对象与马尔萨斯派系首领之间的秘密谈话录音，并且愿意卖给我们。,Un mercenaire sans scrupules du Synédrion nous a fait une offre intéressante. Il dit avoir un enregistrement d'une communication secrète entre Sujet 24 et les chefs d'une faction malthusienne et il est prêt à nous la vendre si nous lui offrons le bon prix.,Un mercenario solitario de Synedrion se ha puesto en contacto con una oferta interesante. Asegura que posee las grabaciones de una comunicación secreta entre el Sujeto 24 y los líderes de la facción Maltusiana y que está dispuesto a vendérnoslas.,"Un mercenario corrotto di Synedrion si è fatto avanti con una proposta interessante. Dice di avere la registrazione di una comunicazione segreta tra il Soggetto 24 e i leader della fazione Malthusiana, e vorrebbe vendercela.","Ein abtrünniger Synedrion-Söldner ist mit einem interessanten Angebot auf uns zugekommen. Er behauptet, im Besitz einer Aufzeichnung einer geheimen Kommunikation zwischen Versuchsperson 24 und den Anführern der malthusianischen Fraktion zu sein und ist willens, sie uns zu verkaufen.","Наемник, предавший Синедрион, обратился к нам с интересным предложением. Он якобы располагает записью тайных сообщений между Подопытным №24 и лидерами Мальтузианской фракции и готов продать ее нам за вознаграждение.","Zbuntowany najemnik Synedrionu złożył nam interesującą propozycję. Twierdzi, iż jest w posiadaniu zapisu tajnych rozmów pomiędzy Obiektem 24 a Maltuzjańską Rewoltą. Chce nam je sprzedać.",
+PROG_PU10_TITLE,Text,,Whispers,,谣传,Rumeurs,Susurros,Sussurri,Flüstern,Шепот,Szepty,
+PROG_PU121_CHOICE_0_TEXT,Text,,OK.,,好的。,OK.,VALE.,OK.,OK.,ОК.,OK.,
+PROG_PU121_TEXT_GENERAL_0,Text,,"MESSAGE
+
+Good move, Phoenix Project. You think you can beat us at our own game? Tobias West thought the same way and look at him now: trembling behind his walls and adjutants, terrified of every sound in the dark.
+You’ll be like that soon, and you’ll never know when that sound turns out to be us.
+",,"消息
+ 
+干得漂亮，凤凰计划。你们以为可以在我们的游戏中战胜我们？托拜厄斯·韦斯特曾经也是这样认为的，看看他现在的处境吧：躲在他的高墙和副官身后瑟瑟发抖，害怕听见黑暗中的任何声响。
+很快，你们也会和他一样，而且你们永远也不会知道那声响什么时候会是我们。","MESSAGE
+ 
+Bien joué, Projet Phoenix. Vous pensez pouvoir nous battre à notre propre jeu ? Tobias West le pensait aussi et regardez-le maintenant : il est tout tremblant derrière ses remparts et ses adjudants, terrifié par tous les bruits qui résonnent dans la nuit.
+C'est ce qui vous attend, et vous ne saurez jamais quand ces bruits seront nous.","MENSAJE
+ 
+Bien jugado, Proyecto Fénix. ¿Acaso creéis que podéis derrotarnos en lo que se nos da mejor? Tobias West pensó que podría, pero se llevó una desagradable sorpresa; ahora se pasa el día temblando tras sus muros y ayudantes, aterrorizado de los sonidos en la oscuridad.
+Os espera el mismo destino; jamás sabréis cuándo seremos nosotros ese sonido.","MESSAGGIO
+ 
+Bella mossa, Progetto Phoenix. Pensate davvero di poterci battere al nostro stesso gioco? Tobias West la pensava allo stesso modo e guardate che fine ha fatto: impaurito, nascosto dentro le sue quattro mura e dietro ai suoi aiutanti, terrorizzato da qualsiasi rumore nel buio.
+Anche voi sarete così, ben presto, e non saprete mai quando saremo noi a fare quel rumore.","NACHRICHT
+ 
+Ein gelungener Schachzug, Phoenix-Projekt. Glaubt ihr wirklich, ihr könnt uns mit unseren eigenen Waffen schlagen? Das dachte Tobias West auch – und seht ihn euch heute an: Er kauert zitternd hinter Mauern und Adjutanten, in ständiger Furcht vor jedem Geräusch in der Dunkelheit.
+Euch wird es bald genauso ergehen, und irgendwann sind das Geräusch wir.","СООБЩЕНИЕ
+ 
+Ну вы и молодцы, Проект Феникс. Думаете, что сможете победить нас в нашей игре? Тобиас Вест думал так же, и где он теперь? Дрожит за высокими стенами, прячется за подручными, пугается каждого шороха в темноте.
+Вас ждет та же участь. Кто знает, может это и не шорох вовсе, а эхо наших шагов.","WIADOMOŚĆ
+ 
+Dobry ruch. Myślicie, że uda się wam nas pokonać w naszej własnej grze? Tobias West też tak sądził. Spójrzcie tylko, jak teraz kuli się za murami i armią oficerów, lękając się każdego dźwięku dochodzącego z mroku. Wy też tak skończycie. A każdy z tych dźwięków będzie mógł zwiastować nasze nadejście.",
+PROG_PU121_TITLE,Text,,A Good Move,,干得不错,Bien joué,Una buena jugada,Una buona mossa,Ein guter Zug,"Молодцы, ничего не скажешь",Dobry ruch,
+PROG_PU12_FAIL_CHOICE_0_TEXT,Text,,OK.,,好的。,OK.,VALE.,OK.,OK.,ОК.,OK.,
+PROG_PU12_FAIL_TEXT_GENERAL_0,Text,,"MESSAGE
+
+The attempt to obtain the Synedrion research data ended in failure. We can only hope that the Pure failed in their objectives as well. The raid has caused a deterioration of relations with Synedrion. According to reports a few have even called for open war with the Phoenix Project.
+",,"信息
+ 
+ 尝试获取平衡议会研究数据失败。我们只能希望纯净者也无法达成他们的目标了。这次入侵使我们与平衡议会的关系进一步恶化。据报道显示，平衡议会中的某些人甚至要求与凤凰计划公开宣战。","MESSAGE
+ 
+ La tentative d'obtenir les données de recherche du Synédrion s'est soldée par un échec. Nous ne pouvons qu'espérer que les Purs n'atteignent pas non plus leurs objectifs. Le raid a détérioré les relations avec le Synédrion. Selon les rapports, certains auraient même demandé une guerre ouverte avec le Projet Phoenix.","MENSAJE
+ 
+ No se ha tenido éxito en la obtención de los datos de investigación de Synedrion. Esperemos que La Pureza tampoco haya conseguido su objetivo. La incursión ha deteriorado las relaciones con Synedrion. Según indican los informes, hay quienes quieren declararle la guerra al Proyecto Fénix.","MESSAGGIO
+ 
+ Il tentativo di ottenere la ricerca di Synedrion è stato fallimentare. Possiamo soltanto sperare che anche il tentativo dei Puri fallisca. L'incursione ha causato un peggioramento delle relazioni con Synedrion. I rapporti dicono che alcuni hanno chiesto a gran voce la guerra aperta con il Progetto Phoenix.","NACHRICHT
+ 
+Unser Versuch, die Forschungsdaten von Synedrion zu sichern, schlug fehl. Wir können nur hoffen, dass auch die Reinen ihre Ziele verfehlt haben. Der Angriff hat zu einer Verschlechterung der Beziehungen zu Synedrion geführt. Berichten zufolge fordern manche sogar einen offenen Krieg gegen das Phoenix-Projekt.","СООБЩЕНИЕ
+ 
+ Попытка заполучить данные исследований Синедриона потерпела провал. Мы можем только надеяться, что Непорочным не удалось достичь своих целей. Рейд стал причиной ухудшения отношений с Синедрионом. Согласно докладам, некоторые даже призывали к открытой войне с Проектом Феникс.","WIADOMOŚĆ
+ 
+ Nie udało się przechwycić danych badawczych Synedrionu. Możemy jedynie mieć nadzieję, że Oczyszczonym też się nie powiodło. Wskutek naszego ataku relacje z Synedrionem uległy pogorszeniu. Jak podają informatorzy, niektórzy nawołują nawet do wypowiedzenia wojny Projektowi Phoenix.",
+PROG_PU12_FAIL_TITLE,Text,,Misguided,,误导,Fourvoyés,Mal informados,Fuorviato,Fehlgeleitet,Провал,To był błąd,
+PROG_PU12_MISS_CHOICE_0_TEXT,Text,,START MISSION,,开始任务,COMMENCER LA MISSION,EMPEZAR MISIÓN,AVVIA MISSIONE,MISSION STARTEN,НАЧАТЬ МИССИЮ,ROZPOCZNIJ MISJĘ,
+PROG_PU12_MISS_CHOICE_1_TEXT,Text,,CANCEL,,取消,ANNULER,CANCELAR,ANNULLA,ABBRECHEN,ОТМЕНА,ANULUJ,
+PROG_PU12_MISS_TEXT_GENERAL_0,Text,,"MISSION BRIEFING
+
+It's clear that The Pure intend to attack a Synedrion research facility in order to further enhance the capabilities of their bionic soldiers. Should they succeed the threat of the Pure will increase significantly.
+We should attack the facility as soon as possible and take the tech for ourselves. We may need to engage both Synedrion forces and The Pure.
+",,"任务概要
+ 
+ 显然，纯净者打算攻击平衡议会的一座研究设施来进一步强化他们仿生士兵的能力。如果纯净者的计划得逞，他们的威胁将大大提升。
+我们应该尽快进攻那里，并将科技据为己用。我们可能会同时遭遇平衡议会和纯净者双方的部队。","RÉSUMÉ DE LA MISSION
+ 
+ Les Purs ont clairement l'intention d'attaquer un centre de recherche du Synédrion dans le but d'améliorer encore les capacités de leurs soldats bioniques. S'ils réussissent, la menace des Purs augmentera considérablement.
+ Nous devrions attaquer le centre au plus vite et obtenir ces recherches nous-mêmes. Il est possible que nous devions affronter les forces du Synédrion et des Purs.","INSTRUCCIONES DE LA MISIÓN
+ 
+ Está claro que La Pureza pretende asaltar las instalaciones de investigación de Synedrion para potenciar las capacidades de sus soldados biónicos. Si tienen éxito, La Pureza se convertirá en una amenaza mayor.
+ Deberíamos atacar las instalaciones cuanto antes y quedarnos con la tecnología. Quizás tengamos que enfrentarnos tanto a las fuerzas de Synedrion como a las de La Pureza.","RIEPILOGO MISSIONE
+ 
+ È chiaro che i Puri intendano attaccare una struttura di ricerca Synedrion per potenziare ulteriormente le capacità dei loro soldati bionici. Se avessero successo, la minaccia che rappresentano si ingrandirebbe notevolmente. Dobbiamo attaccare la struttura il prima possibile e prenderci la loro tecnologia. Forse dovremo affrontare sia Synedrion che i Puri.","MISSIONSBRIEFING
+ 
+Unzweifelhaft beabsichtigen die Reinen, eine Synedrion-Forschungseinrichtung anzugreifen, um die Fähigkeiten ihrer bionischen Soldaten weiter zu verbessern. Sollte dies gelingen, wird die Bedrohung durch die Reinen erheblich zunehmen.
+Wir sollten die Einrichtung schnellstmöglich angreifen und die Technologie sichern. Dabei müssen wir uns auf Gefechte mit Synedrion-Truppen und den Reinen einstellen.","СВОДКА МИССИИ
+
+Очевидно, что Непорочные намерены атаковать исследовательский центр Синедриона, чтобы расширить возможности своих бионических солдат. В случае успеха угроза этой фракции значительно возрастет.
+Нужно атаковать центр как можно скорее и забрать все технологии себе. Возможно, нам придется столкнуться как с силами Синедриона, так и с отрядами Непорочных.","ODPRAWA
+ 
+ To oczywiste, że Oczyszczeni zamierzają zaatakować ośrodek badawczy Synedrionu, by poprawić zdolności bojowe swych bionicznych żołnierzy. Jeśli im się uda, będą stanowić o wiele większe zagrożenie. Musimy jak najszybciej zaatakować ośrodek i przejąć tę technologię. Być może trzeba będzie stawić czoła zarówno Synedrionowi, jak i Oczyszczonym.",
+PROG_PU12_MISS_TITLE,Text,,Guided By Whispers,,闻风而动,Guidés par des rumeurs,Guiados por los susurros,Guidato dai sussurri,Von Flüstern geleitet,За шепотом во тьме,Prowadzi nas szept,
+PROG_PU12_WIN_CHOICE_0_TEXT,Text,,"OK.
+NEW RESEARCH AVAILABLE",,"好的。
+ 新研究可用","OK.
+ NOUVELLE RECHERCHE DISPONIBLE","VALE.
+ NUEVA INVESTIGACIÓN DISPONIBLE","OK.
+ NUOVA RICERCA DISPONIBILE","OK.
+NEUE FORSCHUNG VERFÜGBAR","ОК.
+ ДОСТУПНО НОВОЕ ИССЛЕДОВАНИЕ","OK.
+ DOSTĘPNE NOWE BADANIA",
+PROG_PU12_WIN_TEXT_GENERAL_0,Text,,"MESSAGE
+
+The successful recovery of the research data has slowed down the Pure’s advancement, but has also strained relations between the Phoenix Project and Synedrion. Additionally, we’ve received official communications from Tobias West, suggesting it’s in our interest to share the recently obtained knowledge.",,"消息
+ 
+ 获取研究数据的成功拖延了纯净者的进展，但也使凤凰计划和平衡议会的关系更加紧张。另外，我们接收到了来自托拜厄斯·韦斯特的官方通信，称如果我们能与他分享获得的技术，将会对我们带来好处。","MESSAGE
+ 
+ La récupération réussie des données de recherche a ralenti la progression des Purs, mais a également nuit aux relations entre le Projet Phoenix et le Synédrion. Par ailleurs, nous avons reçu des communications officielles de la part de Tobias West, suggérant qu'il serait dans notre intérêt de partager les connaissances récemment obtenues.","MENSAJE
+ 
+ Se han recuperado los datos de investigación con éxito y se ha ralentizado el avance de La Pureza, pero esto ha afectado negativamente a las relaciones entre el Proyecto Fénix y Synedrion. Además, hemos recibido un comunicado oficial de Tobias West en el que sugiere que nos beneficiaríamos si compartimos la información.","MESSAGGIO
+ 
+ L'avvenuto recupero dei dati di ricerca ha rallentato l'avanzata dei Puri, ma ha anche danneggiato le relazioni tra il Progetto Phoenix e Synedrion. Inoltre, abbiamo ricevuto una comunicazione ufficiale da Tobias West, in cui dichiara che è nel nostro interesse condividere la conoscenza recentemente ottenuta.","NACHRICHT
+ 
+Die erfolgreiche Wiederbeschaffung der Forschungsdaten hat den Fortschritt der Reinen verlangsamt, aber auch die Beziehungen zwischen dem Phoenix-Projekt und Synedrion belastet. Darüber hinaus haben wir offizielle Mitteilungen von Tobias West erhalten, dass es in unserem eigenen Interesse sei, das kürzlich erworbene Wissen zu teilen.","СООБЩЕНИЕ
+ 
+ Успешное восстановление данных исследований замедлило наступление Непорочных, но также обострило отношения между Проектом Феникс и Синедрионом. Кроме того, мы получили официальные сообщения от Тобиаса Веста с намеками на то, что в наших интересах будет поделиться недавно полученной информацией.","WIADOMOŚĆ
+ 
+ Przechwyciliśmy dane badawcze i spowolniliśmy rozwój Oczyszczonych, jednak doprowadziliśmy też do pogorszenia relacji między Projektem Phoenix a Synedrionem. Ponadto Tobias West przesłał nam oficjalny komunikat, w którym zasugerował, iż udostępnienie uzyskanej przez nas wiedzy leży w naszym interesie.",
+PROG_PU12_WIN_TITLE,Text,,Another Secret Obtained,,获得又一秘密,Un autre secret obtenu,Otro secreto más,Un altro segreto ottenuto,Ein weiteres Geheimnis erlangt,Еще один секрет раскрыт,Mamy kolejny sekret,
+PROG_PU13_CHOICE_0_TEXT,Text,,OK.,,好的。,OK.,VALE.,OK.,OK.,ОК.,OK.,
+PROG_PU13_TEXT_GENERAL_0,Text,,"MESSAGE
+
+We have received a message from Subject 24 via an encrypted channel. Satellite triangulation has discovered an electromagnetic anomaly at the source. It appears to be a man-made structure.
+",,"消息
+ 
+ 我们从加密频道收到了一则来自 24 号实验对象的消息。卫星三角测量在定位消息源头时发现了一个电磁异常地点。看上去似乎是一栋人造建筑。","MESSAGE
+ 
+ Nous avons reçu un message de Sujet 24 via un canal crypté. La triangulation satellite a découvert une anomalie électromagnétique à la source. La structure semble être artificielle.","MENSAJE
+ 
+ Hemos recibido un mensaje del Sujeto 24 a través de un canal encriptado. La triangulación de los satélites ha descubierto una anomalía electromagnética en el origen. Parece una estructura artificial.","MESSAGGIO
+ 
+ Abbiamo ricevuto un messaggio dal Soggetto 24 tramite un canale criptato. La triangolazione satellitare ha scoperto un'anomalia elettromagnetica alla fonte. Pare si tratti di una struttura, opera di uomini.","NACHRICHT
+ 
+Über einen verschlüsselten Kanal haben wir eine Nachricht von Versuchsperson 24 erhalten. Eine Satellitentriangulation hat eine elektromagnetische Anomalie an ihrer Quelle entdeckt. Es handelt sich offenbar um ein von Menschen errichtetes Gebäude.","СООБЩЕНИЕ
+ 
+ Поступило сообщение от Подопытного №24 по зашифрованному каналу. С помощью спутниковой триангуляции был обнаружен источник электромагнитной аномалии. Похоже, это структура, возведенная руками человека.","WIADOMOŚĆ
+ 
+ Otrzymaliśmy wiadomość od Obiektu 24 za pośrednictwem zakodowanego kanału. Triangulacja satelitarna wykryła anomalię elektromagnetyczną u źródła sygnału. Wygląda na to, że to konstrukcja stworzona przez człowieka.",
+PROG_PU13_TITLE,Text,,Triangulated,,三角测量,Triangulé,Triangulado,Individuato,Trianguliert,Триангуляция,Triangulacja,
+PROG_PU14_FAIL_CHOICE_0_TEXT,Text,,OK.,,好的。,OK.,VALE.,OK.,OK.,ОК.,OK.,
+PROG_PU14_FAIL_TEXT_GENERAL_0,Text,,"MESSAGE
+
+The trap Subject 24 had set up for us failed to kill us, but we were weakened. The opportunity was wasted, for regardless of the amount of Pure that were killed, more would take their place. While their leader remains they will continue their attacks throughout the globe.",,"消息
+ 
+ 24 号实验对象给我们设下的圈套未能杀死我们，但极大地削弱了我们的力量。我们错过了这次机会，因为无论杀死多少纯净者，只会有更多人代替他们的位置出现。只要首领依然存活，他们将继续在这个星球上肆虐。","MESSAGE
+ 
+ Le piège que Sujet 24 nous avait préparé ne nous a pas tués, mais nous avons été affaiblis. C'était une occasion manquée, quel que soit le nombre de Purs qui ont été tués, car d'autres prendront leur place. Tant que leur chef est vivant, ils continueront leurs attaques aux quatre coins du globe.","MENSAJE
+ 
+ La trampa que nos ha tendido el Sujeto 24 no ha conseguido matarnos, pero nos ha debilitado. No hemos aprovechado la oportunidad, pues habrá quienes ocupen los puestos de los caídos en La Pureza. Los ataques por el mundo no se detendrán hasta que no hayamos acabado con su líder.","MESSAGGIO
+ 
+ La trappola che il Soggetto 24 ci ha teso non ci ha uccisi, ma ci ha indeboliti. Abbiamo sprecato l'occasione: non importa quanti Puri sono stati uccisi, perché saranno rimpiazzati da un numero ancora maggiore. Finché il loro leader resta in vita continueranno ad attaccare in tutto il globo.","NACHRICHT
+ 
+Zwar haben wir die Falle von Versuchsperson 24 überlebt, doch wir sind geschwächt. Eine vergebene Gelegenheit – denn ganz gleich, wie viele der Reinen wir ausschalten: Es rücken ständig neue nach. Solange ihr Anführer lebt, werden die weltweiten Angriffe anhalten.","СООБЩЕНИЕ
+ 
+ Подопытный №24 устроил нам засаду. Никто не погиб, но наши силы ослабли. Возможность упущена: сколько бы мы не убили Непорочных, их место займут другие. Пока их лидер стоит во главе, они продолжат свои атаки по всему миру.","WIADOMOŚĆ
+ 
+ Obiekt 24 zastawił na nas pułapkę. Nie udało się mu nas zabić, ale mocno nas osłabił. Zmarnowaliśmy okazję — ilu Oczyszczonych byśmy nie zabili, ich miejsce zajmą nowi. Dopóki ich przywódca żyje, nadal będą atakować bastiony na całym świecie.",
+PROG_PU14_FAIL_TITLE,Text,,Impure,,不洁,Impurs,Impuro,Impuro,Unrein,Порочные,Nieczyści,
+PROG_PU14_MISS_CHOICE_0_TEXT,Text,,START MISSION,,开始任务,COMMENCER LA MISSION,EMPEZAR MISIÓN,AVVIA MISSIONE,MISSION STARTEN,НАЧАТЬ МИССИЮ,ROZPOCZNIJ MISJĘ,
+PROG_PU14_MISS_CHOICE_1_TEXT,Text,,CANCEL,,取消,ANNULER,CANCELAR,ANNULLA,ABBRECHEN,ОТМЕНА,ANULUJ,
+PROG_PU14_MISS_TEXT_GENERAL_0,Text,,"MISSION BRIEFING
+
+The location of the transmission appears to be the Pure’s central base. Initial analysis suggests the presence of multiple fully bionic soldiers, as well as Subject 24 himself. Should we succeed in killing him, there’s a high likelihood that the rest of the Pure will fall in disarray.",,"任务概要
+ 
+ 传输讯息所在的位置似乎就是纯净者的中心基地。初步分析表明存在多个经过完全仿生改造的士兵，以及 24 号实验对象本人。如果我们能杀死他，其余的纯净者将很有可能会由此陷入混乱。","RÉSUMÉ DE LA MISSION
+ 
+ L'emplacement de la transmission semble être la base centrale des Purs. L'analyse initiale suggère la présence de plusieurs soldats complètement bioniques, ainsi que de Sujet 24 en personne. Si nous parvenions à l'éliminer, il est très probable que le reste des Purs sombrent dans le chaos.","INSTRUCCIONES DE LA MISIÓN
+ 
+ Al parecer, la transmisión proviene de la base central de La Pureza. Los escaneos iniciales revelan la presencia de varios soldados completamente biónicos, así como la del mismísimo Sujeto 24. Si conseguimos acabar con él, existe la posibilidad de que la organización colapse.","RIEPILOGO MISSIONE
+ 
+ La trasmissione sembra provenire dalla base centrale dei Puri. Un'analisi preliminare sembra suggerire la presenza di diversi soldati completamente bionici, nonché dello stesso Soggetto 24. Se riuscissimo a ucciderlo, è molto probabile che tutti gli altri Puri finiscano totalmente allo sbando.","MISSIONSBRIEFING
+ 
+Der Ursprung der Übertragung scheint die Hauptbasis der Reinen zu sein. Erste Analysen deuten auf mehrere vollbionische Soldaten sowie Versuchsperson 24 persönlich hin. Sollten wir ihn erfolgreich eliminieren, ist die Wahrscheinlichkeit hoch, dass die verbleibenden Reinen im Chaos versinken.","СВОДКА МИССИИ
+
+Кажется, место передачи является штабом Непорочных. Первоначальный анализ указывает на присутствие нескольких бионических солдат с полной аугментацией, в их числе — Подопытный №24. Если удастся убить лидера, ряды его подчиненных, скорее всего, распадутся.","ODPRAWA
+ 
+ Transmisja dochodzi najwyraźniej z głównej bazy Oczyszczonych. Wstępna analiza wskazuje na obecność znacznej liczby w pełni bionicznych żołnierzy w tym obszarze. Może znajdować się tam również Obiekt 24. Jeśli uda nam się go zabić, zapewne reszta Oczyszczonych się rozpierzchnie.",
+PROG_PU14_MISS_TITLE,Text,,The Bionic Fortress,,仿生堡垒,La forteresse bionique,La fortaleza biónica,La fortezza bionica,Die bionische Festung,Бионическая крепость,Bioniczna forteca,
+PROG_PU14_WIN_CHOICE_0_TEXT,Text,,OK.,,好的。,OK.,VALE.,OK.,OK.,ОК.,OK.,
+PROG_PU14_WIN_TEXT_GENERAL_0,Text,,"MESSAGE
+
+Subject 24 is no more. What remained of the Pure’s stronghold has been completely destroyed and its technology stripped. Our teams managed to retrieve a large amount of archived drives containing terabytes of data. Unfortunately, the advanced encryption proved impossible to crack. What secrets Subject 24 had, he has taken them to the grave with him. We can only rest knowing that the threat of the Pure is no more.",,"消息
+ 
+ 24 号实验对象已经不复存在了。纯净者的大本营已被彻底摧毁，他们的科技也被我们取走。我们的队伍取回了大量存档硬盘，里面装着不计其数的宝贵数据。然而很可惜，我们无法破解这种高级的加密技术。24 号实验对象的秘密与他一起从这个世界消失了。唯一能让我们感到安心的是，纯净者再也无法对这个世界构成威胁了。","MESSAGE
+ 
+ Sujet 24 a été éliminé. Ce qu'il restait du bastion des Purs a été complètement détruit et sa technologie a été démontée. Nos équipes ont pu récupérer un grand nombre de lecteurs archivés contenant des téraoctets de données. Hélas, il nous est impossible de déchiffrer son code sophistiqué. Quels que soient les secrets que Sujet 24 détenait, il les a emportés dans sa tombe. Nous pouvons juste dormir tranquilles sachant que la menace des Purs a été éliminée.","MENSAJE
+ 
+ El Sujeto 24 ha caído. Lo poco que quedaba de la fortaleza de La Pureza ha sido destruida y su tecnología ha sido arrebatada. Nuestros equipos han conseguido recuperar grandes cantidades de lectores de archivos que contienen terabytes de información. Por desgracia, la encriptación es demasiado avanzada. El Sujeto 24 se ha llevado sus secretos a la tumba. Lo único que tenemos es la tranquilidad que nos da saber que la amenaza de la Pureza ha desaparecido.","MESSAGGIO
+ 
+ Il Soggetto 24 è morto. Ciò che restava della roccaforte dei Puri è stato completamente distrutto e la loro tecnologia è stata sottratta. Le nostre squadre sono riuscite a reperire una grande quantità di dischi di archiviazione contenenti terabyte di dati. Sfortunatamente, la crittografia avanzata si è rivelata impossibile da decifrare. Qualsiasi segreto celasse il Soggetto 24, se lo è portato con sé nella tomba. Ci consola solo la consapevolezza che la minaccia dei Puri è stata annientata.","NACHRICHT
+ 
+Versuchsperson 24 ist nicht mehr. Die Überreste der Festung der Reinen wurden vollständig zerstört und ihre Technologie ausgeschlachtet. Unseren Teams gelang es, eine große Menge archivierter Datenträger mit Terabytes an Daten zu bergen.
+
+Leider erwies sich die fortschrittliche Verschlüsselung als unknackbar. Welche Geheimnisse Versuchsperson 24 auch hatte, er hat sie mit ins Grab genommen. Wir können uns zumindest damit trösten, dass die Bedrohung durch die Reinen ein Ende hat.","СООБЩЕНИЕ
+ 
+ Подопытный №24 был убит. То, что осталось от штаба Непорочных, полностью разрушено, а технологии уничтожены. Нашим командам удалось заполучить множество архивных дисков, содержащих терабайты данных. К сожалению, сложное шифрование невозможно взломать. Подопытный №24 унес все секреты с собой в могилу. Но теперь мы можем вздохнуть спокойно, ведь нависшая угроза была рассеяна.","WIADOMOŚĆ
+ 
+ Obiekt 24 nie żyje. Twierdza Oczyszczonych została zrównana z ziemią i ogołocona z wszelkiego sprzętu. Nasi ludzie odzyskali wiele archiwalnych dysków zawierających terabajty danych, lecz nie udało nam się ich odszyfrować. Obiekt 24 zabrał ze sobą wszystkie tajemnice do grobu. Ulgę przynosi nam jedynie świadomość, że Oczyszczeni nie stanowią już zagrożenia.",
+PROG_PU14_WIN_TITLE,Text,,Triumph Of The Flesh,,肉体的胜利,Triomphe de la chair,El triunfo de la carne,Trionfo della carne,Triumph des Fleisches,Триумф плоти,Triumf ciała,
+PROG_PU1_CHOICE_0_TEXT,Text,,Phoenix Point receiving...,,凤凰点接收中...,Phoenix Point en cours de réception...,Punto Fénix recibe...,Phoenix Point riceve...,Phoenix Point auf Empfang ...,Точка Феникс принимает...,Phoenix Point — odbiór...,
+PROG_PU1_TEXT_GENERAL_0,Text,,"MESSAGE
+
+We’re receiving a transmission from an unidentified source. 
+The transmission is from someone identifying himself as ""Subject 24"". While details are lacking, Subject 24 claims to be contacting us with a warning and a promise of mutual benefits.
+All attempts to pinpoint the location of the transmission’s origin have been unsuccessful.",,"消息
+ 
+ 我们收到了一则来源未知的传输讯息。 
+ 讯息发送者称自己为“24 号实验对象”。尽管并未详细说明，不过 24 号实验对象与我们联系的原因是为了向我们发出警告，同时还向我们提出了一个能够共赢的承诺。
+目前一切试图定位讯息来源的尝试均以失败告终。","MESSAGE
+ 
+ Nous recevons une transmission d'une source non identifiée.
+Cette transmission provient d'un individu s'identifiant comme « Sujet 24 ». Nous n'avons pas tous les détails, mais Sujet 24 prétend nous contacter pour nous mettre en garde et nous proposer quelque chose qui bénéficierait à tout le monde.
+ Les tentatives pour trouver la source exacte de la transmission n'ont rien donné.","MENSAJE
+ 
+ Estamos recibiendo una transmisión de una fuente desconocida.
+Está a nombre de alguien que se autodenomina “Sujeto 24”. Los detalles son escasos, pero el Sujeto 24 asegura haberse puesto en contacto para advertirnos de algo y con la promesa del beneficio mutuo.
+ Los intentos para identificar el origen de la transmisión no han tenido éxito.","MESSAGGIO
+ 
+ Stiamo ricevendo una trasmissione da una fonte non identificata. 
+ La trasmissione proviene da un individuo che si presenta come ""Soggetto 24"". I dettagli non sono conosciuti, ma il Soggetto 24 dichiara che ci sta contattando per darci un avvertimento e promette benefici per ambo le parti.
+Tutti i tentativi di determinare il punto di origine della trasmissione sono falliti.","NACHRICHT
+ 
+Wir empfangen eine Übertragung aus einer nicht identifizierten Quelle.
+Sie stammt von jemandem, der sich als „Versuchsperson 24“ nennt. Während genauere Informationen fehlen, behauptet Versuchsperson 24, uns mit warnenden Worten und dem Versprechen auf beiderseitige Vorteile zu kontaktieren.
+Sämtliche Versuche, den Ursprung der Übertragung ausfindig zu machen, blieben erfolglos.","СООБЩЕНИЕ
+ 
+ Мы получили сообщение из неизвестного источника. 
+ Его адресант утверждает, что он — Подопытный №24. Он также заверяет, что хочет нас предупредить о чем-то и получить взаимную выгоду.
+Все попытки определить местоположение источника передачи были безуспешными.","WIADOMOŚĆ
+ 
+ Otrzymujemy transmisję z niezidentyfikowanego źródła. 
+ Pochodzi ona od osoby przedstawiającej się jako „Obiekt 24”. Nie znamy szczegółów, ale najwyraźniej kontaktuje się on z nami, by nas ostrzec i obiecać wzajemne korzyści.
+Dotychczas nie udało nam się zlokalizować źródła transmisji.",
+PROG_PU1_TITLE,Text,,Attempting Contact,,尝试联系,Tentative de contact,Intento de comunicación,Tentativo di contatto,Kontaktversuch,Попытка контакта,Próba kontaktu,
+PROG_PU2_CHOICE_0_OUTCOME_GENERAL,Text,,"MESSAGE
+
+Subject 24 has requested that we perform the raid on a New Jericho facility. Should we agree, he will send us specific details, including the exact location of the facility and potentially its security defences. Such an action, however, is likely to worsen our relations with New Jericho.
+",,"消息
+ 
+ 24 号实验对象希望我们能够入侵新耶利哥的一座设施。如果我们同意，他将向我们发送具体的细节，包括设施的详细位置和可能遭遇的防御力量。不过，这种行为很有可能会恶化我们与新耶利哥之间的关系。","MESSAGE
+ 
+ Sujet 24 nous a demandé d'attaquer une installation de la Nouvelle-Jéricho. Si nous acceptons, il nous enverra des détails, y compris le lieu exact de l'installation et potentiellement ses défenses de sécurité. Cependant, une telle action détériorera probablement nos relations avec la Nouvelle-Jéricho.","MENSAJE
+ 
+ El Sujeto 24 nos ha pedido que llevemos a cabo una incursión a las instalaciones de Nueva Jericó. Si aceptamos, nos enviará los detalles específicos, que incluyen la ubicación exacta de las instalaciones y, posiblemente, las de las defensas de seguridad. Es posible que llevar a cabo semejante plan empeore las relaciones con Nueva Jericó.","MESSAGGIO
+ 
+ Il Soggetto 24 ci ha chiesto di fare incursione in una struttura di Nuova Gerico. Se accettiamo, ci invierà le informazioni dettagliate, compresa la posizione esatta della struttura e, potenzialmente, anche dei sui sistemi di difesa. Un'azione simile, comunque, non può che peggiorare le nostre relazioni con Nuova Gerico.","NACHRICHT
+ 
+Versuchsperson 24 hat uns darum gebeten, den Überfall auf die Neu-Jericho-Anlage durchführen. Sollten wir uns einverstanden erklären, würde er uns weitere Details zukommen lassen, darunter den genauen Standort der Anlage sowie potenzielle Sicherheitsrisiken. Eine solche Aktion dürfte jedoch unsere Beziehungen zu Neu-Jericho beeinträchtigen.","СООБЩЕНИЕ
+ 
+ Подопытный №24 попросил нас совершить рейд на объект в Новом Иерихоне. Если мы согласимся, он вышлет нам конкретные данные, включая точное местоположение объекта и, возможно, систему его защиты. Однако подобные действия могут ухудшить наши отношения с Новым Иерихоном.","WIADOMOŚĆ
+ 
+ Obiekt 24 poprosił nas o zaatakowanie ośrodka Nowego Jerycha. Jeśli się zgodzimy, prześle nam szczegóły, w tym dokładną lokalizację ośrodka oraz możliwe zabezpieczenia. Udział w przedsięwzięciu prawdopodobnie pogorszy nasze relacje z Nowym Jerychem.",
+PROG_PU2_CHOICE_0_TEXT,Text,,Agree to help Subject 24.,,同意帮助 24 号实验对象。,Accepter d'aider Sujet 24.,Aceptar ayudar al Sujeto 24.,Accetta di aiutare Soggetto 24.,"Einverstanden erklären, Versuchsperson 24 zu helfen.",Согласиться помочь Подопытному №24.,Pomożemy Obiektowi 24.,
+PROG_PU2_CHOICE_1_OUTCOME_GENERAL,Text,,"MESSAGE
+
+When I contacted you I thought I was dealing with intelligent people, aware of the stakes. Instead, I found spineless cowards whose convictions are as hollow as the module in Tobias West’s head! 
+
+We'll find a way to obtain the research data, but the chance of alliance between the Pure and the Phoenix Project is gone forever.
+",,"消息
+ 
+ 当我与你们联系时，我本以为你们会是充满智慧的人类，深知其中的利害关系。结果，你们却是这样一群软弱无能的懦夫，认知观念与托拜厄斯·韦斯特的大脑一样空洞而毫无价值！ 
+ 
+ 我们将自己找到获取研究数据的办法，但凤凰计划和纯净者结盟的机会将永远失去。","MESSAGE
+ 
+ Lorsque je vous ai contacté, je pensais avoir affaire à des personnes intelligentes, conscientes des enjeux. Au lieu de cela, j'ai trouvé des lâches aux convictions aussi creuses que le module dans la tête de Tobias West !
+ 
+ Nous trouverons un moyen d'obtenir les données de recherche, mais la possibilité d'alliance entre les Purs et le Projet Phoenix n'est définitivement plus une option.","MENSAJE
+ 
+ Cuando me puse en contacto con vosotros, creía que lo hacía con gente inteligente que era consciente de lo que estaba en juego. ¡En cambio, he dado con una panda de cobardes cuya convicción es tan hueca como los módulos en la cabeza de Tobias West!
+ 
+ Hallaremos una manera de obtener los datos de investigación, pero ya no existe posibilidad alguna de forjar una alianza entre La Pureza y el Proyecto Fénix.","MESSAGGIO
+ 
+ Quando vi ho contattato, pensavo di avere a che fare con persone intelligenti, consapevoli della posta in gioco. Invece ho trovato dei codardi senza spina dorsale, i cui valori sono vuoti come il modulo nella testa di Tobias West! 
+ 
+ Troveremo un modo per ottenere i dati della ricerca, ma qualsiasi possibilità di un'alleanza tra i Puri e il Progetto Phoenix è svanita per sempre.","NACHRICHT
+ 
+Als ich euch kontaktierte, dachte ich, ich hätte es mit intelligenten Menschen zu tun, die sich der Herausforderungen bewusst sind. Stattdessen fand ich rückgratlose Feiglinge vor, deren Überzeugungen so hohl sind wie das Modul in Tobias Wests Schädel!
+ 
+Wir werden einen Weg finden, an die Forschungsdaten zu gelangen, aber die Chance auf ein Bündnis zwischen den Reinen und dem Phoenix-Projekt ist für immer dahin.","СООБЩЕНИЕ
+ 
+ Когда я связался с вами, я подумал, что имею дело с умными людьми, понимающими важность ставок. Вместо этого я обнаружил бесхребетных трусов, чьи убеждения столь же бесполезны, как и модуль в голове Тобиаса Веста! 
+ 
+ Мы найдем другой способ заполучить исследовательские данные, но шанс на сотрудничество между Проектом Феникс и Непорочными потерян навсегда.","WIADOMOŚĆ
+ 
+ Kiedy się z tobą skontaktowałem, sądziłem, że mam do czynienia z inteligentnymi ludźmi, świadomymi tego, o jaką stawkę walczymy. Okazaliście się jednak pozbawionymi zasad tchórzami, którzy kierują się przekonaniami pustymi niczym moduł w czaszce Tobiasa Westa!
+ 
+ Znajdziemy sposób, by przechwycić te dane badawcze. Zapomnijcie o jakimkolwiek sojuszu z Oczyszczonymi.",
+PROG_PU2_CHOICE_1_TEXT,Text,,Refuse to help Subject 24.,,拒绝帮助 24 号实验对象。,Refuser d'aider Sujet 24.,No ayudar al Sujeto 24.,Rifiutati di aiutare Soggetto 24.,Versuchsperson 24 die Hilfe verweigern.,Отказаться помочь Подопытному №24.,Nie pomożemy Obiektowi 24.,
+PROG_PU2_TEXT_GENERAL_0,Text,,"MESSAGE
+
+Subject 24 has requested that we perform the raid on a New Jericho facility. Should we agree, he will send us specific details, including the exact location of the facility and potentially its security defences. Such an action, however, is likely to worsen our relations with New Jericho.
+",,"消息
+ 
+ 24 号实验对象希望我们能够入侵新耶利哥的一座设施。如果我们同意，他将向我们发送具体的细节，包括设施的详细位置和可能遭遇的防御力量。不过，这种行为很有可能会恶化我们与新耶利哥之间的关系。","MESSAGE
+ 
+ Sujet 24 nous a demandé d'attaquer une installation de la Nouvelle-Jéricho. Si nous acceptons, il nous enverra des détails, y compris le lieu exact de l'installation et potentiellement ses défenses de sécurité. Cependant, une telle action détériorera probablement nos relations avec la Nouvelle-Jéricho.","MENSAJE
+ 
+ El Sujeto 24 nos ha pedido que llevemos a cabo una incursión a las instalaciones de Nueva Jericó. Si aceptamos, nos enviará los detalles específicos, que incluyen la ubicación exacta de las instalaciones y, posiblemente, las de las defensas de seguridad. Es posible que llevar a cabo semejante plan empeore las relaciones con Nueva Jericó.","MESSAGGIO
+ 
+ Il Soggetto 24 ci ha chiesto di fare incursione in una struttura di Nuova Gerico. Se accettiamo, ci invierà le informazioni dettagliate, compresa la posizione esatta della struttura e, potenzialmente, anche dei sui sistemi di difesa. Un'azione simile, comunque, non può che peggiorare le nostre relazioni con Nuova Gerico.","NACHRICHT
+ 
+Versuchsperson 24 hat uns darum gebeten, den Überfall auf die Neu-Jericho-Anlage durchführen. Sollten wir uns einverstanden erklären, würde er uns weitere Details zukommen lassen, darunter den genauen Standort der Anlage sowie potenzielle Sicherheitsrisiken. Eine solche Aktion dürfte jedoch unsere Beziehungen zu Neu-Jericho beeinträchtigen.","СООБЩЕНИЕ
+ 
+ Подопытный №24 попросил нас совершить рейд на объект в Новом Иерихоне. Если мы согласимся, он вышлет нам конкретные данные, включая точное местоположение объекта и, возможно, систему его защиты. Однако подобные действия могут ухудшить наши отношения с Новым Иерихоном.","WIADOMOŚĆ
+ 
+ Obiekt 24 poprosił nas o zaatakowanie ośrodka Nowego Jerycha. Jeśli się zgodzimy, prześle nam szczegóły, w tym dokładną lokalizację ośrodka oraz możliwe zabezpieczenia. Udział w przedsięwzięciu prawdopodobnie pogorszy nasze relacje z Nowym Jerychem.",
+PROG_PU2_TITLE,Text,,A Humble Request,,小小的请求,Une humble requête,Una humilde petición,Un'umile richiesta,Eine bescheidene Anfrage,Скромная просьба,Pokorna prośba,
+PROG_PU4_FAIL_CHOICE_0_TEXT,Text,,OK.,,好的。,OK.,VALE.,OK.,OK.,ОК.,OK.,
+PROG_PU4_FAIL_TEXT_GENERAL_0,Text,,"MESSAGE
+
+Despite the coordinated effort, we have failed to obtain the research data, putting the New Jericho forces on high alert. All attempts to contain Subject 24 or any of the Pure have been unsuccessful, suggesting that our temporary arrangement may be at an end.",,"消息
+ 
+ 经过双方共同努力，我们还是未能获得研究数据。新耶利哥的部队也进入了高度戒备状态。所有试图联系 24 号实验对象或其他纯净者的尝试均未获得回应，或许这表明我们之间的临时合作关系就此结束。","MESSAGE
+ 
+ Malgré l'effort de coordination, nous ne sommes pas parvenus à obtenir les données de recherche et nous avons mis les forces de la Nouvelle-Jéricho en état d'alerte. Toutes les tentatives pour contenir Sujet 24 ou les Purs se sont soldées par un échec ; notre arrangement temporaire touche sans doute à sa fin.","MENSAJE
+ 
+ Pese a nuestra iniciativa coordinada, no hemos conseguido los datos de investigación y ahora las fuerzas de Nueva Jericó están alertas. Los intentos por detener al Sujeto 24 y a La Pureza no han tenido éxito, lo que sugieren que quizás el acuerdo temporal haya llegado a su fin.","MESSAGGIO
+ 
+ Nonostante lo sforzo coordinato, non siamo riusciti a ottenere i dati della ricerca e ora le forze di Nuova Gerico sono in massimo allerta. I tentativi di contenere il Soggetto 24 o i Puri non hanno avuto successo, è ragionevole pensare che il nostro accordo temporaneo sia scaduto.","NACHRICHT
+ 
+Trotz der koordinierten Bemühungen ist es uns nicht gelungen, an die Forschungsdaten zu gelangen, und die Truppen von Neu-Jericho wurden in höchste Alarmbereitschaft versetzt. Sämtliche Versuche, Versuchsperson 24 oder Anhänger der Reinen habhaft zu werden, waren erfolglos, was darauf hindeutet, dass unsere vorübergehende Vereinbarung zu einem Ende kommen könnte.","СООБЩЕНИЕ
+ 
+ Несмотря на совместные усилия, нам не удалось заполучить данные исследований, в то время как Новый Иерихон мобилизовал силы и находится в состоянии повышенной боевой готовности. Все попытки сдержать Подопытного №24 или других членов его фракции потерпели крах. Вероятно, нашему временному сотрудничеству пришел конец.","WIADOMOŚĆ
+ 
+ Pomimo skoordynowanych wysiłków nie udało nam się uzyskać danych badawczych, natomiast zaalarmowaliśmy siły Nowego Jerycha. Wszelkie próby pojmania Obiektu 24 lub któregokolwiek Oczyszczonego się nie powiodły — to raczej koniec naszego tymczasowego porozumienia.",
+PROG_PU4_FAIL_TITLE,Text,,An Unexpected Setback,,意想不到的挫折,Un contretemps imprévu,Un contratiempo inesperado,Una battuta d'arresto imprevista,Ein unerwarteter Rückschlag,Непредвиденная помеха,Nieoczekiwane komplikacje,
+PROG_PU4_MISS_CHOICE_0_TEXT,Text,,START MISSION,,开始任务,COMMENCER LA MISSION,EMPEZAR MISIÓN,AVVIA MISSIONE,MISSION STARTEN,НАЧАТЬ МИССИЮ,ROZPOCZNIJ MISJĘ,
+PROG_PU4_MISS_CHOICE_1_TEXT,Text,,CANCEL,,取消,ANNULER,CANCELAR,ANNULLA,ABBRECHEN,ОТМЕНА,ANULUJ,
+PROG_PU4_MISS_TEXT_GENERAL_0,Text,,"MISSION BRIEFING
+
+Subject 24 has provided us with the location of the New Jericho research facility conducting experiments in human augmentation. Due to the secret nature of the facility, security is likely to be light.
+The goal is to get the research data located within the facility. There is no need to eliminate all the defending security personnel.
+",,"任务概要
+ 
+ 24 号实验对象给我们提供了新耶利哥实验人体强化装置的研究设施位置。这种秘密设施的布防通常并不多。
+我们的目标是取得设施内的研究数据。没有必要消灭所有的防守人员。","RÉSUMÉ DE LA MISSION
+ 
+ Sujet 24 nous a fourni l'emplacement du centre de recherche de la Nouvelle-Jéricho qui mène des expériences sur l'augmentation des humains. En raison de la nature secrète de ce centre, la sécurité devrait être légère.
+ Le but est d'obtenir les données de recherche situées à l'intérieur. Il n'y a pas besoin d'éliminer le personnel de sécurité.","INSTRUCCIONES DE LA MISIÓN
+ 
+ El Sujeto 24 nos ha facilitado la ubicación de las instalaciones de investigación de Nueva Jericó en las que se llevan a cabo experimentos en mejora humana. Como las instalaciones son de alto secreto, es probable que la seguridad sea baja.
+ El objetivo es conseguir los datos de investigación que hay en las instalaciones. No hay necesidad de eliminar al personal de seguridad que las defiende.","RIEPILOGO MISSIONE
+ 
+ Il Soggetto 24 ci ha fornito la posizione della struttura di ricerca di Nuova Gerico che conduce esperimenti sugli innesti umani. Data la natura top secret della struttura, è probabile che le misure di sicurezza siano limitate.
+ L'obiettivo è ottenere i dati della ricerca contenuti nella struttura. Non è richiesta l'eliminazione di tutto il personale di sicurezza schierato.","MISSIONSBRIEFING
+ 
+Versuchsperson 24 hat uns den Standort der Forschungseinrichtung von Neu-Jericho genannt, in der Experimente zur menschlichen „Erweiterung“ vorgenommen werden. Aufgrund der geheimen Natur der Anlage dürfte die Sicherung gering sein.
+
+Ziel: Forschungsdaten sichern. Eliminierung der Sicherheitskräfte nicht erforderlich.","СВОДКА МИССИИ
+
+Подопытный №24 раскрыл нам местоположение исследовательского центра Нового Иерихона, где проводятся эксперименты по аугментации человека. Из-за окутывающей объект секретности охрана, вероятнее всего, будет легкой.
+Цель: найти данные исследования, находящиеся где-то на объекте. Убивать всех членов защищающейся службы безопасности необязательно.","ODPRAWA
+ 
+ Obiekt 24 przesłał nam lokalizację ośrodka badawczego Nowego Jerycha, w którym prowadzone są prace nad ulepszaniem ludzkiego organizmu. Jako że jest to tajny ośrodek, nie spodziewamy się wielu strażników.
+ Naszym celem jest przechwycenie danych, które przechowywane są w ośrodku. Nie musimy eliminować w tym celu personelu ochrony.",
+PROG_PU4_MISS_TITLE,Text,,Undefendable,,防不胜防,Indéfendable,Indefendible,Indifendibile,Nicht zu verteidigen,Без защиты,Nie do obrony,
+PROG_PU4_WIN_CHOICE_0_TEXT,Text,,"OK.
+NEW RESEARCH AVAILABLE",,"好的。
+ 新研究可用","OK.
+ NOUVELLE RECHERCHE DISPONIBLE","VALE.
+ NUEVA INVESTIGACIÓN DISPONIBLE","OK.
+ NUOVA RICERCA DISPONIBILE","OK.
+NEUE FORSCHUNG VERFÜGBAR","ОК.
+ ДОСТУПНО НОВОЕ ИССЛЕДОВАНИЕ","OK.
+ DOSTĘPNE NOWE BADANIA",
+PROG_PU4_WIN_TEXT_GENERAL_0,Text,,"MESSAGE
+
+Fas est ab hoste doceri. It is right to be taught even by an enemy - even if they are cowards and traitors. The research we obtained is more than a set of upgrades, it is the first step in reclaiming the planet. Humanity will be born again and this time the Pure will show the path.",,"消息
+ 
+ 古罗马诗人奥维德曾经说过：“Fas est ab hoste doceri。”这句话的意思是：“从敌人身上学习永远都不会错”，哪怕他们是一群懦夫和叛徒。我们获得的研究数据不仅仅是一系列升级手段，更是我们重新夺回这个星球迈出的第一步。人类将再次重生，而这一次，纯净者将指引道路。","MESSAGE
+ 
+ Fas est ab hoste doceri. Il est bon d'apprendre, même de son ennemi – même si cet ennemi est un lâche ou un traître. La recherche obtenue ne contient pas qu'une simple série d'améliorations, c'est la première étape pour récupérer la planète. L'humanité renaîtra et cette fois-ci, les Purs ouvriront la voie.","MENSAJE
+ 
+ Fas est ab hoste doceri. El enemigo también puede ser tu maestro, incluso aunque sea cobarde y traidor. La investigación que hemos obtenido es mucho más que una serie de mejoras, es el primer paso en la recuperación del planeta. La humanidad volverá a nacer y será La Pureza quien muestre el camino.","MESSAGGIO
+ 
+ Fas est et ab hoste doceri. È lecito imparare anche dal nemico - anche quando il nemico è codardo e traditore. La ricerca che abbiamo conquistato è ben più di una serie di potenziamenti: è il primo passo per riconquistare il pianeta. L'umanità conoscerà un nuovo inizio, e stavolta i Puri indicheranno la via.","NACHRICHT
+ 
+Fas est ab hoste doceri. Auch vom Feind lernen ist Recht - selbst wenn es sich dabei um Feiglinge und Verräter handelt. Die erlangten Forschungsdaten sind mehr als eine Reihe von Upgrades, sie sind der erste Schritt in Richtung Zurückeroberung des Planeten. Die Menschheit wird wiedergeboren, und diesmal werden die Reinen den Weg weisen.","СООБЩЕНИЕ
+ 
+ Овидий говорил: «Учиться дозволено и у врага», и был прав. Умные люди многому научатся от врагов, даже от последних трусов и предателей. Исследования, которые мы получили — это не простые улучшения, а первый шаг к восстановлению власти над планетой. Человечество переродится, и на этот раз Непорочные укажут ему путь к просветлению.","WIADOMOŚĆ
+ 
+ Fas est ab hoste doceri. Warto się uczyć i od wroga — nawet jeśli to tchórz i zdrajca. Przechwycone dane badawcze dotyczą nie tylko ulepszeń — stanowią pierwszy krok w kierunku odzyskania planety. Ludzkość ponownie się narodzi, a tym razem to Oczyszczeni wskażą jej drogę.",
+PROG_PU4_WIN_TITLE,Text,,Hoste Doceri,,师夷长技,Hoste Doceri,Hoste Doceri,Imparare dal nemico,Hoste Doceri,Учитесь на чужих ошибках,Hoste Doceri,
+PROG_PU5_CHOICE_0_TEXT,Text,,OK.,,好的。,OK.,VALE.,OK.,OK.,ОК.,OK.,
+PROG_PU5_TEXT_GENERAL_0,Text,,"MESSAGE
+
+This is a transmission to the world. 
+We are The Pure and our time hiding in the shadows is over! Squads of our chosen warriors are already combing the world in search of resources and technology that will help us defeat the Pandoran threat. 
+A word of warning: don’t get in our way! We will show no mercy, we will allow no bargaining. 
+We are The Pure!
+",,"消息
+ 
+ 这是一条面向全世界的消息。 
+ 我们是“纯净者”，我们躲躲藏藏的日子已经结束了！大批被我们选中的战士已经在这个世界上，四处寻找能够帮助我们打败潘多拉威胁的资源和科技。 
+ 奉劝大家：别挡我们的道！我们绝不会心慈手软，也不接受任何协商。 
+ 我们就是纯净者！","MESSAGE
+ 
+ Ceci est une transmission destinée au monde entier.
+ Nous sommes les Purs et l'heure est venue d'arrêter de nous cacher dans l'ombre ! Des escouades de nos guerriers sélectionnés passent déjà le monde au peigne fin en quête de ressources et de technologies qui nous aideront à vaincre la menace pandorienne.
+ 
+ Petit avertissement : écartez-vous de notre chemin ! Nous n'aurons aucune pitié, nous refuserons de négocier.
+Nous sommes les Purs !","MENSAJE
+ 
+ Esta es una transmisión para todo el mundo.
+ ¡Somos La Pureza y ha llegado la hora de dejar las sombras! Hemos formado pelotones con nuestros guerreros elegidos para explorar el mundo en busca de recursos y tecnologías que nos ayuden a derrotar a la amenaza pandoriana.
+ Os lo advierto: ¡no os interpongáis en nuestro camino! No mostraremos piedad; no negociaremos.
+ ¡Somos La Pureza!","MESSAGGIO
+ 
+ Questo è un messaggio per il mondo. 
+ Noi siamo i Puri e il tempo in cui ci nascondevamo nell'ombra è finito! Squadre di nostri guerrieri scelti stanno già passando al setaccio il pianeta alla ricerca di risorse e tecnologia che ci aiutino a sconfiggere la minaccia Pandora. 
+ Un avvertimento: non intralciateci! Non avremo pietà, né ci saranno negoziati. 
+ Noi siamo i Puri!","NACHRICHT
+ 
+Dies ist eine Botschaft an die Welt.
+Wir sind die Reinen, und unsere Zeit im Schatten ist vorüber! Unsere Truppen ausgewählter Krieger durchkämmen die Erde bereits auf der Suche nach Rohstoffen und Technologien, die uns helfen werden, die pandoranische Bedrohung zu zerschlagen.
+Ein Wort der Warnung: Stellt euch uns nicht in den Weg! Wir kennen keine Gnade und werden nicht verhandeln.
+Wir sind die Reinen!","СООБЩЕНИЕ
+ 
+ Это обращение ко всему миру. 
+ Пришло время нам, Непорочным, выйти из тени! Наши отряды избранных воинов уже ищут ресурсы и технологии, которые помогут победить угрозу Пандоранов. 
+ Это предупреждение: не стойте на нашем пути! Не ждите от нас пощады, мы не идем на уступки. 
+ Мы — Непорочные!","WIADOMOŚĆ
+ 
+ Transmisję tę kierujemy do mieszkańców świata.
+ Nazywamy się Oczyszczeni. Czas ukrywania się w cieniu minął. Oddziały wyselekcjonowanych wojowników już przeczesują planetę w poszukiwaniu zasobów i technologii, które pomogą nam pokonać Pandoran. 
+ Ostrzegamy: nie wchodźcie nam w drogę. Nie okażemy łaski i nie będziemy negocjować.
+Jesteśmy Oczyszczeni!",
+PROG_PU5_TITLE,Text,,The Warning,,忠告,L'avertissement,La advertencia,L'avvertimento,Die Warnung,Предупреждение,Ostrzeżenie,
+PROG_PU6_CHOICE_0_TEXT,Text,,OK.,,好的。,OK.,VALE.,OK.,OK.,ОК.,OK.,
+PROG_PU6_TEXT_GENERAL_0,Text,,"MESSAGE
+
+There have been increasing reports of severely mutated humans attacking patrols throughout the world. These creatures, referred to as ""The Forsaken"", are rapacious and have already ambushed several New Jericho and Disciples of Anu patrols. 
+Extreme caution is advised when visiting Exploration sites. 
+",,"消息
+ 
+ 有关严重变异的人类在世界各地袭击巡逻部队的报道越来越多。这些被称为“放逐者”的生物天性残暴，已经伏击了好几支新耶利哥和安努门徒教会的巡逻队。 
+ 建议在访问探索点时保持高度警惕。","MESSAGE
+ 
+ Nous recevons de plus en plus de signalements d'humains en état de mutation avancée qui attaquent des patrouilles partout dans le monde. Ces créatures, appelées « Les Rejetés » sont voraces et ont déjà pris en embuscade plusieurs patrouilles de la Nouvelle-Jéricho et des Disciples d'Anu.
+ Nous recommandons de faire preuve d'une extrême prudence sur les sites d'exploration.","MENSAJE
+ 
+ Aumentan los informes de ataques de humanos mutados a patrullas por todo el mundo. Estas criaturas, denominadas “Abandonados”, son rapaces y ya han tendido emboscadas a varias patrullas de Nueva Jericó y de los Discípulos de Anu.
+ Se recomienda tener sumo cuidado cuando se visiten sitios de exploración.","MESSAGGIO
+ 
+ Sono sempre più numerose le segnalazioni di umani profondamente mutati che attaccano pattuglie in tutto il mondo. Queste creature, che vengono chiamate ""gli Abbandonati"", sono rapaci e hanno già teso imboscate a svariate pattuglie di Nuova Gerico e dei Discepoli di Anu. 
+ Si raccomanda la massima prudenza quando ci si trova in siti di esplorazione.","NACHRICHT
+ 
+Die Berichte über stark mutierte Menschen, die Patrouillen auf der ganzen Welt angreifen, mehren sich. Diese Kreaturen, auch „die Verstoßenen“ genannt, gehen äußerst brutal vor und haben bereits mehrere Patrouillen von Neu-Jericho und den Jüngern von Anu überfallen. ⏎ Bei Erkundungen von Einsatzgebieten ist äußerste Vorsicht geboten.","СООБЩЕНИЕ
+ 
+ Поступают новые сообщения о том, что сильно мутировавшие люди нападают на патрули по всему миру. Эти существа, называемые «Изгоями», разбойничают и уже устроили засаду нескольким патрулям Нового Иерихона и Последователей Ану. 
+ При посещении точек разведки соблюдайте крайнюю осторожность.","WIADOMOŚĆ
+ 
+ Otrzymujemy coraz więcej doniesień dotyczących poważnie zmutowanych ludzi, którzy atakują patrole na całym świecie. Istoty te nazywane są „Zapomnianymi” — wykazują ogromną agresję i napadły już wiele patroli Nowego Jerycha i Akolitów Anu.
+ Podczas eksploracji ruin zaleca się zachowanie szczególnej ostrożności.",
+PROG_PU6_TITLE,Text,,"Old Enemy, New Enemy",,旧敌人？新敌人？,"Vieil ennemi, nouvel ennemi",Viejo enemigo; nuevo enemigo,"Vecchio nemico, nuovo nemico","Alter Feind, neuer Feind",Старый враг и новый враг,"Stary wróg, nowy wróg",
+PROG_PU7_CHOICE_0_TEXT,Text,,OK.,,好的。,OK.,VALE.,OK.,OK.,ОК.,OK.,
+PROG_PU7_TEXT_GENERAL_0,Text,,"MESSAGE
+
+We’ve received an automated emergency transmission from a New Jericho science facility. The message is composed of the word “Overrun” repeated in loop. Tracking down the location of the transmission has revealed some security footage.",,"消息
+ 
+ 我们收到了一则从新耶利哥某个科研设施发来的紧急自动传输讯息。讯息中不断重复着同一个字眼：沦陷。通过对讯息位置来源的追踪，我们看到了一些当时的安全影像。","MESSAGE
+ 
+ Nous avons reçu une transmission d'urgence automatique de la part du centre scientifique de la Nouvelle-Jéricho. Le message est composé du mot « Assiégés » répété en boucle. La recherche du lieu dont provient la transmission a révélé des images de sécurité.","MENSAJE
+ 
+ Hemos recibido una transmisión automática de emergencia de las instalaciones científicas de Nueva Jericó. Se trata de la palabra “Invasión” en bucle. Al rastrear la ubicación de la transmisión hemos dado con algunas grabaciones de seguridad.","MESSAGGIO
+ 
+ Abbiamo ricevuto una trasmissione di emergenza automatica da una struttura di ricerca di Nuova Gerico. Il messaggio contiene solo la parola ""Occupata"" ripetuta in loop. Durante l'identificazione del luogo di trasmissione sono state rinvenute delle registrazioni di sicurezza.","NACHRICHT
+ 
+Wir haben den automatischen Notruf einer wissenschaftlichen Einrichtung Neu-Jerichos empfangen. Die Botschaft enthält das Wort „überrannt“ in Dauerschleife. Beim Aufspüren des Ursprungsortes der Übertragung konnten einige Aufnahmen von Sicherheitskameras zutage gefördert werden.","СООБЩЕНИЕ
+ 
+ Мы получили экстренную передачу из научного центра в Новом Иерихоне. Это автоматически отправленное сообщение, в котором повторяется единственное слово — «Нападение». Отслеживание местоположения передачи выявило некоторые кадры с камер наблюдения.","WIADOMOŚĆ
+ 
+ Otrzymaliśmy wysłany automatycznie komunikat alarmowy z ośrodka badawczego Nowego Jerycha. Składa się on z zapętlonego słowa „atak”. Poszukując źródła transmisji, natrafiliśmy na nagranie z kamer bezpieczeństwa.",
+PROG_PU7_TITLE,Text,,Forbidden Frequency,,禁止的频率,Fréquence interdite,Frecuencia prohibida,Frequenza proibita,Verbotene Frequenz,Запрещенная частота,Zakazana częstotliwość,
+PROG_PU8_FAIL_CHOICE_0_TEXT,Text,,OK.,,好的。,OK.,VALE.,OK.,OK.,ОК.,OK.,
+PROG_PU8_FAIL_TEXT_GENERAL_0,Text,,"MESSAGE
+
+The strength of the Forsaken proved greater than anticipated. While there is evidence that some scientists might still remain, retrieving them remains just as difficult.",,"消息
+ 
+ 放逐者的力量比想象中还要强大。虽然证据表明有些科学家可能依然存活，但想要把他们救出来十分困难。","MESSAGE
+ 
+ La force des Rejetés s'est avérée plus importante que prévue. Selon les preuves, il pourrait encore y avoir des scientifiques à l'intérieur, mais les évacuer s'annonce tout aussi difficile.","MENSAJE
+ 
+ No anticipamos semejante resistencia por parte de los Abandonados. Hay pruebas que sugieren que todavía hay científicos, pero una misión de rescate sigue siendo complicada.","MESSAGGIO
+ 
+ La forza degli Abbandonati si è dimostrata maggiore del previsto. Alcuni scienziati potrebbero essere sopravvissuti, ma recuperarli è quasi impossibile.","NACHRICHT
+ 
+Die Gegenwehr der Verstoßenen war heftiger als erwartet. Obgleich Hinweise darauf schließen lassen, dass einige Wissenschaftler noch vor Ort sind, gestaltet sich ihre Rettung nach wie vor schwierig.","СООБЩЕНИЕ
+ 
+ Силы наступления Изгоев оказались яростнее, чем ожидалось. Хотя факты подтверждают, что некоторые ученые все еще живы, их вызволение из рук врага остается трудной задачей.","WIADOMOŚĆ
+ 
+ Zapomniani okazali się silniejsi, niż się spodziewaliśmy. Dowody wskazują, że kilku naukowców mogło przeżyć, ale misja ratunkowa będzie tak samo trudna.",
+PROG_PU8_FAIL_TITLE,Text,,The Blunt End,,钝端,L'arrière-scène,El crudo final,L'estremità smussata,Das stumpfe Ende,Тупой конец,Tępy koniec,
+PROG_PU8_MISS_CHOICE_0_TEXT,Text,,START MISSION,,开始任务,COMMENCER LA MISSION,EMPEZAR MISIÓN,AVVIA MISSIONE,MISSION STARTEN,НАЧАТЬ МИССИЮ,ROZPOCZNIJ MISJĘ,
+PROG_PU8_MISS_CHOICE_1_TEXT,Text,,CANCEL,,取消,ANNULER,CANCELAR,ANNULLA,ABBRECHEN,ОТМЕНА,ANULUJ,
+PROG_PU8_MISS_TEXT_GENERAL_0,Text,,"MISSION BRIEFING
+
+It has been confirmed that the transmissions originated from the New Jericho Zayatz research facility. Based on initial reports the entire area has been overrun by the Forsaken. The exact research conducted at the facility remains unknown, but based on satellite pictures there’s evidence that it’s linked to New Jericho’s new bionics program.
+Analysis suggests that at least five New Jericho scientists have managed to survive by barricading themselves in the facility.
+",,"任务概要
+ 
+ 现已证实，这则讯息来自新耶利哥扎亚兹研究设施。根据初步报告判断，整片区域已经被放逐者攻陷。这里进行的具体研究依然无从得知，但根据卫星图片显示，已有证据证明这与新耶利哥最新的仿生学项目有关。
+分析数据表明至少有五名新耶利哥科学家将自己隔离在了设施内，并且存活了下来。","RÉSUMÉ DE LA MISSION
+ 
+ Il a été confirmé que les transmissions provenaient du centre de recherche Zayatz de la Nouvelle-Jéricho. Selon les premiers rapports, toute la zone a été envahie par les Rejetés. La recherche exacte menée au centre reste inconnue, mais selon les images prises par le satellite, il y a des preuves que celle-ci est liée au nouveau programme bionique de la Nouvelle-Jéricho.
+ Les analyses suggèrent qu'au moins cinq scientifiques de la Nouvelle-Jéricho ont survécu en se barricadant dans le centre.","INSTRUCCIONES DE LA MISIÓN
+ 
+ Se ha confirmado que las transmisiones surgieron de las nuevas instalaciones de investigación de Zayatz de Nueva Jericó. Según los informes iniciales, la zona ha sido invadida por los Abandonados. Las investigaciones realizadas en las instalaciones siguen siendo un misterio, pero las imágenes satelitales muestran indicios del nuevo programa biónico de Nueva Jericó.
+ Los escaneos sugieren que al menos cinco científicos de Nueva Jericó han conseguido sobrevivir encerrándose en las instalaciones.","RIEPILOGO MISSIONE
+ 
+ È stato confermato che le trasmissioni sono partite dalla struttura di ricerca Zayatz, di Nuova Gerico. I primi rapporti dicono che l'intera area è stata occupata dagli Abbandonati. Non è noto nel dettaglio che tipo di ricerca sia condotta all'interno della struttura, ma le foto satellitari dimostrano che è collegata al nuovo programma di bionica di Nuova Gerico.
+ L'analisi lascia intendere che almeno cinque ricercatori di Nuova Gerico sono riusciti a sopravvivere barricandosi nella struttura.","MISSIONSBRIEFING
+ 
+Inzwischen wurde bestätigt, dass die Übertragungen von der Neu-Jerichoer Forschungseinrichtung Zayatz ausgingen. Ersten Berichten zufolge wurde das gesamte Gebiet von den Verstoßenen überrannt. Die genaue Art der dort betriebenen Forschung ist nach wie vor unbekannt, aber anhand von Satellitenbildern lässt sich belegen, dass sie mit dem neuen Bionik-Programm Neu-Jerichos in Zusammenhang steht.
+Die Analyse legt nahe, dass es mindestens fünf Neu-Jericho-Wissenschaftlern gelungen ist, zu überleben, indem sie sich in der Anlage verbarrikadiert haben.","СВОДКА МИССИИ
+
+По подтвержденным данным сообщение было отправлено из исследовательского центра «Заяц» в Новом Иерихоне. Согласно поступающим сообщениям, вся область была захвачена Изгоями. Остается неизвестной область проводимых на объекте исследований. На основе снимков со спутника можно предположить, что они связаны с новой программой по бионике в Новом Иерихоне.
+ Согласно анализу данных, не менее пяти ученым Нового Иерихона удалось выжить, забаррикадировавшись на объекте.","ODPRAWA
+ 
+ Potwierdzono, iż transmisję nadano z ośrodka badawczego Zayatz należącego do Nowego Jerycha. Wstępne raporty wskazują, iż Zapomniani zaatakowali obiekt. Nie wiemy, jakie badania prowadzono w ośrodku, lecz zdjęcia satelitarne sugerują, iż mogą być one powiązane z nowym programem bioniki realizowanym przez Nowe Jerycho.
+ Analiza wskazuje, że co najmniej pięciu naukowców Nowego Jerycha przeżyło i zabarykadowało się w obiekcie.",
+PROG_PU8_MISS_TITLE,Text,,Overrun,,沦陷,Assiégés,Invasión,Occupata,Überrannt,Нападение,Atak,
+PROG_PU8_WIN_CHOICE_0_TEXT,Text,,"OK.
+NEW RESEARCH AVAILABLE",,"好的。
+ 新研究可用","OK.
+ NOUVELLE RECHERCHE DISPONIBLE","VALE.
+ NUEVA INVESTIGACIÓN DISPONIBLE","OK.
+ NUOVA RICERCA DISPONIBILE","OK.
+NEUE FORSCHUNG VERFÜGBAR","ОК.
+ ДОСТУПНО НОВОЕ ИССЛЕДОВАНИЕ","OK.
+ DOSTĘPNE NOWE BADANIA",
+PROG_PU8_WIN_TEXT_GENERAL_0,Text,,"MESSAGE
+
+The operation has been a success. Not only did we manage to rescue the scientists, but also managed to gather invaluable research data. All information has been successfully decrypted and available for further research and analysis.",,"消息
+ 
+ 这次行动十分成功。我们不仅救出了那些科学家，还获得了极为宝贵的研究数据。所有加密信息已经破解，可供日后研究和分析使用。","MESSAGE
+ 
+ L'opération a réussi. Nous sommes parvenus à sauver les scientifiques, mais également à récupérer les données inestimables de leur recherche. Toutes les informations ont été décryptées et sont disponibles pour d'autres recherches et analyses.","MENSAJE
+ 
+ La operación ha sido un éxito. Además de rescatar a los científicos, hemos obtenido datos de investigación valiosos. Se ha descifrado toda la información con éxito y ahora podremos realizar investigaciones y análisis más exhaustivos.","MESSAGGIO
+ 
+ L'operazione è stata un successo. Non solo siamo riusciti trarre in salvo i ricercatori, ma siamo riusciti anche a raccogliere preziosissimi dati scientifici. Tutte le informazioni sono state decriptate con successo e sono disponibili per ulteriori ricerche e analisi.","NACHRICHT
+ 
+Die Operation war ein Erfolg. Es ist uns nicht nur gelungen, die Wissenschaftler zu retten, sondern auch unbezahlbare Forschungsdaten zu sammeln. Sämtliche Informationen konnten erfolgreich entschlüsselt werden und stehen für weitere Recherchen und Analysen zur Verfügung.","СООБЩЕНИЕ
+ 
+ Операция прошла успешно. Нам не только удалось спасти ученых, но и собрать ценные исследовательские данные. Вся информация была успешно расшифрована и теперь доступна для дальнейшего исследования и анализа.","WIADOMOŚĆ
+ 
+ Operacja została zakończona pomyślnie. Nie tylko ocaliliśmy naukowców, ale zdobyliśmy też bezcenne dane. Wszystkie informacje udało się odszyfrować — możemy teraz poddać je dalszym badaniom i analizie.",
+PROG_PU8_WIN_TITLE,Text,,In The Nick Of Time,,及时雨,Juste à temps,Justo a tiempo,Al momento giusto,Im letzten Moment,Без промедления,W ostatniej chwili,
+PROG_PU9_CHOICE_0_TEXT,Text,,OK.,,好的。,OK.,VALE.,OK.,OK.,ОК.,OK.,
+PROG_PU9_TEXT_GENERAL_0,Text,,"MESSAGE
+
+This is a transmission to the world. 
+The rising tide of salvation has begun. While you all cower in your own filth and deviancy, the Pure have started the cleansing wave to rid the world of all impurities. No haven is safe, whatever treacherous leader or hopeless beliefs they follow.
+You have only two choices: cast off your flesh or have it stripped for you.
+",,"消息
+ 
+ 这是一条面向全世界的消息。 
+ 救赎之潮已经开始翻涌。当你们仍然在这充满了污秽和变异的世界中蜷缩颤抖时，纯净者已经掀起了净化的波涛，誓要清除这个世界上的一切不纯净之物。无论你们的领袖有多么奸诈，无论你们秉持着怎样无可救药的信念，任何避难所都无法逃脱。
+你们只有两个选择：主动舍弃掉你们的肉体，或是让我们帮你们剥下来。","MESSAGE
+ 
+ Ceci est une transmission destinée au monde entier.
+ Le flot croissant du salut a commencé. Pendant que vous vous cachez dans votre crasse et votre perversion, les Purs ont commencé la vague de purge pour débarrasser le monde de toutes ses impuretés. Aucun refuge n'est sûr, quels que soient le chef perfide ou les croyances désespérées auxquelles ils adhèrent.
+ Vous n'avez que deux options : rejetez votre chair ou faites-vous dépouiller.","MENSAJE
+ 
+ Esta es una transmisión para todo el mundo.
+ Ha comenzado la corriente creciente de la salvación. Mientras os escondéis entre vuestros propios excrementos y anormalidades, La Pureza ha comenzado su oleada de purificación que limpiará las impurezas que pululan el mundo. No hay refugio seguro; no importa lo traicionero que sea el líder o lo incompetentes que sean las creencias.
+ Solo tenéis dos opciones: deshaceros de vuestra carne o preparaos para que os la arranquen.","MESSAGGIO
+ 
+ Questo è un messaggio per il mondo. 
+ La marea della salvezza si sta alzando. Mentre voi tutti vi rintanate nella vostra sporcizia e perversione, i Puri hanno avviato il processo di pulizia che libererà il mondo da tutte le impurità. Nessun rifugio è sicuro, non importa quale infido leader o inutile credo esso segua.
+ Avete soltanto due scelte: liberatevi della vostra carne o finite smembrati.","NACHRICHT
+ 
+Dies ist eine Botschaft an die Welt.
+Die ansteigende Flut der Erlösung hat begonnen. Während ihr alle in eurem eigenen Dreck und eurer Abartigkeit kauert, hat die Säuberungswelle der Reinen begonnen. Keine Zuflucht ist sicher, ganz gleich welchem verräterischen Anführer oder hoffnungslosem Glauben sie anhängt.
+Euch bleiben nur zwei Möglichkeiten: Befreit euch von eurem Fleisch, oder wir streifen es euch ab.","СООБЩЕНИЕ
+ 
+ Это обращение ко всему миру. 
+ Прилив спасения начался. Пока вы все скулите в собственной грязи и мерзости, Непорочные подняли флаги во имя избавления мира от всех грехов плоти. Какими бы коварными вождями или безнадежными верованиями они не прикрывались, все обречены.
+ У вас два пути: отречься от плоти добровольно или ждать, пока ее отнимут у вас.","WIADOMOŚĆ
+ 
+ Transmisję tę kierujemy do mieszkańców świata.
+ Zbawienie nadciąga niczym fala przypływu. Podczas gdy wy ze strachu kulicie się we własnym brudzie i zboczeniach, Oczyszczeni nadchodzą, by zmieść z powierzchni Ziemi wszelkie nieczystości. Żaden bastion nie jest bezpieczny, choćby na jego czele stał najbardziej podstępny przywódca sączący mieszkańcom do głowy czcze obietnice.
+ Dajemy wam wybór: porzućcie swe ciała albo my was z nich obedrzemy.",
+PROG_PU9_TITLE,Text,,Cast Off All Weakness,,舍弃所有弱点,Rejet de la faiblesse,Deshacerse de las debilidades,Liberatevi di tutte le debolezze,Legt alle Schwächen ab,Слабости места нет,Odrzućcie słabości,

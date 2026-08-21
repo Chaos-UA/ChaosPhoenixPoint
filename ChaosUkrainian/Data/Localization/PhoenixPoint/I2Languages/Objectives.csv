@@ -1,0 +1,110 @@
+Key,Ukrainian
+KEY_DEFEAT_ALL_ENEMIES,#Перемогти всіх ворогів
+KEY_OBJECTIVES,ЗАВДАННЯ
+KEY_OBJECTIVE_ACCEPTED_MISSION,ТРИВАЄ
+KEY_OBJECTIVE_BEACONITEM,Маячок
+KEY_OBJECTIVE_BUILD_CONTAINMENT,Побудуйте на базі ізолятор.
+KEY_OBJECTIVE_COMPLETED,ЗАВЕРШЕНО
+KEY_OBJECTIVE_DESTROY_STRUCTURES,ПОШКОДЖЕННЯ КЛЮЧОВОГО ОБ'ЄКТА: {0} %
+KEY_OBJECTIVE_ESCORT,СУПРОВОДЬТЕ В БЕЗПЕЧНЕ МІСЦЕ: {0}
+KEY_OBJECTIVE_EVACUATE,ЕВАКУЮЙТЕ ТЕРИТОРІЮ [{0}/{1}]
+KEY_OBJECTIVE_EVAC_ALL,ЕВАКУЮЙТЕ ВСІХ ОПЕРАТИВНИКІВ «ФЕНІКСА»
+KEY_OBJECTIVE_FAILED,ПРОВАЛЕНО
+KEY_OBJECTIVE_FIND_BASE,Знайдіть базу «Фенікса»: {0}
+KEY_OBJECTIVE_FIREBIRD,ЗДОБУДЬТЕ ФАЙЛИ ІНІЦІАТИВИ «ЖАР-ПТИЦЯ»
+KEY_OBJECTIVE_FIREBIRD_TAKE,ЗНАЙДІТЬ ФАЙЛИ ІНІЦІАТИВИ «ЖАР-ПТИЦЯ» [{0}/{1}]
+KEY_OBJECTIVE_GATEKEEPER,ВБИЙТЕ ВАРТОВИХ БРАМИ
+KEY_OBJECTIVE_GEOSCAPE_ATMOSPHERIC_ANALYSIS,Розпочніть дослідницький проєкт «Атмосферний аналіз»
+KEY_OBJECTIVE_GEOSCAPE_ENTER_BASE,Відкрийте вкладку «Бази»
+KEY_OBJECTIVE_GEOSCAPE_EQUIPMENT,Перейдіть до екрана спорядження особового складу
+KEY_OBJECTIVE_GEOSCAPE_EXPLORE,Дослідіть місце
+KEY_OBJECTIVE_GEOSCAPE_GO_TO_SITE,Вирушайте до недослідженого місця
+KEY_OBJECTIVE_GEOSCAPE_GRENADE,Виготовте аптечку
+KEY_OBJECTIVE_GEOSCAPE_MANUFACTURING,Відкрийте вкладку «Виробництво»
+KEY_OBJECTIVE_GEOSCAPE_REPAIR_BAY,Відремонтуйте транспортний відсік
+KEY_OBJECTIVE_GEOSCAPE_RESEARCH,Відкрийте вкладку «Дослідження»
+KEY_OBJECTIVE_GEOSCAPE_RETURN_TO_BASE,Поверніться на базу
+KEY_OBJECTIVE_GEOSCAPE_SCAN_AREA,Скануйте область
+KEY_OBJECTIVE_GEOSCAPE_TRAINING,Перейдіть до екрана підготовки особового складу
+KEY_OBJECTIVE_INJECTORITEM,Вірофаговий інжектор
+KEY_OBJECTIVE_INTERACT_CONSOLE,ВЗАЄМОДІЙТЕ З КОНСОЛЛЮ [{0}/{1}]
+KEY_OBJECTIVE_KILL_AN0,ЗНИЩІТЬ ДЖЕРЕЛО ЗАРАЖЕННЯ
+KEY_OBJECTIVE_KILL_ENEMIES,ЗНИЩІТЬ УСІХ ВОРОГІВ
+KEY_OBJECTIVE_KILL_HATCHERY,ЗНИЩІТЬ УСІХ СТРАЖІВ-НАСІДОК
+KEY_OBJECTIVE_KILL_QUEEN,ПЕРЕМОЖІТЬ СЦИЛЛУ
+KEY_OBJECTIVE_KILL_SPAWNERY,ЗНИЩІТЬ ІНКУБАТОР
+KEY_OBJECTIVE_KILL_TARGET,ВБИЙТЕ {0}
+KEY_OBJECTIVE_PHOENIXBASE_NAME_1,Південна Європа
+KEY_OBJECTIVE_PHOENIXBASE_NAME_10,Центральна Америка
+KEY_OBJECTIVE_PHOENIXBASE_NAME_11,Карибський басейн
+KEY_OBJECTIVE_PHOENIXBASE_NAME_12,Південна Америка
+KEY_OBJECTIVE_PHOENIXBASE_NAME_13,Південна Америка
+KEY_OBJECTIVE_PHOENIXBASE_NAME_14,Південна Америка
+KEY_OBJECTIVE_PHOENIXBASE_NAME_15,Західна Африка
+KEY_OBJECTIVE_PHOENIXBASE_NAME_16,Центральна Африка
+KEY_OBJECTIVE_PHOENIXBASE_NAME_17,Південна Африка
+KEY_OBJECTIVE_PHOENIXBASE_NAME_18,Австралія
+KEY_OBJECTIVE_PHOENIXBASE_NAME_19,Арктика
+KEY_OBJECTIVE_PHOENIXBASE_NAME_2,Західна Азія
+KEY_OBJECTIVE_PHOENIXBASE_NAME_20,Арктика
+KEY_OBJECTIVE_PHOENIXBASE_NAME_21,Сибір
+KEY_OBJECTIVE_PHOENIXBASE_NAME_22,Західна Європа
+KEY_OBJECTIVE_PHOENIXBASE_NAME_3,Південна Азія
+KEY_OBJECTIVE_PHOENIXBASE_NAME_4,Східна Азія
+KEY_OBJECTIVE_PHOENIXBASE_NAME_5,Східна Азія
+KEY_OBJECTIVE_PHOENIXBASE_NAME_6,Південна Азія
+KEY_OBJECTIVE_PHOENIXBASE_NAME_7,Північна Америка
+KEY_OBJECTIVE_PHOENIXBASE_NAME_8,Північна Америка
+KEY_OBJECTIVE_PHOENIXBASE_NAME_9,Північна Америка
+KEY_OBJECTIVE_PLACE_INJECTOR,РОЗМІСТІТЬ ІНЖЕКТОР
+KEY_OBJECTIVE_PLANT,ПОСАДІТЬ МОДИФІКОВАНЕ НАСІННЯ [{0}/{1}]
+KEY_OBJECTIVE_PLANT_NOCOUNT,ПОСАДІТЬ МОДИФІКОВАНЕ НАСІННЯ
+KEY_OBJECTIVE_PROTECT_AIRCRAFT,ЗАХИСТІТЬ ЛІТАЛЬНИЙ АПАРАТ
+KEY_OBJECTIVE_PROTECT_CIVILIANS,ЗАХИСТІТЬ УСІХ ЦИВІЛЬНИХ [{0}/{1}]
+KEY_OBJECTIVE_PROTECT_CRATES,ЗАХИЩЕНО ЯЩИКІВ [{0}/{1}]
+KEY_OBJECTIVE_PROTECT_MOON,ЗАХИСТІТЬ МІСЯЧНИЙ ПУСКОВИЙ МАЙДАНЧИК
+KEY_OBJECTIVE_PROTECT_STRUCTURES,ЗАХИСТІТЬ УСІ КЛЮЧОВІ ОБ'ЄКТИ {0} %
+KEY_OBJECTIVE_PROTOTEMPLE,ЗНАЙДІТЬ ДОКАЗИ ІСНУВАННЯ ДОПОТОПНОЇ ЦИВІЛІЗАЦІЇ [{0}/{1}]
+KEY_OBJECTIVE_REPETITIVE_AN,Влаштуйте диверсію в притулку Послідовників Ану. Ціль: {0}
+KEY_OBJECTIVE_REPETITIVE_NJ,Влаштуйте диверсію в притулку Нового Єрихону. Ціль: {0}
+KEY_OBJECTIVE_REPETITIVE_SY,Влаштуйте диверсію в притулку Синедріону. Ціль: {0}
+KEY_OBJECTIVE_RETIREVE,ЗНАЙДІТЬ ОБ'ЄКТ [{0}/{1}]
+KEY_OBJECTIVE_RETIREVE_NOCOUNT,ЗНАЙДІТЬ ОБ'ЄКТ
+KEY_OBJECTIVE_SAVE_CIVILIANS,ЖИВИХ ЦИВІЛЬНИХ [{0}/{1}]
+KEY_OBJECTIVE_SAVE_STRUCTURES,КЛЮЧОВІ ОБ'ЄКТИ ЗАХИЩЕНО {0} %
+KEY_OBJECTIVE_SCAN_AREA,СКАНУЙТЕ ОБЛАСТЬ [{0}/{1}]
+KEY_OBJECTIVE_SCARABAI,ЗАХОПІТЬ ШІ «СКАРАБЕЙ»
+KEY_OBJECTIVE_SECURE_AIRCRAFT,ЗАБЕЗПЕЧТЕ ДОСТУП ДО ЛІТАЛЬНОГО АПАРАТА
+KEY_OBJECTIVE_SECURE_AREA,ЗАХОПІТЬ ТЕРИТОРІЮ
+KEY_OBJECTIVE_SECURE_CRYOLAB,ЗАХОПІТЬ КРІОЛАБОРАТОРІЮ
+KEY_OBJECTIVE_SECURE_CRYOLAB_TAKE,ЗДОБУДЬТЕ ДОСЛІДНИЦЬКІ ДАНІ [{0}/{1}]
+KEY_OBJECTIVE_STEAL_AIRCRAFT,ВИКРАДІТЬ ЛІТАЛЬНИЙ АПАРАТ. ЗАЛИШИЛОСЯ ХОДІВ: {0}
+KEY_OBJECTIVE_STEAL_RESEARCH,ВИКРАДІТЬ ДОСЛІДЖЕННЯ [{0}/{1}]
+KEY_OBJECTIVE_SURVIVE,ВИЖИВІТЬ {0} ХОДІВ
+KEY_OBJECTIVE_SURVIVE_DONE,ВИЖИЛИ В ЗАСІДЦІ
+KEY_OBJECTIVE_SYMES,ЗАХОПІТЬ ПРИХИСТОК САЙМСА
+KEY_OBJECTIVE_SYMES_TAKE,ЗДОБУДЬТЕ ЩОДЕННИК САЙМСА [{0}/{1}]
+KEY_OBJECTIVE_TUTORIAL1_CAMERA,ПОВЕРНІТЬ КАМЕРУ
+KEY_OBJECTIVE_TUTORIAL1_MOVE,РУХАЙТЕСЯ ДО МІСЦЯ
+KEY_OBJECTIVE_TUTORIAL1_SELECT,ВИБЕРІТЬ ЮНІТА
+KEY_OBJECTIVE_TUTORIAL1_SHOOT_FREE_AIM,ВРАЗІТЬ ВОРОГА В РЕЖИМІ ВІЛЬНОГО ПРИЦІЛУ
+KEY_OBJECTIVE_TUTORIAL1_SHOOT_STANDARD,ВРАЗІТЬ ВОРОГА
+KEY_OBJECTIVE_TUTORIAL1_STANDBY,ПЕРЕЙДІТЬ У РЕЖИМ ОЧІКУВАННЯ
+KEY_OBJECTIVE_TUTORIAL1_TURN,ЗАВЕРШІТЬ СВІЙ ХІД
+KEY_OBJECTIVE_TUTORIAL1_VEHICLE,ЗНАЙДІТЬ ТЕХНІКУ
+KEY_OBJECTIVE_TUTORIAL2_CHARACTER_INFO,ВІДКРИЙТЕ ЕКРАН ІНФОРМАЦІЇ ПРО ПЕРСОНАЖА
+KEY_OBJECTIVE_TUTORIAL2_GO_CRATE,РУХАЙТЕСЯ ДО ЯЩИКА ЗІ СПОРЯДЖЕННЯМ
+KEY_OBJECTIVE_TUTORIAL2_HEAL,ЗЦІЛІТЬ СОЛДАТА
+KEY_OBJECTIVE_TUTORIAL2_INVENTORY,ВІДКРИЙТЕ ІНВЕНТАР СОЛДАТА
+KEY_OBJECTIVE_TUTORIAL2_JET_JUMP,ВИКОРИСТАЙТЕ РЕАКТИВНИЙ СТРИБОК
+KEY_OBJECTIVE_TUTORIAL2_OVERWATCH,ВИКОРИСТАЙТЕ СПОСТЕРЕЖЕННЯ
+KEY_OBJECTIVE_TUTORIAL2_RESCUE,ВРЯТУЙТЕ СОЮЗНИКА
+KEY_OBJECTIVE_TUTORIAL2_SELECT_GRENADE,ВИБЕРІТЬ ГРАНАТУ
+KEY_OBJECTIVE_TUTORIAL2_SELECT_MEDKIT,ВИБЕРІТЬ АПТЕЧКУ
+KEY_OBJECTIVE_TUTORIAL2_THROW_GRENADE,КИНЬТЕ ГРАНАТУ
+KEY_OBJECTIVE_YUGG,ПЕРЕМОЖІТЬ ЮГГОТСЬКИЙ РЕЦЕПТАКУЛ
+KEY_OBJECTIVE_YUGG_EXALTED,ОБ'ЄДНАЙТЕ ВОЗВЕЛИЧЕНУ З ПЕРЕМОЖЕНИМ ЮГГОТСЬКИМ РЕЦЕПТАКУЛОМ
+KEY_OBJECTIVE_YUGG_INJECTOR,РОЗГОРНІТЬ ІНЖЕКТОР НАД ПЕРЕМОЖЕНИМ ЮГГОТСЬКИМ РЕЦЕПТАКУЛОМ
+KEY_OBJECTIVE_YUGG_NUKE,РОЗГОРНІТЬ МАЯЧОК НАД ПЕРЕМОЖЕНИМ ЮГГОТСЬКИМ РЕЦЕПТАКУЛОМ
+KEY_OBJECTIVE_YUGG_TAKEBEACON,ВІЗЬМІТЬ МАЯЧОК
+KEY_OBJECTIVE_YUGG_TAKEINJECTOR,ВІЗЬМІТЬ ІНЖЕКТОР

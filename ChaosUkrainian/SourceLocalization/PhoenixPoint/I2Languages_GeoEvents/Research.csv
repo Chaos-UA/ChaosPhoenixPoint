@@ -1,0 +1,1954 @@
+Key,Type,Desc,English,UI_Tester,Chinese,French,Spanish,Italian,German,Russian,Polish,0
+RE10_CHOICE_0_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Abongameli Smith (New Jericho)
+TO: Phoenix Project
+
+How long before one of these creatures goes berserk? How long before there are unexpected consequences to their genetic composition? How long before a few of them get free and start breeding? Is the Exalted trying to fight the Pandorans, or strengthen them?",,"消息
+来自：阿邦格梅里·史密斯（新耶利哥）
+接收：凤凰计划
+
+这些生物要过多久才会变得狂暴？他们的基因组合要过多久才会出现意想不到的结果？要过多久他们才会获得自由并开始繁衍？圣尊到底是在对抗潘多拉体，还是在强化他们？","MESSAGE
+DE : Abongameli Smith (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Combien de temps reste-il avant que l'une de ces créatures ne devienne incontrôlable ? Combien de temps reste-il avant que des conséquences inattendues liées à leurs compositions génétiques ne se manifestent ? Combien de temps reste-il avant que plusieurs d'entre elles ne s'échappent et ne commencent à se reproduire ? L'Exaltée essaie-t-elle de combattre les Pandoriens, ou de les rendre plus forts ?","MENSAJE
+DE: Abongameli Smith (Nueva Jericó)
+PARA: Proyecto Fénix
+
+¿Cuánto tiempo pasará antes de que una de esas criaturas enloquezca? ¿Cuánto tiempo pasará antes de que ocurra algo inesperado en sus composiciones genéticas? ¿Qué pasará si se escapan y empiezan a reproducirse? ¿Acaso intenta la Glorificada fortalecerlos?","MESSAGGIO
+DA: Abongameli Smith (Nuova Gerico)
+A: Progetto Phoenix
+
+Quanto manca prima che una di queste creature dia di matto? Prima che la loro composizione genetica porti a conseguenze inaspettate? Prima che uno di loro riesca a liberarsi e cominci a nutrirsi? La Suprema vuole respingere i Pandora o rafforzarli?","NACHRICHT
+ VON: Abongameli Smith (Neu-Jericho)
+ AN: Das Phoenix-Projekt
+
+Wie lange noch, bis eine dieser Kreaturen Amok läuft? Wie lange noch, bevor es unerwartete Konsequenzen in ihrem Genaufbau gibt? Wie lange noch, bis sich einige von ihnen befreien und anfangen, sich zu vermehren? Will die Erhabene die Pandoraner bekämpfen oder sie stärker machen?","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Абонгамели Смит (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Через какое время одно из этих существ станет берсерком? Через какое время появятся неожиданные последствия в их генетическом составе? Через какое время некоторые из них освободятся и начнут размножаться? Возвышенная пытается бороться с пандоранами или способствует их распространению?","WIADOMOŚĆ
+OD: Abongameli Smith (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Ile jeszcze minie, nim któryś z tych stworów wpadnie w szał? Kiedy wystąpią nieoczekiwane skutki ich genetyki? Kiedy się uwolnią i zaczną rozmnażać? Wywyższona chce walczyć z Pandoranami czy ich wzmocnić?",
+RE10_CHOICE_0_TEXT,Text,,Continue.,,继续。,Continuer.,Continuar.,CONTINUA,Weiter.,Продолжить.,Kontynuuj.,
+RE10_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Abongameli Smith (New Jericho)
+TO: Public
+
+This ""Mutog"" research the Disciples are engaging in is deeply troubling. Fooling around with mutation is dangerous enough to begin with, but to not even have a proper way of controlling the creature you've created?",,"消息
+来自：阿邦格梅里·史密斯（新耶利哥）
+接收：公众
+
+安努门徒教会正在进行的“变异犬”研究令人深感不安。与变异体打交道本来就是一件危险至极的事情，现在竟然还创造出了这种无法有效控制的生物？","MESSAGE
+DE : Abongameli Smith (Nouvelle-Jéricho)
+À : Public
+
+Ces recherches que les Disciples mènent sur les « Mutogs » sont profondément inquiétantes. Jouer avec les mutations, c'est déjà assez dangereux, mais ne pas avoir un moyen efficace de contrôler la créature qu'on crée, c'est encore pire.","MENSAJE
+DE: Abongameli Smith (Nueva Jericó)
+PARA: Público
+
+La investigación ""Mutog"" que realizan los Discípulos es muy preocupante. Están jugando a ser dioses con eso de la mutación, ¿acaso son capaces siquiera de controlar a la criatura que han creado?","MESSAGGIO
+DA: Abongameli Smith (Nuova Gerico)
+A: Comunità
+
+Questa ricerca sul ""Mutog"" che i Discepoli stanno svolgendo è tremendamente preoccupante. È già abbastanza pericoloso giocare con le mutazioni, figuriamoci non avere nemmeno un modo adeguato per poter controllare le creature che creano!","NACHRICHT
+ VON: Abongameli Smith (Neu-Jericho)
+ AN: Die Öffentlichkeit
+
+Diese „Mutog“-Forschung, die die Jünger betreiben, ist äußerst bedenklich. Es ist schon gefährlich genug, mit Mutationen zu experimentieren, aber wie kann es sein, dass sie keine richtige Möglichkeit haben, die Kreaturen zu steuern, die sie erschaffen?","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Абонгамели Смит (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Исследование «Мутог», в котором участвуют Последователи Ану, сильно нас беспокоит. Уже само необоснованное создание мутаций достаточно опасно. Что говорить о том, когда у тебя нет никаких средств контролировать этих существ?","WIADOMOŚĆ
+OD: Abongameli Smith (Nowe Jerycho)
+DO: Publiczna
+
+Martwią mnie prace nad tymi mutogami, które prowadzą Akolici. Zabawa z mutacjami sama w sobie jest niebezpieczna, ale żeby nawet nie mieć kontroli nad tym, co się tworzy?",
+RE10_TITLE,Text,,The Hound of Anu,,安努之犬,Le chien d'Anu,El sabueso de Anu,Il segugio di Anu,Der Bluthund von Anu,Собака Ану,Ogar Anu,
+RE11_CHOICE_0_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Public
+
+That is good to hear. We must employ reason to understand the nature of the threat we face, and act accordingly.",,"消息
+来自：托拜厄斯·韦斯特（新耶利哥）
+接收：公众
+
+很高兴听到你这么说。我们必须理性地认识我们所面对的威胁本质，然后采取相应的行动。","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Public
+
+Voilà qui fait plaisir à entendre. Nous devons faire preuve de raison pour comprendre la nature de la menace à laquelle nous faisons face, et agir en conséquence.","MENSAJE
+DE: Tobias West (Nueva Jericó)
+PARA: Público
+
+Me tranquiliza oír eso. Tenemos que estudiar la naturaleza de lo que nos amenaza para tomar medidas acorde.","MESSAGGIO
+DA: Tobias West (Nuova Gerico)
+A: Comunità
+
+Ottima notizia. Dobbiamo utilizzare la ragione per comprendere la natura della minaccia che affrontiamo, e agire di conseguenza.","NACHRICHT
+ VON: Tobias West (Neu-Jericho)
+ AN: Die Öffentlichkeit
+
+Das ist gut zu hören. Wir müssen vernünftig bleiben, um die Bedrohung zu verstehen, der wir ausgesetzt sind, und entsprechend zu handeln.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Приятно это слышать. Мы должны задействовать разум, чтобы понять природу угрозы, с которой сталкиваемся, и действовать соответственно.","WIADOMOŚĆ
+OD: Tobias West (Nowe Jerycho)
+DO: Publiczna
+
+Dobrze to słyszeć. Aby zrozumieć zagrożenie, z którym się mierzymy, musimy okazać rozsądek i odpowiednio dostosować nasze działania.",
+RE11_CHOICE_0_TEXT,Text,,The Phoenix Project condemns proselytisation on principle.,,凤凰计划在原则上谴责劝诱改信宗教的做法。,Le Projet Phoenix condamne le prosélytisme par principe.,El Proyecto Fénix condena la proselitización.,IL PROGETTO PHOENIX CONDANNA IL PROSELITISMO PER PRINCIPIO,Das Phoenix-Projekt verdammt jegliche Art von Missionierung.,Проект Феникс принципиально осуждает прозелитизм.,Projekt Phoenix z zasady potępia nawracanie.,
+RE11_CHOICE_1_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Public
+
+I understand the urge to look for easy answers, whether they are in politics or religion, but that is an approach we can no longer afford. Instead, we must employ reason to understand the nature of the threat we face, and act accordingly.",,"消息
+来自：托拜厄斯·韦斯特（新耶利哥）
+接收：公众
+
+我能够理解想要获得简单答案的迫切希望，无论这样的答案存在于政治还是宗教之中。然而，我们已经无力再承担这样的方法了。相反，我们必须理性地认识我们所面对的威胁本质，然后采取相应的行动。","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Public
+
+Je conçois que l'on puisse avoir envie de chercher des réponses simples, qu'il s'agisse de politique ou de religion, mais c'est là une approche que nous ne pouvons plus nous permettre. Nous devons plutôt faire preuve de raison pour comprendre la nature de la menace à laquelle nous faisons face, et agir en conséquence.","MENSAJE
+DE: Tobias West (Nueva Jericó)
+PARA: Público
+
+Entiendo la necesidad de buscar respuestas fáciles, ya sea en la política o en la religión, pero esta no es una opción que podamos permitirnos ahora mismo. En cambio, debemos usar la razón para averiguar cuan seria es la amenaza y tomar medidas acorde.","MESSAGGIO
+DA: Tobias West (Nuova Gerico)
+A: Comunità
+
+Capisco l'urgenza di cercare risposte facili, che si tratti di politica o di religione, ma questo è un approccio che non possiamo più permetterci. Al contrario, dobbiamo utilizzare la ragione per comprendere la natura della minaccia che affrontiamo, e agire di conseguenza.","NACHRICHT
+ VON: Tobias West (Neu-Jericho)
+ AN: Die Öffentlichkeit
+
+Ich verstehe, dass jeder nach einfachen Antworten sucht – in der Politik wie in der Religion. Aber diesen Luxus können wir uns nicht mehr leisten. Wir müssen die Bedrohung begreifen und entsprechend handeln.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Я понимаю охоту искать простые ответы, будь то в политике или религии, но использовать такой подход мы больше не можем. Вместо этого мы должны задействовать разум, чтобы понять природу угрозы, с которой сталкиваемся, и действовать соответственно.","WIADOMOŚĆ
+OD: Tobias West (Nowe Jerycho)
+DO: Publiczna
+
+Rozumiem potrzebę poszukiwania prostych odpowiedzi, zarówno w kwestii polityki, jak i religii, ale nie możemy sobie pozwolić na takie podejście. Aby zrozumieć zagrożenie, z którym się mierzymy, musimy okazać rozsądek i odpowiednio dostosować nasze działania.",
+RE11_CHOICE_1_TEXT,Text,,The Disciples have the right to spread their beliefs.,,安努门徒教会有权传播他们的信仰。,Les Disciples ont le droit de répandre leurs croyances.,Los Discípulos tienen derecho a compartir sus creencias,I DISCEPOLI HANNO IL DIRITTO DI DIFFONDERE IL LORO CREDO,"Die Jünger haben das Recht, ihren Glauben zu verbreiten.",Последователи Ану имеют право распространять свои убеждения.,Akolici mają prawo do głoszenia swoich przekonań.,
+RE11_CHOICE_2_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Public
+
+Exactly! I understand the urge to look for easy answers, whether they are in politics or religion, but that is an urge we must reject. Instead, we must employ reason to understand the nature of the threat we face, and act accordingly.",,"消息
+来自：托拜厄斯·韦斯特（新耶利哥）
+接收：公众
+
+没错！我能够理解想要获得简单答案的迫切希望，无论这样的答案存在于政治还是宗教之中。然而，我们必须拒绝这样的迫切需求。相反，我们必须理性地认识我们所面对的威胁本质，然后采取相应的行动。","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Public
+
+Tout à fait ! Je conçois que l'on puisse avoir envie de chercher des réponses simples, qu'il s'agisse de politique ou de religion, mais nous devons rejeter ce désir. Nous devons plutôt faire preuve de raison pour comprendre la nature de la menace à laquelle nous faisons face, et agir en conséquence.","MENSAJE
+DE: Tobias West (Nueva Jericó)
+PARA: Público
+
+¡Exactamente! Entiendo la necesidad de buscar respuestas fáciles, ya sea en la política o en la religión, pero debemos evitar el impulso. En cambio, debemos usar la razón para averiguar cuan seria es la amenaza y tomar medidas acorde.","MESSAGGIO
+DA: Tobias West (Nuova Gerico)
+A: Comunità
+
+Esatto! Capisco l'urgenza di cercare risposte facili, che si tratti di politica o di religione, ma è un'urgenza che dobbiamo respingere. Al contrario, dobbiamo utilizzare la ragione per comprendere la natura della minaccia che affrontiamo, e agire di conseguenza.","NACHRICHT
+ VON: Tobias West (Neu-Jericho)
+ AN: Die Öffentlichkeit
+
+Genau! Ich verstehe, dass jeder nach einfachen Antworten sucht – in der Politik wie in der Religion. Aber wir müssen dieses Bedürfnis unterdrücken. Wir müssen die Bedrohung begreifen und entsprechend handeln.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Верно! Я понимаю охоту искать простые ответы, будь то в политике или религии, но от такого подхода мы должны отказаться. Вместо этого мы должны задействовать разум, чтобы понять природу угрозы, с которой сталкиваемся, и действовать соответственно.","WIADOMOŚĆ
+OD: Tobias West (Nowe Jerycho)
+DO: Publiczna
+
+Dokładnie! Rozumiem potrzebę poszukiwania prostych odpowiedzi, zarówno w kwestii polityki, jak i religii, ale nie możemy sobie na nią pozwolić. Aby zrozumieć zagrożenie, z którym się mierzymy, musimy okazać rozsądek i odpowiednio dostosować nasze działania.",
+RE11_CHOICE_2_TEXT,Text,,"The cult of the Exalted is dangerous and should not be allowed to spread.
+",,"圣尊的教派十分危险，不应允许散播。
+",La secte de l'Exaltée est dangereuse et ne doit pas proliférer.,El culto de la Glorificada es peligroso y no podemos permitir que sus ideales se difundan.,LA SETTA DELLA SUPREMA È PERICOLOSA E NON DOVREBBE POTERSI DIFFONDERE,"Der Kult der Erhabenen ist gefährlich und wir dürfen nicht zulassen, dass er sich verbreitet.
+",Культ Возвышенной опасен и не должен распространяться.,"Kult Wywyższonej jest niebezpieczny i nie możemy im pozwolić na głoszenie swoich przekonań.
+",
+RE11_CHOICE_3_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Public
+
+Truth? Unsubstantiated claims and appeals to authority are not truth, they are surrender to the darkest, most primitive human instincts. Blind faith is what got us here in the first place.",,"消息
+来自：托拜厄斯·韦斯特（新耶利哥）
+接收：公众
+
+真理？毫无事实根据的主张与向权威的诉求如何称得上是真理？只是屈服于人类最黑暗最原始的本能罢了。正是盲目的信仰才导致我们走到了这一步。","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Public
+
+Une vérité ? Des allégations sans fondement et des appels à l'autorité ne constituent pas une vérité, mais une soumission aux instincts humains les plus sombres et les plus primitifs. Si nous en sommes là, c'est à cause d'une foi aveugle.","MENSAJE
+DE: Tobias West (Nueva Jericó)
+PARA: Público
+
+¿La verdad? Las afirmaciones y los rumores sin pruebas no son verdades. No son más que actos que os acercan a los instintos humanos más primitivos y oscuros. La situación actual surge de la fe ciega.","MESSAGGIO
+DA: Tobias West (Nuova Gerico)
+A: Comunità
+
+La verità? Affermazioni non comprovate e appelli all'autorità non sono la verità, bensì la resa all'oscurità e agli istinti umani più primitivi. È stata la fede cieca a portarci a questo punto.","NACHRICHT
+ VON: Tobias West (Neu-Jericho)
+ AN: Die Öffentlichkeit
+
+Die Wahrheit? Unbewiesene Behauptungen und Forderungen sind nicht die Wahrheit. Sie geben sich den dunkelsten, primitivsten Instinkten der Menschen hin. Es ist der blinde Glaube, der uns überhaupt erst hierher gebracht hat.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Истина? Необоснованные претензии и воззвания к авторитету не являются истиной, они подчиняются самым мрачным, самым примитивным человеческим инстинктам. Слепая вера — вот из-за чего мы докатились до такой жизни.","WIADOMOŚĆ
+OD: Tobias West (Nowe Jerycho)
+DO: Publiczna
+
+Prawdę? Pozbawione dowodów twierdzenia i odniesienia do władzy to nie prawda, lecz podporządkowanie się najbardziej prymitywnym ludzkim instynktom. W końcu to przez ślepą wiarę jesteśmy tu, gdzie jesteśmy.",
+RE11_CHOICE_3_TEXT,Text,,The truth of the Exalted must be spread at any cost.,,必须不惜一切代价传播圣尊的真相。,La vérité de l'Exaltée doit être répandue à tout prix.,La verdad de la Glorificada ha de difundirse a toda costa.,LA VERITÀ DELLA SUPREMA DEVE ESSERE DIFFUSA A OGNI COSTO,Die Wahrheit der Erhabenen muss um jeden Preis verbreitet werden.,Истину о Возвышенной следует распространить любой ценой.,Prawdę Wywyższonej należy głosić za wszelką cenę.,
+RE11_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Public
+
+Word has reached me that the Disciples of Anu have begun training missionaries in an effort to convert more people before the Liturgy of the Divine Flesh. While New Jericho supports religious freedom, we hold that religion is a private matter. When religion becomes a tool of the state, dogma becomes a weapon, and grasping for the minds of our people becomes an act of war.",,"消息
+来自：托拜厄斯·韦斯特（新耶利哥）
+接收：公众
+
+我收到消息称，安努门徒教会正在大量训练传教士，以便在神圣肉体仪式开始之前转变更多人的信仰。虽然新耶利哥支持宗教自由，但我们坚持认为宗教属于私人问题。如果宗教成为了国家的工具，那么教义就成为了一种武器，而控制人民的思想便成了一种战争的行为。","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Public
+
+On m'a signalé que les Disciples d'Anu ont commencé à entraîner des missionnaires afin de convertir davantage de gens avant la Liturgie de la chair divine. Bien que la Nouvelle-Jéricho soutienne la liberté religieuse, nous estimons que la religion est une affaire privée. Lorsque la religion devient un outil de l'État, le dogme devient une arme, et tenter de s'emparer des esprits de nos citoyens devient un acte de guerre.","MENSAJE
+DE: Tobias West (Nueva Jericó)
+PARA: Público
+
+He recibido noticias que sugieren que los Discípulos de Anu están formando a misioneros para intentar convertir a más personas antes de la Liturgia de la Carne Divina. En Nueva Jericó apoyamos la libertad de religión, pero siempre como un asunto privado. Si la religión se convierte en un arma del estado, el dogma en sí también lo será, por lo que intentar apelar a las mentes de las personas se vuelve un acto bélico.","MESSAGGIO
+DA: Tobias West (Nuova Gerico)
+A: Comunità
+
+Ho sentito dire che i Discepoli di Anu hanno cominciato ad addestrare missionari affinché convertano sempre più persone alla Liturgia della Divina Carne. Nonostante Nuova Gerico appoggi la libertà di religione, riteniamo che quest'ultima sia un fatto privato. Quando la religione diventa uno strumento dello stato, i dogmi diventano armi, e cercare di fare il lavaggio del cervello alla nostra gente diventa un atto di guerra.","NACHRICHT
+ VON: Tobias West (Neu-Jericho)
+ AN: Die Öffentlichkeit
+
+Ich habe erfahren, dass die Jünger von Anu angefangen haben, Missionare auszubilden, damit sie noch mehr Menschen von der Liturgie des göttlichen Fleisches überzeugen können. Obwohl Neu-Jericho die religiöse Freiheit unterstützt, sind wir doch der Meinung, dass Religion etwas Privates ist. Wenn Religion zum Werkzeug des Staates wird, dann wird Dogma zur Waffe und der Versuch, die Menschen zu überzeugen, wird zu einer Kriegserklärung.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Общественность
+
+До меня дошли слухи, что Последователи Ану начали обучать миссионеров в попытке обратить в свою веру больше людей перед Литургией Божественной Плоти. Хотя Новый Иерихон поддерживает свободу вероисповедания, мы считаем, что религия — это личное дело каждого. Когда религия становится орудием государства, догма становится оружием, а хватка за умы наших людей становится войной.","WIADOMOŚĆ
+OD: Tobias West (Nowe Jerycho)
+DO: Publiczna
+
+Doszły mnie słuchy, że Akolici Anu rozpoczęli szkolenie misjonarzy, chcąc zyskać więcej wyznawców przed Liturgią Bożego Ciała. Nowe Jerycho popiera wolność wyznania — uważamy, że religia to kwestia osobista każdego człowieka. Gdy staje się ona narzędziem władz, dogmaty zaczynają służyć za broń, a sięganie do umysłów naszych ludzi jest równoznaczne z wypowiedzeniem wojny.",
+RE11_TITLE,Text,,The New Jericho Position on Missionaries,,新耶利哥对传教士的立场,La position de la Nouvelle-Jéricho à l'égard des missionnaires,La opinión de Nueva Jericó respecto a los misioneros,La posizione di Nuova Gerico sui missionari,Die Position von Neu-Jericho zu den Missionaren,Позиция Нового Иерихона в отношении миссионеров,Stanowisko Nowego Jerycha w sprawie misjonarzy,
+RE12_CHOICE_0_OUTCOME_GENERAL,Text,,"None of the other factions have made any official announcements, but both Synedrion and New Jericho have started beefing up their own air capabilities.",,虽然没有发表任何正式声明，但平衡议会和新耶利哥已经开始加强他们的空中作战能力了。,"Aucune autre faction n'a fait d'annonce officielle, mais le Synédrion et la Nouvelle-Jéricho ont commencé à renforcer leurs propres systèmes aériens.","Las facciones no han anunciado nada oficialmente, pero tanto Synedrion como Nueva Jericó han empezado a reforzar sus defensas aéreas.","Nessuna fazione ha fatto un annuncio ufficiale, ma sia Synedrion che Nuova Gerico hanno cominciato a potenziare le proprie flotte aeree.","Keine der anderen Fraktionen hat eine offizielle Erklärung abgegeben, doch Synedrion und Neu-Jericho bauen ihre Luftkapazitäten aus.","Ни одна из других фракций не сделала никаких официальных заявлений, но и Синедрион, и Новый Иерихон начали совершенствовать свои авиационные технологии.","Inne frakcje nie podały jeszcze oficjalnych informacji, ale Synedrion i Nowe Jerycho zaczęli prace nad doskonaleniem lotnictwa.",
+RE12_CHOICE_0_TEXT,Text,,Continue.,,继续。,Continuer.,Continuar.,CONTINUA,Weiter.,Продолжить.,Kontynuuj.,
+RE12_TEXT_GENERAL_0,Text,,"There are reports of a new generation of Disciples of Anu airships. Like the older models, these are semi-organic: part living organism, part machine.",,我们收到了多份报告，全都与安努门徒教会的一种新型飞船有关。与之前的模型一样，这些飞船都是半有机体：一部分生物，一部分机器。,"On rapporte que les Disciples d'Anu ont mis au point une nouvelle génération de vaisseaux aériens. Tout comme les anciens modèles, ces derniers sont semi-organiques : moitié organismes vivants, moitié machines.","Existen informes que apuntan hacia una nueva generación de naves de los Discípulos de Anu. Son similares a los modelos antiguos; mitad ser vivo, mitad máquina.","Ci sono resoconti su aeromobili di nuova generazione dei Discepoli di Anu. Come i modelli più vecchi, sono semi-organici: in parte organismi viventi, in parte macchine.","Es gibt Berichte über eine neue Generation Luftschiffe, die den Jüngern von Anu gehören. So wie die älteren Modelle auch schon, sind sie teils organisch: Teil lebender Organismus, Teil Maschine.","Поступили доклады о новом поколении воздушных судов Последователей Ану. Как и старые модели, они полуорганические: частично живой организм, частично машина.","Pojawiają się doniesienia o nowej generacji statków powietrznych Akolitów Anu. Podobnie jak w przypadku starszych modeli są to częściowo maszyny, a częściowo żywe organizmy.",
+RE12_TITLE,Text,,It's a Bird... It's a Plane...,,那是一只鸟…也是一架飞机…,"C'est un oiseau... Non, c'est un avion...",Es un pájaro... es un avión...,È un uccello... È un aereo...,Es ist ein Vogel... Es ist ein Fluggerät...,Это птица... Это самолет...,To ptak... To samolot...,
+RE13_CHOICE_0_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Taxiarch Nergal (Anu)
+TO: Public
+
+An interesting display of faith. But all the great leaders of the old world thought they had plans, and where are they now?",,"消息
+来自：涅加尔准将（安努门徒）
+接收：公众
+
+多么有趣的信仰表现。然而，旧世界中所有伟大的领袖都曾有计划，结果他们现在又在哪呢？","MESSAGE
+DE : Taxiarque Nergal (Anu)
+À : Public
+
+Voilà une intéressante preuve de foi. Mais tous les grands dirigeants de l'ancien monde pensaient avoir des plans, et où se trouvent-ils aujourd'hui ?","MENSAJE
+DE: Taxiarca Nergal (Anu)
+PARA: Público
+
+Una muestra de fe de lo más interesante. Los grandes líderes del antiguo mundo decían tener planes. ¿Qué ha sido de ellos?","MESSAGGIO
+DA: Tassiarca Nergal (Anu)
+A: Comunità
+
+Un'interessante dimostrazione di fede. Ma tutti i grandi leader del vecchio mondo credevano di avere un piano, e che fine hanno fatto?","NACHRICHT
+ VON: Taxiarch Nergal (Anu)
+ AN: Die Öffentlichkeit
+
+Eine interessante Demonstration des Glaubens. Doch alle großen Anführer der alten Welt dachten, sie hatten einen Plan. Und wo sind sie jetzt?","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Таксиарх Нергал (Ану)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Интересное проявление веры. Однако все великие лидеры старого мира думали, что у них есть планы, и где они сейчас?","WIADOMOŚĆ
+OD: Taksiarcha Nergal (Anu)
+DO: Publiczna
+
+Interesujące wyznanie wiary. Lecz wszyscy wielcy przywódcy tego świata sądzili, że mają plan. Dokąd ich to zaprowadziło?",
+RE13_CHOICE_0_TEXT,Text,,A military victory is possible. Tobias West has a plan.,,依靠军事力量取得胜利是有可能的，托拜厄斯·韦斯特自有他的计划。,Une victoire militaire est possible. Tobias West a un plan.,La victoria militar es posible. Tobias West tiene un plan.,"UNA VITTORIA MILITARE È IMPOSSIBILE, TOBIAS WEST HA UN PIANO",Ein militärischer Sieg ist möglich. Tobias West hat einen Plan.,Победа в войне возможна. У Тобиаса Веста есть план.,Zwycięstwo drogą militarną jest możliwe. Tobias West ma plan.,
+RE13_CHOICE_1_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Taxiarch Nergal (Anu)
+TO: Public
+
+Couldn't have said it better myself. ",,"消息
+来自：涅加尔准将（安努门徒）
+接收：公众
+
+我想不出比这更好的说辞了。","MESSAGE
+DE : Taxiarque Nergal (Anu)
+À : Public
+
+Je n'aurais pas pu dire mieux.","MENSAJE
+DE: Taxiarca Nergal (Anu)
+PARA: Público
+
+No podría haberlo dicho mejor.","MESSAGGIO
+DA: Tassiarca Nergal (Anu)
+A: Comunità
+
+Non avrei saputo dirlo meglio. ","NACHRICHT
+ VON: Taxiarch Nergal (Anu)
+ AN: Die Öffentlichkeit
+
+Ich hätte es selber nicht besser sagen können.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Таксиарх Нергал (Ану)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Сам не мог бы сказать это лучше.","WIADOMOŚĆ
+OD: Taksiarcha Nergal (Anu)
+DO: Publiczna
+
+Sam bym tego lepiej nie ujął. ",
+RE13_CHOICE_1_TEXT,Text,,New Jericho is the last spasm of a dying order.,,新耶利哥代表着一个濒临死亡的秩序在临终前发出的最后一阵痉挛。,La Nouvelle-Jéricho est le dernier frémissement d'un ordre en voie de disparition.,Nueva Jericó es el último espasmo de una orden moribunda.,NUOVA GERICO È L'ULTIMO SPASMO DI UN ORDINE MORENTE,Neu-Jericho ist das letzte Aufbäumen eines sterbenden Ordens.,Новый Иерихон — последняя судорога умирающего ордена.,Nowe Jerycho to ostatnie podrygi umierającego systemu.,
+RE13_CHOICE_2_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Taxiarch Nergal (Anu)
+TO: Public
+
+Well... fair enough, actually. But we do have to be careful.",,"消息
+来自：涅加尔准将（安努门徒）
+接收：公众
+
+嗯…事实上，你说得很有道理。不过，我们一定要当心。","MESSAGE
+DE : Taxiarque Nergal (Anu)
+À : Public
+
+Eh bien soit... mais nous devons faire preuve d'une grande prudence.","MENSAJE
+DE: Taxiarca Nergal (Anu)
+PARA: Público
+
+Bueno, no es mala idea. Pero tenemos que andarnos con pies de plomo.","MESSAGGIO
+DA: Tassiarca Nergal (Anu)
+A: Comunità
+
+Beh... è esatto, in effetti. Ma dobbiamo fare attenzione.","NACHRICHT
+ VON: Taxiarch Nergal (Anu)
+ AN: Die Öffentlichkeit
+
+Nun... das stimmt schon. Aber wir müssen vorsichtig sein.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Таксиарх Нергал (Ану)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Ну... согласен, действительно. Однако мы должны быть осторожны.","WIADOMOŚĆ
+OD: Taksiarcha Nergal (Anu)
+DO: Publiczna
+
+Cóż... niech będzie. Ale musimy być ostrożni.",
+RE13_CHOICE_2_TEXT,Text,,Humanity needs all the tech it can get.,,人类需要得到一切能够获得的技术。,L'humanité a besoin de toute la technologie possible.,La humanidad necesita toda la tecnología posible.,ALL'UMANITÀ SERVE TUTTA LA TECNOLOGIA CHE RIESCE A OTTENERE,"Die Menschheit benötigt alle Technologie, die sie nur kriegen kann.","Человечеству нужно все, что только можно получить.",Ludzkość potrzebuje każdej dostępnej technologii.,
+RE13_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Taxiarch Nergal (Anu)
+TO: Public
+
+My sources tell me New Jericho has developed a new type of APC. I hope they intend to use it to fight the Pandorans, not their fellow human beings.",,"消息
+来自：涅加尔准将（安努门徒）
+接收：公众
+
+我的线人告诉我，新耶利哥研发出了一种新型装甲运兵车。希望他们的目的是为了对抗潘多拉体，而不是他们自己的人类同胞。","MESSAGE
+DE : Taxiarque Nergal (Anu)
+À : Public
+
+Mes sources m'apprennent que la Nouvelle-Jéricho a développé un nouveau type d'APC. J'espère qu'elle compte l'utiliser contre les Pandoriens, et non pas contre ses congénères.","MENSAJE
+DE: Taxiarca Nergal (Anu)
+PARA: Público
+
+Mis fuentes me han comentado que Nueva Jericó está desarrollando un nuevo tipo de APC. Espero que lo usen contra los pandorianos y no contra sus vecinos humanos.","MESSAGGIO
+DA: Tassiarca Nergal (Anu)
+A: Comunità
+
+Le mie fonti mi dicono che Nuova Gerico ha sviluppato un nuovo tipo di veicolo di trasporto truppe. Spero lo vogliano usare per combattere i Pandora, e non i loro simili umani.","NACHRICHT
+ VON: Taxiarch Nergal (Anu)
+ AN: Die Öffentlichkeit
+
+Meine Quellen sagen, dass Neu-Jericho eine neue Art APC entwickelt hat. Ich hoffe, sie wollen damit die Pandoraner bekämpfen und nicht andere Menschen.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Таксиарх Нергал (Ану)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Мои источники сообщают, что в Новом Иерихоне разработан новый тип БТР. Надеюсь, они намерены использовать его для борьбы с пандоранами, а не со своими собратьями.","WIADOMOŚĆ
+OD: Taksiarcha Nergal (Anu)
+DO: Publiczna
+
+Moje źródła donoszą, że Nowe Jerycho opracowało nowy rodzaj transportera opancerzonego. Mam nadzieję, że zamierzają go wykorzystać do walki z Pandoranami, a nie z ludźmi.",
+RE13_TEXT_GENERAL_1,Text,,"MESSAGE
+FROM: Taxiarch Nergal (Anu)
+TO: Public
+
+But the real question is - how can you win a war if you don't understand the battlefield? All the vehicles in the world won't help you if you cling to the delusions of the old world. I should know. I remember the wars of the old world better than anyone.",,"消息
+来自：涅加尔准将（安努门徒）
+接收：公众
+
+但真正的问题是，如果你连战场都不了解，你拿什么取胜？如果你沉浸在旧世界的幻想中无法自拔，那么世界上的任何载具都无法帮助你。我当然明白。对于旧世界的战争，我比任何人都记得清楚。","MESSAGE
+DE : Taxiarque Nergal (Anu)
+À : Public
+
+Mais la véritable question est la suivante : comment gagner une guerre sans comprendre le champ de bataille ? Tous les véhicules du monde entier ne sauraient vous aider si vous persistez à vous accrocher aux illusions de l'ancien monde. Je parle en connaissance de cause : je me souviens des guerres de l'ancien monde mieux que quiconque.","MENSAJE
+DE: Taxiarca Nergal (Anu)
+PARA: Público
+
+La verdadera pregunta es: ¿cómo vais a ganar una guerra si no conocéis el campo de batalla? No habrá vehículo alguno que os ayude si seguís aferrándoos a las ilusiones del antiguo mundo. Hacedme caso; recuerdo bien las guerras de antaño mejor que nadie.","MESSAGGIO
+DA: Tassiarca Nergal (Anu)
+A: Comunità
+
+Ma la vera questione è: come si fa a vincere una guerra se non si conosce il campo di battaglia? Tutti i veicoli del mondo non serviranno a niente se si resta attaccati alle illusioni del vecchio mondo. Io lo so bene. Ricordo le guerre del vecchio mondo meglio di chiunque altro.","NACHRICHT
+ VON: Taxiarch Nergal (Anu)
+ AN: Die Öffentlichkeit
+
+Aber die echte Frage ist doch: Wie gewinnt man einen Krieg, wenn man das Schlachtfeld nicht versteht? Alle Fahrzeuge auf der Welt würden euch nicht helfen, wenn ihr an den Wahnvorstellungen der alten Welt festhaltet. Ich sollte es wissen, denn ich erinnere mich besser als alle anderen an die Kriege der alten Welt.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Таксиарх Нергал (Ану)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Вот, однако, интересный вопрос. Как можно выиграть войну, если не понимаете, что творится на поле боя? Все машины в мире не помогут вам, если вы будете цепляться за иллюзии старого мира. Я знаю. Я помню войны старого мира лучше всех.","WIADOMOŚĆ
+OD: Taksiarcha Nergal (Anu)
+DO: Publiczna
+
+Prawdziwe pytanie brzmi: jak wygrać wojnę, nie rozumiejąc pola bitwy? Nawet wszystkie pojazdy na świecie na nic się nie zdadzą, jeśli nie odrzucimy urojeń starego świata. Dobrze o tym wiem — lepiej niż ktokolwiek pamiętam dawne wojny.",
+RE13_TITLE,Text,,The Old Ways,,旧方法,Les anciennes coutumes,El viejo mundo,Le vecchie maniere,Die alten Wege,Старые пути,Stary świat,
+RE14_CHOICE_0_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Citizen Athena (Synedrion)
+TO: Public
+
+Yes, we need to achieve some kind of peace, and we in Synedrion aren't unwilling to fight. But winning is more than just building the biggest army. To win, we need a functional infrastructure. We need people who can plan. We need a system that works.",,"消息
+来自：市民雅典娜（平衡议会）
+接收：公众
+
+是的，我们需要达成某种和平，而我们平衡议会不愿意战斗。但胜利不仅仅是建立一支庞大的军队。要想获得胜利，我们还需要运转正常的基础设施，需要能够出谋划策的人，需要切实有效的体制。","MESSAGE
+DE : Citoyenne Athéna (Synédrion)
+À : Public
+
+Oui, nous devons parvenir à la paix, quelle qu'elle soit, et nous autres membres du Synédrion ne sommes pas contre l'idée de nous battre. Mais gagner ne se résume pas à assembler la plus grande armée possible. Pour triompher, il nous faut une infrastructure fonctionnelle. Nous avons besoin d'individus qui savent planifier. Nous avons besoin d'un système efficace.","MENSAJE
+DE: Ciudadana Atenea (Synedrion)
+PARA: Público
+
+Sí, necesitamos paz. En Synedrion no estamos por la labor de quedarnos de brazos cruzados. Para ganar no solo hace falta un gran ejército; hace falta una infraestructura funcional. Necesitamos a gente con mente estratega; necesitamos un sistema que funcione.","MESSAGGIO
+DA: Cittadina Athena (Synedrion)
+A: Comunità
+
+Sì, dobbiamo raggiungere una pace di qualche tipo, e noi di Synedrion non siamo contrari a combattere. Ma per vincere non basta mettere insieme l'esercito più numeroso. Per vincere, ci serve un'infrastruttura funzionale. Ci servono persone in grado di escogitare piani. Ci serve un sistema che funzioni.","NACHRICHT
+ VON: Bürgerin Athena (Synedrion)
+ AN: Die Öffentlichkeit
+
+Ja, wir müssen eine Art Frieden erreichen und wir von Synedrion sind nicht gewillt zu kämpfen. Aber beim Sieg geht es um mehr, als einfach nur die größte Armee zu haben. Um zu gewinnen brauchen wir eine funktionierende Infrastruktur. Wir brauchen Leute, die planen können. Wir brauchen ein System, das funktioniert.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Гражданка Афина (Синедрион)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Да, нам нужно достичь хотя бы какого-то мира, и мы в Синедрионе не хотим сражаться. Но победа — это больше, чем просто создать самую большую армию. Чтобы победить, нам нужна рабочая инфраструктура. Нам нужны люди, которые могут планировать. Нам нужна система, которая работает.","WIADOMOŚĆ
+OD: Obywatelka Atena (Synedrion)
+DO: Publiczna
+
+Owszem, musimy osiągnąć pewnego rodzaju pokój, a Synedrion nie będzie stronił od walki. Jednak zwycięstwo nie wymaga stworzenia największej armii, lecz sprawnej infrastruktury. Potrzeba nam ludzi, którzy potrafią planować. Potrzebujemy działającego systemu.",
+RE14_CHOICE_0_TEXT,Text,,Continue.,,继续。,Continuer.,Continuar.,CONTINUA,Weiter.,Продолжить.,Kontynuuj.,
+RE14_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Citizen Athena (Synedrion)
+TO: Public
+
+So New Jericho continues to expand its military capabilities, this time with a new class of soldier. The Technician! Robotic arms! Cranial input hubs! It all sounds very impressive, and we are not exactly opposed to this development, but we do wonder: when is New Jericho going to invest in anything other than war?
+",,"消息
+来自：市民雅典娜（平衡议会）
+接收：公众
+
+新耶利哥仍在继续扩充军事能力，这次他们还有了全新的兵种。技术兵！机械臂！头骨植入核心！听起来都让人感觉耳目一新，虽然我们并不反对这种发展，但我们不禁在想：除了战争，新耶利哥会在其他事情中投入如此多的资源吗？","MESSAGE
+DE : Citoyenne Athéna (Synédrion)
+À : Public
+
+La Nouvelle-Jéricho continue à améliorer ses capacités militaires, cette fois-ci avec un nouveau type de soldat. Ah, le Technicien ! Ses bras robotiques ! Ses greffes crâniennes ! Tout ça a l'air très impressionnant, et nous ne sommes pas exactement opposés à ce développement, mais une question nous taraude : la Nouvelle-Jéricho va-t-elle investir dans autre chose que la guerre ?","MENSAJE
+DE: Ciudadana Atenea (Synedrion)
+PARA: Público
+
+Así que Nueva Jericó continúa perfeccionando sus capacidades militares; han formado una nueva clase de soldado. ¡El técnico! Usa armas robóticas y tiene núcleos de implantes craneales. Todo muy impresionante, y no es que estemos en contra, pero, hay algo que me preocupa: ¿cuándo piensa Nueva Jericó invertir recursos en algo que no sea la guerra?","MESSAGGIO
+DA: Cittadina Athena (Synedrion)
+A: Comunità
+
+Dunque Nuova Gerico continua ad ampliare il proprio esercito, stavolta con una nuova classe di soldati. I tecnici! I bracci robotici! Le porte di ingresso craniali! È tutto davvero notevole, e noi non ci opponiamo completamente a questo sviluppo, ma ci chiediamo: quand'è che Nuova Gerico investirà in qualcosa che non sia la guerra?
+","NACHRICHT
+ VON: Bürgerin Athena (Synedrion)
+ AN: Die Öffentlichkeit
+
+Neu-Jericho vergrößert also seine Militärkapazitäten. Dieses Mal mit einer neuen Soldatenklasse.Der Techniker! Roboterarme! Schädeleingabezentren! Das klingt ja alles sehr beeindruckend, und wir sind auch nicht unbedingt dagegen, aber wir stellen uns schon eine Frage: Wann investiert Neu-Jericho mal in etwas anderes, als den Krieg?","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Гражданка Афина (Синедрион)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Значит, Новый Иерихон продолжает расширять свои военные технологии, на этот раз подготовив солдата нового класса. Техник! Манипуляторы! Черепные центры ввода! Звучит очень впечатляюще, и мы совсем не против этого развития, но задаемся вопросом. Когда Новый Иерихон начнет делать что-то, кроме войны?","WIADOMOŚĆ
+OD: Obywatelka Atena (Synedrion)
+DO: Publiczna
+
+A więc Nowe Jerycho w dalszym ciągu rozwija się militarnie, tym razem opracowując nową klasę żołnierzy. Technik! Robotyczne ramiona! Moduły śródczaszkowe! Brzmi imponująco. Nie sprzeciwiamy się takim kierunkom rozwoju, ale pozostaje jedno pytanie: kiedy Nowe Jerycho zainwestuje w coś innego niż wojna?
+",
+RE14_TITLE,Text,,Marching On,,向前推进,La lutte continue,En marcha,Marcia in avanti,Immer weiter,Шествие,Marsz trwa,
+RE15_CHOICE_0_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Synod of Yearning (Anu)
+TO: Public
+
+The Walls of Jericho will fall. Yes. As they fell before, yes, yes. You cannot keep change out with walls. A flood comes. Water eats away at stone. You cannot build fast enough. Yes.",,"消息
+来自：向往教宗（安努门徒）
+接收：公众
+
+耶利哥之墙将会倒塌。是的。就像之前那样，是的，是的。你们无法用围墙阻止改变。洪水来临。水滴石穿。你们根本来不及修补。是的。","MESSAGE
+DE : Synode de l'appétence (Anu)
+À : Public
+
+Les murs de Jéricho vont tomber. Oui. Tout comme auparavant, oui, oui. Vos murs ne vous protégeront pas du changement. Le déluge arrive. L'eau érode la pierre. Vous ne pouvez pas construire assez vite. Oui.","MENSAJE
+DE: Sínodo del Anhelo (Anu)
+PARA: Público
+
+Los Muros de Jericó caerán. Sí, al igual que antes. No podréis mantener al cambio a raya con unos simples muros. Se acerca la inundación. El agua carcome la piedra. No podéis construir tan rápido. Sí.","MESSAGGIO
+DA: Sinodo di Bramosia (Anu)
+A: Comunità
+
+Le mura di Gerico cadranno. Sì, com'è già successo, sì, sì. Non si può arrestare il cambiamento con le mura. Il fiume scorre. L'acqua divora la pietra. Non si può costruire abbastanza in fretta. Sì.","NACHRICHT
+ VON: Die Synode der Sehnsucht (Anu)
+ AN: Die Öffentlichkeit
+
+Die Mauern von Jericho werden fallen. Ja. So wie sie bereits einmal gefallen sind, ja, ja. Ihr könnt Veränderungen nicht durch Mauern aufhalten. Die Flut kommt. Das Wasser zermürbt den Stein. Ihr könnt nicht schnell genug nachbauen. Ja.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Синод Возжелания (Ану)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Стены Иерихона падут. Да. Как они пали раньше, да, да. Нельзя меняться, если есть стены. Потоп приходит. Вода разъедает камень. Не успеете построить. Да.","WIADOMOŚĆ
+OD: Synod Pragnienia (Anu)
+DO: Publiczna
+
+Mury Jerycha upadną. Tak. Jak upadały już wiele razy. O tak. Mury nie powstrzymają zmian. Nadchodzi potop. Woda pokona kamień. Nie nadążycie z odbudową. O tak.",
+RE15_CHOICE_0_TEXT,Text,,Continue.,,继续。,Continuer.,Continuar.,CONTINUA,Weiter.,Продолжить.,Kontynuuj.,
+RE15_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Synod of Yearning (Anu)
+TO: Public
+
+New Jericho, hiding their havens behind walls. So frightened of infection. Frightened of change. Clinging to the old world, to everything that is already lost. Yes.",,"消息
+来自：向往教宗（安努门徒）
+接收：公众
+
+新耶利哥把他们的避难所建在高墙之后。他们惧怕感染。惧怕改变。抓住旧世界不放，沉溺于早已失去了的东西。是的。","MESSAGE
+DE : Synode de l'appétence (Anu)
+À : Public
+
+La Nouvelle-Jéricho cache ses refuges derrière des murs. Elle a si peur de l'infection. Peur du changement. Elle s'agrippe à l'ancien monde, à tout ce qui est déjà perdu. Oui.","MENSAJE
+DE: Sínodo del Anhelo (Anu)
+PARA: Público
+
+Nueva Jericó oculta sus refugios tras muros. Tanto miedo le tienen a la infección; tanto miedo le tienen al cambio. Se aferran al viejo mundo; a lo que ya han perdido. Sí.","MESSAGGIO
+DA: Sinodo di Bramosia (Anu)
+A: Comunità
+
+Nuova Gerico, così intenta a nascondere i propri rifugi dietro a mura. Così terrorizzata dall'infezione. Dal cambiamento. Aggrappata al vecchio mondo e a tutto quello che non esiste più. Sì.","NACHRICHT
+ VON: Die Synode der Sehnsucht (Anu)
+ AN: Die Öffentlichkeit
+
+Neu-Jericho verbirgt seine Zufluchten hinter Mauern. Solche Angst haben sie vor der Infektion. Angst vor der Veränderung. Sie klammern sich an die alte Welt, an alles, was bereits verloren ist. Ja.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Синод Возжелания (Ану)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Новый Иерихон прячет убежища за стенами. Так напуган заражением. Напуган изменениями. Привязан к старому миру, ко всему, что уже потеряно. Да.","WIADOMOŚĆ
+OD: Synod Pragnienia (Anu)
+DO: Publiczna
+
+Nowe Jerycho ukrywa swe bastiony za murami. Lękają się infekcji. Lękają się zmian. Kurczowo trzymają się starego świata, tego, co dawno utracone. O tak.",
+RE15_TITLE,Text,,The Walls of Jericho,,耶利哥之墙,Les murs de Jéricho,Proyecto Muros de Jericó,Le mura di Gerico,Die Mauern von Jericho,Стены Иерихона,Mury Jerycha,
+RE16_CHOICE_0_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Citizen Stas (Synedrion)
+TO: Public
+
+At this point, what's the difference between New Jericho and the Pandorans? They certainly share the same contempt for human life.",,"消息
+来自：市民思达斯（平衡议会）
+接收：公众
+
+此时的新耶利哥又与潘多拉体有什么区别呢？他们肯定都同样蔑视人类的生命。","MESSAGE
+DE : Citoyen Stas (Synédrion)
+À : Public
+
+Au point où on en est, quelle différence y a-t-il entre la Nouvelle-Jéricho et les Pandoriens ? Il est clair qu'ils méprisent tous deux la vie humaine.","MENSAJE
+DE: Ciudadano Stas (Synedrion)
+PARA: Público
+
+Decidme: ¿cuál es la diferencia entre Nueva Jericó y los pandorianos? Ambos desprecian a la humanidad.","MESSAGGIO
+DA: Cittadino Stas (Synedrion)
+A: Comunità
+
+A questo punto, che differenza c'è tra Nuova Gerico e i Pandora? Di certo condividono lo stesso disprezzo per la vita umana.","NACHRICHT
+ VON: Bürger Stas (Synedrion)
+ AN: Die Öffentlichkeit
+
+Wie unterscheiden sich zu diesem Zeitpunkt Neu-Jericho und die Pandoraner noch voneinander? Schließlich teilen sie beide dieselbe Verachtung für das menschliche Leben.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Гражданин Стас (Синедрион)
+ПОЛУЧАТЕЛЬ: Общественность
+
+В чем сейчас разница между Новым Иерихон и пандоранами? Они, безусловно, исповедуют такое же презрение к человеческой жизни.","WIADOMOŚĆ
+OD: Obywatel Staś (Synedrion)
+DO: Publiczna
+
+Co obecnie różni Nowe Jerycho i Pandoran? Zdecydowanie łączy ich pogarda dla ludzkiego życia.",
+RE16_CHOICE_0_TEXT,Text,,Continue.,,继续。,Continuer.,Continuar.,CONTINUA,Weiter.,Продолжить.,Kontynuuj.,
+RE16_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Citizen Stas (Synedrion)
+TO: Public
+
+It seems New Jericho has given up any pretense of ethics in its research. This is deeply disappointing - I always thought they at least had some basic humanistic principles.",,"消息
+来自：市民思达斯（平衡议会）
+接收：公众
+
+看来新耶利哥已经放弃了在其研究中鼓吹道德的准则。这非常令人失望，我一直以为他们至少还留存有一些基本的人文主义原则。","MESSAGE
+DE : Citoyen Stas (Synédrion)
+À : Public
+
+Il semblerait que la Nouvelle-Jéricho ait abandonné tout faux-semblant d'éthique dans ses recherches. C'est très décevant de sa part, j'ai toujours pensé que ses membres avaient un minimum de principes humanistes.","MENSAJE
+DE: Ciudadano Stas (Synedrion)
+PARA: Público
+
+Al parecer, Nueva Jericó ha dejado de fingir que sus investigaciones son éticas. Qué decepción; pensaba que, aunque sea, todavía tenían los principios humanistas más básicos.","MESSAGGIO
+DA: Cittadino Stas (Synedrion)
+A: Comunità
+
+Pare che Nuova Gerico abbia rinunciato a qualsiasi pretesa di etica nelle sue ricerche. Che delusione. Ho sempre pensato che almeno avessero qualche principio umano alla base.","NACHRICHT
+ VON: Bürger Stas (Synedrion)
+ AN: Die Öffentlichkeit
+
+Anscheinend gibt Neu-Jericho jede ethische Fassade in seiner Forschung auf. Das ist bitter enttäuschend. Ich dachte immer, sie hätten wenigstens ein paar grundlegende humanistische Prinzipien.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Гражданин Стас (Синедрион)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Похоже, исследователи из Нового Иерихона совсем забыли об этике. Я всегда думал, что они придерживаются каких-то основных моральных принципов. Какое разочарование.","WIADOMOŚĆ
+OD: Obywatel Staś (Synedrion)
+DO: Publiczna
+
+Najwyraźniej Nowe Jerycho w swoich badaniach porzuciło wszelką etykę. To zaprawdę rozczarowujące — zawsze sądziłem, że wyznają choć podstawowe zasady.",
+RE16_TITLE,Text,,Limits,,极限,Limites,Límites,Limiti,Einschränkungen,Пределы,Granice,
+RE17_CHOICE_0_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Citizen Zhara (Synedrion)
+TO: Public
+
+West claims to value freedom above all else, but can there ever be genuine freedom in a society dominated by hierarchies, watched over by the philosopher-king inside his invincible fortress? He may offer the promise of victory over the Pandorans... but then what? What kind of world do you want to build for your children?",,"消息
+来自：市民萨拉（平衡议会）
+接收：公众
+
+韦斯特声称自由高于一切，但一个由等级制度统治，并由一位高坐在坚固堡垒中的哲学家国王所监视的社会能有真正的自由吗？或许他现在许下了将要战胜潘多拉体的诺言…但在那之后又会是怎样的呢？你想要为你自己的孩子创造一个怎样的世界？","MESSAGE
+DE : Citoyenne Zhara (Synédrion)
+À : Public
+
+West déclare placer la liberté au-dessus de tout, mais la vraie liberté peut-elle vraiment exister au sein d'une société dominée par les hiérarchies, et surveillée par un roi philosophe depuis son imprenable forteresse ? Il promet peut-être la victoire sur les Pandoriens... mais ensuite ? Quel genre de monde voulez-vous bâtir pour vos enfants ?","MENSAJE
+DE: Ciudadana Zhara (Synedrion)
+PARA: Público
+
+West dice que valora la libertad por encima de todo, pero ¿acaso es posible que exista la verdadera libertad en una sociedad jerárquica dominada por un rey filósofo que vive en su fortaleza invencible? Puede que os prometa la derrota de los pandorianos... pero ¿y después? ¿Qué clase de mundo queréis dejarles a vuestros hijos?","MESSAGGIO
+DA: Cittadina Zhara (Synedrion)
+A: Comunità
+
+West dice di reputare la libertà il valore più prezioso, ma potrà mai esserci una genuina libertà in una società dominata dalle gerarchie, sorvegliata dal re filosofo all'interno della sua inespugnabile fortezza? Potrà anche offrire la vittoria sui Pandora... ma poi? Che tipo di mondo volete costruire per i vostri figli?","NACHRICHT
+ VON: Bürgerin Zhara (Synedrion)
+ AN: Die Öffentlichkeit
+
+West behauptet, die Freiheit stünde für ihn stets an erster Stelle. Doch kann es in einer Gesellschaft, die von Hierarchien beherrscht wird und einen Philosophenkönig in einer unbezwingbaren Festung hat, jemals echte Freiheit geben? Er mag ja den Krieg über die Pandoraner versprechen... aber was kommt danach? Was für eine Welt wollt ihr für eure Kinder bauen?","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Гражданка Жара (Синедрион)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Вест утверждает, что ценит свободу превыше всего. Но какая свобода ждет нас? Нас, ограниченных своими ступенями в иерархии. Нас, подчиненных короля-философа, правящего из своей неприступной башни. Он обещает победу над пандоранами... А что после нее? Какой мир вы хотите создать для своих детей?","WIADOMOŚĆ
+OD: Obywatelka Zhara (Synedrion)
+DO: Publiczna
+
+West twierdzi, że wolność jest dla niego priorytetem, ale jak osiągnąć wolność w społeczeństwie opartym na hierarchii i nadzorowanym przez króla filozofa zamkniętego w niezdobytej fortecy? Może obiecać zwycięstwo nad Pandoranami... Ale co potem? Jakiego świata pragniecie dla swych dzieci?",
+RE17_CHOICE_0_TEXT,Text,,Continue.,,继续。,Continuer.,Continuar.,CONTINUA,Weiter.,Продолжить.,Kontynuuj.,
+RE17_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Citizen Zhara (Synedrion)
+TO: Public
+
+According to the sheer deluge of New Jericho spam we've received over our comms, Tobias West has finished building his new and impressive Command Fortress. Now, it may not be Synedrion's habit to comment on other people's architectural choices... but we strongly urge everyone who supports West to think about what kind of society he is building.",,"消息
+来自：市民萨拉（平衡议会）
+接收：公众
+
+我们从通讯器上接收到的大量新耶利哥垃圾信息得知，托拜厄斯·韦斯特那座宏伟的新指挥堡垒已经修建完成。平衡议会虽然不会对别人的建筑评头论足…但我们强烈建议那些支持韦斯特的人仔细思考一下，他究竟想要建造一个怎样的社会。","MESSAGE
+DE : Citoyenne Zhara (Synédrion)
+À : Public
+
+À en croire l'avalanche de communications indésirables que nous avons reçue de la part de la Nouvelle-Jéricho, Tobias West a terminé la construction de son impressionnante nouvelle forteresse de commandement. Il n'est peut-être pas dans les habitudes du Synédrion de faire des commentaires sur les choix architecturaux d'autres individus... mais nous encourageons fortement les partisans de West à réfléchir au genre de société qu'il construit.","MENSAJE
+DE: Ciudadana Zhara (Synedrion)
+PARA: Público
+
+Gracias a la cantidad de spam que envía Nueva Jericó, hemos averiguado que Tobias West ya ha construido su nueva e impresionante fortaleza de mando. Bueno, en Synedrion no nos gusta opinar acerca de las decisiones arquitectónicas de cada uno... pero animamos a los seguidores de West a pensar un poco sobre la sociedad que está construyendo.","MESSAGGIO
+DA: Cittadina Zhara (Synedrion)
+A: Comunità
+
+Secondo la caterva di informazioni riguardo a Nuova Gerico che abbiamo ricevuto tramite i nostri contatti, Tobias West ha finito di costruire la sua nuova e imponente Fortezza di comando. Ora, forse non è abitudine di Synedrion giudicare le scelte architettoniche del prossimo... ma esortiamo tutti coloro che appoggiano West a riflettere sul tipo di società che sta costruendo.","NACHRICHT
+ VON: Bürgerin Zhara (Synedrion)
+ AN: Die Öffentlichkeit
+
+Nach der Flut an Datenspam aus Neu-Jericho, die uns über unsere Kommunikationskanäle erreicht, ist Tobias West mit dem Bau seiner neuen, beeindruckenden Kommandofestung fertig. Normalerweise kommentiert Synedrion die architektonischen Entscheidungen anderer nicht... aber wir fordern alle, die West unterstützen, dringend auf, darüber nachzudenken, welche Art von Gesellschaft er da errichten will.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Гражданка Жара (Синедрион)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Если верить нескончаемым сообщениям из Нового Иерихона, Тобиас Вест завершил строительство своей новой впечатляющей Командной Крепости. Мы в Синедрионе, конечно, не имеем привычку критиковать чужие архитектурные решения... Несмотря на это, мы настоятельно призываем сторонников Веста задуматься об обществе, которое он строит.","WIADOMOŚĆ
+OD: Obywatelka Zhara (Synedrion)
+DO: Publiczna
+
+Jak można wywnioskować z zalewu spamu od Nowego Jerycha, jaki dociera do naszych odbiorników, Tobias West zakończył budowę swej imponującej fortecy dowodzenia. Synedrion raczej stara się nie komentować gustu architektonicznego innych, ale... Kieruję te słowa do wszystkich zwolenników Westa: zastanówcie się, jakie społeczeństwo chce zbudować.",
+RE17_TITLE,Text,,The Philosopher-King,,哲学王,Le roi philosophe,El rey filósofo,Il re filosofo,Der Philosophen-König,Король-философ,Król filozof,
+RE18_CHOICE_0_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Citizen Zhara (Synedrion)
+TO: Public
+
+West keeps saying that New Jericho is about liberty. If it is, why wasn't this artificial intelligence given the right to join New Jericho voluntarily? Let it use its tremendous intelligence to determine whether New Jericho really does have the answers. Or is that too frightening?",,"消息
+来自：市民萨拉（平衡议会）
+接收：公众
+
+韦斯特一直说新耶利哥崇尚自由。如果真是如此，为什么这个人工智能没有被赋予自愿加入新耶利哥的权利？让它用自己强大的智能来判断新耶利哥是否拥有答案吧。或者说他们害怕那样做？","MESSAGE
+DE : Citoyenne Zhara (Synédrion)
+À : Public
+
+West s'obstine à dire que la Nouvelle-Jéricho croit avant tout à la liberté. Si c'est le cas, alors pourquoi cette intelligence artificielle n'a-t-elle pas eu le droit de rejoindre la Nouvelle-Jéricho de son propre chef ? Laissez-la utiliser sa formidable intelligence pour déterminer si la Nouvelle-Jéricho détient réellement les réponses. Ou est-ce trop terrifiant pour vous ?","MENSAJE
+DE: Ciudadana Zhara (Synedrion)
+PARA: Público
+
+West sigue diciendo que en Nueva Jericó lo que importa es la libertad. Si esto fuese cierto, ¿por qué no se le ha dado el derecho a la inteligencia artificial de unirse a Nueva Jericó de manera voluntaria? Permitid que use su formidable inteligencia para determinar si Nueva Jericó tiene o no las respuestas. ¿O acaso tenéis miedo?","MESSAGGIO
+DA: Cittadina Zhara (Synedrion)
+A: Comunità
+
+West continua a dire che Nuova Gerico è a favore della libertà. Se è così, perché a questa intelligenza artificiale non è stato dato il diritto di unirsi a Nuova Gerico volontariamente? Perché non hanno lasciato che usasse la sua intelligenza mostruosa per determinare se Nuova Gerico avesse davvero la risposta? Era troppo spaventoso?","NACHRICHT
+ VON: Bürgerin Zhara (Synedrion)
+ AN: Die Öffentlichkeit
+
+West sagt immer wieder, Neu-Jericho stehe für Freiheit. Wenn das stimmt, warum durfte diese künstliche Intelligenz nicht selbst entscheiden, ob sie sich Neu-Jericho freiwillig anschließt? Lasst sie mit ihrer enormen Intelligenz prüfen, ob Neu-Jericho wirklich Antworten hat. Oder ist genau das zu beängstigend?","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Гражданка Жара (Синедрион)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Вест утверждает, что Новый Иерихон — оплот свободы. Если это правда, почему искусственный интеллект не мог присоединиться к Новому Иерихону по своей воле? Пусть использует свои невероятные ресурсы и узнает, какие ответы хранит Новый Иерихон. Или это слишком пугающая перспектива?","WIADOMOŚĆ
+OD: Obywatelka Zhara (Synedrion)
+DO: Publiczna
+
+West wciąż powtarza, że Nowe Jerycho ceni wolność. Dlaczego zatem sztucznej inteligencji nie pozwolono dobrowolnie dołączyć do Nowego Jerycha? Niech wykorzysta swą ogromną inteligencję i określi, czy Nowe Jerycho rzeczywiście zna wszystkie odpowiedzi. A może się boją?",
+RE18_CHOICE_0_TEXT,Text,,Continue.,,继续。,Continuer.,Continuar.,CONTINUA,Weiter.,Продолжить.,Kontynuuj.,
+RE18_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Citizen Zhara (Synedrion)
+TO: Public
+
+It's just come to our attention that New Jericho has created an enslaved artificial intelligence, presumably to help West run his little military empire. We do not object to people choosing of their own free will to subscribe to West's dogma, even if we believe New Jericho is reactionary to the core. But to force a newly-created sentience into service like that?",,"消息
+来自：市民萨拉（平衡议会）
+接收：公众
+
+我们刚刚注意到新耶利哥制造出了一种奴役型人工智能，想必是用来帮助韦斯特运营他那个小小的军事帝国。虽然我们认为新耶利哥是一群彻头彻尾的守旧份子，但我们并不反对人们自愿追随韦斯特的教条。然而，他们现在竟然制造出了新的感知体，并强迫它们服从？","MESSAGE
+DE : Citoyenne Zhara (Synédrion)
+À : Public
+
+On nous a tout juste signalé que la Nouvelle-Jéricho a créé une intelligence artificielle asservie, probablement dans le but d'aider West à diriger son petit empire militaire. Nous ne nous opposons pas au fait que les gens choisissent de souscrire au dogme de West de leur plein gré, même si nous pensons que la Nouvelle-Jéricho est profondément réactionnaire. Mais assujettir ainsi une jeune créature douée de sens, alors là, c'est une toute autre histoire.","MENSAJE
+DE: Ciudadana Zhara (Synedrion)
+PARA: Público
+
+Nos acabamos de enterar de que Nueva Jericó acaba de desarrollar una inteligencia artificial esclavizada que dicen que ayudará a West a liderar su imperio militar. No nos vamos a oponer a que la gente apoye los principios de West por voluntad propia, aunque creamos que Nueva Jericó sea reaccionaria hasta la médula. Pero ¿cómo podéis obligar a una nueva consciencia a trabajar?","MESSAGGIO
+DA: Cittadina Zhara (Synedrion)
+A: Comunità
+
+Ci è stato appena comunicato che Nuova Gerico ha creato un'intelligenza artificiale e che l'ha resa sua schiava, presumibilmente per aiutare West a governare il suo piccolo impero militare. Non protestiamo contro le persone che scelgono di loro spontanea volontà di aderire ai dogmi di West, anche se crediamo che Nuova Gerico sia profondamente retrograda. Ma obbligare una coscienza senziente appena creata a servirli così?","NACHRICHT
+ VON: Bürgerin Zhara (Synedrion)
+ AN: Die Öffentlichkeit
+
+Es wurde uns gerade zugetragen, dass Neu-Jericho eine künstliche Intelligenz versklavt hat, die West offenbar helfen soll, sein kleines Militärimperium zu führen. Wir haben ja nichts dagegen, wenn die Leute selbst entscheiden, dass sie Wests Dogma gut finden, auch wenn wir Neu-Jericho von Grund auf für reaktionär halten. Aber eine neu erschaffene Intelligenz zwingen, ihm zu dienen?","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Гражданка Жара (Синедрион)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Поступило сообщение, что Новый Иерихон создал и поработил искусственный интеллект, предположительно чтобы эффективнее управлять маленькой военной империей Веста. Мы не против, если люди следуют догме Веста по собственной воле, хотя мы и считаем Новый Иерихон авторитарным. Но этично ли эксплуатировать недавно созданное сознание для своей выгоды?","WIADOMOŚĆ
+OD: Obywatelka Zhara (Synedrion)
+DO: Publiczna
+
+Poinformowano nas, że Nowe Jerycho stworzyło zniewoloną sztuczną inteligencję. Zapewne ma ona pomóc Westowi w zarządzaniu jego wojskowym imperium. Nie mamy nic przeciwko ludziom, którzy dobrowolnie dołączają do frakcji Westa, choć uważamy, że jest ona całkowicie przeciwna zmianom. Ale żeby zmuszać nowo stworzony byt do służby?",
+RE18_TITLE,Text,,Liberty,,自由,Liberté,Libertad,Libertà,Freiheit,Свобода,Wolność,
+RE19_CHOICE_0_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Synod of Yearning (Anu)
+TO: Public
+
+Their bodies are too weak for this world. Yes. Soft and weak and broken. Hide in their gardens, pretend the world will change. But we know the truth. Yes. Change is already here. We must adapt. We must learn. Yes. Become greater. This is the only hope. Everything else is delusion. Yes.",,"消息
+来自：向往教宗（安努门徒）
+接收：公众
+
+对这个世界来说，他们的肉体太过脆弱。是的。柔弱无比，虚弱不堪，支离破碎。他们躲藏在自己的花园之中，假装这个世界将会发生改变。但我们知道真相。是的。改变已经来临。我们必须适应。必须学习。是的。变得更加强大。这是唯一的希望。其他一切皆是幻想。是的。","MESSAGE
+DE : Synode de l'appétence (Anu)
+À : Public
+
+Leurs corps sont trop faibles pour ce monde. Oui. Délicats et faibles et rompus. Ils se cachent dans leurs jardins et font comme si le monde allait changer. Mais nous connaissons la vérité. Oui. Le changement est déjà là. Nous devons nous adapter. Nous devons apprendre. Oui. Devenir supérieurs. C'est le seul espoir. Tout le reste n'est que fantasme. Oui.","MENSAJE
+DE: Sínodo del Anhelo (Anu)
+PARA: Público
+
+Sus cuerpos son demasiado débiles para el mundo actual. Flojos, débiles y rotos. Se esconden en sus jardines y pretenden que el mundo cambie solo. Pero conocemos la verdad, sí. El cambio ya ha llegado. Tenemos que adaptarnos. Tenemos que aprender, sí. Tenemos que mejorar; no hay alternativa. Lo demás son falsas esperanzas, sí.","MESSAGGIO
+DA: Sinodo di Bramosia (Anu)
+A: Comunità
+
+I loro corpi sono troppo deboli per questo mondo. Sì. Soffici, deboli e spezzati. Si nascondono nei loro giardini, facendo finta che il mondo cambierà. Ma noi sappiamo la verità. Sì. Il mondo è già cambiato. Dobbiamo adattarci. Dobbiamo imparare. Sì. Diventare migliori. Questa è l'unica speranza. Tutto il resto è un'illusione. Sì.","NACHRICHT
+ VON: Die Synode der Sehnsucht (Anu)
+ AN: Die Öffentlichkeit
+
+Ihre Körper sind zu schwach für diese Welt. Ja. Weich und schwach und gebrochen. Versteckt euch nur in euren Gärten und tut so, als würde sich die Welt wandeln. Wir kennen die Wahrheit. Ja. Der Wandel ist bereits da. Wir müssen uns anpassen. Wir müssen lernen. Ja. Wachst über euch hinaus. Das ist unsere einzige Hoffnung. Alles andere ist Wahn. Ja.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Синод Возжелания (Ану)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Их тела слишком слабы для этого мира. Да. Мягкие, слабые, сломленные. Спрячутся в садах, притворятся, что мир изменится. Но мы знаем правду. Да. Перемены уже на пороге. Мы должны адаптироваться. Мы должны учиться. Да. Совершенствоваться. Эта одна наша надежда. Все прочее — обман. Да.","WIADOMOŚĆ
+OD: Synod Pragnienia (Anu)
+DO: Publiczna
+
+Ich ciała są zbyt słabe na ten świat. Tak. Miękkie, kruche i zniszczone. Kryją się w swych ogrodach i udają, że świat się zmieni. Ale my znamy prawdę. O tak. Zmiany już nastąpiły. Musimy się dostosować. Musimy się uczyć. Tak. Doskonalić. To nasza jedyna nadzieja. Wszystko inne to urojenie. Tak.",
+RE19_CHOICE_0_TEXT,Text,,Continue.,,继续。,Continuer.,Continuar.,CONTINUA,Weiter.,Продолжить.,Kontynuuj.,
+RE19_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Synod of Yearning (Anu)
+TO: Public
+
+The Nature of Synedrion revealed. Yes. Witness their fear. Hiding in ""safe zones"" like children, trying to keep out the world. Apostates from reality, escaping to shallow dreams of comfort. Afraid to dream the deeper dreams. Afraid to plunge into the deep black sky and swim. Yes. Yes.",,"消息
+来自：向往教宗（安努门徒）
+接收：公众
+
+平衡议会的本质已经暴露。是的。看看他们恐惧的样子。像孩子一样躲在“安全区”中，试图与这个世界隔绝。逃避现实的叛徒，躲藏在肤浅的慰藉梦境之中。害怕梦见更深的梦境。害怕纵身投入漆黑的天空翱翔。是的。是的。","MESSAGE
+DE : Synode de l'appétence (Anu)
+À : Public
+
+La nature du Synédrion éclate au grand jour. Oui. Regardez-les, comme ils ont peur. Ils se cachent dans des « zones sûres » comme des enfants, ils essayent de se couper du monde. Des apostats de la réalité qui s'échappent vers de futiles rêves de confort. Ils ont peur de rêver à des rêves plus profonds. Peur de plonger et de nager dans le ciel ténébreux. Oui. Oui.","MENSAJE
+DE: Sínodo del Anhelo (Anu)
+PARA: Público
+
+Se ha mostrado la verdadera naturaleza de Synedrion. Sí. Contemplad su miedo. Se esconden en ""sitios seguros"" como críos para ignorar el mundo exterior. Apóstatas de la realidad; huyen a sus frívolos sueños de consuelo. Tienen miedo a los sueños profundos. Tienen miedo a sumergirse en las profundidades del cielo negro y nadar. Sí. Sí.","MESSAGGIO
+DA: Sinodo di Bramosia (Anu)
+A: Comunità
+
+La natura di Synedrion è stata rivelata. Sì. Osservate la loro paura. Si nascondono nelle ""zone sicure"" come bambini, nel tentativo di lasciar fuori il mondo. Apostati della realtà, fuggitivi alla ricerca del sogno superficiale degli agi. Troppo spaventati per fare sogni più profondi. Per tuffarsi nel cielo nero come la pece e nuotare. Sì. Sì.","NACHRICHT
+ VON: Die Synode der Sehnsucht (Anu)
+ AN: Die Öffentlichkeit
+
+Synedrion hat sein wahres Gesicht offenbart. Ja. Seht nur ihre Angst. Sie verstecken sich in „sicheren Zonen“, wie Kinder, die versuchen, die Welt draußen zu lassen. Sie sind Abtrünnige von der Realität und fliehen in die seichten Träume ihrer Behaglichkeit. Zu ängstlich, die tieferen Träume zu träumen. Zu ängstlich, sich in den tiefschwarzen Himmel zu stürzen und zu schwimmen. Ja. Ja.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Синод Возжелания (Ану)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Истинная суть Синедриона раскрыта. Да. Узрите их страх. Прячутся от мира в своих «безопасных зонах», будто беспомощные детишки. Отвергают реальность ради иллюзии комфорта. Боятся перемен, боятся мечтать. Боятся темных глубин небесного свода. Да. Да.","WIADOMOŚĆ
+OD: Synod Pragnienia (Anu)
+DO: Publiczna
+
+Synedrion pokazał swą prawdziwą naturę. Tak. Myśmy świadkami ich lęku. Kryją się w swych bezpiecznych strefach niczym dzieci, nie dopuszczając świata. Apostaci rzeczywistości pogrążeni w ulotnych marzeniach o komforcie. Boją się zapaść w głęboki sen. Boją się skoczyć w głębię czarnego nieba i odpłynąć. O tak.",
+RE19_TITLE,Text,,The Book of Lies,,谎言之书,Le livre des mensonges,El libro de las mentiras,Il libro delle bugie,Das Buch der Lügen,Книга лжи,Księga kłamstw,
+RE1_CHOICE_0_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+A logical argument, at least on the surface. But I remember how many irrational policies were justified by an appeal to pragmatism, even as the Pandoravirus was destroying the world we knew. I would advise avoiding short-term thinking, and considering the long-term risks inherent in this technology you have developed. The Pandorans are the problem, not the solution.",,"消息
+来自：托拜厄斯·韦斯特（新耶利哥）
+接收：凤凰计划
+
+至少从表面来看，这一论点很合逻辑。但在我的印象中，曾经有许多不合理的政策都打着务实的幌子，哪怕是潘多拉病毒正在摧毁整个世界，也依然如此。我希望你们能舍弃短浅的思维，从长远角度考虑这一做法暗藏的风险。潘多拉体是问题的所在，不是解决的办法。","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Voilà un argument logique, du moins en apparence. Mais je me souviens du nombre de politiques irrationnelles qui ont été justifiées par un appel au pragmatisme, alors même que le Pandoravirus détruisait le monde que nous connaissions. Je recommande d'éviter de penser sur le court terme, et de plutôt réfléchir sur le long terme aux risques inhérents à cette technologie que vous avez développée.","MENSAJE
+DE: Tobias West (Nueva Jericó)
+PARA: Proyecto Fénix
+
+Parece un debate lógico a primera vista. Pero todavía me acuerdo de las políticas irracionales que se denominaron pragmáticas, aun cuando el Pandoravirus asolaba nuestro mundo. Os sugiero que dejéis de lado los objetivos a corto plazo y os centréis en las futuras consecuencias de esta tecnología que habéis desarrollado. Los pandorianos son el problema, no la solución.","MESSAGGIO
+DA: Tobias West (Nuova Gerico)
+A: Progetto Phoenix
+
+Un ragionamento logico, almeno in superficie. Ma ricordo quante politiche irrazionali sono state giustificate da un appello al pragmatismo, anche quando il Pandoravirus stava distruggendo il mondo che conoscevamo. Consiglio di evitare i ragionamenti a breve termine e di considerare i rischi a lungo termine inerenti a questa tecnologia che avete sviluppato. I Pandora sono il problema, non la soluzione.","NACHRICHT
+ VON: Tobias West (Neu-Jericho)
+ AN: Das Phoenix-Projekt
+
+Oberflächlich zumindest ist es ein logisches Argument. Aber ich erinnere mich daran, wie viele irrationale Politikentscheidungen durch einen Apell an den Pragmatismus gerechtfertigt waren, selbst als das Pandoravirus die uns bekannte Welt zerstörte. Ich würde raten, über den Tellerrand hinauszublicken und die langfristigen Risiken zu berücksichtigen, die mit dieser Technologie verbunden sind. Die Pandoraner sind das Problem, nicht die Lösung.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+На первый взгляд, вполне разумный аргумент. Но я помню, сколько иррациональных действий было оправдано прагматизмом, в то время как пандоравирус разрушал мир, который мы знали. Я призываю вас мыслить шире и учитывать долгосрочные риски, которые могут возникнуть из-за разработанной вами технологии. Пандораны — проблема, а не решение проблемы.","WIADOMOŚĆ
+OD: Tobias West (Nowe Jerycho)
+DO: Projekt Phoenix
+
+To logiczny argument, przynajmniej powierzchownie. Pamiętam, ile irracjonalnych rozwiązań uzasadniano odniesieniami do pragmatyzmu, nawet gdy Pandorawirus niszczył już znany nam świat. Zalecam unikanie doraźnych rozwiązań i uwzględnienie dalekosiężnego ryzyka, które wiąże się z opracowaną przez Was technologią. Pandoranie to problem, a nie rozwiązanie.",
+RE1_CHOICE_0_TEXT,Text,,Harvesting nutrients from Pandorans is a pragmatic choice guided by reason.,,从潘多拉体的身体中汲取营养是一种经过理性思考的务实选择。,L'extraction des nutriments des Pandoriens est un choix pragmatique guidé par la raison.,La recolección de nutrientes de los pandorianos es una idea pragmática y razonable.,RACCOGLIERE NUTRIENTI DAI PANDORA È UNA SCELTA PRAGMATICA GUIDATA DALLA RAGIONE,"Nährstoffe aus den Pandoranern zu extrahieren ist eine pragmatische Entscheidung, die aus der Vernunft entspringt.","Сбор питательных веществ с пандоранов — это прагматичный выбор, основанный на рациональной мысли.",Pozyskiwanie składników odżywczych z Pandoran to pragmatyczne i rozsądne rozwiązanie.,
+RE1_CHOICE_1_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+To recognize the nature of the war we are fighting is not a type of phobia. I do not ascribe quasi-magical abilities to the Pandorans; I merely understand that reasonable precautions are essential. How many innocents died in shelters that were supposed to be safe? How many armies were wiped out by nothing more than clouds of mist? We should never underestimate the Pandoravirus.",,"消息
+来自：托拜厄斯·韦斯特（新耶利哥）
+接收：凤凰计划
+
+认识战争的本质并非是一种恐惧。我并不认为潘多拉体拥有什么魔法般的能力，我只知道我们必须采取合理的防御措施。多少人曾经在本该安全无忧的避难所中丢掉了性命？又有多少军队只是被一片又一片的迷雾所吞噬？我们永远也不能低估潘多拉病毒。","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+La reconnaissance de la nature de la guerre que nous menons n'est pas une forme de phobie. Je n'attribue aux Pandoriens aucune faculté pseudo-magique. Je comprends simplement qu'il est essentiel de prendre des précautions raisonnables. Combien d'innocents ont perdu la vie dans des abris qui étaient censés être sûrs ? Combien d'armées ont été anéanties par rien de plus que quelques nuages de brume ? Nous ne devrions jamais sous-estimer le Pandoravirus.","MENSAJE
+DE: Tobias West (Nueva Jericó)
+PARA: Proyecto Fénix
+
+Conocer la naturaleza de la guerra en la que participamos no es una fobia. No puedo atribuirles habilidades cuasimágicas a los pandorianos, pero sí puedo deciros que existen precauciones razonables fundamentales. ¿Cuántas personas fallecieron en refugios supuestamente seguros? ¿Cuántos ejércitos cayeron ante simples nubes de niebla? No nos convendría subestimar al Pandoravirus.","MESSAGGIO
+DA: Tobias West (Nuova Gerico)
+A: Progetto Phoenix
+
+Riconoscere la natura della guerra che stiamo combattendo non è un tipo di fobia. Non attribuisco abilità pseudo-magiche ai Pandora: capisco a malapena la necessità di precauzioni ragionevoli. Quanti innocenti sono morti in ripari che dovevano essere sicuri? Quanti eserciti sono stati spazzati via da una mera nuvola di bruma? Non dovremmo mai sottovalutare il Pandoravirus.","NACHRICHT
+ VON: Tobias West (Neu-Jericho)
+ AN: Das Phoenix-Projekt
+
+Die Art und Weise des Krieges zu erkennen, den wir führen, hat nichts mit Phobien zu tun. Ich schreibe den Pandoranern keine magischen Fähigkeiten zu. Ich weiß nur, dass angemessene Vorsichtsmaßnahmen unerlässlich sind. Wie viele Unschuldige starben in Notunterkünften, die Sicherheit bieten sollten? Wie viele Armeen wurden von bloßen Nebelwolken ausgelöscht? Wir dürfen das Pandoravirus niemals unterschätzen.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Признание природы нашей войны — это не проявление слепого страха. Я не приписываю некие волшебные свойства пандоранам. Я лишь осознаю, что необходимо соблюдать разумные меры предосторожности. Сколько невинных сгинуло в, казалось бы, защищенных убежищах? Сколько солдат погибло из-за обычного с виду тумана? Нельзя недооценивать пандоравирус.","WIADOMOŚĆ
+OD: Tobias West (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Dostrzeganie natury prowadzonej przez nas wojny to nie fobia. Nie przypisuję Pandoranom pseudomagicznych właściwości — uważam, że konieczne są odpowiednie środki ostrożności. Ilu niewinnych zginęło już w schronach, które miały być bezpieczne? Ile armii uległo obłokowi mgły? Nie wolno nam lekceważyć Pandorawirusa.",
+RE1_CHOICE_1_TEXT,Text,,The process is entirely safe. Opposing it because of mysophobia is absurd.,,这个过程是绝对安全的，因为恐惧而反对是荒谬可笑的。,Le processus est entièrement sûr. S'y opposer par pure mysophobie serait absurde.,El proceso es completamente seguro. Es absurdo rechazarlo por tener misofobia.,"IL PROCESSO È TOTALMENTE SICURO, OPPORVISI PER MISOFOBIA È ASSURDO","Der Prozess ist absolut sicher. Es ist absurd, sich aufgrund von Mysophobie dagegen zu wehren.",Процесс совершенно безопасен. Отвергать его из-за банальной боязни микробов — полный абсурд.,Proces jest całkowicie bezpieczny. Sprzeciwianie mu się przez mizofobię to absurd.,
+RE1_CHOICE_2_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Point
+
+It saddens me to hear such foolishness coming from the Phoenix Project. This isn't science, it's superstition.",,"消息
+来自：托拜厄斯·韦斯特（新耶利哥）
+接收：凤凰点
+
+凤凰计划会有如此愚蠢的想法，真是令我痛心。这根本不是科学，而是迷信。","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Je suis attristé d'entendre de telles inepties de la part du Projet Phoenix. Ce n'est pas de la science, c'est de la superstition.","MENSAJE
+DE: Tobias West (Nueva Jericó)
+PARA: Punto Fénix
+
+Es decepcionante escuchar semejantes tonterías por parte del Proyecto Fénix. Esto no es ciencia, es superstición.","MESSAGGIO
+DA: Tobias West (Nuova Gerico)
+A: Progetto Phoenix
+
+Mi rattrista sentire tali sciocchezze da parte del Progetto Phoenix. Questa non è scienza, è superstizione.","NACHRICHT
+ VON: Tobias West (Neu-Jericho)
+ AN: Phoenix Point
+
+Es betrübt mich, solche Dummheit vom Phoenix-Projekt zu hören. Das ist keine Wissenschaft, es ist Aberglaube.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Phoenix Point
+
+Мне жаль слышать такую нелепость от Проекта Феникс. Это не наука, а суеверие.","WIADOMOŚĆ
+OD: Tobias West (Nowe Jerycho)
+DO: Phoenix Point
+
+Martwi mnie, że Projekt Phoenix wierzy w takie bzdury. To nie nauka, tylko przesądy.",
+RE1_CHOICE_2_TEXT,Text,,Partaking of the flesh of the enemy is a step towards learning to exist in the new world.,,吃食敌人的血肉即是学习在这个新的世界中生存。,Consommer la chair de l'ennemi est un premier moyen d'apprendre à exister dans le nouveau monde.,Consumir la carne del enemigo es un paso más hacia la supervivencia en el nuevo mundo.,NUTRIRSI DELLA CARNE DEL NEMICO È UN PASSO VERSO L'ADATTAMENTO NEL NUOVO MONDO,Das Fleisch des Feindes zu verspeisen ist der erste Schritt zu einem Leben in einer neuen Welt.,"Вкушение плоти врага своего — вот, что укажет нам путь в новый мир.",Żywienie się ciałem wroga to krok w kierunku egzystencji w nowym świecie.,
+RE1_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+Are you aware of the Legend of Fort Bacon? It's a tall tale, a myth of the post-apocalypse, that circulates among our soldiers. It tells of a haven where people have found a way to safely eat the Pandorans... which, if reports are to be believed, actually taste of bacon. It's a very human response, I suppose, not unlike the utopias dreamed up by medieval peasants.
+
+But despite what Synedrion may tell us, there is no land of plenty, no secret haven ruled by Prester John. The reality of this world is constant struggle against infection. And I wonder: has the Phoenix Project forgotten that? Have you decided to set up your own little Cockaigne, where the corpses of our enemies are a source of health and happiness?",,"消息
+来自：托拜厄斯·韦斯特（新耶利哥）
+接收：凤凰计划
+
+你听说过“培根堡的传说”吗？那是一个大灾变后广泛流传于我们士兵之间的荒诞故事。故事里说，某个避难所的人们找到了一种安全食用潘多拉体的方法，而且…按照故事里的说法，潘多拉体尝起来就像是培根的味道。我认为这是一种很正常的人类反应，与中世纪的那群农夫所梦想的乌托邦并无两样。
+
+不过，无论平衡议会告诉我们什么，这里都没有富饶的土地，也没有祭司王约翰所统治的秘密庇护所。这个世界的现实只有永无止境地对抗感染。我想知道的是，难道凤凰计划已经忘记了这件事实吗？难道你们已经决定建立自己小小的安乐乡了？在那里以敌人的尸体为健康和幸福的源泉？","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Avez-vous déjà entendu parler de la légende de Fort Bacon ? C'est une légende urbaine, un mythe de la post-apocalypse, qui circule entre les soldats. Elle parle d'un refuge dont les habitants auraient trouvé un moyen de manger les Pandoriens sans aucun risque... Si l'histoire dit vrai, ces derniers auraient un goût de bacon. J'imagine que c'est là une réponse profondément humaine, assez similaire aux utopies imaginées par les paysans médiévaux.
+
+Mais malgré les dires du Synédrion, il n'existe aucune terre d'abondance, aucun refuge secret dirigé par le prêtre Jean. La réalité de ce monde n'est autre qu'un combat constant contre l'infection. Et je me demande une chose : le Projet Phoenix a-t-il oublié cela ? Avez-vous décidé de bâtir votre propre petit pays de Cocagne, où les cadavres de vos ennemis sont sources de santé et de bonheur ?","MENSAJE
+DE: Tobias West (Nueva Jericó)
+PARA: Proyecto Fénix
+
+¿Estáis al tanto de la Leyenda del Fuerte Beicon? Es un cuento, un mito postapocalíptico, que nuestros soldados relatan. Es la historia de un refugio en el que los habitantes han hallado una manera de alimentarse de los pandorianos y que sugiere que saben a beicon. Supongo que tiene algo humano, a diferencia de la utopías que soñaban los campesinos medievales.
+
+Aun así, pese a lo que nos haya dicho Synedrion, no existe tal lugar; no existe un refugio al mando de ningún Pastor Juan. La realidad del mundo es que nos enfrentamos a una infección constante. Y eso me hace pensar: ¿acaso lo ha olvidado el Proyecto Fénix? ¿Acaso habéis decidido montar vuestro propio País de Cucaña en el que los cuerpos de nuestros enemigos son una fuente de salud y felicidad?","MESSAGGIO
+DA: Tobias West (Nuova Gerico)
+A: Progetto Phoenix
+
+Conoscete la Leggenda di Forte Bacon? È una storiella, un mito post-apocalittico che circola tra i nostri soldati. Parla di un rifugio nel quale delle persone hanno trovato il modo di mangiare i Pandora senza incorrere in alcun rischio... E che, se le voci sono vere, sanno di bacon. È una reazione piuttosto umana, direi, non diversa dalle utopie sognate dai paesani medievali.
+
+Ma a prescindere da quel che ci racconta Synedrion, non esiste il paese della cuccagna, né un rifugio segreto governato dal Prete Gianni. La realtà in questo mondo è che siamo tutti in continua lotta contro l'infezione. E mi chiedo: il Progetto Phoenix se n'è dimenticato? Avete deciso di fondare il vostro paese dei balocchi, dove i cadaveri dei nemici sono una fonte di salute e felicità?","NACHRICHT
+ VON: Tobias West (Neu-Jericho)
+ AN: Das Phoenix-Projekt
+
+Kennt ihr die Legende von Fort Bacon? Es ist eine grandiose Geschichte, ein Mythos der Postapokalype, den sich unsere Soldaten erzählen. Es geht um eine Zuflucht, in der die Menschen einen Weg gefunden haben, die Pandoraner sicher zu essen ... die, wenn man den Berichten glauben darf, tatsächlich nach Speck schmecken. Es ist wohl eine sehr menschliche Reaktion, nicht unähnlich den Utopien, die sich die mittelalterlichen Bauern ausgedacht haben.
+
+Aber trotz dessen, was Synedrion uns sagen will, gibt es kein Land der Fülle, keine geheime Zuflucht, die von Priesterkönig Johannes regiert wird. In unserer Welt geht es einzig um den Kampf gegen die Infektion. Und jetzt stelle ich mir die Frage: Hat das Phoenix-Projekt das vergessen? Habt ihr euch entschieden, euer eigenes, kleines Schlaraffenland zu erschaffen, in dem die Leichen unserer Feinde uns Glück und Gesundheit bescheren?","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Знакома ли вам легенда о Форте Беконе? Это байка, постапокалиптический миф, популярный среди наших солдат. Якобы где-то существует убежище, в котором люди нашли способ безопасно питаться пандоранами... которые, если верить легенде, на вкус напоминают бекон. Такие истории подобны мечтам средневекового крестьянина о прекрасной жизни.
+
+Но, несмотря на уверения Синедриона, на земле нет такого райского уголка, секретного убежища, которым правит пресвитер Иоанн. Наша реальность — это нескончаемая борьба с заражением. Я задаюсь вопросом, забыли ли об этом в Проекте Феникс. Решили создать свою маленькую «Страну лентяев», где трупы наших врагов дарят здоровье и счастье?","WIADOMOŚĆ
+OD: Tobias West (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Znacie legendę Fortu Boczek? To postapokaliptyczny mit, historia przekazywana sobie przez naszych żołnierzy. Opowiada o bastionie, którego mieszkańcy nauczyli się bezpiecznie żywić ciałami Pandoran. Jeśli wierzyć opowieści, smakują jak boczek. To ludzka reakcja, przeciwieństwo utopijnych marzeń średniowiecznych chłopów.
+
+Mimo tego, co wmawia nam Synedrion, nie ma żadnej krainy obfitości, żadnego tajemnego bastionu pod rządami księdza Jana. Ten świat to nieustanna walka z infekcją. Czy Projekt Phoenix o tym zapomniał? Chcecie stworzyć własną Kukanię, w której ciała poległych wrogów będą stanowiły źródło zdrowia i szczęścia?",
+RE1_TITLE,Text,,The Legend of Fort Bacon,,培根堡的传说,La légende de Fort Bacon,La Leyenda del Fuerte Beicon,La Leggenda di Forte Bacon,Die Legende von Fort Bacon,Легенда о Форте Беконе,Legenda Fortu Boczek,
+RE20_CHOICE_0_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Blind Legate (Anu)
+TO: Public
+
+But if you push the flood away too far, you will die of stagnation. Synedrion has forgotten how to look beyond the flood at the wide sea, at the future. Instead they look inward, lost in a maze of reflections. What they offer is not salvation, but a trap.",,"消息
+来自：盲目使节（安努门徒）
+接收：公众
+
+但是，如果你将洪水推得太远，你将因停滞而死亡。平衡议会已经忘记了看向洪水之外的东西，忘记了广阔的大海，忘记了未来。相反，他们选择向里看，迷失在了倒影的迷宫之中。他们为我们带来的不是救赎，而是困境。","MESSAGE
+DE : Légat aveugle (Anu)
+À : Public
+
+Mais si vous repoussez trop le déluge, la stagnation vous tuera. Le Synédrion a oublié comment voir au-delà du déluge et contempler la mer immense, le futur. Au lieu de cela, son regard est tourné vers l'intérieur, il se perd dans un labyrinthe de reflets. Ce qu'il offre n'est pas un salut, mais un piège.","MENSAJE
+DE: Legado Ciego (Anu)
+PARA: Público
+
+Pero si repeléis demasiado la inundación, moriréis de deshidratación. Synedrion ha olvidado que existe un mar más allá de la inundación: un futuro. Prefieren enfocarse en lo que ven; prefieren perderse en un laberinto de reflejos. No os ofrece la salvación, sino una trampa.","MESSAGGIO
+DA: Legato cieco (Anu)
+A: Comunità
+
+Ma se respingi la corrente troppo a lungo, ristagnerai e morirai. Synedrion ha dimenticato come si fa a guardare oltre la corrente, verso il mare aperto, verso il futuro. Al contrario guardano verso l'interno, persi in un labirinto di riflessioni. Quel che offrono non è la salvezza, ma una trappola.","NACHRICHT
+ VON: Der blinde Gesandte (Anu)
+ AN: Die Öffentlichkeit
+
+Doch wer die Flut zu weit von sich schiebt, der stirbt an am Stillstand. Synedrion hat vergessen, wie man über die Flut auf dem weiten Meer hinweg zur die Zukunft blickt. Stattdessen schauen sie nach innen und verirren sich in einem Labyrinth der Reflexionen. Was sie anbieten, ist nicht die Erlösung, sondern eine Falle.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Слепой Легат (Ану)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Если скроетесь от потопа, вас ждет лишь стагнация. В Синедрионе забыли, что значит заглянуть по ту сторону вуали и найти бесконечное морское полотно, наше будущее. Вместо этого они заперлись внутри себя, скитаясь по лабиринту отражений. Их стремления не спасут нас, а загонят в тупик.","WIADOMOŚĆ
+OD: Ślepy Legat (Anu)
+DO: Publiczna
+
+Jeśli zbyt daleko odepchniecie potop, zabije Was stagnacja. Synedrion zapomniał, jak patrzeć na ocean poza horyzontem potopu. Zamiast tego patrzą w głąb siebie i gubią się w labiryncie odbić. Nie oferują zbawienia, lecz pułapkę.",
+RE20_CHOICE_0_TEXT,Text,,Continue.,,继续。,Continuer.,Continuar.,CONTINUA,Weiter.,Продолжить.,Kontynuuj.,
+RE20_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Blind Legate (Anu)
+TO: Public
+
+Synedrion, we are told, are working on ways to repel the mist. This by itself is not a sin; we do not condemn it, for the mist is a flood, and brings life and death alike. They seek safety for their people, as do we.",,"消息
+来自：盲目使节（安努门徒）
+接收：公众
+
+我们收到消息称，平衡议会正在研究驱散迷雾的方法。这样的做法本身并不是罪恶，我们也不会谴责。迷雾即是洪水，既会带来新生，亦会带来死亡。他们想要为他们的人民寻求安全，我们也一样。","MESSAGE
+DE : Légat aveugle (Anu)
+À : Public
+
+On nous a signalé que le Synédrion travaille sur des moyens de repousser la brume. Ce n'est pas un péché en soi et nous ne condamnons pas cette action : la brume est telle un déluge, elle apporte à la fois la vie et la mort. Il cherche à protéger ses membres, tout comme nous.","MENSAJE
+DE: Legado Ciego (Anu)
+PARA: Público
+
+Hemos recibido noticias de que Synedrion está trabajando en una manera de repeler la niebla. Esto no es un pecado y no sentenciaremos a nadie por ello; la niebla es una inundación que porta vida y muerte. Buscan una manera de proteger a su pueblo, al igual que nosotros.","MESSAGGIO
+DA: Legato cieco (Anu)
+A: Comunità
+
+Ci hanno detto che Synedrion sta lavorando a un modo per scacciare la bruma. In sé non è un peccato, non lo condanniamo, poiché la bruma è come un fiume che porta sia la vita che la morte. Cercano solo la salvezza per il proprio popolo, come noi.","NACHRICHT
+ VON: Der blinde Gesandte (Anu)
+ AN: Die Öffentlichkeit
+
+Synedrion, so wird uns gesagt, arbeitet an Möglichkeiten, den Nebel abzuwehren. Das ist an und für sich keine Sünde. Wir verurteilen es nicht, denn der Nebel ist eine Flut und bringt Leben und Tod gleichermaßen. Sie suchen Sicherheit für ihr Volk, ebenso wie wir.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Слепой Легат (Ану)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Нам стало известно, что Синедрион пытается развеять туман. Это не грех; мы не осуждаем их, ведь туман — это потоп, который дарит жизнь и отнимает ее. Они хотят обезопасить своих, как мы хотим обезопасить себя.","WIADOMOŚĆ
+OD: Ślepy Legat (Anu)
+DO: Publiczna
+
+Powiedziano nam, że Synedrion pracuje nad rozpraszaniem mgły. To nie grzech, zatem go nie potępiamy — albowiem mgła to potop, co niesie zarówno życie, jak i śmierć. Pragną jeno bezpieczeństwa swych ludzi, jak i my.",
+RE20_TITLE,Text,,Far from the Flood,,远离洪水,Loin du déluge,Lejos de la inundación,Lontano dal fiume,Weit weg von der Flut,Вдали от потопа,Z dala od potopu,
+RE21_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Abongameli Smith (New Jericho)
+TO: Phoenix Project
+
+Mindfraggers. Funny how that crude name our soldiers came up with stuck. Appropriate, I suppose. These vile creatures personify everything that makes the Pandorans so despicable: they are designed to rob us of our will, of our humanity.
+
+",,"消息
+来自：阿邦格梅里·史密斯（新耶利哥）
+接收：凤凰计划
+
+心控虫。真是有趣，我们的士兵究竟是怎么想出这么难听的名字的。可能，是因为形容得恰到好处吧。这些肮脏的生物将潘多拉体的卑劣本质体现得淋漓尽致，它们会控制我们的意志，剥夺我们的人性。","MESSAGE
+DE : Abongameli Smith (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Les Corrupteurs. C'est drôle comme le nom sommaire que nos soldats ont inventé est resté. Je suppose que c'est approprié. Ces horribles créatures représentent tout ce qui rend les Pandoriens si abjects : ils ont été conçus pour nous voler notre volonté, notre humanité.","MENSAJE
+DE: Abongameli Smith (Nueva Jericó)
+PARA: Proyecto Fénix
+
+Rompementes. Es curioso que se les haya quedado el nombre que nuestros soldados les dieron. Supongo que tiene sentido. Estas criaturas malévolas son la encarnación de la aversión pandoriana; existen para arrebatarnos la voluntad, la humanidad.","MESSAGGIO
+DA: Abongameli Smith (Nuova Gerico)
+A: Progetto Phoenix
+
+Strappamente. È buffo quanto sia azzeccato questo nome osceno che hanno inventato i nostri soldati. È davvero appropriato. Queste vili creature impersonano tutto ciò che rende i Pandora così spregevoli: sono progettati per privarci della nostra volontà e della nostra umanità.
+
+","NACHRICHT
+ VON: Abongameli Smith (Neu-Jericho)
+ AN: Das Phoenix-Projekt
+
+Gedankenfresser. Schon komisch, dass sich dieser geschmacklose Name gehalten hat, den unsere Soldaten diesem Wesen gegeben haben.Vermutlich passt er einfach. Diese abscheulichen Kreaturen personifizieren alles, was die Pandoraner so verabscheuungswürdig macht. Sie sind darauf ausgelegt, uns unseres Willens zu berauben, unseres Menschseins. ","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Абонгамели Смит (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Промыватели. Забавное прозвище дали им солдаты, и все же имя прижилось. Полагаю, название подходящее. Эти мерзкие существа являются символом всего, что делает пандоранов такими отвратительными — лишение нас воли и человечности.","WIADOMOŚĆ
+OD: Abongameli Smith (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Mózgopluskwy. To zabawne, jak przyjęła się ordynarna nazwa wymyślona przez naszych żołnierzy. Cóż, najwyraźniej pasuje. Te podłe stworzenia stanowią uosobienie wszystkich najgorszych cech Pandoran: stworzono je po to, by odrzeć nas z wolnej woli. Z człowieczeństwa.
+
+",
+RE21_TITLE,Text,,The Foundation of Freedom,,自由的根基,Le fondement de la liberté,Los cimientos de la libertad,Le fondamenta della libertà,Die Grundlage der Freiheit,Основа свободы,Filar wolności,
+RE22_CHOICE_0_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Citizen Zhara (Synedrion)
+TO: Phoenix Project
+
+So would I. After all, in a way they are part of us - our friends, our families, all those who were taken from us. I would take them back... if I could.",,"消息
+来自：市民萨拉（平衡议会）
+接收：凤凰计划
+
+我也是。毕竟从某种程度来说，他们也是我们的一部分，是我们的朋友和家人，是那些从我们身边被夺走的人。如果我有能力的话…我一定会把他们带回来。","MESSAGE
+DE : Citoyenne Zhara (Synédrion)
+À : Projet Phoenix
+
+Moi de même. Après tout, ils font partie de nous, d'une certaine façon : nos amis, nos familles, tous ceux qui nous ont été arrachés. Je les laisserais revenir... si je le pouvais.","MENSAJE
+DE: Ciudadana Zhara (Synedrion)
+PARA: Proyecto Fénix
+
+Igualmente. Al fin y al cabo, son parte de nuestras vidas; amigos, familiares y seres queridos que hemos perdido. Los recuperaría, si pudiese.","MESSAGGIO
+DA: Cittadina Zhara (Synedrion)
+A: Progetto Phoenix
+
+Anche io. Dopotutto, fanno parte di noi: coloro che ci sono stati portati via erano i nostri amici e la nostra famiglia. Li riporterei indietro... se potessi.","NACHRICHT
+ VON: Bürgerin Zhara (Synedrion)
+ AN: Das Phoenix-Projekt
+
+Das würde ich auch. Schließlich sind sie in gewisser Weise ein Teil von uns – unsere Freunde, unsere Familien, all jene, die uns genommen wurden. Ich würde sie zurücknehmen ... wenn ich könnte.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Гражданка Жара (Синедрион)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Как и я. В конце концов, в некотором смысле они являются частью нас — наших друзей, семей и всех тех, кто был отнят у нас. Я бы забрала их... если бы могла.","WIADOMOŚĆ
+OD: Obywatelka Zhara (Synedrion)
+DO: Projekt Phoenix
+
+Ja również. W końcu w pewnym sensie są częścią nas — to nasi przyjaciele, nasi krewni, wszyscy, których nam odebrano. Uratowałabym ich... gdybym tylko mogła.",
+RE22_CHOICE_0_TEXT,Text,,"If there was a way to save them, we would do it.",,如果有办法能拯救他们，我们肯定会这样做。,"S'il existait un moyen de les sauver, nous le ferions.",Los salvaríamos de ser posible.,"SE CI FOSSE UN MODO PER SALVARLI, LI SALVEREI","Wenn es eine Möglichkeit gäbe, sie zu retten, würden wir es tun.
+","Будь у нас шанс, мы бы их спасли.","Gdyby istniał sposób na ich ocalenie, nie wahalibyśmy się.
+",
+RE22_CHOICE_1_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Citizen Zhara (Synedrion)
+TO: Phoenix Project
+
+That's what Nikolai argues. But think of how often we've declared others subhuman in our history, and what the consequences have been.",,"消息
+来自：市民萨拉（平衡议会）
+接收：凤凰计划
+
+这也正是尼古拉的看法。但想一想，在我们的历史中，我们曾经多少次指着别人的鼻子说别人是次等人，结果最后都造成了什么样的后果？","MESSAGE
+DE : Citoyenne Zhara (Synédrion)
+À : Projet Phoenix
+
+C'est ce que dit Nikolai. Mais réfléchissez à toutes les fois dans l'histoire où nous avons considéré d'autres que nous comme des sous-hommes, et les conséquences qui en ont découlé.","MENSAJE
+DE: Ciudadana Zhara (Synedrion)
+PARA: Proyecto Fénix
+
+Eso dice Nikolai. Pero pensad en las veces en las que se ha llamado a otros subhumanos a lo largo de la historia y en las consecuencias.","MESSAGGIO
+DA: Cittadina Zhara (Synedrion)
+A: Progetto Phoenix
+
+È quel che afferma Nikolai. Ma pensate a quante volte nella storia abbiamo considerato il prossimo come ""umano inferiore"", e quali sono state le conseguenze.","NACHRICHT
+ VON: Bürgerin Zhara (Synedrion)
+ AN: Das Phoenix-Projekt
+
+Das ist es, was auch Nikolai sagt. Aber denkt einmal daran, wie oft wir andere in unserer Geschichte für unmenschlich erklärt haben und welche Folgen das hatte.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Гражданка Жара (Синедрион)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Об этом спорит Николай. Вспомните, как часто человек клеймил себе подобных недолюдьми и каковы были последствия.","WIADOMOŚĆ
+OD: Obywatelka Zhara (Synedrion)
+DO: Projekt Phoenix
+
+Tak twierdzi Mikołaj. Zastanówcie się jednak, ile razy w historii ludzkości uznawaliśmy innych za podludzi — i jak to się kończyło.",
+RE22_CHOICE_1_TEXT,Text,,There isn't enough humanity left in them to matter.,,他们已经不剩多少人性了。,Il ne leur reste pas assez d'humanité pour que ça ait de l'importance.,Apenas siguen siendo humanos.,NON RESTA ABBASTANZA UMANITÀ IN LORO PER PREOCCUPARCENE,"Sie sind nicht mehr menschlich genug, als dass es darauf ankäme.",В них почти не осталось человечности.,"Nie zostało w nich dość człowieczeństwa, by miało to jakiekolwiek znaczenie.",
+RE22_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Citizen Zhara (Synedrion)
+TO: Phoenix Project
+
+Have you ever thought about the ethics of our relationship with the Arthrons? We all say we're fighting to save humanity - but aren't they human, at least in part? They can speak, they can think...
+",,"消息
+来自：市民萨拉（平衡议会）
+接收：凤凰计划
+
+你是否曾想过我们与蟹钳人的关系中所包含的道德准则？我们都说要为了拯救人类而战斗，但他们不也是人类吗？至少有一部分是人类吧？他们可以说话，也可以思考…","MESSAGE
+DE : Citoyenne Zhara (Synédrion)
+À : Projet Phoenix
+
+Avez-vous déjà songé à l'éthique de notre relation avec les Arthrons ? Nous disons tous lutter pour sauver l'humanité, mais ne sont-ils pas humains, du moins en partie ? Ils arrivent à parler, à penser...","MENSAJE
+DE: Ciudadana Zhara (Synedrion)
+PARA: Proyecto Fénix
+
+¿Habéis reflexionado acerca de las implicaciones de nuestra relación con los Arthrons? Afirmamos estar luchando por la humanidad, pero ¿acaso no son parte humano? Pueden hablar y pensar.","MESSAGGIO
+DA: Cittadina Zhara (Synedrion)
+A: Progetto Phoenix
+
+Avete mai pensato all'etica del nostro rapporto con gli Arthron? Diciamo tutti di combattere per salvare l'umanità, ma non sono anche loro degli esseri umani, almeno in parte? Sono in grado di parlare e pensare...
+","NACHRICHT
+ VON: Bürgerin Zhara (Synedrion)
+ AN: Das Phoenix-Projekt
+
+Habt ihr schon mal über die Ethik unserer Beziehung zu den Arthrons nachgedacht? Wir alle sagen, dass wir für die Rettung der Menschheit kämpfen, aber... sind sie nicht zumindest teilweise menschlich? Sie können sprechen, sie können denken...","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Гражданка Жара (Синедрион)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Вы когда-нибудь задумывались об этичности наших отношений с Артронами? Мы твердим, что боремся за спасение человечества. Но разве они не люди, по крайней мере отчасти? Они могут говорить, могут думать...","WIADOMOŚĆ
+OD: Obywatelka Zhara (Synedrion)
+DO: Projekt Phoenix
+
+Zastanawialiście się kiedykolwiek, czy nasze relacje z Arthronami są etyczne? Wszyscy mówimy, że walczymy o ocalenie ludzkości — ale czy oni nie są choć w części ludźmi? W końcu potrafią mówić i myśleć.
+",
+RE22_TITLE,Text,,"I, Crabman",,我，蟹钳人,"Moi, homme-crabe",Soy un hombre cangrejo,"Io, Uomo-granchio","Ich, Crabman","Я, крабочеловек","Ja, człowiek-krab",
+RE23_CHOICE_0_TEXT,Text,,OK,,好的。,OK.,VALE.,OK.,OK.,ОК.,OK.,
+RE23_TEXT_GENERAL_0,Text,,Synedrion is now SUPPORTIVE of the Phoenix Project. The locations of Synedrion havens have been added to the geoscape. Defend them to earn reputation. Failure to defend a haven under attack will lose some support.,,"消息
+ 来自：市民雅典娜（平衡议会）
+
+平衡议会目前十分支持凤凰计划。平衡议会避难所的位置已添加至世界地图。保护避难所可赢得声望，如果未能保护遭受攻击的避难所，就会失去一些支持。","MESSAGE
+DE : Citoyenne Athéna (Synédrion)
+
+Le Synédrion est maintenant FAVORABLE au Projet Phoenix. Les emplacements des refuges du Synédrion ont été ajoutés au Geoscape. Protégez-les pour obtenir une bonne réputation. Si vous ne défendez pas un refuge attaqué, vous perdrez du soutien.","MENSAJE
+ DE: Ciudadana Atenea (Synedrion)
+ 
+ Synedrion ahora es SIMPATIZANTE (apoyo) con el Proyecto Fénix. Se han añadido las ubicaciones de los refugios de Synedrion a la geovista. Defiéndelos para ganar reputación. Si no consigues defender a un refugio atacado, perderás algo de apoyo.","MESSAGGIO
+ DA: Cittadina Athena (Synedrion)
+ 
+ Ora Synedrion COOPERA con il Progetto Phoenix. Le posizioni dei rifugi di Synedrion sono state aggiunte al Globo. È necessario difenderle per guadagnare reputazione. Fallire nella difesa di un rifugio durante un attacco significa perdere supporto.","Das Phoenix-Projekt hat jetzt die UNTERSTÜTZUNG Synedrions. Die Standorte der Synedrion-Zufluchten sind nun auf der Geoscape sichtbar. Verteidigt sie, um euren Ruf zu stärken. Lasst ihr eine angegriffene Zuflucht im Stich, verliert ihr Unterstützung.","СООБЩЕНИЕ
+ ОТПРАВИТЕЛЬ: Гражданка Афина (Синедрион)
+ 
+ Синедрион теперь СТОРОННИК Проекта Феникс. Места расположения убежищ Синедриона были добавлены в геоскоп. Защищайте их, чтобы заработать репутацию. Если вам не удастся защитить атакованное убежище, вы потеряете часть поддержки.","WIADOMOŚĆ
+ OD: Obywatelka Atena (Synedrion)
+ 
+ Obecnie Synedrion OKAZUJE WSPARCIE dla Projektu Phoenix. W widoku Globu dodano lokalizacje bastionów Synedrionu. Broń ich, aby zdobywać reputację. Nieskuteczna obrona atakowanego bastionu spowoduje utratę części wsparcia.",
+RE23_TITLE,Text,,SUPPORTIVE,,支持,FAVORABLE,SIMPATIZANTE,COOPERANTE,UNTERSTÜTZEND,СТОРОННИК,OKAZUJĄ WSPARCIE,
+RE24_CHOICE_0_TEXT,Text,,OK,,好的。,OK.,VALE.,OK.,OK.,ОК.,OK.,
+RE24_TEXT_GENERAL_0,Text,,"Synedrion is now ALIGNED with the goals and values of the Phoenix Project. All completed Synedrion research is now shared with Phoenix, and can be accessed from the Research List.",,"消息
+ 来自：市民雅典娜（平衡议会）
+
+平衡议会目前与凤凰计划的目标和价值观念达成一致。所有已完成的平衡议会研究将与凤凰计划共享，并可在研究列表中访问。","MESSAGE
+ DE : Citoyenne Athéna (Synédrion)
+ 
+ Le Synédrion est maintenant ALIGNÉ avec les objectifs et les valeurs du Projet Phoenix. Tous les projets de recherche réalisés par le Synédrion sont désormais partagés avec le Projet Phoenix. Vous pouvez y accéder dans la Liste de recherche.","MENSAJE
+ DE: Ciudadana Atenea (Synedrion)
+ 
+ Synedrion se ha HERMANADO (alienado) con el Proyecto Fénix y ahora comparten objetivos y valores. Las investigaciones completadas de Synedrion se han compartido y están disponibles en la lista de investigación.","MESSAGGIO
+ DA: Cittadina Athena (Synedrion)
+ 
+ Ora Synedrion è ALLINEATA con gli obiettivi e i valori del Progetto Phoenix. Tutte le ricerche completate di Synedrion sono state condivise con Phoenix, e vi si può accedere tramite l'elenco delle ricerche.",Synedrion betrachtet die Ziele und Werte des Phoenix-Projekts jetzt WOHLWOLLEND. Sämtliche Synedrion-Forschungen werden ab sofort mit Phoenix geteilt und können über die Forschungsliste abgerufen werden.,"СООБЩЕНИЕ
+ ОТПРАВИТЕЛЬ: Гражданка Афина (Синедрион)
+ 
+ Синедрион теперь ПОПУТЧИК Проекта Феникс и имеет с ним общие цели и ценности. Теперь в списке исследований Феникса откроется доступ ко всем проведенным исследованиям Синедриона.","WIADOMOŚĆ
+ OD: Obywatelka Atena (Synedrion)
+ 
+ Obecnie Synedrion jest SPRZYMIERZEŃCEM w realizacji celów i wartości Projektu Phoenix. Wszystkie ukończone badania Synedrionu są teraz udostępniane Projektowi Phoenix i można uzyskać do nich dostęp na Liście badań.",
+RE24_TITLE,Text,,ALIGNED,,达成一致,ALIGNÉ,HERMANADA,ALLINEATA,WOHLWOLLEND,ПОПУТЧИК,SPRZYMIERZEŃCY,
+RE25_CHOICE_0_TEXT,Text,,OK,,好的。,OK.,VALE.,OK.,OK.,ОК.,OK.,
+RE25_TEXT_GENERAL_0,Text,,"Synedrion is now ALLIED with the Phoenix Project, and will co-operate on finding a solution to the Pandoran threat. Phoenix may now actively participate in Synedrion research projects.",,"消息
+ 来自：市民雅典娜（平衡议会）
+
+平衡议会目前与凤凰计划结为同盟，合作寻找应对潘多拉体威胁的解决方案。凤凰计划现在可以主动参与平衡议会的研究项目。","MESSAGE
+ DE : Citoyenne Athéna (Synédrion)
+ 
+ Le Synédrion est maintenant ALLIÉ au Projet Phoenix et coopérera pour trouver une solution contre la menace pandorienne. Le Projet Phoenix peut désormais activement participer aux projets de recherche du Synédrion.","MENSAJE
+ DE: Ciudadana Atenea (Synedrion)
+ 
+ Synedrion se ha convertido en ALIADO del Proyecto Fénix y cooperará para hallar una solución a la amenaza pandoriana. Ahora se puede participar activamente en los proyectos de investigación de Synedrion.","MESSAGGIO
+ DA: Cittadina Athena (Synedrion)
+ 
+ Ora Synedrion è ALLEATA con il Progetto Phoenix, e insieme collaboreranno per trovare una soluzione alla minaccia dei Pandora. Ora Phoenix può partecipare attivamente ai progetti di ricerca di Synedrion.",Synedrion ist jetzt mit dem Phoenix-Projekt VERBÜNDET und wird bei der Suche nach einer Lösung für die pandoranische Bedrohung kooperieren. Phoenix kann ab sofort aktiv an Forschungsprojekten Synedrions teilnehmen.,"СООБЩЕНИЕ
+ ОТПРАВИТЕЛЬ: Гражданка Афина (Синедрион)
+ 
+ Синедрион теперь СОЮЗНИК Проекта Феникс и поможет найти решение для пандоранской угрозы. Феникс теперь может активно участвовать в исследовательских проектах Синедриона.","WIADOMOŚĆ
+ OD: Obywatelka Atena (Synedrion)
+ 
+ Obecnie Synedrion jest SOJUSZNIKIEM Projektu Phoenix i podejmie współpracę nad próbą zażegnania zagrożenia ze strony Pandoran. Phoenix może teraz aktywnie uczestniczyć w projektach badawczych Synedrionu.",
+RE25_TITLE,Text,,ALLIED,,结为同盟,ALLIÉ,ALIADA,ALLEATA,VERBÜNDET,СОЮЗНИК,SOJUSZNICY,
+RE26_CHOICE_0_TEXT,Text,,OK,,好的。,OK.,VALE.,OK.,OK.,ОК.,OK.,
+RE26_TEXT_GENERAL_0,Text,,The Disciples of Anu are now SUPPORTIVE of the Phoenix Project. The locations of Disciples of Anu havens have been added to the geoscape. Defend them to earn reputation. Failure to defend a haven under attack will lose some support.,,"消息
+ 来自：圣尊（安努教会）
+
+安努门徒教会目前十分支持凤凰计划。教会避难所的位置已添加至世界地图。保护避难所可赢得声望，如果未能保护遭受攻击的避难所，就会失去一些支持。","MESSAGE
+ DE : L'Exaltée (Anu)
+ 
+ Les Disciples d'Anu sont maintenant FAVORABLES au Projet Phoenix. Les emplacements des refuges des Disciples d'Anu ont été ajoutés au Geoscape. Protégez-les pour obtenir une bonne réputation. Si vous ne défendez pas un refuge attaqué, vous perdrez du soutien.","MENSAJE
+ DE: La Glorificada (Anu)
+ 
+ Los Discípulos de Anu ahora son SIMPATIZANTES (apoyo) con el Proyecto Fénix. Se han añadido las ubicaciones de los refugios de los Discípulos de Anu a la geovista. Defiéndelos para ganar reputación. Si no consigues defender a un refugio atacado, perderás algo de apoyo.","MESSAGGIO
+ DA: La Suprema (Anu)
+ 
+ Ora i Discepoli di Anu COOPERANO con il Progetto Phoenix. Le posizioni dei rifugi dei Discepoli di Anu sono state aggiunte al Globo. È necessario difenderle per guadagnare reputazione. Fallire nella difesa di un rifugio durante un attacco significa perdere supporto.","Das Phoenix-Projekt hat jetzt die UNTERSTÜTZUNG der Jünger von Anu. Die Standorte ihrer Zufluchten sind nun auf der Geoscape sichtbar. Verteidigt sie, um euren Ruf zu stärken. Lasst ihr eine angegriffene Zuflucht im Stich, verliert ihr Unterstützung.","СООБЩЕНИЕ
+ ОТПРАВИТЕЛЬ: Возвышенная (Ану)
+
+Последователи Ану теперь СТОРОННИКИ Проекта Феникс. Места расположения убежищ Последователей Ану были добавлены в геоскоп. Защищайте их, чтобы заработать репутацию. Если вам не удастся защитить атакованное убежище, вы потеряете часть поддержки.","WIADOMOŚĆ
+ OD: Wywyższona (Anu)
+ 
+ Obecnie Akolici Anu OKAZUJĄ WSPARCIE dla Projektu Phoenix. W widoku Globu dodano lokalizacje bastionów Akolitów Anu. Broń ich, aby zdobywać reputację. Nieskuteczna obrona atakowanego bastionu spowoduje utratę części wsparcia.",
+RE26_TITLE,Text,,SUPPORTIVE,,支持,FAVORABLES,SIMPATIZANTE,COOPERANTE,UNTERSTÜTZEND,СТОРОННИК,OKAZUJĄ WSPARCIE,
+RE27_CHOICE_0_TEXT,Text,,OK,,好的。,OK.,VALE.,OK.,OK.,ОК.,OK.,
+RE27_TEXT_GENERAL_0,Text,,"The Disciples of Anu are now ALIGNED with the goals and values of the Phoenix Project. All completed Disciples of Anu research is now shared with Phoenix, and can be accessed from the Research List.",,"消息
+ 来自：圣尊（安努教会）
+
+安努门徒教会目前与凤凰计划的目标和价值观念达成一致。所有已完成的安努门徒教会研究将与凤凰计划共享，并可在研究列表中访问。","MESSAGE
+ DE : L'Exaltée (Anu)
+ 
+ Les Disciples d'Anu sont maintenant ALIGNÉS avec les objectifs et les valeurs du Projet Phoenix. Tous les projets de recherche réalisés par les Disciples d'Anu sont désormais partagés avec le Projet Phoenix. Vous pouvez y accéder dans la Liste de recherche.","MENSAJE
+ DE: La Glorificada (Anu)
+ 
+ Los Discípulos de Anu se han HERMANADO (alienado) con el Proyecto Fénix y ahora comparten objetivos y valores. Las investigaciones completadas de los Discípulos de Anu se han compartido y están disponibles en la lista de investigación.","MESSAGGIO
+ DA: La Suprema (Anu)
+ 
+ Ora i Discepoli di Anu sono ALLINEATI con gli obiettivi e i valori del Progetto Phoenix. Tutte le ricerche completate dei Discepoli di Anu sono state condivise con Phoenix, e vi si può accedere tramite l'elenco delle ricerche.",Die Jünger von Anu betrachten die Ziele und Werte des Phoenix-Projekts jetzt WOHLWOLLEND. Sämtliche Forschungen der Jünger von Anu werden ab sofort mit Phoenix geteilt und können über die Forschungsliste abgerufen werden.,"СООБЩЕНИЕ
+ ОТПРАВИТЕЛЬ: Возвышенная (Ану)
+
+Последователи Ану теперь ПОПУТЧИКИ Проекта Феникс и имеют с ним общие цели и ценности. Теперь в списке исследований Феникса откроется доступ ко всем проведенным исследованиям Последователей Ану.","WIADOMOŚĆ
+ OD: Wywyższona (Anu)
+ 
+ Obecnie Akolici Anu są SPRZYMIERZEŃCAMI w realizacji celów i wartości Projektu Phoenix. Wszystkie ukończone badania Akolitów Anu są teraz udostępniane Projektowi Phoenix i można uzyskać do nich dostęp na Liście badań.",
+RE27_TITLE,Text,,ALIGNED,,达成一致,ALIGNÉS,HERMANADA,ALLINEATA,WOHLWOLLEND,ПОПУТЧИК,SPRZYMIERZEŃCY,
+RE28_CHOICE_0_TEXT,Text,,OK,,好的。,OK.,VALE.,OK.,OK.,ОК.,OK.,
+RE28_TEXT_GENERAL_0,Text,,"The Disciples of Anu are now ALLIED with the Phoenix Project, and will co-operate on finding a solution to the Pandoran threat. Phoenix may now actively participate in Disciples of Anu research projects.",,"消息
+ 来自：圣尊（安努教会）
+
+安努门徒教会目前与凤凰计划结为同盟，合作寻找应对潘多拉体威胁的解决方案。凤凰计划现在可以主动参与安努门徒教会的研究项目。","MESSAGE
+ DE : L'Exaltée (Anu)
+ 
+ Les Disciples d'Anu sont maintenant ALLIÉS au Projet Phoenix et coopéreront pour trouver une solution contre la menace pandorienne. Le Projet Phoenix peut désormais activement participer aux projets de recherche des Disciples d'Anu.","MENSAJE
+ DE: La Glorificada (Anu)
+ 
+ Los Discípulos de Anu se han ALIADO con el Proyecto Fénix y cooperarán para hallar una solución a la amenaza pandoriana. Ahora se puede participar activamente en los proyectos de investigación de los Discípulos de Anu.","MESSAGGIO
+ DA: La Suprema (Anu)
+ 
+ Ora i Discepoli di Anu sono ALLEATI con il Progetto Phoenix, e insieme collaboreranno per trovare una soluzione alla minaccia dei Pandora. Ora Phoenix può partecipare attivamente ai progetti di ricerca dei Discepoli di Anu.",Die Jünger von Anu sind jetzt mit dem Phoenix-Projekt VERBÜNDET und werden bei der Suche nach einer Lösung für die pandoranische Bedrohung kooperieren. Phoenix kann ab sofort aktiv an Forschungsprojekten der Jünger von Anu teilnehmen.,"СООБЩЕНИЕ
+ ОТПРАВИТЕЛЬ: Возвышенная (Ану)
+
+Последователи Ану теперь СОЮЗНИКИ Проекта Феникс и помогут найти решение для пандоранской угрозы. Феникс теперь может активно участвовать в исследовательских проектах Последователей Ану.","WIADOMOŚĆ
+ OD: Wywyższona (Anu)
+ 
+ Obecnie Akolici Anu są SOJUSZNIKAMI Projektu Phoenix i podejmą współpracę nad próbą zażegnania zagrożenia ze strony Pandoran. Phoenix może teraz aktywnie uczestniczyć w projektach badawczych Akolitów Anu.",
+RE28_TITLE,Text,,ALLIED,,结为同盟,ALLIÉ,ALIADA,ALLEATA,VERBÜNDET,СОЮЗНИК,SOJUSZNICY,
+RE29_CHOICE_0_TEXT,Text,,OK,,好的。,OK.,VALE.,OK.,OK.,ОК.,OK.,
+RE29_TEXT_GENERAL_0,Text,,New Jericho is now SUPPORTIVE of the Phoenix Project. The locations of New Jericho havens have been added to the geoscape. Defend them to earn reputation. Failure to defend a haven under attack will lose some support.,,"消息
+ 来自：托拜厄斯 韦斯特（新耶利哥）
+
+新耶利哥目前十分支持凤凰计划。新耶利哥避难所的位置已添加至世界地图。保护避难所可赢得声望，如果未能保护遭受攻击的避难所，就会失去一些支持。","MESSAGE
+ DE : Tobias West (Nouvelle-Jéricho)
+ 
+ La Nouvelle-Jéricho est maintenant FAVORABLE au Projet Phoenix. Les emplacements des refuges de la Nouvelle-Jéricho ont été ajoutés au Geoscape. Protégez-les pour obtenir une bonne réputation. Si vous ne défendez pas un refuge attaqué, vous perdrez du soutien.","MENSAJE
+ DE: Tobias West (Nueva Jericó)
+ 
+ Nueva Jericó ahora es SIMPATIZANTE (apoyo) con el Proyecto Fénix. Se han añadido las ubicaciones de los refugios de Nueva Jericó a la geovista. Defiéndelos para ganar reputación. Si no consigues defender a un refugio atacado, perderás algo de apoyo.","MESSAGGIO
+ DA: Tobias West (Nuova Gerico)
+ 
+ Ora Nuova Gerico COOPERA con il Progetto Phoenix. Le posizioni dei rifugi di Nuova Gerico sono state aggiunte al Globo. È necessario difenderle per guadagnare reputazione. Fallire nella difesa di un rifugio durante un attacco significa perdere supporto.","Das Phoenix-Projekt hat jetzt die UNTERSTÜTZUNG Neu-Jerichos. Die Standorte der Zufluchten Neu-Jerichos sind nun auf der Geoscape sichtbar. Verteidigt sie, um euren Ruf zu stärken. Lasst ihr eine angegriffene Zuflucht im Stich, verliert ihr Unterstützung.","СООБЩЕНИЕ
+ ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ 
+ Новый Иерихон теперь СТОРОННИК Проекта Феникс. Места расположения убежищ Нового Иерихона были добавлены в геоскоп. Защищайте их, чтобы заработать репутацию. Если вам не удастся защитить атакованное убежище, вы потеряете часть поддержки.","WIADOMOŚĆ
+ OD: Tobias West (Nowe Jerycho)
+ 
+ Obecnie Nowe Jerycho OKAZUJE WSPARCIE dla Projektu Phoenix. W widoku Globu dodano lokalizacje bastionów Nowego Jerycha. Broń ich, aby zdobywać reputację. Nieskuteczna obrona atakowanego bastionu spowoduje utratę części wsparcia.",
+RE29_TITLE,Text,,SUPPORTIVE,,支持,FAVORABLE,SIMPATIZANTE,COOPERANTE,UNTERSTÜTZEND,СТОРОННИК,OKAZUJĄ WSPARCIE,
+RE2_CHOICE_0_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+Perhaps... but at what cost? 
+
+One could argue that the Pandorans themselves are a form of survival; they are part human, and they are alive, so there is biological continuity between us and them. But do they contain any of what is worthwhile about humanity?",,"消息
+来自：托拜厄斯·韦斯特（新耶利哥）
+接收：凤凰计划
+
+也许吧…但代价是什么呢？
+
+有的人说潘多拉体本身也是一种生存形态，他们有一部分是人类，而且都是活着的生命，因此我们与他们之间存在着生物连续性。然而，他们是否具有人类的价值？","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Peut-être bien... mais à quel prix ?
+
+On pourrait avancer que les Pandoriens représentent en eux-mêmes une forme de survie : ils sont en partie humains et ils sont vivants, il existe donc une continuité biologique entre eux et nous. Mais possèdent-ils quoi que ce soit qui compte dans l'humanité ?","MENSAJE
+DE: Tobias West (Nueva Jericó)
+PARA: Proyecto Fénix
+
+Puede ser... pero ¿a qué precio?
+
+Se podría decir que los propios pandorianos son un medio de subsistencia; poseen rasgos humanos y están vivos, así que existe una continuidad biológica entre nosotros. Pero ¿siguen conservando lo más importante de la humanidad?","MESSAGGIO
+DA: Tobias West (Nuova Gerico)
+A: Progetto Phoenix
+
+Forse... Ma a che prezzo?
+
+Uno potrebbe dire che i Pandora stessi sono una forma di sopravvivenza: sono in parte umani e sono vivi, quindi esiste una continuità biologica fra noi e loro. Ma possiedono qualche lato positivo dell'umanità?","NACHRICHT
+ VON: Tobias West (Neu-Jericho)
+ AN: Das Phoenix-Projekt
+
+Vielleicht ... aber zu welchem Preis? 
+
+Man könnte argumentieren, dass die Pandoraner selbst eine Form des Überlebens sind. Sie sind teils Mensch und sie leben. Sprich, es gibt eine biologische Kontinuität zwischen ihnen und uns. Aber enthalten sie irgendetwas von dem, was die Menschen als wertvoll erachten?","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Возможно... Но какой ценой? 
+
+Кто-то скажет, что сами пандораны — инструмент выживания вида. Они отчасти люди, и они живы. Между нами и ими есть биологическая преемственность. Но осталось ли в них что-то человечное, достойное выживания?","WIADOMOŚĆ
+OD: Tobias West (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Być może... Ale jakim kosztem?
+
+Można się sprzeczać, że Pandoranie sami w sobie są pewnego rodzaju formą przetrwania — częściowo są ludźmi i żyją, zatem występuje jakaś ciągłość biologiczna między nami a nimi. Ale czy zachowali jakąś wartą tego cząstkę człowieczeństwa?",
+RE2_CHOICE_0_TEXT,Text,,We do what we must to survive.,,我们只是想竭尽全力生存下来。,Nous faisons le nécessaire pour survivre.,Hacemos los que podemos para sobrevivir.,FACCIAMO QUEL CHE VA FATTO PER SOPRAVVIVERE,"Wir tun, was wir müssen, um am Leben zu bleiben.","Мы делаем все, чтобы продолжать жить.","Robimy, co trzeba, by przetrwać.",
+RE2_CHOICE_1_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+Not only is it misanthropy, it is also a denial of human agency, of our ability to make choices. At best, it's a way of distracting from failures of the will; at worst, it's outright treason against our species.",,"消息
+来自：托拜厄斯·韦斯特（新耶利哥）
+接收：凤凰计划
+
+错，这不仅是对人类的厌恶，也是对人类的作用和我们做出选择的能力进行的否定。往好的方面说，这是一种转移意志失败的方法；往差的方面说，这就是对人类的直接背叛。","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+C'est non seulement de la misanthropie, mais c'est aussi un déni de la nature humaine, de notre capacité à faire des choix. Au mieux, c'est une façon de se distraire des échecs de la volonté. Au pire, c'est de la pure trahison contre notre espèce.","MENSAJE
+DE: Tobias West (Nueva Jericó)
+PARA: Proyecto Fénix
+
+No hablamos solo de misantropía, sino también de la privación de la libertad humana y de nuestra capacidad para tomar decisiones. Por un lado, podría ser una manera de olvidarnos de los errores de la voluntad, pero, por otro, podría ser una traición a nuestra especie.","MESSAGGIO
+DA: Tobias West (Nuova Gerico)
+A: Progetto Phoenix
+
+Non solo è misantropia, ma è anche negazione dell'azione umana, della nostra capacità di fare delle scelte. Nel migliore dei casi è un modo per distrarci dai fallimenti del libero arbitrio. Nel peggiore, è alto tradimento nei confronti della nostra specie.","NACHRICHT
+ VON: Tobias West (Neu-Jericho)
+ AN: Das Phoenix-Projekt
+
+Das ist nicht nur eine misanthropisch Ansicht, sondern auch das Verweigern der menschlichen Entscheidungsfreiheit und unserer Fähigkeit, Entscheidungen zu treffen. Im besten Fall ist es eine Möglichkeit, von Versagen des Willens abzulenken. Im schlimmsten Fall ist es regelrechter Verrat an unserer Spezies.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Это не только проявление мизантропии, но и отрицание человеческой воли, нашей способности делать выбор. В лучшем случае это способ скрыть отсутствие воли, в худшем — предательство собственного вида.","WIADOMOŚĆ
+OD: Tobias West (Nowe Jerycho)
+DO: Projekt Phoenix
+
+To nie tylko mizantropia, ale też odrzucenie człowieczeństwa, naszej zdolności do podejmowania decyzji. W najlepszym razie jest to odwrócenie uwagi od wad woli, a w najgorszym — zdrada naszego gatunku.",
+RE2_CHOICE_1_TEXT,Text,,Recognizing humanity's biological flaws is not misanthropy.,,承认人类的生理缺陷并非是对人类的厌恶。,Reconnaître les défauts biologiques de l'humanité n'est pas de la misanthropie.,Reconocer los fallos en la biología humana no es misantropía.,RICONOSCERE LE IMPERFEZIONI DELLA BIOLOGIA UMANA NON È MISANTROPIA,"Die biologischen Fehler der Menschheit zu erkennen, ist keine Misanthropie.",Признание биологических недостатков в человеке — не мизантропия.,"Przyznanie, że ludzkość ma biologiczne wady, to jeszcze nie mizantropia.",
+RE2_CHOICE_2_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+Unfortunately, since our mission is defending humanity from all biological threats, it is our business.",,"消息
+来自：托拜厄斯·韦斯特（新耶利哥）
+接收：凤凰计划
+
+不幸的是，我们的使命就是保护人类免受任何生物威胁的侵害，因此这与我们有关。","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Malheureusement, puisque notre mission est de défendre l'humanité contre toute menace biologique, ce sont bien nos affaires.","MENSAJE
+DE: Tobias West (Nueva Jericó)
+PARA: Proyecto Fénix
+
+Por desgracia, nuestra misión es defender a la humanidad de las amenazas biológicas. Sí que es asunto nuestro.","MESSAGGIO
+DA: Tobias West (Nuova Gerico)
+A: Progetto Phoenix
+
+Sfortunatamente, visto che la nostra missione è difendere il genere umano dalle minacce biologiche, sono decisamente affari nostri.","NACHRICHT
+ VON: Tobias West (Neu-Jericho)
+ AN: Das Phoenix-Projekt
+
+Da es unsere Aufgabe ist, die Menschheit vor allen biologischen Bedrohungen zu verteidigen, geht es uns leider sehr wohl etwas an.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Сожалею, но наша миссия — защищать человечество от всех биологических угроз. Поэтому это наше дело.","WIADOMOŚĆ
+OD: Tobias West (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Nasza misja polega na ochronie ludzkości przed biologicznymi zagrożeniami, zatem jest to nasza sprawa.",
+RE2_CHOICE_2_TEXT,Text,,This is none of New Jericho's business.,,这与新耶利哥无关。,Ce ne sont pas les affaires de la Nouvelle-Jéricho.,Nueva Jericó no tiene ni voz ni voto aquí.,NON SONO AFFARI DI NUOVA GERICO,Das geht Neu-Jericho nichts an.,Не дело Нового Иерихона.,To nie sprawa Nowego Jerycha.,
+RE2_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Point
+
+Do you really think the answers we need as a species lie in Pandoran biology, in plundering the invaders for their mutagens? 
+
+The Disciples believe that humans need to evolve, to mutate - but don't you see the inherent misanthropy of this philosophy, blaming humanity for what was done to it by an alien aggressor? The very premise is profoundly unethical. If we start telling ourselves that we need the Pandorans in order to improve ourselves... how are we any better than the collaborator who tells himself the enemy will make things better in the long run?",,"消息
+来自：托拜厄斯·韦斯特（新耶利哥）
+接收：凤凰点
+
+你真的以为人类需要的答案藏在潘多拉体的生物形态之中而不断地抢夺他们体内的突变原？
+
+安努门徒教会认为，人类需要进化，需要变异。但是，难道你没有看到这种理念暗藏着厌恶人类的思想？他们竟然因外星入侵者对人类犯下的罪行而指责人类自身？这种前提本身就毫无道德可言。如果我们告诉自己，我们需要潘多拉体才能提升自身…那我们与那些告诉自己敌人从长远角度来看能够使世界更加美好的通敌者相比，又能好到哪里去呢？","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Vous pensez vraiment que les réponses dont nous avons besoin en tant qu'espèce se cachent dans la biologie pandorienne ? Que nous devrions mutiler les envahisseurs pour en extraire des mutagènes ?
+
+Les Disciples croient que les humains doivent évoluer, muter, mais ne voyez-vous pas la misanthropie inhérente à cette philosophie : blâmer l'humanité pour ce qu'un agresseur extraterrestre lui a causé ? L'idée en elle-même est profondément immorale. Si nous commençons à nous dire que nous avons besoin des Pandoriens pour pouvoir nous améliorer... en quoi sommes-nous supérieurs au collaborateur qui se dit que l'ennemi rendra les choses meilleures sur le long terme ?","MENSAJE
+DE: Tobias West (Nueva Jericó)
+PARA: Punto Fénix
+
+¿De verdad creéis que las respuestas que buscamos las tiene la biología pandoriana? ¿De veras tenemos que saquear los mutágenos a los invasores?
+
+Los Discípulos afirman que la humanidad ha de evolucionar o mutar. ¿No veis la misantropía que se esconde detrás de esta filosofía? Culpan a la humanidad del daño que ha causado un agresor alienígena. La premisa en sí es inmoral. ¿Qué será de nosotros si aceptamos que necesitamos a los pandorianos para mejorar? ¿Qué nos diferenciaría de un colaboracionista que se engaña a sí mismo creyendo que el enemigo lo solucionará todo?","MESSAGGIO
+DA: Tobias West (Nuova Gerico)
+A: Progetto Phoenix
+
+Pensate davvero che le risposte che cerchiamo in quanto specie si trovino nella biologia dei Pandora? Che sia giusto saccheggiare gli invasori dei loro mutageni? 
+
+I Discepoli credono che gli umani debbano evolversi, che debbano mutare: ma non vedete la misantropia che si cela all'interno di questa filosofia che incolpa gli umani per quel che è stato fatto loro da un aggressore alieno? I presupposti sono profondamente immorali. Se cominciamo a dire a noi stessi che ci servono i Pandora per migliorarci... come pensiamo di essere migliori del collaborazionista, che dice a se stesso che i nemici miglioreranno le cose sul lungo termine?","NACHRICHT
+ VON: Tobias West (Neu-Jericho)
+ AN: Phoenix Point
+
+Glaubt ihr wirklich, dass die Antworten, die wir als Spezies brauchen, in der Biologie der Pandoraner zu finden sind, und darin, denn Eindringlingen ihre Mutagene abzujagen? 
+
+Die Jünger glauben, dass die Menschen sich entwickeln müssen, um zu mutieren. Aber seht ihr nicht die inhärente Misanthropie dieser Philosophie, die die Menschheit für das verantwortlich macht, was ihr von einem außerirdischen Aggressor angetan wurde? Die Prämisse selbst ist zutiefst unethisch. Wenn wir anfangen, uns einzureden, dass wir die Pandoraner brauchen, um besser zu werden ... Was unterscheidet uns dann von dem Mitläufer, der sich sagt, dass der Feind auf lange Sicht alles besser machen wird?","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Phoenix Point
+
+Вы правда думаете, что решение проблемы людей кроется в биологии пандоранов? В заимствовании мутагенов у своих же захватчиков? 
+
+Последователи верят, что люди должны развиваться и мутировать. Но разве вы не видите в такой философии глубокую ненависть к людям? Можно ли обвинять человечество в том, в чем виноваты инопланетные агрессоры? Само предположение совершенно неэтично. Если мы станем уверять себя, что пандораны необходимы для нашего развития, чем мы лучше предателей, верящих в светлое будущее под крылом захватчиков?","WIADOMOŚĆ
+OD: Tobias West (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Naprawdę sądzicie, że odpowiedzi potrzebne gatunkowi ludzkiemu znajdziemy w biologii Pandoran, pobierając od nich mutageny?
+
+Akolici uważają, że ludzie muszą ewoluować i przechodzić mutacje — nie dostrzegacie w tej filozofii mizantropii, skoro obwinia ona ludzkość za to, co zrobił jej obcy najeźdźca? Samo założenie jest już wysoce nieetyczne. Jeśli zaczniemy sobie wmawiać, że potrzebujemy Pandoran, by się doskonalić... W czym będziemy lepsi od kolaborantów, którzy sądzą, że współpraca z wrogiem to najlepsze rozwiązanie na dłuższą metę?",
+RE2_TITLE,Text,,The Pandoran Stain,,潘多拉体污染,La tache pandorienne,La mancha pandoriana,La macchia dei Pandora,Der Schandfleck der Pandoraner,Пандораны: болезнь или панацея?,Pandorańska skaza,
+RE30_CHOICE_0_TEXT,Text,,OK,,好的。,OK.,VALE.,OK.,OK.,ОК.,OK.,
+RE30_TEXT_GENERAL_0,Text,,"New Jericho is now ALIGNED with the goals and values of the Phoenix Project. All completed New Jericho research is now shared with Phoenix, and can be accessed from the Research List.",,"消息
+ 来自：托拜厄斯 韦斯特（新耶利哥）
+
+新耶利哥目前与凤凰计划的目标和价值观念达成一致。所有已完成的新耶利哥研究将与凤凰计划共享，并可在研究列表中访问。","MESSAGE
+ DE : Tobias West (Nouvelle-Jéricho)
+ 
+ La Nouvelle-Jéricho est maintenant ALIGNÉE avec les objectifs et les valeurs du Projet Phoenix. Tous les projets de recherche réalisés par la Nouvelle-Jéricho sont désormais partagés avec le Projet Phoenix. Vous pouvez y accéder dans la Liste de recherche.","MENSAJE
+ DE: Tobias West (Nueva Jericó)
+ 
+ Nueva Jericó se ha HERMANADO (alienado) con el Proyecto Fénix y ahora comparten objetivos y valores. Las investigaciones completadas de Nueva Jericó se han compartido y están disponibles en la lista de investigación.","MESSAGGIO
+ DA: Tobias West (Nuova Gerico)
+ 
+ Ora Nuova Gerico è ALLINEATA con gli obiettivi e i valori del Progetto Phoenix. Tutte le ricerche completate di Nuova Gerico sono state condivise con Phoenix, e vi si può accedere tramite l'elenco delle ricerche.",Neu-Jericho betrachtet die Ziele und Werte des Phoenix-Projekts jetzt WOHLWOLLEND. Sämtliche Forschungen Neu-Jerichos werden ab sofort mit Phoenix geteilt und können über die Forschungsliste abgerufen werden.,"СООБЩЕНИЕ
+ ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ 
+ Новый Иерихон теперь ПОПУТЧИК Проекта Феникс и имеет с ним общие цели и ценности. Теперь в списке исследований Феникса откроется доступ ко всем проведенным исследованиям Нового Иерихона.","WIADOMOŚĆ
+ OD: Tobias West (Nowe Jerycho)
+ 
+ Obecnie Nowe Jerycho jest SPRZYMIERZEŃCEM w realizacji celów i wartości Projektu Phoenix. Wszystkie ukończone badania Nowego Jerycha są teraz udostępniane Projektowi Phoenix i można uzyskać do nich dostęp na Liście badań.",
+RE30_TITLE,Text,,ALIGNED,,达成一致,ALIGNÉE,HERMANADA,ALLINEATA,WOHLWOLLEND,ПОПУТЧИК,SPRZYMIERZEŃCY,
+RE31_CHOICE_0_TEXT,Text,,OK,,好的。,OK.,VALE.,OK.,OK.,ОК.,OK.,
+RE31_TEXT_GENERAL_0,Text,,"New Jericho is now ALLIED with the Phoenix Project, and will co-operate on finding a solution to the Pandoran threat. Phoenix may now actively participate in New Jericho research projects.",,"消息
+ 来自：托拜厄斯 韦斯特（新耶利哥）
+
+新耶利哥目前与凤凰计划结为同盟，合作寻找应对潘多拉体威胁的解决方案。凤凰计划现在可以主动参与新耶利哥的研究项目。","MESSAGE
+ DE : Tobias West (Nouvelle-Jéricho)
+ 
+ La Nouvelle-Jéricho est maintenant ALLIÉE au Projet Phoenix et coopérera pour trouver une solution contre la menace pandorienne. Le Projet Phoenix peut désormais activement participer aux projets de recherche de la Nouvelle-Jéricho.","MENSAJE
+ DE: Tobias West (Nueva Jericó)
+ 
+ Nueva Jericó se ha convertido en ALIADO del Proyecto Fénix y cooperará para hallar una solución a la amenaza pandoriana. Ahora se puede participar activamente en los proyectos de investigación de Nueva Jericó.","MESSAGGIO
+ DA: Tobias West (Nuova Gerico)
+ 
+ Ora Nuova Gerico è ALLEATA con il Progetto Phoenix, e insieme collaboreranno per trovare una soluzione alla minaccia dei Pandora. Ora Phoenix può partecipare attivamente ai progetti di ricerca di Nuova Gerico.",Neu-Jericho ist jetzt mit dem Phoenix-Projekt VERBÜNDET und wird bei der Suche nach einer Lösung für die pandoranische Bedrohung kooperieren. Phoenix kann ab sofort aktiv an Forschungsprojekten Neu-Jerichos teilnehmen.,"СООБЩЕНИЕ
+ ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ 
+ Новый Иерихон теперь СОЮЗНИК Проекта Феникс и поможет найти решение для пандоранской угрозы. Феникс теперь может активно участвовать в исследовательских проектах Нового Иерихона.","WIADOMOŚĆ
+ OD: Tobias West (Nowe Jerycho)
+ 
+ Obecnie Nowe Jerycho jest SOJUSZNIKIEM Projektu Phoenix i podejmie współpracę nad próbą zażegnania zagrożenia ze strony Pandoran. Phoenix może teraz aktywnie uczestniczyć w projektach badawczych Nowego Jerycha.",
+RE31_TITLE,Text,,ALLIED,,结为同盟,ALLIÉ,ALIADA,ALLEATA,VERBÜNDET,СОЮЗНИК,SOJUSZNICY,
+RE3_CHOICE_0_OUTCOME_GENERAL,Text,,"As for the Disciples of Anu, there is no official statement from the Exalted or the Synod of Yearning, but rumors suggest they are neither surprised nor worried.",,至于安努门徒教会，虽然圣尊和向往教宗从未发表过任何官方声明，但据说他们既没有觉得意外，也并没有感到担心。,"En ce qui concerne les Disciples d'Anu, ni l'Exaltée, ni le Synode de l'appétence n'ont émis de déclaration officielle, mais les rumeurs laissent entendre qu'ils ne sont ni surpris, ni inquiets.","Los Discípulos de Anu permanecen en silencio. No ha habido declaración oficial alguna por parte de la Glorificada o del Sínodo del Anhelo, pero los rumores sugieren que no están ni sorprendidos ni preocupados.","Per quanto riguarda i Discepoli di Anu, non è arrivata nessuna dichiarazione ufficiale da parte della Suprema o del Sinodo di Bramosia, ma secondo le voci che circolano, non sono né sorpresi, né preoccupati.","Was die Jünger von Anu angeht, so gibt es keine offizielle Erklärung der Erhabenen oder der Synode der Sehnsucht, aber Gerüchte deuten darauf hin, dass sie weder überrascht noch besorgt sind.","Что касается Последователей Ану, пока нет официальных заявлений от Возвышенной или Синода Возжелания. Согласно слухам, они не выразили ни удивления, ни беспокойства.","Jeśli chodzi o Akolitów Anu, Wywyższona ani Synod Pragnienia niczego jeszcze nie ogłosili, ale chodzą plotki, iż ani ich to nie zmartwiło, ani nie zaniepokoiło.",
+RE3_CHOICE_0_TEXT,Text,,Continue.,,继续。,Continuer.,Continuar.,CONTINUA,Weiter.,Продолжить.,Kontynuuj.,
+RE3_TEXT_GENERAL_0,Text,,"Our research regarding the nature of the Pandoravirus has caused a great deal of controversy within the factions.
+
+Tobias West sees our research as confirmation of what New Jericho has always preached: the Pandorans are invaders, a military solution is the only way forward, and anyone who disagrees is helping the enemy. In Synedrion, internal debates rage. What are the socio-political rights of creatures created by a bioweapon? Should we even be trying to co-exist?",,"我们对潘多拉病毒本质的研究在不同派系间引起了大量争议。
+
+托拜厄斯·韦斯认为我们的研究证实了新耶利哥一贯的主张：潘多拉体是入侵者，而唯一的应对方法便是通过军事途径，一切反对这种方法的人都将被视为敌人的帮凶。而在平衡议会，内部的争论愈演愈烈。由生化武器创造的生物有什么社会政治权利？甚至说，我们是否应该与他们共存？","Nos recherches concernant la nature du Pandoravirus sont à l'origine d'une grande controverse au sein des factions.
+
+Tobias West voit nos recherches comme une confirmation de ce que la Nouvelle-Jéricho a toujours prêché : les Pandoriens sont des envahisseurs, une solution militaire est le seul remède, et ceux qui expriment leur désaccord aident l'ennemi. Au Synédrion, les débats internes font rage. Quels droits sociopolitiques peuvent bien posséder des créatures nées d'une arme biologique ? Pourquoi même essayer de coexister ?","Nuestras investigaciones acerca de la naturaleza del Pandoravirus han desatado la polémica en las facciones.
+
+Tobias West usa nuestras investigaciones para reafirmar las predicaciones de Nueva Jericó: los pandorianos son invasores, la solución militar es la única alternativa y quienes no estén de acuerdo ayudan al enemigo. En Synedrion surgen debates internos: ¿cuáles son los derechos sociopolíticos de las criaturas creadas por un arma biológica? ¿Deberíamos siquiera intentar coexistir con ellos?","Le nostre ricerche riguardo la natura del Pandoravirus hanno fatto sorgere molte controversie all'interno delle fazioni.
+
+Tobias West vede i nostri studi come una conferma di ciò che Nuova Gerico ha sempre predicato: i Pandora sono degli invasori, la risposta militare è l'unica soluzione, e chiunque la pensi diversamente sta aiutando il nemico. A Synedrion, non fanno che nascere dibattiti interni. Quali sono i diritti socio-politici di creature create da un'arma biologica? Dovremmo tentare di coesistere?","Unsere Forschung über die Grundlage des Pandoravirus hat bei den Fraktionen für viel Kontroverse gesorgt.
+
+Tobias West sieht unsere Forschung als Bestätigung dessen, was Neu-Jericho immer gepredigt hat: Die Pandoraner sind Eindringlinge, eine militärische Lösung ist der einzige Weg nach vorn, und wer anderer Meinung ist, hilft dem Feind. In Synedrion toben interne Debatten. Welche gesellschaftspolitischen Rechte haben Geschöpfe, die durch eine Biowaffe geschaffen werden? Sollten wir überhaupt versuchen, miteinander zu existieren?","Наше исследование природы пандоравируса вызвало множество дебатов среди фракций.
+
+Тобиас Вест рассматривает наше исследование как подтверждение идеологии Нового Иерихона: пандораны — захватчики; военное вмешательство — единственный выход; любой несогласный — пособник врага. В Синедрионе бушуют бесконечные споры. Всех волнует вопрос. Каковы социально-политические права существ, созданных биологическим оружием? Стоит ли нам пытаться найти путь к сосуществованию?","Nasze badania na temat natury Pandorawirusa wywołały wielkie kontrowersje wśród frakcji.
+
+Tobias West uważa, że ich wyniki to potwierdzenie założeń Nowego Jerycha: Pandoranie to najeźdźcy, pomóc nam może jedynie ścieżka militarna, a ci, którzy się nie zgodzą, staną po stronie wroga. W Synedrionie rozgorzała debata. Jakie prawa społeczno-polityczne powinny mieć istoty stworzone za pomocą broni biologicznej? Czy powinniśmy dążyć do koegzystencji?",
+RE3_TITLE,Text,,The Weapon,,武器,L'arme,El arma,L'arma,Die Waffe,Орудие,Broń,
+RE4_CHOICE_0_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+Some of my people think killing the Pandorans is enough, but if that were true, why did all the armies of the world fail to stop them? To win a war, you need to know when and where to strike. Maybe we're a step closer now.",,"消息
+来自：托拜厄斯·韦斯特（新耶利哥）
+接收：凤凰计划
+
+我们当中有些人认为只要杀死潘多拉体就够了，但如果真是如此，为何世界上的所有部队都没能阻止他们？要想赢得一场战争，你必须知道何时何处直击敌人的要害。也许我们现在又近了一步。","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Quelques-uns de mes citoyens pensent que tuer les Pandoriens est suffisant, mais si c'était vrai, comment se fait-il que toutes les armées de la planète ne soient-elles pas parvenues à les arrêter ? Pour pouvoir remporter une guerre, il faut savoir où et quand frapper. Peut-être que nous en sommes maintenant un peu plus proches.","MENSAJE
+DE: Tobias West (Nueva Jericó)
+PARA: Proyecto Fénix
+
+Hay quienes creen que con matar a los pandorianos es suficiente, pero, si eso fuese cierto, ¿por qué los ejércitos del mundo no pudieron acabar con ellos? Para ganar una guerra, has de saber dónde atacar. Quizás nos estemos acercando.","MESSAGGIO
+DA: Tobias West (Nuova Gerico)
+A: Progetto Phoenix
+
+Alcuni pensano che basti uccidere i Pandora, ma se fosse vero, perché tutti gli eserciti del mondo non riescono a fermarli? Per vincere una guerra, devi sapere quando e dove colpire. Forse abbiamo fatto un passo avanti.","NACHRICHT
+ VON: Tobias West (Neu-Jericho)
+ AN: Das Phoenix-Projekt
+
+Einige meiner Leute denken, dass es reicht, die Pandoraner zu töten. Wenn das wahr wäre, warum haben dann die Armeen der Welt es nicht geschafft, sie aufzuhalten? Um einen Krieg zu gewinnen, muss man wissen, wann und wo man zuschlägt. Vielleicht sind wir jetzt einen Schritt weiter.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Некоторые из моих людей думают, что убийства пандоранов достаточно. Если это так, почему их еще не истребили? Чтобы выиграть войну, нужно знать, когда и где нанести удар. Может быть, теперь мы на шаг ближе к победе.","WIADOMOŚĆ
+OD: Tobias West (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Niektórzy z moich ludzi uważają, że wystarczy zabić Pandoran, ale w takim razie dlaczego wszystkie armie świata poległy w obliczu tego zadania? Aby wygrać wojnę, trzeba wiedzieć, gdzie uderzyć. Być może jesteśmy o krok bliżej.",
+RE4_CHOICE_0_TEXT,Text,,Thank you.,,谢谢你。,Merci.,Darle las gracias.,GRAZIE,Danke.,Благодарю вас.,Dziękuję.,
+RE4_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+Congratulations on capturing a live specimen of such a fearsome predator. It can't have been easy, and I admire your dedication to understanding the enemy.",,"消息
+来自：托拜厄斯·韦斯特（新耶利哥）
+接收：凤凰计划
+
+恭喜你捕获了一个如此可怕的掠食者活样本。过程肯定并不容易，你如此迫切地想要了解敌人，对此我很敬佩。","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Je vous félicite d'avoir capturé un spécimen vivant d'un prédateur aussi redoutable. J'imagine que cela n'a pas été une mince affaire et j'admire la persévérance dont vous faites preuve pour mieux comprendre l'ennemi.","MENSAJE
+DE: Tobias West (Nueva Jericó)
+PARA: Proyecto Fénix
+
+Os doy la enhorabuena por haber capturado un espécimen vivo de un depredador tan aterrador. No creo que haya sido fácil. Admiro vuestra dedicación a la hora de comprender al enemigo.","MESSAGGIO
+DA: Tobias West (Nuova Gerico)
+A: Progetto Phoenix
+
+Complimenti per aver catturato un esemplare vivo di un predatore così terrificante. Non sarà stato facile, quindi ammiro molto la vostra dedizione nel cercare di comprendere il nemico.","NACHRICHT
+ VON: Tobias West (Neu-Jericho)
+ AN: Das Phoenix-Projekt
+
+Herzlichen Glückwunsch zur Erfassung eines lebenden Exemplars eines solch furchterregenden Gegners. Das kann nicht einfach gewesen sein, und ich bewundere eure Hingabe, den Feind verstehen zu wollen.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Поздравляю с поимкой живого экземпляра столь грозного хищника. Процесс наверняка был нелегким, и я восхищаюсь вашей преданностью своему делу — пониманию врага.","WIADOMOŚĆ
+OD: Tobias West (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Gratuluję pojmania tak straszliwego drapieżnika, i to żywego. Z pewnością nie było łatwo — doceniam Wasz trud włożony w poznanie wroga.",
+RE4_TITLE,Text,,Victory by Understanding,,知彼致胜,Victoire par compréhension,Victoria a través del conocimiento,Comprendere per vincere,Sieg durch Verstehen,Ключ к победе — понимание,Poznanie drogą do zwycięstwa,
+RE5_CHOICE_0_OUTCOME_GENERAL,Text,,"The Disciples, meanwhile, have released a rare official statement from the Exalted: ""Behold, our people have drunken deep of the Waters of Life, and yet they are free. Our path leads not to enslavement, but to liberation from the flaws of the old flesh.""",,于此同时，圣尊十分罕见地发布了一条官方声明称：“看啊，我们的子民尽情地享受生命之水，而他们却依然拥有自由。我们的道路并非通往奴役，而是要从具有缺陷的旧躯壳中解脱出来。”,"Entre temps, les Disciples ont publié une rare déclaration officielle de la part de l'Exaltée : « Regardez, notre peuple s'est grandement abreuvé aux Eaux de vie, et pourtant, il est libre. Notre voie ne mène pas à l'asservissement, mais à la libération des faiblesses de l'ancienne chair. »","Mientras tanto, los Discípulos han publicado una declaración oficial de la Glorificada, algo que es inusual: ""Contemplad cómo nuestro pueblo ha bebido de las Aguas de la Vida y permanece ileso. Nuestro camino no conduce a la esclavitud, sino a la privación de los fallos de la antigua carne"".","I Discepoli, nel frattempo, hanno rilasciato una rara dichiarazione ufficiale da parte della Suprema: ""Osservate, la nostra gente si è dissetata delle Acque della vita, e ora è libera. Il nostro cammino non porta allo schiavismo, ma alla liberazione dalle imperfezioni della vecchia carne.""","Die Jünger haben unterdessen eine offizielle Erklärung der Erhabenen veröffentlicht, was nur äußerst selten vorkommt: „Sehet, unser Volk hat tief aus den Wassern des Lebens getrunken, und doch sind sie frei. Unser Weg führt nicht in die Versklavung, sondern zur Befreiung von den Fehlern des alten Fleisches.“","Тем временем, Последователями было сделано редкое официальное заявление от лица Возвышенной: «Узрите! Братья и сестры наши испили из Вод Жизни сполна и остались свободными. Наш путь ведет не к порабощению, а к освобождению от пороков старой плоти».","Akolici natomiast, co zdarza się rzadko, opublikowali oficjalny komunikat Wywyższonej: „Nasi ludzie zaczerpnęli z głębi Wód Życia, zyskawszy wolność. Nasze ścieżki nie prowadzą do zniewolenia, lecz ku wyzwoleniu od wad dawnych ciał”.",
+RE5_CHOICE_0_TEXT,Text,,Continue.,,继续。,Continuer.,Continuar.,CONTINUA,Weiter.,Продолжить.,Kontynuuj.,
+RE5_TEXT_GENERAL_0,Text,,"Our research has once again caused controversy.
+
+To New Jericho, the existence of the telepathic nodule is unsurprising: they have always seen infection as an attack on human will. But it's made their relationship to the Disciples of Anu deteriorate even further, as they now see the Disciples as not only trying to pervert, but to enslave humanity.",,"我们的研究又一次引发了争议。
+
+对新耶利哥而言，心灵感应结节的存在并没有令他们感到意外，他们一直都认为潘多拉病毒的感染是对人类意志发动的攻击。但这也使他们与安努门徒教会的关系进一步恶化，因为他们现在不仅觉得教会正在走向堕落，并且认为他们想要奴役人类。","Nos recherches sont de nouveau à l'origine d'une polémique.
+
+Pour la Nouvelle-Jéricho, l'existence du nodule télépathique n'a rien de surprenant : ses membres ont toujours considéré l'infection comme une attaque contre la volonté humaine. Mais leur relation avec les Disciples d'Anu n'en est que plus détériorée, puisqu'ils pensent désormais que les Disciples n'essaient pas seulement de pervertir l'humanité, mais également de l'asservir.","Nuestras investigaciones han vuelvo a desatar la polémica.
+
+Para Nueva Jericó, la existencia de nódulos telepáticos es algo nuevo, ya que siempre han creído que la infección es un ataque a la voluntad humana. Esto ha empeorado sus relaciones con los Discípulos de Anu y ahora creen que los Discípulos no solo quieren pervertir a la humanidad, sino también esclavizarla.","Le nostre ricerche hanno di nuovo causato delle controversie.
+
+Nuova Gerico non è sorpresa dell'esistenza del nodulo telepatico: hanno sempre considerato l'infezione come un attacco alla volontà degli esseri umani. Ma ciò non ha fatto che deteriorare ulteriormente la loro relazione con i Discepoli di Anu, in quanto credono che questi ultimi non solo vogliano traviare l'umanità, ma anche schiavizzarla.","Unsere Forschung hat erneut für Kontroversen gesorgt.
+
+Für Neu-Jericho kommt die Existenz des Telepathieknotens nicht überraschend: Sie haben Infektionen immer als Angriff auf den menschlichen Willen angesehen. Dadurch haben sich aber ihre Beziehungen zu den Jüngern von Anu verschlechtert, da sie jetzt der Meinung sind, die Jünger würden die Menschheit nicht nur verderben sondern auch versklaven wollen.","Наши исследования вновь вызвали споры.
+
+Для Нового Иерихона существование телепатического узелка неудивительно: они всегда рассматривали инфекцию как захватчика человеческой воли. Но это привело к дальнейшему ухудшению в отношениях с Последователями Ану. Теперь они считают, что Последователи желают не только извратить, но и поработить человечество.","Nasze badania znów wywołały kontrowersje.
+
+Przedstawiciele Nowego Jerycha nie są zaskoczeni obecnością guzka telepatycznego — zawsze uważali infekcję za atak skierowany w wolną wolę człowieka. Pogorszyło to jednak jeszcze bardziej ich stosunki z Akolitami Anu — Nowe Jerycho sądzi, że nie tylko powadzą ludzkość na złą ścieżkę, ale też dążą do ich zniewolenia.",
+RE5_TEXT_GENERAL_1,Text,,"To Synedrion, confirmation that the Pandorans are controlled by an external force is deeply shocking. To the Polyphonic Tendency subfaction, it means co-existence is no longer as simple: the Pandoran creatures must be liberated first. But the Terraformers argue that this is naive; the task is to take control of the Earth for humanity, not romanticize the alien invaders.",,对平衡议会而言，潘多拉体受到外部力量控制这一事实得到确认之后，他们感到十分震惊。对复调倾向流派而言，这意味着与潘多拉体共存不再是一件那么简单的事情，因为他们必须先将潘多拉体生物解放出来。然而星球改造者却认为这是一种十分幼稚的想法。人类的任务是夺回地球的控制权，而不是去美化那些外星入侵者。,"Pour le Synédrion, la confirmation que les Pandoriens sont contrôlés par une force extérieure s'avère profondément choquante. Pour la sous-faction de la Tendance polyphonique, cela signifie que la coexistence n'est plus aussi simple : les créatures pandoriennes doivent d'abord être libérées. Mais les Terraformeurs soulignent la naïveté d'une telle attitude ; l'idée est de prendre le contrôle de la Terre pour l'humanité, et non pas de glorifier les envahisseurs extraterrestres.",La confirmación de que los pandorianos están bajo el control de una fuerza ajena ha sido traumático para Synedrion. Para la subfacción de la Tendencia Polifónica esto significa que la coexistencia ya no es tan simple; las criaturas pandorianas han de ser libres primero. Los Terraformadores aluden a la ingenuidad de la idea y afirman que la humanidad tiene que hacerse con el control de la Tierra y no idealizar a los invasores alienígenas.,"Per Synedrion, la conferma che i Pandora siano controllati da una forza esterna è stato uno shock. Per la sotto-fazione di Tendenza polifonica, significa che la coesistenza non è più così semplice: le creature Pandora devono prima essere liberate. Ma i Terraformatori sostengono che sia da ingenui. Lo scopo è assumere il controllo della Terra per l'umanità, non idealizzare gli invasori alieni.","Für Synedrion war es ein großer Schock zu erfahren, dass die Pandoraner wirklich von einer externen Macht gesteuert werden. Für die Polyphonische Tendenz bedeutet dies, dass eine Koexistenz nicht mehr so einfach ist: Die Pandoraner-Kreaturen müssen zuerst befreit werden. Aber die Terraformer argumentieren, dass dies naiv sei: die Aufgabe bestünde darin, die Kontrolle über die Erde zu übernehmen und nicht die außerirdischen Eindringlinge zu romantisieren.","Подтверждение того, что пандоранами управляет сила извне, глубоко шокирует жителей Синедриона. Для фракции Многоголосой Тенденции это означает, что сосуществование не так просто: существа, зараженные пандоравирусом, должны быть освобождены. Терраформеры считают это наивным, ведь основная задача — вернуть человечеству полный контроль над Землей, а не идеализировать инопланетных захватчиков.","Synedrion jest zszokowany wieścią, że Pandoranie znajdują się pod kontrolą jakiejś zewnętrznej siły. Dla Ugrupowania Polifonicznego oznacza to, że koegzystencja nie będzie jednak taka prosta, ponieważ Pandoran należy najpierw wyzwolić. Terraformerzy z kolei uważają, że to naiwne podejście — ludzie powinni przejąć kontrolę nad Ziemią, a nie idealizować najeźdźców.",
+RE5_TITLE,Text,,Control,,控制,Contrôle,Control,Controllo,Kontrolle,Контроль,Kontrola,
+RE6_CHOICE_0_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Citizen Stas (Synedrion)
+TO: Public
+
+It is, isn't it? Sometimes I miss the days when such questions were just science fiction. But I guess sooner or later, the future arrives, and then you have to deal with it.",,"消息
+来自：市民思达斯（平衡议会）
+接收：公众
+
+我说得没错吧，对吗？有时，我真的很怀念这些问题还只存在于科幻小说中的时候。不过，未来嘛，总是会有到来的那一天。那时，你将不得不面对它。","MESSAGE
+DE : Citoyen Stas (Synédrion)
+À : Public
+
+Je ne vous le fais pas dire. Parfois, je regrette l'époque où ce genre de questions étaient du domaine de la science-fiction. Mais j'imagine que tôt ou tard, le futur devient le présent, et il faut y faire face.","MENSAJE
+DE: Ciudadano Stas (Synedrion)
+PARA: Público
+
+¿No es así? A veces echo de menos los tiempos en los que estas cuestiones no eran más que ciencia ficción. Pero, tarde o temprano, avanzamos hasta el futuro y tenemos que aprender a lidiar con él.","MESSAGGIO
+DA: Cittadino Stas (Synedrion)
+A: Comunità
+
+Non è così? A volte mi mancano i giorni in cui domande del genere non erano che pura fantascienza. Ma credo che presto o tardi il futuro arrivi, e a noi non rimane che affrontarlo.","NACHRICHT
+ VON: Bürger Stas (Synedrion)
+ AN: Die Öffentlichkeit
+
+Das ist es wirklich, nicht wahr? Manchmal vermisse ich die Zeiten, in denen so etwas nur in Sciencefiction-Romanen vorkam. Aber ich denke, früher oder später kommt die Zukunft, und dann muss man sich halt damit auseinandersetzen.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Гражданин Стас (Синедрион)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Так и есть, правда? Иногда я скучаю по тем дням, когда такие вопросы жили лишь в мире научной фантастикой. Но рано или поздно наступит время, когда придется иметь с этим дело.","WIADOMOŚĆ
+OD: Obywatel Staś (Synedrion)
+DO: Publiczna
+
+Nieprawdaż? Czasem tęsknię za latami, gdy takie pytania pojawiały się jedynie w literaturze science fiction. Prędzej czy później przyszłość musi nadejść, a my musimy sobie z nią radzić.",
+RE6_CHOICE_0_TEXT,Text,,It is a worrying possibility.,,这种可能性令人担忧。,C'est une inquiétante possibilité.,Es una posibilidad preocupante.,È UNA POSSIBILITÀ PREOCCUPANTE,Das ist eine beunruhigende Möglichkeit.,Это тревожная перспектива.,Martwi nas taka możliwość.,
+RE6_CHOICE_1_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Citizen Stas (Synedrion)
+TO: Public
+
+You think so? Because to me it seems like these principles never find structural expression and are thrown aside all too easily when it's convenient. But maybe I'm wrong. Maybe New Jericho is all you believe it to be. I hope so.",,"消息
+来自：市民思达斯（平衡议会）
+接收：公众
+
+你是这样想的吗？因为对我来说，这些原则似乎从来就缺乏结构化的表达，而且十分容易被随意地抛弃。但也许我是错的。也许新耶利哥才是你们相信的东西。希望如此吧。","MESSAGE
+DE : Citoyen Stas (Synédrion)
+À : Public
+
+C'est ce que vous pensez ? Car pour moi, on dirait que ces principes ne passent jamais par une expression structurelle et sont mis de côté bien trop facilement quand ils deviennent gênants. Mais j'ai peut-être tort. Si ça se trouve, la Nouvelle-Jéricho est exactement comme vous la décrivez. En tout cas, je l'espère.","MENSAJE
+DE: Ciudadano Stas (Synedrion)
+PARA: Público
+
+¿Eso creéis? Siempre me ha parecido que estos principios no llegan a tener una expresión estructural y que acaban abandonándose cuando resulta conveniente. Pero quizás esté equivocado. Puede que Nueva Jericó sea lo que creáis. Eso espero.","MESSAGGIO
+DA: Cittadino Stas (Synedrion)
+A: Comunità
+
+Lo credete davvero? Perché a me sembra che questi princìpi non trovino mai un'espressione strutturata, e che vengano messi da parte non appena fa comodo. Ma forse mi sbaglio. Forse Nuova Gerico è come credete voi. Lo spero.","NACHRICHT
+ VON: Bürger Stas (Synedrion)
+ AN: Die Öffentlichkeit
+
+Wirklich? Denn mir scheint es so, als würden sich diese Prinzipien nie strukturell ausdrücken lassen und werden viel zu schnell ignoriert, wenn es so besser passt. Aber vielleicht irre ich mich. Vielleicht ist Neu-Jericho all das, was ihr darin seht. Zumindest hoffe ich das.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Гражданин Стас (Синедрион)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Вы так думаете? А мне вот кажется, что эти принципы никогда не находят структурного выражения и слишком легко игнорируются, когда это удобно. Возможно, я ошибаюсь. Возможно, Новый Иерихон такой, каким вы его видите. Я надеюсь на это.","WIADOMOŚĆ
+OD: Obywatel Staś (Synedrion)
+DO: Publiczna
+
+Tak sądzicie? Osobiście uważam, że te zasady nie znajdują odzwierciedlenia w ich strukturach i odrzuca się je, gdy tak jest wygodniej. Kto wie, może się mylę, a Nowe Jerycho jest takie, jak mówicie. Oby.",
+RE6_CHOICE_1_TEXT,Text,,New Jericho is a society of laws and principles. There will be no abuse.,,新耶利哥是一个讲求法律和原则的社会，不会出现那种情况的。,La Nouvelle-Jéricho est une société de lois et de principes. Il n'y aura pas d'abus.,Nueva Jericó es una sociedad de leyes y principios. No existirá el abuso.,"NUOVA GERICO È UNA SOCIETÀ DI LEGGI E PRINCÌPI, NON CI SARÀ ALCUN ABUSO",Neu-Jericho ist eine Gesellschaft aus Gesetzen und Prinzipien. Es wird keinen Missbrauch geben.,Новый Иерихон — общество с законами и принципами. О преступлении не может быть и речи.,Nowe Jerycho zbudowano na prawie i zasadach. Nie będzie nadużyć.,
+RE6_CHOICE_2_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Citizen Stas (Synedrion)
+TO: Public
+
+That seems like the sort of thing the Exalted would say. But I don't see the problem with the technology itself. Why is a technological fix worse than a biological one? 
+
+Hmm, because the biological fix is permanent. I guess I actually kind of see your point... but still, the real problem here is how the technology will be used in the long run.",,"消息
+来自：市民思达斯（平衡议会）
+接收：公众
+
+这句话听起来就像是圣尊说的一样。不过，我并没有觉得这项技术本身有什么问题。为什么技术修复要比生物修复差劲呢？
+
+嗯…因为生物修复是永久的。说实话，我想我已经有点明白你的意思了…不过，我真正想说的问题是，这项技术从长远角度来看应该如何运用。","MESSAGE
+DE : Citoyen Stas (Synédrion)
+À : Public
+
+Voilà qui semble tout droit sorti de la bouche de l'Exaltée. Mais selon moi, la technologie en elle-même n'est pas un problème. Pourquoi est-ce qu'une solution technologique serait pire qu'une solution biologique ?
+
+Hmm parce que la solution biologique est permanente. Je crois que je comprends votre logique... mais tout de même, le vrai problème est le suivant : comment la technologie sera-t-elle utilisée sur le long terme ?","MENSAJE
+DE: Ciudadano Stas (Synedrion)
+PARA: Público
+
+Eso suena a algo que diría la Glorificada. No veo problema alguno con la tecnología. ¿Por qué es una solución tecnológica peor que una biológica?
+
+Porque la biológica es permanente, vale. Entiendo el punto de vista, pero, aun así, el verdadero problema surge de la utilidad de la tecnología en el futuro.","MESSAGGIO
+DA: Cittadino Stas (Synedrion)
+A: Comunità
+
+È proprio il genere di cose che direbbe la Suprema. Ma io non credo che la tecnologia rappresenti un problema di per sé. Perché una riparazione tecnologica è peggio di una biologica? 
+
+Beh, perché quella biologica è permanente. A dire il vero capisco il vostro punto di vista... Ciononostante, il vero problema qui è come la tecnologia verrà utilizzata nel lungo termine.","NACHRICHT
+ VON: Bürger Stas (Synedrion)
+ AN: Die Öffentlichkeit
+
+Das klingt nach etwas, das die Erhabene sagen würde. Aber ich sehe kein Problem mit der Technologie an sich. Warum sollte eine technologische Lösung schlechter sein als eine biologische?
+
+Hmm, vermutlich, weil die biologische Lösung dauerhaft ist. Ich glaube, ich verstehe euch... aber das eigentliche Problem ist doch, wie diese Technologie auf lange Sicht eingesetzt wird.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Гражданин Стас (Синедрион)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Похоже на то, что сказала бы Возвышенная. Но я не вижу проблемы в самой технологии. Почему технологическое вмешательство хуже биологического? 
+
+Наверное, потому что биологическое необратимо. Кажется, я могу понять вашу точку зрения... Но все же реальная проблема в том, как технология будет использоваться в долгосрочной перспективе.","WIADOMOŚĆ
+OD: Obywatel Staś (Synedrion)
+DO: Publiczna
+
+Dokładnie tak powiedziałaby Wywyższona. Problem nie leży jednak w samej technologii. Dlaczego rozwiązanie technologiczne jest gorsze od biologicznego?
+
+Ponieważ rozwiązanie biologiczne jest trwałe. Rozumiem, co chcecie powiedzieć... Ale sęk w tym, jak technologia zostanie wykorzystana na dłuższą metę.",
+RE6_CHOICE_2_TEXT,Text,,This is just a weak attempt to fix a deeper problem with human biology.,,这只是为了弥补人类生理机能的缺陷而进行的一次小小的尝试。,C'est juste une tentative pathétique pour chercher un moyen de régler un problème plus complexe lié à la biologie humaine.,"Esto no es más que un parche, no una solución al problema de la biología humana.",È SOLO UN DEBOLE TENTATIVO DI SISTEMARE UN PROBLEMA PIÙ PROFONDO LEGATO ALLA BIOLOGIA UMANA,"Dies ist nur ein schwacher Versuch, ein tiefergreifendes Problem mit menschlicher Biologie zu lösen.",Это лишь слабая попытка решить более глубокую проблему биологии человека.,To jedynie kiepska próba naprawienia większego problemu z ludzką biologią.,
+RE6_CHOICE_3_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Citizen Stas (Synedrion)
+TO: Public
+
+I urge everyone to spend some time thinking about how the technologies we're developing should be applied. It's not the tech itself that's the problem - it's what we do with it.",,"消息
+来自：市民思达斯（平衡议会）
+接收：公众
+
+我强烈要求所有人花点时间思考一下我们应该如何运用我们研发的技术。问题并不在于技术本身，而是我们如何使用它们。","MESSAGE
+DE : Citoyen Stas (Synédrion)
+À : Public
+
+J'invite chacun et chacune à réfléchir à la façon dont les technologies que nous développons devraient être appliquées. Le problème, ce n'est pas la technologie en elle-même, c'est ce que nous choisissons d'en faire.","MENSAJE
+DE: Ciudadano Stas (Synedrion)
+PARA: Público
+
+Animo a que la gente medite un poco acerca del uso que se le dará a la tecnología que estamos desarrollando. El problema no es la tecnología en sí, sino el uso que le daremos.","MESSAGGIO
+DA: Cittadino Stas (Synedrion)
+A: Comunità
+
+Esorto tutti a prendersi un po' di tempo per pensare a come dovrebbero essere applicate le tecnologie che sviluppiamo. Non è la tecnologia in sé ad essere un problema, ma come la sfruttiamo.","NACHRICHT
+ VON: Bürger Stas (Synedrion)
+ AN: Die Öffentlichkeit
+
+Ich fordere alle dazu auf, sich Gedanken darüber zu machen, wie die Technologien, die wir entwickeln, angewendet werden sollen. Es ist nicht die Technologie an sich, die das Problem ist – es ist das, was wir damit machen.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Гражданин Стас (Синедрион)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Я призываю каждого из вас немного подумать о том, как следует применять разрабатываемые нами технологии. Проблема не в самой технологии, а в ее дальнейшем использовании.","WIADOMOŚĆ
+OD: Obywatel Staś (Synedrion)
+DO: Publiczna
+
+Proszę, przemyślcie, w jaki sposób należy zastosować technologie, nad którymi pracujemy. To nie technologia stanowi problem, lecz sposób, w jaki ją wykorzystamy.",
+RE6_CHOICE_3_TEXT,Text,,No comment.,,不予评价。,Ne rien dire.,Sin comentarios.,NESSUN COMMENTO,Kein Kommentar.,Ничего не говорить.,Bez komentarza.,
+RE6_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Citizen Stas (Synedrion)
+TO: Public
+
+This New Jericho neural tech we've been hearing about... it sounds like a pretty cool technology, really, but has anyone thought about how easily it could be abused by, uh, I don't know, an autocratic leader with delusions of grandeur?",,"消息
+来自：市民思达斯（平衡议会）
+接收：公众
+
+我们听说了新耶利哥研发的神经技术…听上去是一种很棒的科技，真的。但有没有人想过，这种科技是多么容易被某些，呃，妄自尊大的独裁领袖所利用？","MESSAGE
+DE : Citoyen Stas (Synédrion)
+À : Public
+
+Cette technologie neurale de la Nouvelle-Jéricho dont on entend parler... ça a l'air bien cool, mais personne ne s'est demandé si, euh, un autocrate porté par des illusions de grandeur ne risquerait pas d'en abuser ?","MENSAJE
+DE: Ciudadanos Stas (Synedrion)
+PARA: Público
+
+La tecnología neuronal de Nueva Jericó de la que se está hablando parece interesante, pero, en serio, ¿a nadie se le ha pasado por la cabeza lo fácil que le será a un líder despótico con visiones de grandeza abusar de ella?","MESSAGGIO
+DA: Cittadino Stas (Synedrion)
+A: Comunità
+
+Questa tecnologia neurale di Nuova Gerico di cui abbiamo sentito parlare... sembra roba forte, dico davvero, ma nessuno ha pensato che se ne potrebbe fare un grosso abuso da parte, non so, di un leader autocratico con manie di grandezza?","NACHRICHT
+ VON: Bürger Stas (Synedrion)
+ AN: Die Öffentlichkeit
+
+Diese Neuraltechnologie aus Neu-Jericho, von der wir hören... klingt ziemlich cool. Aber hat mal jemand darüber nachgedacht, wie leicht ein autokratischer Führer mit Größenwahn so etwas missbrauchen könnte?","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Гражданин Стас (Синедрион)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Насчет слухов о нейронной технологии в Новом Иерихоне... Звучит, как довольно клевая технология. Но кто-нибудь задумывался о том, как легко ее может использовать, например, лидер-тиран с манией величия?","WIADOMOŚĆ
+OD: Obywatel Staś (Synedrion)
+DO: Publiczna
+
+Technologia neuronowa Nowego Jerycha, o której tyle się mówi... Brzmi świetnie, ale czy ktoś wziął pod uwagę, jak łatwo może dojść do jej nadużycia, gdyby dorwał się do niej... Sam nie wiem, jakiś autokratyczny przywódca z wielkim ego?",
+RE6_TITLE,Text,,Brain Power,,脑力,Force cérébrale,Poder mental,Potere cerebrale,Gehirnleistung,Мощь интеллекта,Potęga umysłu,
+RE7_CHOICE_0_OUTCOME_GENERAL,Text,,"The Disciples of Anu have no official statement on any parallels between the Yuggothian Entity and their Dead God. The Liturgy of the Divine Flesh draws close, and they have more important things to focus on than the ravings of those trapped in ideologies of the old world.",,安努门徒教会信仰的死亡之神与这个犹格斯实体存在诸多相似之处，对此他们未发表任何官方声明。神圣肉体之仪开始在即，他们还有更重要的事情需要处理，并不想理会这些迷失在了旧世界意识形态之中的人所说的胡言乱语。,"Les Disciples d'Anu n'ont émis aucune déclaration officielle sur quelconque parallèle entre l'Entité yuggothienne et son Dieu défunt. La Liturgie de la chair divine approche, et ils ont bien mieux à faire que de s'intéresser aux divagations de ceux qui sont encore prisonniers des idéologies de l'ancien monde.","Los Discípulos de Anu no han declarado ningún paralelismo entre la Entidad de Yuggoth y el Dios Muerto. La Liturgia de la Carne Divina se acerca, por lo que tienen cosas más importantes en las que centrarse que los delirios de los que todavía se aferran a las ideologías del antiguo mundo.","I Discepoli di Anu non hanno rilasciato dichiarazioni ufficiali su parallelismi tra l'Entità yuggothiana e il loro Dio morto. La Liturgia della Divina Carne si avvicina, e hanno cose più importanti a cui pensare che i farfugliamenti di chi è rimasto intrappolato nelle ideologie del vecchio mondo.","Die Jünger von Anu haben keine offizielle Erklärung zu den Parallelen zwischen dem Yuggoth-Wesen und ihrem toten Gott. Die Liturgie des göttlichen Fleisches rückt näher, und sie haben wichtigere Dinge zu tun, als sich auf wirre Gerede derer zu konzentrieren, die noch in der alten Welt gefangen sind.","От Последователей Ану не поступало официальных заявлений о какой-либо связи между Югготской Сущностью и их Мертвым Богом. Приближается Литургия Божественной Плоти, и у них есть более важные дела, чем бредни тех, кто оказался в ловушке идеологий старого мира.","Akolici Anu nie opublikowali oficjalnego komentarza na temat podobieństw yuggotańskiej istoty do ich Martwego Boga. Liturgia Bożego Ciała jest coraz bliżej, a oni mają ważniejsze sprawy na głowie niż brednie jednostek pochłoniętych ideami starego świata.",
+RE7_CHOICE_0_TEXT,Text,,Continue.,,继续。,Continuer.,Continuar.,CONTINUA,Weiter.,Продолжить.,Kontynuuj.,
+RE7_TEXT_GENERAL_0,Text,,"Finally, we have revealed the true enemy behind the Pandoravirus: the Yuggothian Entity.
+
+For New Jericho, this is excellent news. Finally, a proper war with clear sides - and they know which side they're on. There's no more time for traitors or accommodationists.
+
+For Synedrion, it's now a question of philosophy - do they want to seize the master's tools and transform the world, or destroy this cosmic hierarchy and let things take their own course? The answer will have to be reached democratically.",,"终于，我们揭开了潘多拉病毒背后的真正主使：犹格斯实体。
+
+对新耶利哥而言，这是个极好的消息。这场战争终于有了一个明确的立场，而他们清楚自己应该站在哪一边。已经没有时间去管叛徒和妥协之人了。
+
+对平衡议会而言，这已经变成了一个哲学问题：他们是要夺走控制者的工具并改造这个世界，或是毁掉这个宇宙的等级制度，从而让所有事物自然而然地发展？而这个问题的答案必须通过民主的方法得出。","Nous avons enfin révélé le véritable ennemi caché derrière le Pandoravirus : l'Entité yuggothienne.
+
+Pour la Nouvelle-Jéricho, c'est une excellente nouvelle. Il existe enfin une vraie guerre avec des camps distincts, et elle sait de quel côté se ranger. C'en est fini des traîtres et des conciliateurs.
+
+Pour le Synédrion, il s'agit à présent d'une question de philosophie : souhaite-t-il s'emparer des outils du maître et transformer le monde, ou bien détruire cette hiérarchie cosmique et laisser les choses se dérouler d'elles-mêmes ? La réponse devra être obtenue de façon démocratique.","Hemos descubierto al verdadero enemigo que se esconde tras el Pandoravirus: la Entidad de Yuggoth.
+
+Para Nueva Jericó no podría haber mejor descubrimiento. Por fin tienen ante ellos una guerra con bando definidos y saben a cuál apoyar. No se perderá más tiempo con traidores y acomodacionistas.
+
+Para Synedrion la cuestión es filosófica: ¿querrán hacerse con el instrumento del maestro para transformar el mundo, o querrán acabar con la jerarquía cósmica y permitir que las cosas avancen por sí solas? La respuesta surgirá de una votación democrática.","Finalmente è stato rivelato il vero nemico dietro al Pandoravirus: l'Entità yuggothiana.
+
+Per Nuova Gerico, sono novità fantastiche. Finalmente è una vera guerra con fazioni ben distinte e nessun dubbio su da che parte stare. Non c'è più tempo per traditori o conciliatori.
+
+Per Synedrion, ora è diventata una questione filosofica: vogliono impadronirsi degli strumenti del Signore e trasformare il mondo, o distruggere questa gerarchia cosmica e lasciare che le cose seguano il loro corso? Si dovrà arrivare a una risposta in maniera democratica.","Endlich haben wir den wahren Feind hinter dem Pandoravirus enthüllt: das Yuggoth-Wesen.
+
+Für Neu-Jericho ist dies eine ausgezeichnete Nachricht. Endlich ein richtiger Krieg mit klaren Seiten – und sie wissen, auf welcher Seite sie stehen. Niemand hat mehr Zeit für Verräter oder Höflichkeitsbekundungen.
+
+Für Synedrion ist es jetzt eine Frage der Philosophie – wollen sie die Werkzeuge des Meisters ergreifen und die Welt transformieren, oder diese kosmische Hierarchie zerstören und die Dinge ihren eigenen Lauf nehmen lassen? Die Antwort muss demokratisch gefunden werden.","Наконец, мы раскрыли истинное лицо врага, ответственного за пандоравирус —Югготская Сущность.
+
+Это прекрасная новость для Нового Иерихона. Наконец-то война с четким разделением сторон — и они знают, на чьей они стороне. Больше нет времени на предателей или потворщиков.
+
+Для Синедриона это теперь философский вопрос. Хотят ли они взять в свои руки преобразование мира или хотят разрушить эту космическую иерархию и позволить судьбе идти своим чередом? Вопрос должен быть решен демократическим путем.","Nareszcie odkryliśmy prawdziwego wroga, który stoi za Pandorawirusem: to yuggotańska istota.
+
+To wspaniałe wieści dla Nowego Jerycha. Nareszcie w wojnie pojawiły się wyraźne strony, a oni wiedzą, po której stoją. Nie ma już miejsca dla zdrajców i kompromisów.
+
+Dla Synedrionu to teraz kwestia filozoficzna — czy sięgną po narzędzia stwórcy, by zmienić świat, czy zniszczą kosmiczną hierarchię i pozwolą, by sprawy przybrały naturalny bieg? Odpowiedź należy ustalić demokratycznie.",
+RE7_TITLE,Text,,Know Thy Enemy,,了解敌人,Connais ton ennemi,Conocer al enemigo,Conosci il tuo nemico,Kenne deinen Feind,Знай своего врага,Poznać wroga,
+RE8_CHOICE_0_OUTCOME_GENERAL,Text,,"There's only one way forward now. Either we take the ultimate risk, or humanity falls.",,现在只有一种方法了。要么我们承担最终的风险，要么人类面临死亡。,"Il n'y a plus qu'une seule solution. Soit nous prenons le risque ultime, soit c'est la fin de l'humanité.","Ya solo nos queda una opción: asumir el riesgo definitivo. De lo contrario, la humanidad perderá.","Ora c'è una sola strada percorribile: o ci assumiamo il rischio definitivo, o l'umanità cadrà.","Jetzt gibt es nur noch einen Weg nach vorne. Entweder gehen wir das ultimative Risiko ein, oder die Menschheit geht unter.","Нас ждет лишь один путь. Если мы не пойдем на риск, человечество падет.","Zostało nam jedno wyjście. Albo podejmiemy największe ryzyko, albo ludzkość upadnie.",
+RE8_CHOICE_0_TEXT,Text,,Understood,,明白,Bien compris.,Entendido,RICEVUTO,Verstanden,Понятно,Zrozumiano,
+RE8_TEXT_GENERAL_0,Text,,"Despite our enhanced security protocols, information regarding the Virophage injector has leaked out. As a result, all factions have ceased diplomatic relations with us. At this point, war is inevitable.",,尽管我们强化了安全协议，但有关噬病毒体注射器的信息还是泄露了出去。现在，所有派系都与我们断绝了外交关系。此时此刻，战争在所难免。,"Malgré nos protocoles de sécurité avancés, des informations concernant l'injecteur virophage ont fuité. Résultat : toutes les factions ont cessé d'entretenir des relations diplomatiques avec nous. À présent, la guerre est inévitable.","Pese a poseer protocolos de seguridad mejorados, se ha filtrado información acerca del inyector virófago. Todas las facciones han interrumpido las relaciones diplomática con nosotros. La guerra es inevitable.","Nonostante avessimo potenziato i protocolli di sicurezza, sono trapelate delle informazioni sull'iniettore del virofago. Di conseguenza, tutte le fazioni hanno interrotto le loro relazioni diplomatiche con noi. A questo punto, la guerra è inevitabile.",Trotz unserer verbesserten Sicherheitsprotokolle sind Informationen über den Virophagen-Injektor durchgesickert. Infolgedessen haben alle Fraktionen die diplomatischen Beziehungen zu uns eingestellt. An diesem Punkt ist ein Krieg unvermeidlich.,"Несмотря на наши строгие протоколы безопасности, информация о вирофаговом инжекторе просочилась в прессу. В результате все фракции прекратили с нами дипломатические отношения. Теперь война неизбежна.",Pomimo podjęcia najwyższych środków ostrożności wyciekły informacje dotyczące iniektora środka przeciwwirusowego. W rezultacie wszystkie frakcje zerwały z nami relacje dyplomatyczne. Wojna jest nieunikniona.,
+RE8_TITLE,Text,,By Our Hand,,我们的选择,De notre main,De nuestra mano,Per mano nostra,Durch unser Zutun,От рук наших,Naszymi rękami,
+RE9_CHOICE_0_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Public
+
+There is still time to look to reason, not superstition, for solutions. To seek answers in human will, instead of submission to the alien. But that time is running out.",,"消息
+来自：托拜厄斯·韦斯特（新耶利哥）
+接收：公众
+
+我们还有时间用理性去寻找答案，而不是依靠迷信。用人类的意志来寻找方法，而不是向外星屈服。不过，这样的时间已经不多了。","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Public
+
+Il est encore temps de trouver des solutions en se tournant vers la raison, plutôt que la superstition. De chercher des réponses à travers la volonté humaine, plutôt que de se soumettre à l'extraterrestre. Mais ce temps nous échappe.","MENSAJE
+DE: Tobias West (Nueva Jericó)
+PARA: Público
+
+Todavía disponemos del tiempo para hallar soluciones razonables, en vez de depender de la superstición. Indaguemos en la voluntad humana, no os entreguéis a lo alienígena. El tiempo no se parará.","MESSAGGIO
+DA: Tobias West (Nuova Gerico)
+A: Comunità
+
+C'è ancora tempo per trovare soluzioni basate sulla ragione e non sulla superstizione. Per cercare risposte nella volontà umana, invece di sottomettersi agli alieni. Ma quel tempo sta scadendo.","NACHRICHT
+ VON: Tobias West (Neu-Jericho)
+ AN: Die Öffentlichkeit
+
+Noch bleibt uns Zeit, eine Lösung zu finden, die auf Vernunft basiert, und nicht auf Aberglauben. Wir dürfen uns nicht dem Fremden unterwerfen, sondern müssen Antworten in unserem Menschsein finden. Wir müssen handeln, solange es noch geht. ","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Еще есть время найти решения в рациональном мышлении, а не суеверии. Искать ответы в человеческой воле, а не подчиняться чужакам. Но времени все меньше.","WIADOMOŚĆ
+OD: Tobias West (Nowe Jerycho)
+DO: Publiczna
+
+Wciąż mamy czas, by w poszukiwaniu rozwiązań kierować się rozumem, a nie przesądami. Szukać ich w ludzkiej woli, a nie w poddaniu się obcej istocie. Ale ten czas się kończy.",
+RE9_CHOICE_0_TEXT,Text,,Continue.,,继续。,Continuer.,Continuar.,CONTINUA,Weiter.,Продолжить.,Kontynuuj.,
+RE9_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Public
+
+The more the Disciples of Anu invest into this mutation tech, the further away they will move from what New Jericho considers humanity. This is not a threat, but a statement.",,"消息
+来自：托拜厄斯·韦斯特（新耶利哥）
+接收：公众
+
+安努门徒教会越是向变异科技投入资源，他们就离新耶利哥所说的人性越走越远。这不是威胁，而是在阐述事实。","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Public
+
+Plus les Disciples d'Anu s'investissent dans cette technologie de mutation, plus ils s'éloignent de ce que la Nouvelle-Jéricho appelle humanité. Ceci n'est pas une menace, mais une simple constatation.","MENSAJE
+DE: Tobias West (Nueva Jericó)
+PARA: Público
+
+Cuanto más invierten los Discípulos de Anu en la tecnología de mutación, más se alejan de lo que consideramos en Nueva Jericó humanitario. Esto no es una amenaza, solo una declaración.","MESSAGGIO
+DA: Tobias West (Nuova Gerico)
+A: Comunità
+
+Più i Discepoli di Anu investono in questa tecnologia di mutazione, più si allontanano da ciò che Nuova Gerico considera umanità. Non è una minaccia, ma un dato di fatto.","NACHRICHT
+ VON: Tobias West (Neu-Jericho)
+ AN: Die Öffentlichkeit
+
+Je mehr die Jünger von Anu in diese Mutationstechnologie investieren, desto weiter entfernen sie sich von dem, was Neu-Jericho für die „Menschheit“ hält. Missversteht mich nicht: Das ist keine Drohung. Ich sage lediglich, was ich denke.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Общественность
+
+Чем больше Последователи Ану вкладывают средств в эту технологию мутаций, тем быстрее они будут отдаляться от того, что в Новом Иерихоне называют человечностью. Это не угроза, а утверждение.","WIADOMOŚĆ
+OD: Tobias West (Nowe Jerycho)
+DO: Publiczna
+
+Im bardziej Akolici Anu angażują się w technologię mutacji, tym bardziej oddalają się od tego, czym dla Nowego Jerycha jest człowieczeństwo. To nie groźba, lecz komunikat.",
+RE9_TITLE,Text,,Beyond the Human,,人性之外,Au-delà de l'humain,Más allá de la humanidad,Oltre l'uomo,Jenseits der Menschlichkeit,Вне человеческой природы,"Poza tym, co ludzkie",

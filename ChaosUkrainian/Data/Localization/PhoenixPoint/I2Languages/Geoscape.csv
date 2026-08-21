@@ -1,0 +1,162 @@
+Key,Ukrainian
+KEY_AIRCRAFT_EMPTY,ВІЛЬНО
+KEY_AIRCRAFT_STATS_CAPACITY,МІСТКІСТЬ
+KEY_AIRCRAFT_STATS_DURABILITY,МІЦНІСТЬ
+KEY_AIRCRAFT_STATS_RANGE,РАДІУС
+KEY_AIRCRAFT_STATS_SPEED,ШВИДКІСТЬ
+KEY_ALIEN_BASE_ABANDONED_CITADEL,ПОКИНУТА ЦИТАДЕЛЬ ПАНДОРАНІВ
+KEY_ALIEN_BASE_ABANDONED_CITADEL_DESC,Цю споруду покинуто
+KEY_ALIEN_BASE_ABANDONED_LAIR,ПОКИНУТЕ ЛОГОВО ПАНДОРАНІВ
+KEY_ALIEN_BASE_ABANDONED_LAIR_DESC,"Цю споруду покинуто, щоб поблизу побудувати Цитадель пандоранів"
+KEY_ALIEN_BASE_ABANDONED_NEST,ПОКИНУТЕ ГНІЗДО ПАНДОРАНІВ
+KEY_ALIEN_BASE_ABANDONED_NEST_DESC,"Цю споруду покинуто, щоб поблизу побудувати Логово пандоранів"
+KEY_ALIEN_BASE_CITADEL,ЦИТАДЕЛЬ ПАНДОРАНІВ
+KEY_ALIEN_BASE_DESTROYED_CITADEL,ЗНИЩЕНА ЦИТАДЕЛЬ ПАНДОРАНІВ
+KEY_ALIEN_BASE_DESTROYED_LAIR,ЗНИЩЕНЕ ЛОГОВО ПАНДОРАНІВ
+KEY_ALIEN_BASE_DESTROYED_NEST,ЗНИЩЕНЕ ГНІЗДО ПАНДОРАНІВ
+KEY_ALIEN_BASE_LAIR,ЛОГОВО ПАНДОРАНІВ
+KEY_ALIEN_BASE_NEST,ГНІЗДО ПАНДОРАНІВ
+KEY_ALIEN_BASE_PALACE,ПАЛАЦ ПАНДОРАНІВ
+KEY_BUILD_ARMADILLO_DESCRIPTION,"Побудуйте наземну машину, використовуючи ресурси матеріалів і технологій"
+KEY_BUILD_ARMADILLO_NAME,ПОБУДУВАТИ БРОНЕНОСЦЯ
+KEY_DEFEND,ЗАХИЩАТИ
+KEY_FACILITY_BUILDING,ОБ'ЄКТ БУДУЄТЬСЯ
+KEY_GEOSCAPE_AIRCRAFT_TT,Повітряне судно під контролем Проєкту «Фенікс»
+KEY_GEOSCAPE_ANU_AIRCRAFT_DESCRIPTION,Повітряне судно Послідовників Ану
+KEY_GEOSCAPE_ANU_AIRCRAFT_NAME,ТІАМАТ
+KEY_GEOSCAPE_AN_AIRCRAFT,ТІАМАТ {0}
+KEY_GEOSCAPE_BASE_INFO,ІНФОРМАЦІЯ ПРО БАЗУ
+KEY_GEOSCAPE_CHAIN_DESTINATIONS,Shift + ПКМ: послідовні точки призначення
+KEY_GEOSCAPE_CLOSE,ЗАКРИТИ
+KEY_GEOSCAPE_CONDITION,СТАН
+KEY_GEOSCAPE_CONFIRM,ПІДТВЕРДИТИ
+KEY_GEOSCAPE_COST,ВАРТІСТЬ
+KEY_GEOSCAPE_DESTINATION_DIRECT,#Пункт призначення потребує нової заправної станції або аварійної заправки
+KEY_GEOSCAPE_DESTINATION_INDIRECT,#Пункт призначення в межах дальності заправки
+KEY_GEOSCAPE_DIPLOMACY,ДИПЛОМАТІЯ
+KEY_GEOSCAPE_EQUIP,ОСНАСТИТИ
+KEY_GEOSCAPE_EVENT_LOG,ЖУРНАЛ ПОДІЙ
+KEY_GEOSCAPE_EXIT,ВИЙТИ З ГРИ
+KEY_GEOSCAPE_EXPLORE_ERROR_TT,Ви не можете дослідити місце без солдатів або машин
+KEY_GEOSCAPE_FOOD,ПРОВІАНТ
+KEY_GEOSCAPE_GAME_PAUSED,ПАУЗА
+KEY_GEOSCAPE_HAVEN_INFO,ІНФОРМАЦІЯ ПРО ПРИТУЛОК
+KEY_GEOSCAPE_HAVEN_INFO_DESCRIPTION,Показати інформацію про притулок і доступні завдання
+KEY_GEOSCAPE_HELP,ДОПОМОГА
+KEY_GEOSCAPE_MAP_ATTACKING_STRENGTH,СИЛА НАПАДУ
+KEY_GEOSCAPE_MAP_DEFENDING_STRENGTH,СИЛА ОБОРОНИ
+KEY_GEOSCAPE_MATERIALS,МАТЕРІАЛИ
+KEY_GEOSCAPE_MESSAGE_AIRCRAFT_DAMAGED,Пошкодження повітряного судна: {0}
+KEY_GEOSCAPE_MESSAGE_AIRCRAFT_REPAIRED,Повітряне судно відремонтовано: {0}
+KEY_GEOSCAPE_MESSAGE_ALIEN_BASE_DESTROYED,{0} знищено: {1}
+KEY_GEOSCAPE_MESSAGE_AREA_SCAN_COMPLETE,Сканування завершено
+KEY_GEOSCAPE_MESSAGE_BASE_DESTROYED,База {0} знищена: {1}
+KEY_GEOSCAPE_MESSAGE_BASE_GAINED,Відновлено нову базу Фенікса
+KEY_GEOSCAPE_MESSAGE_BASE_THREATENED_1,Фракція {0} нападе на {1}
+KEY_GEOSCAPE_MESSAGE_BASE_THREATENED_2,Фракція {0} досягне {1} за {2} год.
+KEY_GEOSCAPE_MESSAGE_CONTAINMENT_FULL,Досягнуто ліміту місткості ізолятора пандоранів
+KEY_GEOSCAPE_MESSAGE_DIPLOMACY_CHANGE,Дипломатична зміна: {0} тепер {1}
+KEY_GEOSCAPE_MESSAGE_FACILITY COMPLETE,Будівництво завершено: {0} побудовано на {1}
+KEY_GEOSCAPE_MESSAGE_FACILITY_DAMAGED,Пошкоджено об'єкт: {0} на базі: {1}
+KEY_GEOSCAPE_MESSAGE_FACILITY_REPAIRED,Ремонт завершено: {0} відремонтовано на {1}
+KEY_GEOSCAPE_MESSAGE_FACTION_RESEARCH_COMPLETED,{0} завершує дослідницький проєкт: {1}
+KEY_GEOSCAPE_MESSAGE_FACTION_RESEARCH_STARTED,{0} розпочинає дослідницький проєкт: {1}
+KEY_GEOSCAPE_MESSAGE_FACTION_STRUCTURE_COMPLETE,{0} побудовано в притулку {1}: {2}
+KEY_GEOSCAPE_MESSAGE_HAVEN_DESTROYED,Притулок {0} знищено: {1}
+KEY_GEOSCAPE_MESSAGE_HAVEN_REPELLED_ATTACK,Притулок {0} відбив атаку: {1}
+KEY_GEOSCAPE_MESSAGE_HAVEN_UNDER_ATTACK,Притулок {0} атакований: {1}
+KEY_GEOSCAPE_MESSAGE_ITEM_PRODUCED,Виробництво завершено: {0}
+KEY_GEOSCAPE_MESSAGE_LIVING_QUARTERS_FULL,Досягнуто ліміту місткості житлових приміщень
+KEY_GEOSCAPE_MESSAGE_LOW_ENERGY,Недостатньо енергії на {0}
+KEY_GEOSCAPE_MESSAGE_LOW_FOOD,Недостатньо провіанту для ваших солдатів
+KEY_GEOSCAPE_MESSAGE_MISSION_COMPLETE,Завдання {0} успішно виконано
+KEY_GEOSCAPE_MESSAGE_ODI_CHANGE,ІОД {0}%
+KEY_GEOSCAPE_MESSAGE_PANDORAN_CAPTURED,Пандорана впіймано та ізольовано: {0}
+KEY_GEOSCAPE_MESSAGE_RESEARCH_COMPLETE,Дослідження завершено: {0}
+KEY_GEOSCAPE_MESSAGE_RESEARCH_REQUIREMENTS_MET,Виконано передумови для дослідження {0}
+KEY_GEOSCAPE_MESSAGE_SOLDIER EXHAUSTED,Солдат виснажений і потребує відпочинку: {0}
+KEY_GEOSCAPE_MESSAGE_SOLDIERS_READY,Екіпаж {0} повністю вилікувано та відпочив
+KEY_GEOSCAPE_MESSAGE_SOLDIER_KILLED,Солдат загинув у бою: {0}
+KEY_GEOSCAPE_MESSAGE_SOLDIER_STARVED,Солдат помер з голоду: {0}
+KEY_GEOSCAPE_MESSAGE_STORAGE_FULL,Місце для зберігання заповнено
+KEY_GEOSCAPE_MOVE,ПЕРЕМІСТИТИСЯ
+KEY_GEOSCAPE_NJ_AIRCRAFT,ГРІМ-ПТАХ {0}
+KEY_GEOSCAPE_NJ_AIRCRAFT_DESCRIPTION,Повітряне судно Нового Єрихона
+KEY_GEOSCAPE_NJ_AIRCRAFT_NAME,ГРІМ-ПТАХ
+KEY_GEOSCAPE_NOTIFICATION_MANUFACTURE,Виробництво: {0}
+KEY_GEOSCAPE_NOTIFICATION_RESEARCH,Дослідження: {0}
+KEY_GEOSCAPE_PX_AIRCRAFT,МАНТИКОРА {0}
+KEY_GEOSCAPE_RECRUIT_TRANSFER,На {0} немає вільного місця. Новобранця переведено на {1}.
+KEY_GEOSCAPE_RESEARCH_HAVENS_TT,"Дослідіть «Аналіз притулків», щоб побачити подробиці"
+KEY_GEOSCAPE_SELECT,ВИБРАТИ
+KEY_GEOSCAPE_SELECTED_AIRCRAFT,ОБРАНЕ ПОВІТРЯНЕ СУДНО
+KEY_GEOSCAPE_SELECT_DESTINATION,ПКМ: вибрати пункт призначення
+KEY_GEOSCAPE_SELECT_SITE,ЛКМ: вибрати місце
+KEY_GEOSCAPE_SITES_REVEALED,Місця додано на геоскоп: {0} {1}
+KEY_GEOSCAPE_SITE_REVEALED,Місце додано на геоскоп: {0} 
+KEY_GEOSCAPE_SOLDIER_JOIN,Новобранець приєднався до Проєкту «Фенікс»: {0}
+KEY_GEOSCAPE_SWAP,ПОМІНЯТИ
+KEY_GEOSCAPE_SY_AIRCRAFT,ГЕЛІОС {0}
+KEY_GEOSCAPE_SY_VEHICLE_DESCRIPTION,Повітряне судно Синедріону
+KEY_GEOSCAPE_SY_VEHICLE_NAME,Геліос
+KEY_GEOSCAPE_TECH,ТЕХНОЛОГІЇ
+KEY_GEOSCAPE_TIME_INSTANT,МИТТЄВО
+KEY_GEOSCAPE_TIME_LEFT,Залишилося
+KEY_GEOSCAPE_TIME_LEFT_DAYS,{0} днів
+KEY_GEOSCAPE_TIME_LEFT_DAYS_SHORT,{0} дн.
+KEY_GEOSCAPE_TIME_LEFT_HOURS,{0} годин
+KEY_GEOSCAPE_TIME_LEFT_HOURS_SHORT,{0} год.
+KEY_GEOSCAPE_TIME_NA,Н/Д
+KEY_GEOSCAPE_TIME_SPEED_FAST,ШВИДКО
+KEY_GEOSCAPE_TIME_SPEED_NORMAL,ЗВИЧАЙНО
+KEY_GEOSCAPE_TIME_SPEED_SLOW,ПОВІЛЬНО
+KEY_GEOSCAPE_VEHICLE_TRANSFER_ERROR_TT,Ви можете призначити лише одну наземну машину на повітряне судно
+KEY_GEO_AIRCRAFT_LIST,СПИСОК ПОВІТРЯНИХ СУДЕН
+KEY_GEO_DEPLOY_SQUAD,ВІДПРАВИТИ
+KEY_GEO_EXPLORE_SITE,ДОСЛІДИТИ
+KEY_GEO_SCANNER_DESCRIPTION,"Просканує територію, виявляючи цікаві місця."
+KEY_GEO_SCANNER_FORBIDDEN,"Сканування території неможливе, поки повітряне судно перебуває в польоті."
+KEY_GEO_SCANNER_NAME,СКАНУВАННЯ ТЕРИТОРІЇ
+KEY_GEO_SCANNER_NO_RESOURCES,Вам бракує ресурсів для сканування території.
+KEY_GEO_SCANNER_UNAVAILABLE,У вас не залишилося використань сканування території
+KEY_GEO_SCANS,Доступні сканування
+KEY_LAUNCH_MISSION_DESCRIPTION,Відправте загін у це місце та вступіть у бій
+KEY_LAUNCH_MISSION_NAME,ВІДПРАВИТИ ЗАГІН
+KEY_MARKETPLACE,РИНОК
+KEY_MESSAGE_GEO_MISSION_UNAVAILABLE,Наразі немає доступних активних завдань
+KEY_MESSAGE_GEO_NO_RESOURCES_RADAR,Недостатньо ресурсів для сканування території
+KEY_MESSAGE_GEO_NO_SOLDIERS,У вас немає солдатів для запуску завдання
+KEY_MESSAGE_NOT_ENOUGHT_BASE_SPACE_ALIEN,"На ваших базах не вистачає місця в ізоляторі пандоранів, щоб утримувати всіх спійманих істот. Усіх зайвих істот було вбито та залишено в дикій природі."
+KEY_MESSAGE_NOT_ENOUGHT_BASE_SPACE_SOLDIER,"На ваших базах не вистачає місця в житлових приміщеннях, щоб завербувати цього солдата."
+KEY_MESSAGE_NOT_ENOUGHT_BASE_SPACE_STORAGE,"На ваших базах не вистачає складських приміщень, щоб зберігати предмети."
+KEY_MESSAGE_NOT_ENOUGHT_BASE_SPACE_VEHICLE,"Вам бракує місця в ангарі, щоб утримувати більше машин чи повітряних суден."
+KEY_MESSAGE_NOT_ENOUGHT_RESOURCES_TO_RECRUIT,"Вам бракує ресурсів, щоб вербувати солдатів."
+KEY_MESSAGE_NOT_ENOUGHT_SPACE_MUTOG,"Вам бракує місця, щоб узяти мутога на борт повітряного судна (потрібно 3 слоти)"
+KEY_MESSAGE_NOT_ENOUGHT_SPACE_TO_RECRUIT,"Вам бракує місця, щоб узяти солдата на борт повітряного судна (потрібен 1 слот)."
+KEY_MESSAGE_NOT_ENOUGHT_SPACE_VEHICLE,"Вам бракує місця, щоб узяти машину на борт повітряного судна (потрібно 3 слоти)."
+KEY_ODI_TT,"Індекс онейричного марення — рятуйте притулки, щоб уповільнити його зростання, або знищуйте бази пандоранів, щоб знизити його"
+KEY_PX_AIRSHIP_DESCRIPTION,Повітряна машина Фенікса
+KEY_PX_AIRSHIP_NAME,МАНТИКОРА
+KEY_QUICK_LOAD_NAME,ШВИДКЕ ЗАВАНТАЖЕННЯ
+KEY_QUICK_SAVE_NAME,ШВИДКЕ ЗБЕРЕЖЕННЯ
+KEY_RADAR_USAGE,"Проведіть СКАНУВАННЯ ТЕРИТОРІЇ, щоб виявити місця в навколишній місцевості та знайти локації для дослідження."
+KEY_RECRUIT_SOLDIER_ABILITY_DESCRIPTION,Завербуйте солдата з обраного притулку
+KEY_RECRUIT_SOLDIER_ABILITY_NAME,ЗАВЕРБУВАТИ СОЛДАТА
+KEY_RECRUIT_SOLDIER_INFO_LABEL,ВЕРБУВАННЯ ДОСТУПНЕ В ПРИТУЛКУ
+KEY_REFUEL_ABILITY_DESCRIPTION,"Скористайтеся аварійною заправкою, щоб заправити повітряне судно поза базою Фенікса чи заправною станцією"
+KEY_REFUEL_ABILITY_NAME,АВАРІЙНА ЗАПРАВКА
+KEY_REPAIR_ABILITY_DESCRIPTION,"Виконайте аварійний ремонт вашого повітряного судна, використовуючи наявні ресурси."
+KEY_REPAIR_ABILITY_NAME,ВІДРЕМОНТУВАТИ
+KEY_SECTION_DIPLOMACY,ДИПЛОМАТІЯ
+KEY_SECTION_GEOSCAPE,ГЕОСКОП
+KEY_SECTION_MANUFACTURING,ВИРОБНИЦТВО
+KEY_SECTION_PHOENIXPEDIA,ФЕНІКСОПЕДІЯ
+KEY_SECTION_PHOENIX_BASES,БАЗИ
+KEY_SECTION_RESEARCH,ДОСЛІДЖЕННЯ
+KEY_SECTION_ROSTER,ОСОБОВИЙ СКЛАД
+KEY_SPECIAL_MISSION,ОСОБЛИВЕ ЗАВДАННЯ
+KEY_SQUAD_ROSTER_DESCRIPTION,Перегляньте список солдатів і наземних машин та отримайте доступ до функцій спорядження
+KEY_SQUAD_ROSTER_NAME,ОСОБОВИЙ СКЛАД ЗАГОНУ
+KEY_STATUS_SOLO,СТАТУС
+KEY_TRADE,ТОРГУВАТИ
+KEY_UNDER_ATTACK,ПІД АТАКОЮ

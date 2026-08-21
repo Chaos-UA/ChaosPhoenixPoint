@@ -1,0 +1,20 @@
+[h1]Chaos Mutoid — Relearn Abilities, Mutate/Augment Body Parts[/h1]
+[i]Picked the wrong ability three levels ago? Wish your Mutoid could get a Bionic arm? This mod allows both.[/i]
+
+Vanilla Phoenix Point locks a Mutoid soldier's ability picks forever and won't let Mutoids near the Mutation or Bionics screens at all. This mod removes both restrictions, plus a few related vanilla limits on body-part augmentation for every soldier.
+
+[h2]What It Does[/h2]
+[list]
+[*][b]Relearn Mutoid abilities[/b] — click an already-learned ability slot on a Mutoid to select a new ability for mutagen.
+[*][b]Mutate/augment Mutoid body parts[/b] — Mutoids can now use the Mutation (Anu organic) and Bionics (New Jericho robotic) screens to change Head/Torso/Legs, same as a regular human soldier.
+[*][b]Replace Mutation with Bionics (and vice versa)[/b] — any soldier can now replace an already-mutated body part with a Bionic augment, or an already-augmented body part with a Mutation.
+[*][b]Lift the 2-body-part cap[/b] — vanilla caps every soldier at 2 augmented body parts out of the 3 available, mod allows to use full 3 slots.
+[/list]
+
+[h2]Mod Config Options[/h2]
+[list]
+[*]Allow Mutoid Body Part Mutation — [b]on[/b] by default
+[*]Allow Mutoid Body Part Augmentation (Bionics) — off by default
+[*]Allow Replacing Mutation With Augmentation (And Vice Versa) — [b]on[/b] by default
+[*]Allow Augmenting/Mutating All 3 Body Parts — off by default
+[/list]

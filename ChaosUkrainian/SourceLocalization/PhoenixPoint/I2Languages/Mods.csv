@@ -1,0 +1,142 @@
+Key,Type,Desc,English,Chinese (Simplified),French,German,Italian,Polish,Russian,Spanish,UI_Tester
+KEY_MODS_PANEL_NAME,Text,,MODS,MOD,MODS,MODS,MOD,MODYFIKACJE,МОДЫ,MODS,
+KEY_MOD_DISABLE_FAIL,Text,,Could not disable mod '{0}',无法停用MOD“{0}”,Impossible de désactiver le mod « {0} »,Mod {0} konnte nicht deaktiviert werden.,Impossibile disattivare mod '{0}',Nie udało się wyłączyć modyfikacji „{0}”,Нельзя выключить мод '{0}',No se pudo desactivar el mod «{0}».,
+KEY_MOD_ENABLE_FAIL,Text,,Could not enable mod '{0}',无法启用MOD“{0}”,Impossible d'activer le mod « {0} »,Mod {0} konnte nicht aktiviert werden.,Impossibile attivare mod '{0}',Nie udało się włączyć modyfikacji „{0}”,Нельзя включить мод '{0}',No se pudo activar el mod «{0}».,
+KEY_MOD_FIRST_TIME,Text,,"Welcome to Mods for Phoenix Point! You can enable your downloaded mods and adjust their settings here. Check out our example 'Custom Campaign' mod if you want a place to start, and you can tinker with some advanced campaign options using it.
+
+To find more mods, browse the Steam workshop!
+
+Snapshot Games does not provide official support for playing with mods, so do it at your own risk!","欢迎来到Phoenix Point模块！您可以在此处启用已下载的模块并调整其设置。您也可以查看我们的“自定义战役”模块，进行参考。您也可以使用它修改一些高级战役选项。
+
+若想查找更多模块，请浏览 Steam 工作室！
+
+Snapshot Games 不提供模块游戏的官方支持，游玩模块请自行承担风险！","Bienvenue dans les Mods pour Phoenix Point ! Vous pouvez activer vos mods téléchargés et régler les paramètres ici. Par exemple, consultez notre mod « Campagne personnalisée » pour vous donner un point de départ. Il vous permet de bricoler des options avancées de campagne.
+
+Parcourez le Steam Workshop pour trouver d'autres mods !
+
+Snapshot Games ne fournit pas d'assistance officielle pour les mods, alors c'est à vos risques et périls !","Willkommen bei Mods für Phoenix Point! Hier kannst du deine heruntergeladenen Mods aktivieren und ihre Einstellungen anpassen. Sieh dir unsere Beispiel-Mod „Custom Campaign“ an, wenn du Starthilfe brauchst. Du kannst damit auch einige fortgeschrittene Kampagnenoptionen ausprobieren.
+
+Stöbere gern im Steam Workshop, um weitere Mods zu finden!
+
+Snapshot Games bietet keine offizielle Unterstützung für die Nutzung von Mods; Anwendung auf eigene Gefahr!","Ti diamo il benvenuto nella sezione delle mod di Phoenix Point! Qui puoi abilitare le mod scaricate e modificarne le impostazioni. Se non sai da dove iniziare, dai un'occhiata alla nostra mod di esempio ""Campagna personalizzata"", grazie alla quale potrai armeggiare con alcune opzioni avanzate della campagna.
+
+Per trovare altre mod, sfoglia Steam Workshop!
+
+Snapshot Games non fornisce supporto ufficiale per il gioco con le mod, per cui usale a tuo rischio e pericolo!","Witamy w modach do gry Phoenix Point! Tutaj możesz aktywować pobrane mody oraz skonfigurować ich ustawienia. Możesz na przykład zacząć od modu „Kampania niestandardowa”, a następnie pogrzebać przy zaawansowanych opcjach kampanii.
+
+Więcej modów znajdziesz w warsztacie Steam!
+
+Firma Snapshot Games nie wspiera oficjalnie gry z modami, więc korzystasz z nich na własne ryzyko.","Приветствуем в модах Phoenix Point! Здесь вы можете включить загруженные моды и изменить их настройки. Для начала вы можете попробовать наш мод «Custom Campaign» (пользовательская кампания), чтобы поэкспериментировать с продвинутыми настройками кампании.
+
+Чтобы найти больше модов, посетите мастерскую Steam!
+
+Snapshot Games не предоставляет официальной поддержки для игры с модами, так что устанавливайте их на свой страх и риск!","¡Te damos la bienvenida a los mods para Phoenix Point! Aquí puedes activar los mods que hayas descargado y cambiar sus ajustes. Échale un ojo al mod de ejemplo «Campaña personalizada» si no sabes por dónde empezar. En él, puedes probar a toquetear algunas de las opciones más avanzadas.
+
+Puedes encontrar más mods en Steam Workshop.
+
+Snapshot Games no proporciona soporte oficial al juego con mods, así que hazlo bajo tu propia responsabilidad.",
+KEY_MOD_GET_MODS,Text,,GET MORE MODS,获得更多MOD,OBTENIR D'AUTRES MODS,WEITERE MODS,OTTIENI PIÙ MOD,POBIERZ WIĘCEJ MODYFIKACJI,ПОЛУЧИТЬ БОЛЬШЕ МОДОВ,CONSEGUIR MÁS MODS,
+KEY_MOD_INFO_AUTHOR,Text,,Author,作者,Auteur,Autor,Autore,Autor,Автор,Autor,
+KEY_MOD_INFO_DEPENDENCIES,Text,,Dependencies,依赖关系,Dépendances,Abhängigkeiten,Dipendenze,Niezbędne pliki,Зависимости,Dependencias,
+KEY_MOD_INFO_DESCRIPTION,Text,,Description,说明,Description,Beschreibung,Descrizione,Opis,Описание,Descripción,
+KEY_MOD_INFO_ERROR_CYCLING_DEPS,Text,,Has cycling dependences!,存在循环依赖关系！,A des dépendances en cycles !,Hat zyklische Abhängigkeiten!,Presenta dipendenze in esecuzione ciclica!,Ma wzajemne zależności!,Повтор зависимостей!,¡Tiene dependencias cíclicas!,
+KEY_MOD_INFO_LOADER,Text,,Loader,加载器,Chargeur,Loader,Loader,Moduł wczytywania,Загрузка,Cargador,
+KEY_MOD_INFO_MODID,Text,,ModID,ModID,ModID,ModID,ID Mod,ModID,ID мода,ID del mod,
+KEY_MOD_INFO_NAME,Text,,Name,名称,Nom,Name,Nome,Nazwa,Название,Nombre,
+KEY_MOD_INFO_VERSION,Text,,Version,版本,Version,Version,Versione,Wersja,Версия,Versión,
+KEY_MOD_MISSING_SAVE,Text,,"Save is created with missing mods. Continue load?
+Missing mods:
+
+{0}","创建存档时所使用的部分MOD已缺失。是否继续加载？
+缺失的MOD：
+ 
+ {0}","La sauvegarde est créée avec des mods manquants. Continuer le chargement ?
+ Mods manquants :
+ 
+ {0}","Dieser Spielstand benötigt Mods, die aktuell fehlen. Trotzdem laden?
+Fehlende Mods:
+ 
+{0}","È stato creato un salvataggio con mod mancanti. Continuare il caricamento?
+Mod mancanti:
+ 
+ {0}","Zapis gry został utworzony pomimo braku modyfikacji. Kontynuować wczytywanie?
+ Brakujące modyfikacje:
+ 
+ {0}","Сохранение. Отсутствуют моды. Продолжить загрузку? Отсутствующие моды:
+ 
+ {0}","La partida guardada se creó sin ciertos mods. ¿Quieres cargarla?
+Mods que faltan:
+ 
+ {0}",
+KEY_MOD_RESTART_NEEDED,Text,,Some mod changes will take effect after restart,部分MOD更改将会在重新开始之后生效,Certains changements du mod seront effectifs après le redémarrage.,Einige Mod-Änderungen sind erst nach einem Neustart aktiv.,Alcune modifiche della mod verranno applicate al riavvio,Niektóre elementy modyfikacji zaczną działać po zrestartowaniu,Изменения появятся в моде только после перезапуска игры,Algunos cambios del mod se aplicarán tras reiniciar el juego.,
+KEY_MOD_SETTINGS,Text,,MOD SETTINGS,MOD设置,PARAMÈTRES DE MOD,MOD-EINSTELLUNGEN,IMPOSTAZIONI MOD,USTAWIENIA MODYFIKACJI,НАСТРОЙКИ МОДОВ,AJUSTES DEL MOD,
+KEY_MS_MODS,Text,,MODS,MOD,MODS,MODS,MOD,MODYFIKACJE,МОДЫ,MODS,
+KEY_PP_DEMO_ENDING,Text,,"Nice work, Operative! This timed demo may be over, but you can save your progress! If you decide to purchase the full game, you’ll be able to pick up where you left off.
+
+<b>Phoenix Point: Complete Edition</b> includes the game you’ve been playing, plus 5 game-changing DLCs that add new enemies, weapons and vehicles, missions, and much more.
+","干得好，特工！本限时试玩版可能要告一段落了，但你可以保存自己的进度！如果你日后决定购买完整版游戏，你将可以从这次结束的地方继续开始游玩。
+
+ <b>Phoenix Point: Complete Edition</b>包含你已在游玩的游戏，外加5个前所未有的DLC，其中新增了敌人、武器和交通工具、任务以及其他精彩内容。","Beau travail, agent ! Cette démo à durée limitée est peut-être terminée, mais vous pouvez sauvegarder votre progression ! Si vous décidez d'acheter le jeu complet, vous pourrez reprendre où vous en étiez.
+
+ <b>Phoenix Point: Édition complète</b> inclut le jeu auquel vous avez joué ainsi que 5 DLC qui changent la donne avec des ennemis, des armes, des véhicules et des missions uniques, entre autres contenus.","Gute Arbeit, Agent! Diese Demo ist vielleicht zu Ende, aber du kannst deinen Fortschritt speichern! Solltest du dich für die Vollversion entscheiden, kannst du an dieser Stelle weitermachen.
+ 
+<b>Phoenix Point: Complete Edition</b> enthält das eben gespielte Spiel und 5 unglaubliche DLCs mit neuen Gegnern, Waffen, Fahrzeugen, Missionen und vieles mehr.","Bel lavoro, agente! Questa demo a tempo è terminata, ma puoi comunque salvare i tuoi progressi! Se deciderai di acquistare il gioco completo, potrai riprendere da dove hai lasciato.
+ 
+ <b>Phoenix Point: Complete Edition</b> include il gioco attuale, più 5 DLC che cambieranno le carte in tavola aggiungendo nuovi nemici, armi e veicoli, missioni e molto altro ancora.","Świetna robota! Limit czasu wersji demonstracyjnej upłynął, ale możesz zapisać postępy w grze. Jeśli zdecydujesz się na zakup pełnej wersji gry, kampanię możesz kontynuować z tego punktu.
+ 
+ <b>Phoenix Point: Complete Edition</b> obejmuje podstawową wersję gry oraz 5 rozbudowanych dodatków z nowymi przeciwnikami, bronią, pojazdami, misjami i innymi atrakcjami.","Отличная работа, оперативник! Демоверсия завершится, но прогресс будет сохранен. Если решите приобрести полную версию игру, сможете продолжить с того места, где закончили.
+ 
+ <b>Phoenix Point: полная версия</b> включает игру, 5 дополнений, которые добавляют новых врагов, оружие, технику, миссии и многое другое.","¡Buen trabajo, operativo! Esta demo por tiempo limitado habrá terminado, ¡pero tu progreso puede conservarse! Si decides comprar el juego completo, podrás continuar donde lo dejaste.
+ 
+ <b>La edición completa de Phoenix Point</b> incluye el juego al que has estado jugando, además de 5 contenidos descargables con nuevos enemigos, armas, vehículos, misiones y mucho más.",
+KEY_PP_DEMO_ENDING_TITLE,Text,,THANKS FOR PLAYING!,感谢游玩！,MERCI DE JOUER !,DANKE FÜRS SPIELEN!,GRAZIE DI AVER GIOCATO!,DZIĘKUJEMY ZA GRĘ!,СПАСИБО ЗА ИГРУ!,¡GRACIAS POR JUGAR!,
+KEY_PP_DEMO_HEADING,Text,,"Thank you for playing the Phoenix Point demo!
+
+This is a time-limited demo: you will have <b>10 days of in-game time</b> to recruit, build, research, and fight against a deadly mutant menace.
+
+Once the demo’s time has elapsed, <b>you can save your progress</b>, and you’ll be able to pick up where you left off should you decide to buy the full game.
+
+Good luck out there, Operative!","感谢游玩《Phoenix Point》试玩版！
+
+ 本版本为限时试玩版：你将有<b>10天的游戏内时间</b>来进行招募、建设和研究，
+然后对抗一波致命的变种威胁。
+
+ 在本试玩版的时间用尽后，<b>你可以保存自己的进度</b>，并在日后购买完整版游戏后继续游玩。
+
+ 祝你行动顺利，特工！","Merci de jouer à la démo de Phoenix Point !
+ 
+ Cette démo est à durée limitée : vous aurez <b>10 jours de temps du jeu</b> pour recruter, construire, effectuer des recherches et combattre un ennemi mutant mortel.
+ 
+ Une fois le temps de la démo écoulée, <b>sauvegardez votre progression</b> et vous pourrez reprendre où vous en étiez si vous décidez d'acheter le jeu complet.
+ 
+ Bonne chance, agent !","Vielen Dank, dass du die Phoenix Point-Demo spielst!
+ 
+Dies ist eine zeitlich begrenzte Demo: Du hast <b>10 Tage im Spiel</b> Zeit, um zu rekrutieren, zu bauen, zu erforschen und eine tödliche Mutantenbedrohung zu bekämpfen.
+
+Sobald die Zeit der Demo abgelaufen ist, <b>kannst du deinen Fortschritt speichern</b> und an der Stelle weitermachen, solltest du dir die Vollversion kaufen.
+ 
+Viel Glück da draußen, Agent!","Grazie per aver giocato alla demo di Phoenix Point!
+ 
+ Questa è una demo a tempo limitato: avrai <b>10 giorni di tempo in gioco</b> per reclutare, costruire, ricercare e combattere contro una mortale minaccia mutante.
+
+ Una volta terminato il periodo di prova, <b>potrai salvare i tuoi progressi</b> e riprendere il gioco da dove lo avevi lasciato, se deciderai di acquistare il gioco completo.
+ 
+ Buona fortuna là fuori, agente!","Dziękujemy za grę w wersję demonstracyjną Phoenix Point!
+
+ Wersja demonstracyjna gry ma limit czasowy: masz <b>10 dni w grze</b> na rekrutowanie, budowanie, prowadzenie badań i walkę z wrogimi mutantami.
+ 
+ Gdy limit czasu wersji demonstracyjnej upłynie, <b>możesz zapisać stan gry</b>, aby kontynuować kampanię po zakupieniu pełnej wersji gry.
+ 
+ Życzymy sukcesów w walce!","Благодарим за прохождение демоверсии Phoenix Point!
+ Временная демоверсия: у вас будет <b>10 дней внутриигрового времени</b> для найма, постройки, исследования и борьбы против опасных мутантов.
+
+ По завершении <b> вы сможете сохранить свой прогресс</b> и продолжить игру с того места, где закончили, если решите приобрести полную версию.
+
+ Удачи, оперативник!","¡Gracias por jugar a la demostración de Phoenix Point!
+ 
+ Con esta demostración por tiempo limitado podrás: jugar <b>10 días de tiempo en el juego</b> para reclutar, construir, investigar y luchar contra la letal amenaza mutante.
+ 
+ Cuando se acabe el tiempo de la demostración, <b>podrás guardar tu progreso</b> para continuar donde lo dejaste si decides comprar el juego completo.
+ 
+ ¡Buena suerte, operativo!",
+KEY_PP_DEMO_SHOP_NOW,Text,,BUY NOW,立即购买,ACHETER,JETZT KAUFEN,ACQUISTA ORA,KUP TERAZ,КУПИТЬ СЕЙЧАС,COMPRAR YA,

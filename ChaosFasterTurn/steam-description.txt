@@ -1,0 +1,26 @@
+[h1]Chaos Faster Turn — Speed Up AI Turns[/h1]
+
+Tired of sitting through slow-motion enemy movement and animations while the AI takes its turn? This mod lets you speed up enemy (AI) turn playback on the fly — movement, shooting, idle animations, all of it — with simple hotkeys. Your own turn is never touched.
+
+[h2]What It Does[/h2]
+[list]
+[*]Speed up the [b]AI's turn only[/b] — up to x20 by default (configurable) — while the player's own turn always plays at normal speed
+[*]Two on-screen indicators show the current speed whenever it isn't x1.
+[*]Automatically drops back to normal speed whenever the enemy attacks one of your units, and restores your chosen speed right after — you never miss the moment an enemy actually hurts your squad
+[/list]
+
+[h2]Controls (during the enemy's turn)[/h2]
+[list]
+[*][b]=/+[/b] (Equals/Plus) — increase enemy turn speed by one step
+[*][b]-[/b] (Minus) — decrease enemy turn speed by one step (never goes below normal)
+[*][b]Backspace[/b] — reset straight back to normal speed (x1)
+[*][b]Space[/b] — toggle: instantly drop to x1, press again to jump right back to whatever speed you had before
+[/list]
+
+[h2]Configuration[/h2]
+Available in the mod settings (main menu → Mods → Chaos Faster Turn):
+[list]
+[*][b]Max Speed Multiplier[/b] — upper bound the speed can be increased to (default: 20)
+[*][b]Reset Speed On Player Turn[/b] — when enabled, speed automatically drops back to x1 once your turn starts, so every AI turn begins at normal speed again; when disabled, whatever speed you last set carries over turn after turn. Either way, [b]Space[/b] can always instantly recall the last speed you used, even after it's been auto-reset (default: on)
+[*][b]Reset Speed On Enemy Attack[/b] — when enabled, speed automatically drops to x1 for any enemy ability used against one of your units (ranged, melee, grenades, mind control, anything) and restores automatically right after; as a backstop, it also drops to x1 briefly any time one of your units actually takes damage during the enemy's turn, even from something indirect like an explosion or a status effect. Either way you never miss seeing an enemy hurt your squad at high speed. When disabled, enemy attacks on you play at whatever speed is currently selected (default: on)
+[/list]

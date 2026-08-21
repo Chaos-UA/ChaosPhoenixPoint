@@ -1,0 +1,41 @@
+[h1]Chaos Overwatch — Manual Aim for Overwatch & Return Fire[/h1]
+
+Tired of watching your soldiers auto-fire and miss during Overwatch and Return Fire or even do friendly fire?
+This mod puts you back in control. When an Overwatch or Return Fire shot triggers,
+the game pauses and hands the camera to you — aim manually in first-person, then fire when you're ready.
+
+[h2]What It Does[/h2]
+[list]
+[*]Enemy moves into your Overwatch cone → game pauses → first-person free-aim camera opens
+[*]Enemy fires at you → Return Fire triggers → same manual aiming phase kicks in
+[*]You aim, you shoot, then the action resumes
+[/list]
+
+[h2]Controls During Manual Aim[/h2]
+[list]
+[*][b]Left Click[/b] — fire at your manually aimed target (enemy freezes during the shot)
+[*][b]Right Click[/b] — auto-fire at the original target (vanilla behavior, enemy keeps moving)
+[*][b]ESC[/b] — skip the shot entirely
+[/list]
+All other keys (weapon switch, ability hotkeys, etc.) are blocked during the aiming phase so nothing fires by accident.
+
+[h2]Overwatch Speed Controls[/h2]
+During Overwatch the enemy is frozen by default. Speed keys let you scrub their movement to aim at a specific position:
+[list]
+[*][b]Space[/b] — toggle enemy movement: pause if moving, resume at max speed if already paused
+[*][b]1[/b] or [b]+[/b] — increase enemy movement speed
+[*][b]2[/b] or [b]-[/b] — decrease enemy movement speed
+[*][b]Hold 1 + press +[/b] or [b]hold + + press 1[/b] — increase speed
+[*][b]Hold 2 + press -[/b] or [b]hold - + press 2[/b] — decrease speed
+[/list]
+Return Fire plays out in real time — the enemy's attack animation continues while you aim.
+
+[h2]Configuration[/h2]
+Both features can be toggled independently in the mod settings (main menu → Mods → Chaos Overwatch):
+[list]
+[*][b]Manual Overwatch[/b] — enable/disable the manual aiming phase for Overwatch shots (default: on)
+[*][b]Manual Return Fire[/b] — enable/disable the manual aiming phase for Return Fire shots (default: on)
+[*][b]Pause Target On Regular Shot[/b] — freeze the enemy during regular (non-Overwatch/Return Fire) player shots so movement animations can't cause misses; unpauses as soon as the shot resolves (default: on)
+[*][b]Debug Log[/b] — verbose logging to the Unity log file for troubleshooting (default: off)
+[/list]
+Turn either option off and that attack type falls back to the standard auto-fire behavior.

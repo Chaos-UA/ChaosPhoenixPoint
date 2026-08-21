@@ -1,0 +1,80 @@
+Key,Type,Desc,English,Chinese (Simplified),French,German,Italian,Polish,Russian,Spanish,UI_Tester
+KEY_ATTACHMENT_BODY,Text,,Armor Attachment,护甲配件,Greffe d'armure,Rüstungserweiterung,Accessorio armatura,Dodatek do pancerza,Крепление для доспеха,Accesorio de armadura,Крепление для доспеха
+KEY_ATTACHMENT_HELMET,Text,,Helmet Attachment,头盔配件,Greffe de casque,Helmerweiterung,Accessorio elmetto,Dodatek do hełmu,Крепление для шлема,Accesorio de casco,Крепление для шлема
+KEY_ATTACHMENT_LEGS,Text,,Leg Attachment,腿部配件,Greffe de jambe,Beinerweiterung,Accessorio gamba,Dodatek do nagolenników,Крепление для ноги,Accesorio de pierna,Dodatek do nagolenników
+KEY_BACK_PACK,Text,,Backpack,背包,Sac à dos,Rucksack,Zaino,Plecak,Рюкзак,Mochila,Sac à dos
+KEY_GEOSCAPE_ADDAMMO,Text,,+ AMMO,+ 弹药,+ MUNITIONS,+MUNITION,+ MUNIZIONI,+ AMUNICJA,+ БОЕПРИПАСЫ,+ MUNICIÓN,+ БОЕПРИПАСЫ
+KEY_GEOSCAPE_ADD_AMMO_INFO,Text,,ADD AMMO OF THIS TYPE TO BACKPACK,将此类型弹药添加至背包,AJOUTEZ CE TYPE DE MUNITIONS AU SAC À DOS,MUNITION DIESES TYPS ZUM RUCKSACK HINZUFÜGEN,AGGIUNGI MUNIZIONI DI QUESTO TIPO ALLO ZAINO,DODAJ AMUNICĘ TEGO TYPU DO PLECAKA,ДОБАВИТЬ БОЕПРИПАСЫ ЭТОГО ТИПА В РЮКЗАК,AÑADIR MUNICIÓN DE ESTE TIPO A LA MOCHILA,MUNITION DIESES TYPS ZUM RUCKSACK HINZUFÜGEN
+KEY_GEOSCAPE_ALL,Text,,ALL,所有,TOUT,ALLE,TUTTO,WSZYSTKO,ВСЕ,TODO,WSZYSTKO
+KEY_GEOSCAPE_ATTACHMENTS,Text,,ATTACHMENTS,配件,GREFFES,ERWEITERUNGEN,ACCESSORI,DODATKI,КРЕПЛЕНИЯ,ACCESORIOS,ERWEITERUNGEN
+KEY_GEOSCAPE_DESELECT,Text,,DESELECT,取消选定,DÉSÉLECTIONNER,AUSWAHL LÖSCHEN,DESELEZIONA,ODZNACZ,ОТМЕНИТЬ ВЫБОР,NO SELECCIONAR,AUSWAHL LÖSCHEN
+KEY_GEOSCAPE_DRAG_MANUFACTURE,Text,,Drag here to manufacture,拖至此处制造,Faites glisser ici pour fabriquer,Zum Produzieren hierhin ziehen,Trascina qui per fabbricare,"Przeciągnij tutaj, aby wyprodukować","Перетащите сюда, чтобы начать производство",Arrastra aquí para fabricar,"Перетащите сюда, чтобы начать производство"
+KEY_GEOSCAPE_DRAG_SCRAP,Text,,Drag here to scrap,拖至此处拆卸,Faites glisser ici pour recycler,Zum Verschrotten hierhin ziehen,Trascina qui per demolire,"Przeciągnij tutaj, aby przetworzyć na materiały","Перетащите сюда, чтобы сдать в лом",Arrastra aquí para descartar,"Przeciągnij tutaj, aby przetworzyć na materiały"
+KEY_GEOSCAPE_EQUIPMENT,Text,,EQUIPMENT,装备,ÉQUIPEMENT,AUSRÜSTUNG,EQUIPAGGIAMENTO,SPRZĘT,СНАРЯЖЕНИЕ,EQUIPO,EQUIPAGGIAMENTO
+KEY_GEOSCAPE_EQUIPPED,Text,,EQUIPPED,装备,ÉQUIPÉ,AUSGERÜSTET,EQUIPAGGIATO,WYPOSAŻONO,СНАРЯЖЕНО,EQUIPADO,EQUIPAGGIATO
+KEY_GEOSCAPE_EQUIP_FROM_STORES,Text,,Equip {item} from stores,从仓库装备 {item},Équiper {item} depuis les entrepôts,"{item} ausrüsten
+(aus Phoenixlagern)",Equipaggia {item} dai magazzini,Wyposaż w przedmiot {item} z magazynów,Использовать предмет ({item}) со склада,Equipar {item} desde los almacenes,Использовать предмет ({item}) со склада
+KEY_GEOSCAPE_GROUND,Text,,GROUND,地面,TERRE,BODEN,TERRENO,ZIEMIA,ЗЕМЛЯ,SUELO,TERRENO
+KEY_GEOSCAPE_ITEM_ADDED_MANUFACTURE,Text,,{item} added to manufacture queue,{item} 已增加到制造队列,Objet ({item}) ajouté à la file d'attente de fabrication,{item} zur Produktionswarteschlange hinzugefügt,{item} nella coda di fabbricazione,Przedmiot {item} dodany do kolejki produkcji,Предмет ({item}) добавлен в очередь на производство,{item} añadido a la cola de fabricación,Objet ({item}) ajouté à la file d'attente de fabrication
+KEY_GEOSCAPE_ITEM_EQUIPPED,Text,,{item} equipped by {soldier},{item} 由 {soldier} 装备,Objet ({item}) équipé par {soldier},{item} ausgerüstet von {soldier},{item} nell'equipaggiamento di {soldier},Przedmiot {item} używany przez żołnierza {soldier},Предмет ({item}) у солдата ({soldier}),{item} equipado por {soldier},Przedmiot {item} używany przez żołnierza {soldier}
+KEY_GEOSCAPE_ITEM_QUEUED,Text,,Item already in queue,物品已经位于队列,Objet déjà dans la file d'attente,Gegenstand ist bereits in der Warteschlange,Già in coda,Przedmiot jest już w kolejce,Предмет уже в очереди,El objeto ya está en cola,Gegenstand ist bereits in der Warteschlange
+KEY_GEOSCAPE_ITEM_STACK,Text,,ITEM STACK,物品堆,PILE D'OBJETS,ANZAHL,PILA DI OGGETTI,STOS PRZEDMIOTÓW,КОМПЛЕКТ ПРЕДМЕТОВ,ACUMULACIÓN DE OBJETOS,ACUMULACIÓN DE OBJETOS
+KEY_GEOSCAPE_LOCATION,Text,,LOCATION,地点,LIEU,STANDORT,POSIZIONE,LOKALIZACJA,МЕСТО,UBICACIÓN,LOKALIZACJA
+KEY_GEOSCAPE_MANUFACTURE_INFO,Text,,PRODUCE A SIMILAR ITEM FROM AVAILABLE RESOURCES,利用现有资源生产类似物品,PRODUISEZ UN OBJET SIMILAIRE AVEC LES RESSOURCES DISPONIBLES,ÄHNLICHEN GEGENSTAND MIT VERFÜGBAREN RESSOURCEN PRODUZIEREN,PRODUCI UN OGGETTO SIMILE DALLE RISORSE DISPONIBILI,WYPRODUKUJ PODOBNY PRZEDMIOT Z DOSTĘPNYCH ZASOBÓW,СОЗДАТЬ ПОДОБНЫЙ ПРЕДМЕТ ИЗ ДОСТУПНЫХ РЕСУРСОВ,PRODUCIR UN OBJETO SIMILAR CON LOS RECURSOS DISPONIBLES,PRODUISEZ UN OBJET SIMILAIRE AVEC LES RESSOURCES DISPONIBLES
+KEY_GEOSCAPE_PRODUCE,Text,,+ ITEM,+ 物品,+ OBJET,+EXEMPLAR,AGGIUNGI,+ PRZEDMIOT,+ ПРЕДМЕТ,+ OBJETO,+ GEGENSTAND
+KEY_GEOSCAPE_PRODUCE_BUILD_BOTH,Text,,Manufacture {item} for {0} Materials and {1} Tech,制造 {item} 以获得 {0} 材料和 {1} 科技,Fabriquer l'objet {item} pour {0} matériaux et {1} technologie(s),Stelle {item} für {0} Materialien und {1} Technik her,Fabbrica {item} per {0} materiali e {1} tecnologia,Wyprodukuj przedmiot {item} za {0} szt. materiałów i {1} szt. technologii,Создать предмет ({item}) за материалы ({0}) и технологии ({1}),Fabricar {item} con {0} materiales y {1} tecnología,Wyprodukuj przedmiot {item} za {0} szt. materiałów i {1} szt. technologii
+KEY_GEOSCAPE_PRODUCE_BUILD_MATERIALS,Text,,Manufacture {item} for {0} Materials,制造 {item} 以获得 {0} 材料,Fabriquer l'objet {item} pour {0} matériaux,Stelle {item} für {0} Materialien her,Fabbrica {item} per {0} materiali,Wyprodukuj przedmiot {item} za {0} szt. materiałów,Создать предмет ({item}) за материалы ({0}),Fabricar {item} con {0} materiales,Wyprodukuj przedmiot {item} za {0} szt. materiałów
+KEY_GEOSCAPE_PRODUCE_IMPOSSIBLE,Text,,This item is impossible to manufacture,无法制造此物品,Cet objet est impossible à fabriquer,Dieser Gegenstand kann nicht produziert werden,Impossibile fabbricare questo oggetto,Tego przedmiotu nie można produkować,Невозможно создать этот предмет,Este objeto es imposible de fabricar,Dieser Gegenstand kann nicht produziert werden
+KEY_GEOSCAPE_PRODUCE_MANUFACTURE,Text,,Item ({item}) can only be produced in the Manufacturing interface.,无法在“制造”界面生产物品 ({item})。,L'objet ({item}) ne peut être produit que dans l'interface Fabrication.,{item} nur unter „PRODUKTION“ herstellbar,L'oggetto ({item}) può essere prodotto solo nell'interfaccia di Fabbricazione,Przedmiot ({item}) można produkować tylko z poziomu interfejsu produkcji.,Предмет ({item}) можно создать только по вкладке ПРОИЗВОДСТВО.,El objeto ({item}) solo se puede fabricar desde la interfaz de Producción.,L'oggetto ({item}) può essere prodotto solo nell'interfaccia di Fabbricazione
+KEY_GEOSCAPE_PRODUCE_RESEARCH,Text,,You do not have the necessary research to manufacture this item,缺少必要的研究来制造此物品,Vous n'avez pas effectuer la recherche nécessaire pour fabriquer cet objet.,Notwendige Forschung fehlt,Non possiedi la ricerca necessaria per fabbricare questo oggetto,Nie ukończono badań niezbędnych do produkcji tego przedmiotu,"У вас нет необходимых исследований, чтобы создать этот предмет",No has completado la investigación necesaria para fabricar este objeto,Vous n'avez pas effectuer la recherche nécessaire pour fabriquer cet objet.
+KEY_GEOSCAPE_RECYCLE_INFO,Text,,DESTROY AND RECYCLE FOR RESOURCES,摧毁并回收以获得资源,DÉTRUISEZ LES OBJETS ET RECYCLEZ-LES POUR OBTENIR DES RESSOURCES,"ZERSTÖREN UND RECYCELN, UM RESSOURCEN ZU ERHALTEN",DISTRUGGI E RICICLA PER OTTENERE RISORSE,ZNISZCZ I PRZERÓB NA ZASOBY,УНИЧТОЖИТЬ И ПЕРЕРАБОТАТЬ НА РЕСУРСЫ,DESTRUIR Y RECICLAR PARA OBTENER RECURSOS,DÉTRUISEZ LES OBJETS ET RECYCLEZ-LES POUR OBTENIR DES RESSOURCES
+KEY_GEOSCAPE_REPLENISH_ALL,Text,,Replenish all,补给全部,Tout réapprovisionner,Alles auffüllen,Rifornisci tutto,Uzupełnij wszystko,Пополнить все,Reabastecer todo,Tout réapprovisionner
+KEY_GEOSCAPE_REPLENISH_SOLDIERS,Text,,Replenish Soldiers,补给士兵,Réapprovisionner soldats,Soldaten auffüllen,Rifornisci soldati,Uzupełnij ekwipunek,Пополнить запасы солдат,Reabastecer soldados,Réapprovisionner soldats
+KEY_GEOSCAPE_STAMINA,Text,,STAMINA,耐力,ENDURANCE,AUSDAUER,RESISTENZA,KONDYCJA,ВЫНОСЛИВОСТЬ,AGUANTE,ВЫНОСЛИВОСТЬ
+KEY_GEOSCAPE_UNEQUIP,Text,,UNEQUIP,卸下,RETIRER,ABLEGEN,RIMUOVI,PRZESTAŃ UŻYWAĆ,СНЯТЬ,NO EQUIPAR,PRZESTAŃ UŻYWAĆ
+KEY_GEOSCAPE_WAIT,Text,,Processing ...,正在处理…,Traitement...,Wird verarbeitet ...,Elaborazione...,Przetwarzanie...,Обработка...,Procesando...,Wird verarbeitet ...
+KEY_ITEM_CONTAINER,Text,,ITEM CONTAINER,物品容器,CONTENEUR D'OBJETS,BEHÄLTER,CONTENITORE OGGETTI,POJEMNIK NA PRZEDMIOTY,КОНТЕЙНЕР ПРЕДМЕТОВ,DEPÓSITO DE OBJETOS,POJEMNIK NA PRZEDMIOTY
+KEY_ITEM_STAT_ACCURACY,Text,,ACCURACY,准度,PRÉCISION,GENAUIGKEIT,PRECISIONE,CELNOŚĆ,ТОЧНОСТЬ,PRECISIÓN,GENAUIGKEIT
+KEY_ITEM_STAT_ACTION_COST,Text,,ACTION POINTS,行动点数,POINTS D'ACTION,AKTIONSPUNKTE,PUNTI AZIONE,PUNKTY AKCJI,ОЧКИ ДЕЙСТВИЯ,PUNTOS DE ACCIÓN,PUNTOS DE ACCIÓN
+KEY_ITEM_STAT_ACTION_POINTS,Text,,ACTION POINT COST,行动点消耗,COÛT EN POINTS D'ACTION,AKTIONSPUNKTEKOSTEN,COSTO PUNTO AZIONE,KOSZT W PUNKTACH AKCJI,СТОИМОСТЬ ОЧКОВ ДЕЙСТВИЯ,COSTE EN PUNTOS DE ACCIÓN,COSTE EN PUNTOS DE ACCIÓN
+KEY_ITEM_STAT_AMMO_CAPACITY,Text,,AMMO CAPACITY,弹药量,CAPACITÉ DE MUNITIONS,MUNITIONSKAPAZITÄT,CAPACITÀ MUNIZIONI,POJEMNOŚĆ MAGAZYNKU,БОЕЗАПАС,CAPACIDAD DE MUNICIÓN,CAPACITÉ DE MUNITIONS
+KEY_ITEM_STAT_ARMOR,Text,,ARMOR,护甲,ARMURE,RÜSTUNG,ARMATURA,PANCERZ,БРОНЯ,ARMADURA,ARMATURA
+KEY_ITEM_STAT_BLAST_RADIUS,Text,,BLAST RADIUS,爆炸范围,RAYON D'EXPLOSION,EXPLOSIONSRADIUS,RAGGIO DELL'ESPLOSIONE,POLE RAŻENIA,РАДИУС ВЗРЫВА,RADIO DE ESTALLIDO,RAGGIO DELL'ESPLOSIONE
+KEY_ITEM_STAT_DAMAGE,Text,,DAMAGE,伤害,DÉGÂTS,SCHADEN,DANNI,OBRAŻENIA,УРОН,DAÑO,OBRAŻENIA
+KEY_ITEM_STAT_DAMAGE_ROUND,Text,,DAMAGE PER ROUND,每回合伤害,DÉGÂTS PAR MANCHE,SCHADEN PRO KUGEL,DANNI PER ROUND,OBRAŻENIA NA STRZAŁ,УЩЕРБ ЗА РАУНД,DAÑO POR DISPARO,OBRAŻENIA NA STRZAŁ
+KEY_ITEM_STAT_HANDS_TO_USE,Text,,HANDS TO USE,占用手,MAINS REQUISES,ERFORDERLICHE HÄNDE,MANI DA USARE,RĘCE DO UŻYCIA,РУКИ ДЛЯ ИСПОЛЬЗОВАНИЯ,MANOS USADAS,РУКИ ДЛЯ ИСПОЛЬЗОВАНИЯ
+KEY_ITEM_STAT_HEALTH,Text,,HIT POINTS,健康,SANTÉ,GESUNDHEIT,SALUTE,ZDROWIE,ЗДОРОВЬЕ,SALUD,HIT POINTS
+KEY_ITEM_STAT_LOCATION_HP,Text,,LOCATION HIT POINTS,地点生命值,POINTS DE VIE DU LIEU,STANDORT-TREFFERPUNKTE,PUNTI FERITA POSIZIONE,PUNKTY ŻYCIA LOKALIZACJI,ОЧКИ ЗДОРОВЬЯ НА МЕСТЕ,PUNTOS DE SALUD DE UBICACIÓN,PUNTOS DE SALUD DE UBICACIÓN
+KEY_ITEM_STAT_PERCEPTION,Text,,PERCEPTION,感知,PERCEPTION,WAHRNEHMUNG,PERCEZIONE,ZASIĘG WIDZENIA,ВОСПРИЯТИЕ,PERCEPCIÓN,ZASIĘG WIDZENIA
+KEY_ITEM_STAT_RANGE,Text,,EFFECTIVE RANGE,有效范围,PORTÉE EFFECTIVE,EFFEKTIVE REICHWEITE,PORTATA EFFETTIVA,EFEKTYWNY ZASIĘG,ЭФФЕКТИВНЫЙ РАДИУС,RANGO DE EFECTIVIDAD,EFFEKTIVE REICHWEITE
+KEY_ITEM_STAT_ROUND_BURST,Text,,BURST,连发,RAFALE,SALVE,RAFFICA,SERIA,ОЧЕРЕДЬ,EXPLOSIÓN,ESPLOSIONE
+KEY_ITEM_STAT_SINGLE_SHOT,Text,,SINGLE SHOT,单次射击,TIR UNIQUE,EINZELSCHUSS,COLPO SINGOLO,POJEDYNCZY STRZAŁ,ОДИН ВЫСТРЕЛ,DISPARO ÚNICO,POJEDYNCZY STRZAŁ
+KEY_ITEM_STAT_SINGLE_STRIKE,Text,,SINGLE STRIKE,单次打击,FRAPPE UNIQUE,EINZELSCHLAG,ATTACCO SINGOLO,POJEDYNCZE UDERZENIE,ОДИН УДАР,SACUDIDA ÚNICA,POJEDYNCZE UDERZENIE
+KEY_ITEM_STAT_SPEED,Text,,SPEED,速度,VITESSE,GESCHWINDIGKEIT,VELOCITÀ,PRĘDKOŚĆ,СКОРОСТЬ,VELOCIDAD,GESCHWINDIGKEIT
+KEY_ITEM_STAT_STEALTH,Text,,STEALTH,潜行,FURTIVITÉ,TARNUNG,FURTIVITÀ,SKRADANIE SIĘ,СКРЫТНОСТЬ,SIGILO,SKRADANIE SIĘ
+KEY_ITEM_STAT_WEIGHT,Text,,WEIGHT,重量,POIDS,GEWICHT,PESO,WAGA,ВЕС,PESO,GEWICHT
+KEY_ITEM_TYPE_AMMO,Text,,AMMO,弹药,MUNITIONS,MUNITION,MUNIZIONI,AMUNICJA,БОЕПРИПАСЫ,MUNICIÓN,БОЕПРИПАСЫ
+KEY_ITEM_TYPE_AR,Text,,ASSAULT RIFLE,突击步枪,FUSIL D'ASSAUT,STURMGEWEHR,FUCILE D'ASSALTO,KARABIN SZTURMOWY,АВТОМАТ,RIFLE DE ASALTO,KARABIN SZTURMOWY
+KEY_ITEM_TYPE_ARMOR,Text,,ARMOR,护甲,ARMURE,RÜSTUNG,ARMATURA,PANCERZ,БРОНЯ,ARMADURA,ARMATURA
+KEY_ITEM_TYPE_CROSSBOW,Text,,CROSSBOW,十字弩,ARBALÈTE,ARMBRUST,BALESTRA,KUSZA,АРБАЛЕТ,BALLESTA,CROSSBOW
+KEY_ITEM_TYPE_GRENADE,Text,,GRENADE,手雷,GRENADE,GRANATE,GRANATA,GRANAT,ГРАНАТА,GRANADA,GRENADE
+KEY_ITEM_TYPE_HANDGUN,Text,,HANDGUN,手枪,ARME DE POING,PISTOLE,PISTOLA,PISTOLET,ПИСТОЛЕТ,PISTOLA,HANDFEUERWAFFE
+KEY_ITEM_TYPE_HEAVY,Text,,HEAVY,重装兵,LOURD,BRECHER,PESANTE,CIĘŻKI,ТЯЖЕЛОЕ,PESADA,BRECHER
+KEY_ITEM_TYPE_MEDKIT,Text,,MEDKIT,医疗包,MÉDIKIT,MEDKIT,KIT MEDICO,APTECZKA,АПТЕЧКА,BOTIQUÍN,KIT MEDICO
+KEY_ITEM_TYPE_MELEE,Text,,MELEE,近战,CORPS À CORPS,NAHKAMPF,MISCHIA,BROŃ BIAŁA,БЛИЖНИЙ БОЙ,CUERPO A CUERPO,CUERPO A CUERPO
+KEY_ITEM_TYPE_MOUNTED,Text,,MOUNTED WEAPON,搭载武器,ARME GREFFÉE,MONTIERTE WAFFE,ARMA MONTATA,BROŃ MONTOWANA,СТАНКОВОЕ ОРУЖИЕ,ARMA FIJA,ANGEBRACHTE WAFFE
+KEY_ITEM_TYPE_MUTATION,Text,,MUTATION,变异,MUTATION,MUTATION,MUTAZIONE,MUTACJA,МУТАЦИЯ,MUTACIÓN,MUTAZIONE
+KEY_ITEM_TYPE_PDW,Text,,PDW,单兵自卫武器,PDW,PDW,ARMA DI DIFESA PERSONALE,BROŃ OCHRONY OSOBISTEJ,ОРУЖИЕ САМООБОРОНЫ,PDW,ARMA DI DIFESA PERSONALE
+KEY_ITEM_TYPE_SHOTGUN,Text,,SHOTGUN,散弹枪,FUSIL À POMPE,SCHROTFLINTE,FUCILE A POMPA,STRZELBA,ДРОБОВИК,ESCOPETA,FUCILE A POMPA
+KEY_ITEM_TYPE_SR,Text,,SNIPER RIFLE,狙击步枪,FUSIL DE PRÉCISION,SCHARFSCHÜTZENGEWEHR,FUCILE DI PRECISIONE,KARABIN SNAJPERSKI,СНАЙПЕРСКАЯ ВИНТОВКА,RIFLE DE FRANCOTIRADOR,RIFLE DE FRANCOTIRADOR
+KEY_ITEM_TYPE_TURRET,Text,,TURRET,炮台,TOURELLE,GESCHÜTZ,TORRETTA,WIEŻYCZKA,ТУРЕЛЬ,TORRETA,WIEŻYCZKA
+KEY_ITEM_TYPE_VW,Text,,VIRAL WEAPON,病毒武器,ARME VIRALE,VIRALE WAFFE,ARMA VIRALE,BROŃ WIRUSOWA,ВИРУСНОЕ ОРУЖИЕ,ARMA VÍRICA,ВИРУСНОЕ ОРУЖИЕ
+KEY_NOT_PROFICIENT_WARNING,Text,,Not Proficient!,未精通！,Maîtrise non acquise !,Fähigkeit fehlt!,Nessuna padronanza!,Brak biegłości!,Нет навыка!,¡No eres lo bastante competente!,¡No eres lo bastante competente!
+KEY_PERCENTAGE_VALUE,Text,,{0}%,{0}％,{0} %,{0} %,{0}%,{0}%,{0}%,{0}%,{0} %
+KEY_SCRAP_ALL_NAME,Text,,SCRAP ALL,拆卸全部,TOUT RECYCLER,ALLES VERSCHROTTEN,DEMOLISCI TUTTO,PRZETWÓRZ WSZYSTKO,СДАТЬ ВСЕ В ЛОМ,DESCARTAR TODO,ALLES VERSCHROTTEN
+KEY_SCRAP_ITEM_NAME,Text,,SCRAP ITEM,拆卸物品,RECYCLER OBJET,GEGENSTAND VERSCHROTTEN,DEMOLISCI OGGETTO,PRZETWÓRZ,СДАТЬ ПРЕДМЕТ В ЛОМ,DESCARTAR OBJETO,GEGENSTAND VERSCHROTTEN
+KEY_STAT_ENCUMBERANCE,Text,,ENCUMBRANCE,负重,CHARGE,BELASTUNG,CAPACITÀ,OBCIĄŻENIE,ПЕРЕГРУЗКА,IMPEDIMENTO,ENCUMBRANCE
+KEY_WARNING_STORAGE_FULL_TT,Text,,Base storage is full. You need to build more Stores.,基地储藏已满。你需要建造更多的仓库。,L'espace de stockage de la base est plein. Vous devez bâtir plus d'entrepôts.,Lagerkapazität erschöpft. Baue mehr Lager.,Il Magazzino della base è pieno. Dovrai costruire altri Magazzini.,Magazyn jest pełny. Musisz zbudować więcej magazynów.,Склад базы заполнен. Постройте дополнительные хранилища.,"Almacén de la base llena. Debes construir más almacenes.
+",
+KEY_WARNING_WEAPON_NOT_EQUIPPED_TT,Text,,The soldier doesn't have a weapon equipped!,士兵没有装备武器！,Le soldat n'a aucune arme équipée !,Dieser Soldat hat keine Waffe ausgerüstet!,Il soldato non è equipaggiato con un'arma!,Żołnierz nie jest wyposażony w broń!,У солдата нет оружия!,¡El soldado no tiene ningún arma equipada!,Der Soldate ist nicht mit einer Waffe ausgerüstet!
+KEY_WARNING_WEAPON_NOT_FULL_TT,Text,,Some weapons are not fully loaded!,有武器未完全装填！,Certaines armes ne sont pas complètement chargées !,Waffen nicht voll geladen!,Alcune armi non sono completamente cariche!,Niektóre bronie nie są całkowicie załadowane!,Некоторые виды оружия заряжены не полностью!,¡Algunas armas no están totalmente cargadas!,Certaines armes ne sont pas complètement chargées !

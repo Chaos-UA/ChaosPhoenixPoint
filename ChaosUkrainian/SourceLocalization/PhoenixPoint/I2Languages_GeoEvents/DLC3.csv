@@ -1,0 +1,601 @@
+Key,Type,Desc,English,UI_Tester,Chinese,French,Spanish,Italian,German,Russian,Polish,0
+PROG_FS0_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_FS0_TEXT_GENERAL_0,Text,,"We catch wind of an ongoing Anu ritual called the Augury. It's a form of divination based on the observation of birds and signs in the sky. The Disciples deem the readings of utmost importance, broadcasting the same message on all frequencies. It says:
+
+""The moon is dark, and the gods dance in the night;
+Dia faram, Dia fodham!
+There is terror in the sky;
+The long, winging flight through the void;
+Shall find its resting place tonight.
+And those below shall suffer, one and all.
+Dia faram, Dia fodham!
+One and all!""
+
+Somehow, this unnerving sound clip manages to cause unease even among the most scientifically-minded members of our staff.",,"我们听说有一个名为“预兆”的安努仪式正在进行，这是一种通过观察空中的鸟类和星座而进行的占卜。安努门徒教会认为这些读数非常重要，并在所有频率上广播同样的信息，内容如下：
+
+ “月色漆黑，诸神夜舞；
+ Dia faram，Dia fodham！
+ 长夜漫漫，恐惧天降；
+翅翼生物，划破虚空；
+ 今夜之际，寻得安息。
+在其之下，苦难灾亡，无一幸免！
+Dia faram，Dia fodham！
+ 无一幸免！”
+
+ 这段令人不安的声音能够引起强烈的不安，即使最理智的头脑也会因此而动摇。","Nous avons entendu parler d'un rituel d'Anu qui avait lieu – l'Augure. C'est une sorte de divination basée sur l'observation des oiseaux et des signes du ciel. Les Disciples estiment que ces prédictions sont de la plus haute importance, diffusant le même message sur toutes les fréquences. Voici ce qu'il dit :
+ 
+ « La lune est sombre et les dieux dansent dans la nuit ;
+ Dia faram, Dia fodham !
+ La terreur occupe le ciel ;
+ Le long vol ailé à travers le vide ;
+ Trouvera sa dernière demeure ce soir.
+Et en dessous, tout un chacun souffrira.
+ Dia faram, Dia fodham !
+ Tout un chacun souffrira ! »
+ 
+ Bizarrement, cet extrait sonore troublant a réussi à causer le malaise jusque chez notre personnel à l'esprit plus scientifique.","Hemos oído el rumor de que está teniendo lugar un ritual Anu conocido como el Augurio. Es una forma de sortilegio basado en la observación de aves y señales en el cielo. Los Discípulos consideran las lecturas de importancia máxima, emitiendo el mismo mensaje en todas las frecuencias, el cual reza:
+ 
+ «La luna es oscura y los dioses bailan en la noche.
+¡Dia faram, Dia fodham!
+ El terror reina en los cielos,
+ el largo y victorioso vuelo por el vacío,
+ encontrará esta noche su lugar de descanso.
+ Y aquellos de debajo sufrirán, todos ellos.
+ ¡Dia faram, Dia fodham!
+ ¡Todos ellos!».
+ 
+ De algún modo, el inquietante clip de sonido consigue causar inquietud entre los científicos más puristas del personal.","Abbiamo sentito parlare di un rituale Anu in corso, chiamato l'Auspicio. È una forma di divinazione basata sull'osservazione degli uccelli e dei segni nel cielo. I Discepoli ritengono questa lettura di estrema importanza, trasmettendo lo stesso messaggio su tutte le frequenze. Recita così:
+
+ ""La luna è oscura e gli dèi danzano nella notte,
+ Dia faram, Dia fodham!
+ Il terrore è in cielo;
+ Il lungo volo improvviso nel vuoto;
+Troverà pace stanotte.
+ E coloro al di sotto soffriranno, tutti quanti.
+Dia faram, Dia fodham!
+ Tutti quanti!""
+ 
+ In un certo senso, questa registrazione snervante riesce a mettere a disagio persino i membri meno superstiziosi del nostro personale.","Wir haben Berichte über ein laufendes Anu-Ritual namens „Das Omen“ erhalten. Es ist eine Form der Weissagung, die auf der Beobachtung von Vögeln und Zeichen am Himmel basiert. Die Jünger halten die Weissagung für äußerst wichtig und senden auf allen Frequenzen die gleiche Botschaft. Sie lautet:
+ 
+ “Der Mond ist dunkel, und die Götter tanzen in der Nacht;
+ Dia faram, Dia fodham!
+ Schrecken am Himmel;
+ Der lange Flug der Schwingen durch die Leere;
+ Wird heute Nacht seine Ruhestätte finden.
+ Und die da unten werden leiden, einer und alle.
+ Dia faram, Dia fodham!
+ Einer und alle!“
+ 
+Irgendwie ruft diese beunruhigende Tonaufnahme selbst bei den rationalsten Mitgliedern unserer Belegschaft Unbehagen hervor.","Мы слышим о проводящемся ритуале Последователей Ану, называемом «Ауспиции». Он представляет собой форму гадания, основанную на наблюдении за птицами и знаками в небе. Последователи Ану считают его чрезвычайно важным и передают одно и то же сообщение на всех частотах. Оно гласит:
+ 
+ «Луна темна, и боги кружатся в ночи.
+ Диа фарам! Диа фодхам!
+ И ужас в небе 
+ Сквозь пустоту летит вдали,
+ Сегодня вечером покой обрящет.
+ И жители Земли все как один страдают.
+ Диа фарам! Диа фодхам!
+ Все как один страдают!»
+
+ Каким-то образом этим словам удается выбить из колеи даже самых спокойных из наших людей.","Dochodzą nas słuchy o trwającym obrzędzie Anu, tak zwanym Omenie. To rodzaj praktyki wróżbiarskiej opartej na obserwacji ptaków i znaków na niebie. Akolici uważają odczyty za niezwykle ważne i nadają na wszystkich częstotliwościach tę samą wiadomość. Brzmi ona:
+ 
+ „Bogowie tańczą w noc, lecz księżyc mrok już spowił.
+ Dia faram, Dia fodham!
+Groza włada przestworzem.
+ Długi lot przez pustkę
+ Dziś się zakończyć może.
+ Cierpienie spadnie na tych, co na dole.
+ Dia faram, Dia fodham!
+ Na tych, co na dole!”
+ 
+ To niepokojące nagranie wywołuje dziwny niepokój nawet u najtrzeźwiej myślących członków naszego personelu.",
+PROG_FS0_TITLE,Text,,The Augury,,预兆,L'Augure,El Augurio,L'Auspicio,Das Omen,Ауспиции,Omen,
+PROG_FS10_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_FS10_TEXT_GENERAL_0,Text,,"We’re receiving alarming news. 
+
+The alien entity known as ""Mount Egg"" has erupted from the inside, causing massive seismic activity and heavily damaging the surrounding area. A monstrous Pandoran creature has emerged from the shattered shell. Its gargantuan size is unlike anything we've ever encountered.
+
+Many havens report riots and inner mayhem. Currently, no authority seems to be able to control the masses or calm the panic caused by the hatching.",,"我们收到了令人担忧的消息。
+
+ 一个被称为“卵山”的外星实体从内部喷发，引发了大规模的地震活动，对周围地区造成了严重破坏。一个潘多拉体生物从中破壳而出，我们从未见过如此巨大的生物。
+
+ 许多避难所都报告发生了内乱。目前，似乎没有任何政府能够控制住群众或平息这次孵化引起的恐慌。","Nous recevons des nouvelles alarmantes.
+ 
+ L'entité extraterrestre connue comme le « Mont Œuf » est entré en éruption de l'intérieur, provoquant une activité sismique énorme et endommageant sérieusement la zone alentour. Une créature pandorienne monstrueuse est sortie de la coquille brisée. Sa taille gargantuesque ne ressemble en rien à ce que nous avons rencontré jusqu'à présent.
+ 
+ Plusieurs refuges font état d'émeutes et de chaos interne. À l'heure actuelle, les autorités ne semblent pas être capables de contrôler les foules ni de calmer la panique causée par l'éclosion.","Estamos recibiendo noticias alarmantes.
+ 
+ La entidad alienígena conocida como «Monte huevo» ha hecho erupción desde el interior, causando una actividad sísmica gigantesca y dañando de gravedad la zona circundante. Una monstruosa criatura pandoriana ha emergido del cascarón roto. Su titánico tamaño no se parece a nada que nos hayamos encontrado anteriormente.
+
+ Hay muchos informes que hablan de disturbios en los refugios y de caos en su interior. Ahora mismo, no parece que haya ninguna autoridad capaz de controlar a las masas o de calmar el pánico provocado por la eclosión.","Stiamo ricevendo notizie allarmanti.
+ 
+ L'entità aliena conosciuta come ""Monte uovo"" ha eruttato, provocando un'attività sismica massiccia e danneggiando pesantemente l'area circostante. Una mostruosa creatura di Pandora è emersa dal guscio distrutto. Le sue colossali dimensioni sono qualcosa mai visto prima.
+ 
+ Molti rifugi riferiscono disordini e confusioni interne. Al momento nessuna autorità sembra essere in grado di controllare le masse o calmare il panico causato dalla schiusa.","Uns erreichen alarmierende Nachrichten.
+
+Die außerirdische Entität, bekannt als „Berg-Ei“, ist von innen heraus aufgebrochen, hat massive seismische Aktivität ausgelöst und die Umgebung schwer verwüstet. Aus der zersplitterten Hülle ist eine monströse pandoranische Kreatur hervorgebrochen. Ihre gigantische Größe übertrifft alles, was wir bislang erlebt haben.
+
+Viele Zufluchten melden Ausschreitungen und innere Unruhen. Derzeit kann keine Führung die Massen kontrollieren oder die Panik beruhigen, die das Schlüpfen ausgelöst hat.","Мы получили тревожные новости. 
+ 
+ Раскрылась некая чужеродная сущность, известная как «Маунт-Эгг», что послужило причиной интенсивной сейсмической активности и принесло с собой большие разрушения. Чудовищный пандоран разорвал окружавшую его оболочку и пробился наружу. Его громадный размер нельзя сравнить ни с чем, что мы видели прежде.
+
+ Многие убежища сообщают о волнениях и внутренних беспорядках. Сейчас, похоже, ни одна организация не в силах справиться с народными массами и унять вызванную панику.","Otrzymujemy niepokojące wieści.
+ 
+ Obca istota znana jako Jajogóra eksplodowała, powodując potężny wstrząs sejsmiczny i ogromne zniszczenia w okolicy. Z rozbitej skorupy wydostał się wielki Pandoranin. Nie widzieliśmy do tej pory niczego tak olbrzymiego.
+
+ Z wielu bastionów docierają do nas doniesienia o zamieszkach i chaosie. Nie ma obecnie żadnej władzy, która byłaby w stanie kontrolować tłumy i okiełznać panikę spowodowaną przez ten wylęg.",
+PROG_FS10_TITLE,Text,,The Eruption,,大喷发,L'éruption,La erupción,L'eruzione,Die Eruption,Появление,Erupcja,
+PROG_FS1_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_FS1_FAIL_CHOICE_0_OUTCOME_GENERAL,Text,,"A heavily armed Manticore requests permission to land on a Phoenix platform. The only operative on board is one Citizen Eileen, a Synedrion pilot. ""Your soldiers fought bravely in the raid on my home haven, but couldn't make it,"" she says through the radio. ""Citizen Athena promised to gift this machine to the Phoenix Project and I'm here to honor this promise. As a token of gratitude to your fallen comrades, I volunteer to join your ranks as well. Eileen out."" Highly motivated new recruits are always welcome.",,"一架武装蝎狮请求在凤凰点的平台上降落。机上唯一的特工是一位名叫艾琳的市民，她是来自平衡议会的驾驶员。
+
+ 她通过无线电说：“我叫艾琳。你们的士兵为了我的家园避难所战斗到最后一刻，最后英勇就义。市民雅典娜承诺将这台机器赠予凤凰计划，我特地来此兑现这一承诺。为了感谢你们牺牲的战友，我自愿加入你们的队伍。通话完毕。”
+
+ 我们时刻欢迎斗志昂扬的新鲜血液加入。","Une Manticore lourdement armée demande l'autorisation d'atterrir sur une plateforme Phoenix. Le seul agent à bord est une certaine Citoyenne Eileen, une pilote du Synédrion.
+ 
+ « Vos soldats ont combattu avec courage dans le raid de mon refuge, mais ils n'ont pas survécu », nous annonce-t-elle par message radio. « La Citoyenne Athéna a promis de faire cadeau de cet engin au Projet Phoenix et je suis ici pour honorer cette promesse. Pour remercier vos camarades morts au combat, je me porte également volontaire pour rejoindre vos rangs. Terminé. »
+ 
+ Les nouvelles recrues avec une telle motivation sont toujours les bienvenues.","Una mantícora muy armada solicita permiso para aterrizar en una plataforma Fénix. El único operativo a bordo es Ciudadana Eileen, una piloto Synedrion.
+
+ «Vuestros soldados han luchado con valor en la incursión de mi refugio natal, pero no pudieron conseguirlo», dice por la radio. «La Ciudadana Atena prometió darle esta máquina como presente al Proyecto Fénix y estoy aquí para honrar mi promesa. Como muestra de gratitud a vuestros camaradas caídos, me presento voluntaria para unirme también a vuestras filas. Corto».
+ 
+ Los nuevos reclutas llenos de motivación son siempre bienvenidos.","Una Manticore armata pesantemente richiede il permesso di atterrare su una piattaforma Phoenix. L'unica agente a bordo è la Cittadina Eileen, una pilota Synedrion.
+ 
+ ""I vostri soldati hanno combattuto con coraggio durante l'assalto al mio rifugio, ma non ce l'hanno fatta"", comunica tramite la radio. ""La Cittadina Athena ha promesso di donare questa macchina al Progetto Phoenix e sono qui per onorare la promessa. In segno di gratitudine verso i vostri compagni caduti, mi offro volontaria per unirmi anch'io alle vostre truppe. Passo e chiudo"".
+ 
+ Se davvero motivate, le nuove reclute sono sempre ben accette.","Ein schwer bewaffneter Manticore bittet um Erlaubnis, auf einer Phoenix-Plattform zu landen. Die einzige Überlebende an Bord ist Bürgerin Eileen, eine Pilotin von Synedrion.
+ 
+„Eure Soldaten haben bei dem Angriff auf meine Zuflucht tapfer gekämpft, aber sie haben es nicht geschafft“, sagt sie durch das Funkgerät. „Bürgerin Athena versprach, diese Maschine dem Phoenix-Projekt zu schenken und ich bin hier, um dieses Versprechen einzulösen. Als Zeichen der Dankbarkeit für eure gefallenen Kameraden melde ich mich freiwillig zum Dienst in euren Reihen.“
+ 
+Hoch motivierte neue Rekruten sind immer willkommen.","Тяжеловооруженное ВС «Мантикора» просит разрешения приземлиться на платформу Проекта Феникс. Единственный оперативник на борту — некая гражданка Эйлин, пилот из Синедриона.
+ 
+ «Ваши солдаты храбро сражались за мое родное убежище, но потерпели неудачу, — говорит она по радиосвязи. — Гражданка Афина хотела преподнести это судно вам в качестве дара, и я собираюсь выполнить ее обещание. В знак признательности вашим павшим товарищам я сама хочу вступить в ваши ряды. Конец связи».
+ 
+ Мы всегда рады новым людям.","Ciężkozbrojna mantykora prosi o zezwolenie na lądowanie na platformie Phoenix. Jedynym operatorem na pokładzie jest obywatelka Eileen, pilotka Synedrionu.
+ 
+ „Wasi żołnierze dzielnie walczyli podczas obrony przed nalotem na mój rodzinny bastion, ale nie udało im się przeżyć” – mówi przez radio. „Obywatelka Atena obiecała podarować tę maszynę Projektowi Phoenix i jestem tu po to, aby dotrzymać tej obietnicy. Kierując się wdzięcznością wobec waszych poległych towarzyszy, ja również zgłaszam się na ochotnika, aby wstąpić w wasze szeregi. Eileen bez odbioru”.
+ 
+ Nowi rekruci z silną motywacją są zawsze mile widziani.",
+PROG_FS1_FAIL_CHOICE_0_TEXT,Text,,Accept.,,接受。,Accepter.,Aceptar.,Accetta.,Annehmen.,Принять.,Akceptuj.,
+PROG_FS1_FAIL_TEXT_GENERAL_0,Text,,"We’re receiving alarming news. The alien entity known as ""Mount Egg"" has erupted from the inside, causing massive seismic activity and heavly damaging the surrounding area. A monstrous Pandoran creature has emerged from the shattered shell. Its gargantuan size is unlike anything we've ever encountered. Many havens report riots and inner mayhem. Currently, no authority seems to be able to control the masses or calm the panic caused by the hatching.",,"我们收到了令人担忧的消息。
+
+ 一个被称为“卵山”的外星实体从内部喷发，引发了大规模的地震活动，对周围地区造成了严重破坏。一个潘多拉体生物从中破壳而出，我们从未见过如此巨大的生物。
+
+ 许多避难所都报告发生了内乱。目前，似乎没有任何政府能够控制住群众或平息这次孵化引起的恐慌。","Nous recevons des nouvelles alarmantes.
+ 
+ L'entité extraterrestre connue comme le « Mont Œuf » est entré en éruption de l'intérieur, provoquant une activité sismique énorme et endommageant sérieusement la zone alentour. Une créature pandorienne monstrueuse est sortie de la coquille brisée. Sa taille gargantuesque ne ressemble en rien à ce que nous avons rencontré jusqu'à présent.
+ 
+ Plusieurs refuges font état d'émeutes et de chaos interne. À l'heure actuelle, les autorités ne semblent pas être capables de contrôler les foules ni de calmer la panique causée par l'éclosion.","Estamos recibiendo noticias alarmantes.
+ 
+ La entidad alienígena conocida como «Monte huevo» ha hecho erupción desde el interior, causando una actividad sísmica gigantesca y dañando de gravedad la zona circundante. Una monstruosa criatura pandoriana ha emergido del cascarón roto. Su titánico tamaño no se parece a nada que nos hayamos encontrado anteriormente.
+
+ Hay muchos informes que hablan de disturbios en los refugios y de caos en su interior. Ahora mismo, no parece que haya ninguna autoridad capaz de controlar a las masas o de calmar el pánico provocado por la eclosión.","Stiamo ricevendo notizie allarmanti.
+ 
+ L'entità aliena conosciuta come ""Monte uovo"" ha eruttato, provocando un'attività sismica massiccia e danneggiando pesantemente l'area circostante. Una mostruosa creatura di Pandora è emersa dal guscio distrutto. Le sue colossali dimensioni sono qualcosa mai visto prima.
+ 
+ Molti rifugi riferiscono disordini e confusioni interne. Al momento nessuna autorità sembra essere in grado di controllare le masse o calmare il panico causato dalla schiusa.","Wir erhalten alarmierende Nachrichten. 
+ 
+Das außerirdische Gebilde, bekannt als „Berg-Ei“, ist von innen heraus ausgebrochen, hat massive seismische Aktivitäten verursacht und die Umgebung schwer beschädigt. Eine monströse pandoranische Kreatur ist aus der zertrümmerten Hülle entstiegen. Seine gigantische Größe ist mit nichts vergleichbar, dem wir je begegnet sind.
+ 
+Viele Zufluchten berichten von Unruhen und innerem Chaos. Derzeit scheint keine Autorität fähig, die Massen zu kontrollieren oder die Panik einzudämmen.","Мы получили тревожные новости. 
+ 
+ Раскрылась некая чужеродная сущность, известная как «Маунт-Эгг», что послужило причиной интенсивной сейсмической активности и принесло с собой большие разрушения. Чудовищный пандоран разорвал окружавшую его оболочку и пробился наружу. Его громадный размер нельзя сравнить ни с чем, что мы видели прежде.
+
+ Многие убежища сообщают о волнениях и внутренних беспорядках. Сейчас, похоже, ни одна организация не в силах справиться с народными массами и унять вызванную панику.","Otrzymujemy niepokojące wieści.
+ 
+ Obca istota znana jako Jajogóra eksplodowała, powodując potężny wstrząs sejsmiczny i ogromne zniszczenia w okolicy. Z rozbitej skorupy wydostał się wielki Pandoranin. Nie widzieliśmy do tej pory niczego tak olbrzymiego.
+
+ Z wielu bastionów docierają do nas doniesienia o zamieszkach i chaosie. Nie ma obecnie żadnej władzy, która byłaby w stanie kontrolować tłumy i okiełznać panikę spowodowaną przez ten wylęg.",
+PROG_FS1_FAIL_TITLE,Text,,A Sole Survivor,,唯一的幸存者,Une seule survivante,Una sola superviviente,Una sola superstite,Einsame Überlebende,Единственная выжившая,Samotna ocalała,
+PROG_FS1_MISS_CHOICE_0_TEXT,Text,,START MISSION,,开始任务,COMMENCER LA MISSION,EMPEZAR MISIÓN,AVVIA MISSIONE,MISSION STARTEN,НАЧАТЬ МИССИЮ,ROZPOCZNIJ MISJĘ,
+PROG_FS1_MISS_CHOICE_1_TEXT,Text,,CANCEL,,取消,ANNULER,CANCELAR,ANNULLA,ABBRECHEN,ОТМЕНА,ANULUJ,
+PROG_FS1_MISS_TEXT_GENERAL_0,Text,,"Our team has reached the Synedrion haven, but before our operatives join the celebrations the settlement is torn by seismic activity and brutally attacked. Previously unknown Pandoran species have descended from the sky and others have crawled up from the sinkhole. 
+
+In the commotion, a pilot named Citizen Eileen has radioed an offer to guide our operatives to the armed Manticore if we help her fend off the invaders. 
+
+This looks like the optimal course of action. In fact, it might be our only chance.",,"我们的队伍抵达了那个平衡议会避难所。但在我们的特工加入庆祝活动之前，这个定居点已经因地震灾难而满目疮痍，还遭到了野蛮的袭击。从未见过的潘多拉体生物从天而降，还有一些从排水口中爬出。
+
+ 在混乱之中，一位名叫艾琳的驾驶员用无线电发来消息称，如果我们能帮助她抵御入侵者，她将带领我们的特工找到那艘武装蝎狮。
+
+ 这似乎是最佳的行动方案。事实上，这可能也是我们唯一的机会。","Notre équipe est arrivée au refuge du Synédrion, mais avant que nos agents puissent se joindre aux festivités, la colonie est détruite par une activité sismique et brutalement attaquée. Une espèce de Pandorien jusque là inconnue est tombée du ciel et d'autres sont sortis du gouffre.
+ 
+ Dans l'agitation, une pilote du nom de Citoyenne Eileen a fait une proposition par message radio pour guider nos agents jusqu'à la Manticore armée si nous l'aidons à repousser les envahisseurs.
+
+ Cela semble être le plan d'action optimal. D'ailleurs, c'est peut-être notre unique chance de nous en sortir.","Nuestro equipo ha llegado al refugio de los Synedrion, pero antes de que nuestros operativos se unieran a las celebraciones, el asentamiento se vio afectado gravemente por actividad sísmica y brutales ataques. Una especie pandoriana desconocida descendió de los cielos mientras otras emergían de los hoyos.
+ 
+ En medio de la conmoción, una piloto conocida como Ciudadana Eileen habló por radio para ofrecerse a guiar a nuestros operativos hasta la mantícora armada si la ayudábamos a ahuyentar a los invasores.
+
+ Esta parece la forma de actuar óptima. De hecho, puede que sea nuestra única oportunidad.","La nostra squadra ha raggiunto il rifugio Synedrion, ma prima che i nostri agenti potessero unirsi ai festeggiamenti, l'insediamento è stato scosso da un'attività sismica e attaccato brutalmente. Specie di Pandora mai viste prima sono scese dal cielo mentre altre sono emerse dal terreno.
+
+ Nel caos, una pilota di nome Cittadina Eileen si è offerta di guidare i nostri agenti fino alla Manticore armata se l'avessimo aiutata a farsi strada tra gli invasori.
+ 
+ Sembra proprio il momento giusto. Potrebbe infatti essere la nostra unica occasione.","Unser Einsatzteam hat die Zuflucht von Synedrion erreicht. Noch bevor unsere Soldaten an den Feierlichkeiten teilnehmen können, erschüttert seismische Aktivität die Siedlung – dann beginnt der Angriff. Unbekannte pandoranische Spezies stürzen vom Himmel herab, andere kriechen aus der Doline.
+
+In der Verwirrung funkt eine Pilotin namens Bürgerin Eileen und bietet an, uns zum bewaffneten Manticore zu führen, wenn wir ihr helfen, die Angreifer abzuwehren.
+
+Das ist die beste Vorgehensweise – vielleicht unsere einzige Chance.","Наша группа добралась до убежища Синедриона, но не успели наши оперативники присоединиться к мероприятию, как на поселение обрушилось сильное землетрясение и оно подверглось жестокому нападению. С неба спустились ранее неизвестные пандораны, а другие существа выползли из разлома. 
+ 
+ В суматохе пилот, представившаяся как гражданка Эйлин, передала по радиосвязи предложение провести наших оперативников к боевому ВС «Мантикора», если мы поможем ей отбиться от захватчиков. 
+ 
+Похоже, это оптимальный курс действий. Если точнее, это может быть нашим единственным шансом.","Nasz zespół dotarł do bastionu Synedrionu, ale zanim operatorzy wzięli udział w uroczystości, osadę rozdarł wstrząs sejsmiczny i rozpoczął się brutalny atak. Nieznane wcześniej gatunki Pandoran przypuściły szturm z nieba, a inne wypełzły z zapadliska.
+ 
+ W całym zamieszaniu pilotka o imieniu Eileen zaproponowała przez radio, że poprowadzi naszych operatorów do uzbrojonej mantykory, jeśli pomożemy jej odeprzeć najeźdźców.
+ 
+To chyba optymalny kierunek działań. W sumie może to być nasza jedyna szansa.",
+PROG_FS1_MISS_TITLE,Text,,The Gift,,礼物,Le cadeau,La ofrenda,Il dono,Das Geschenk,Дар,Dar,
+PROG_FS1_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Citizen Athena (Synedrion)
+TO: Phoenix Project
+
+""A scavenging party of the Synedrion have recovered one of your small aircraft, the Manticore, wasn't it? It will serve you better than it would serve us. In the spirit of friendship, we are willing to donate it to the Phoenix Project. We invite you to attend a celebration where the aircraft will be ceremonially presented. 
+
+To our mutual success and safer skies for all.”
+",,"消息
+ 来自：市民雅典娜（平衡议会）
+接收：凤凰计划
+ 
+ 平衡议会营救了一艘保存完好的蝎狮，并且愿意将其捐赠给凤凰计划。我们的特工受邀参加在一处附近的避难所举办的庆祝活动，平衡议会将在盛典上把飞行器交给我们。
+
+ 这条消息看起来真实可靠。
+
+ 献辞上写着：“致我们共同的胜利，以及全人类更加安全的天空。”","MESSAGE
+ DE : Citoyenne Athéna (Synédrion)
+ À : Projet Phoenix
+
+ Le Synédrion a récupéré une Manticore en parfait état et est prêt à en faire don au Projet Phoenix. Nos agents sont invités à participer à des festivités dans un refuge voisin au cours desquelles le vaisseau sera présenté cérémonieusement.
+ 
+ Le message semble authentique.
+ 
+ L'invitation dit : « À notre réussite mutuelle et à un ciel plus sûr pour tous. »","MENSAJE
+ DE: Ciudadana Atena (Synedrion)
+ PARA: Proyecto Fénix
+ 
+Los Synedrion han salvado una mantícora perfectamente conservada y están dispuestos a donarla al Proyecto Fénix. Nuestros operativos están invitados a asistir a una celebración en un refugio cercano cuando se celebre la ceremonia de presentación de la nave.
+ 
+ El mensaje parece legítimo.
+
+ La dedicatoria pone: «Por nuestro éxito mutuo y por unos cielos más seguros para todos».","MESSAGGIO
+ DA: Cittadina Athena (Synedrion)
+ A: Progetto Phoenix
+ 
+Synedrion ha recuperato una Manticore perfettamente conservata e vuole donarla al Progetto Phoenix. I nostri agenti sono invitati a partecipare ai festeggiamenti in un rifugio vicino, in cui il velivolo sarà presentato formalmente.
+
+ Il messaggio sembra sincero.
+ 
+ La dedica recita: ""Ai nostri successi comuni e un cielo più sicuro per tutti"".","NACHRICHT
+ VON: Bürgerin Athena (Synedrion)
+ AN: Phoenix-Projekt
+
+Synedrion hat einen perfekt erhaltenen Manticore geborgen und ist bereit, ihn dem Phoenix-Projekt zu überlassen. Unsere Einsatzkräfte sind eingeladen, an einer Feier in einer nahegelegenen Zuflucht teilzunehmen, bei der das Fluggerät feierlich übergeben wird. 
+ 
+Die Nachricht scheint echt zu sein. 
+ 
+Die Widmung lautet: „Auf unseren gemeinsamen Erfolg und einen sichereren Himmel für alle.“","СООБЩЕНИЕ
+ ОТПРАВИТЕЛЬ: гражданка Афина (Синедрион)
+ ПОЛУЧАТЕЛЬ: Проект Феникс
+
+ Синедрион нашел прекрасно сохранившееся ВС «Мантикора» и изъявляет желание пожертвовать его в Проект Феникс. Ваши оперативники приглашены принять участие в мероприятии, которое будет проходить в близлежащем убежище и на котором мы торжественно вручим вам воздушное судно. 
+ 
+ Похоже, сообщение подлинно. 
+ 
+ Подпись гласит: «За наш общий успех и ясное небо для всех».","WIADOMOŚĆ
+ OD: Obywatelka Atena (Synedrion)
+ DO: Projekt Phoenix
+
+ Synedrion uratował doskonale zachowaną mantykorę. Gotowi są podarować ją Projektowi Phoenix. Nasi operatorzy są zaproszeni do wzięcia udziału w uroczystości w pobliskim bastionie, podczas której odbędzie się prezentacja statku. 
+ 
+ Wiadomość wydaje się być autentyczna.
+ 
+ W dedykacji czytamy: „Za nasz wspólny sukces i bezpieczniejsze niebo dla wszystkich”.",
+PROG_FS1_TITLE,Text,,The Invitation,,邀请,L'invitation,La invitación,L'invito,Die Einladung,Приглашение,Zaproszenie,
+PROG_FS1_WIN_CHOICE_0_OUTCOME_GENERAL,Text,,"As soon as we reach the base, we receive alarming news. 
+
+The alien entity known as ""Mount Egg"" has erupted from the inside, causing massive seismic activity and heavly damaging the surrounding area. A monstrous Pandoran creature has emerged from the shattered shell. Its gargantuan size is unlike anything we've ever encountered.
+
+Many havens report riots and inner mayhem. Currently, no authority seems to be able to control the masses or calm the panic caused by the hatching.",,"我们刚到基地，就收到了令人担忧的消息。
+
+ 一个被称为“卵山”的外星实体从内部喷发，引发了大规模的地震活动，对周围地区造成了严重破坏。一只可怕的潘多拉体生物从中破壳而出，我们从未见过如此巨大的生物。
+
+ 许多避难所都报告发生了内乱。目前，似乎没有任何政府能够控制住群众或平息这次孵化引起的恐慌。","Dès notre arrivée à la base, nous avons reçu des nouvelles alarmantes.
+
+ L'entité extraterrestre connue comme le « Mont Œuf » est entré en éruption de l'intérieur, provoquant une activité sismique énorme et endommageant sérieusement la zone alentour. Une créature pandorienne monstrueuse a émergé de la coquille brisée. Sa taille gargantuesque ne ressemble en rien à ce que nous avons rencontré jusqu'à présent.
+ 
+ Plusieurs refuges font état d'émeutes et de chaos interne. À l'heure actuelle, les autorités ne semblent pas être capables de contrôler les foules ni de calmer la panique causée par l'éclosion.","Hemos recibido noticias alarmantes en cuanto llegamos a la base.
+ 
+ La entidad alienígena conocida como «Monte huevo» ha hecho erupción desde el interior, causando una actividad sísmica gigantesca y dañando de gravedad la zona circundante. Una monstruosa criatura pandoriana emergió del cascarón roto. Su titánico tamaño no se parece a nada que nos hayamos encontrado anteriormente.
+ 
+ Hay muchos informes que hablan de disturbios en los refugios y de caos en su interior. Ahora mismo, no parece que haya ninguna autoridad capaz de controlar a las masas o de calmar el pánico provocado por la eclosión.","Non appena raggiunta la base, abbiamo ricevuto notizie allarmanti.
+ 
+L'entità aliena conosciuta come ""Monte Uovo"" ha eruttato, provocando un'attività sismica massiccia e danneggiando pesantemente l'area circostante. Una mostruosa creatura Pandora è emersa dal guscio distrutto. Le sue colossali dimensioni sono qualcosa di mai visto prima.
+ 
+ Molti rifugi riferiscono disordini e confusioni interne. Al momento nessuna autorità sembra essere in grado di controllare le masse o calmare il panico causato dalla schiusa.","Als wir die Basis erreichten, erhielten wir alarmierende Nachrichten. 
+
+Das außerirdische Gebilde, bekannt als „Berg-Ei“, ist von innen heraus aufgebrochen, hat massive seismische Aktivitäten verursacht und die Umgebung schwer beschädigt. Eine monströse pandoranische Kreatur ist aus der zertrümmerten Hülle entstiegen. Seine gigantische Größe ist mit nichts vergleichbar, dem wir je begegnet sind.
+
+Viele Zufluchten berichten von Unruhen und innerem Chaos. Derzeit scheint keine Behörde in der Lage zu sein, die Massen zu kontrollieren oder die durch das Schlüpfen verursachte Panik zu beruhigen.","Прибыв на базу, мы получили тревожные новости. 
+ 
+ Раскрылась некая чужеродная сущность, известная как «Маунт-Эгг», что послужило причиной интенсивной сейсмической активности и принесло с собой большие разрушения. Чудовищный пандоран разорвал окружавшую его оболочку и пробился наружу. Его громадный размер нельзя сравнить ни с чем, что мы видели прежде.
+
+ Многие убежища сообщают о волнениях и внутренних беспорядках. Сейчас, похоже, ни одна организация не в силах справиться с народными массами и унять вызванную панику.","Gdy tylko dotarliśmy do bazy, otrzymaliśmy niepokojące wieści.
+
+ Obca istota znana jako Jajogóra eksplodowała, powodując potężny wstrząs sejsmiczny i ogromne zniszczenia w okolicy. Z rozbitej skorupy wydostał się wielki Pandoranin. Nie widzieliśmy do tej pory niczego tak olbrzymiego.
+ 
+ Z wielu bastionów docierają do nas doniesienia o zamieszkach i chaosie. Nie ma obecnie żadnej władzy, która byłaby w stanie kontrolować tłumy i okiełznać panikę spowodowaną przez ten wylęg.",
+PROG_FS1_WIN_CHOICE_0_TEXT,Text,,Accept.,,接受。,Accepter.,Aceptar.,Accetta.,Annehmen.,Принять.,Akceptuj.,
+PROG_FS1_WIN_TEXT_GENERAL_0,Text,,"Our team has successfully reached the Manticore and managed to escape the raided haven below. The machine is fully operational and heavily armed. 
+
+We owe no small part of this success to the Synedrion pilot, by the name of Eileen, who fully cooperated with our team and showed exceptional flying skills. Thanks to her our new Manticore reached its destination in one piece.
+
+As a token of gratitude for defending her haven, she volunteers to join the ranks of Phoenix as a proper squad member. It would be foolish to refuse a capable and motivated cadre such as Eileen.",,"我们的队伍成功到达了蝎狮所在位置，并逃离了遭到袭击的避难所。蝎狮状况良好，装备齐全。
+
+ 我们的成功很大程度上要归功于那位平衡议会的驾驶员艾琳，她十分配合我们的队伍，也跟随我们一起登上了飞行器。
+
+ 随着蝎狮的起飞，她自愿加入凤凰计划的队伍，成为了正式的小队成员。只有愚蠢之人才会拒绝像她这样精明强干、积极进取的中坚力量。","Notre équipe a pu atteindre la Manticore et a réussi à fuir le refuge qui se fait attaquer. L'engin est en excellent état et lourdement armé.
+ 
+ Nous devons une grande partie de cette réussite au pilote du Synédrion nommée Eileen qui a coopéré avec notre équipe et a également embarqué à bord.
+ 
+ Au décollage de la Manticore décolle, elle se porte volontaire pour rejoindre les rangs de Phoenix en tant que membre d'escouade. Ce serait ridicule de refuser un cadre de son calibre et aussi motivé.","Nuestro equipo ha llegado con éxito hasta la mantícora y ha conseguido escapar del refugio invadido inferior. La máquina está en unas condiciones excelentes y armada hasta los dientes.
+ 
+ Le debemos una gran parte de este éxito a la piloto de Synedrion cuyo nombre es Eileen, quien ha cooperado sin dudarlo con nuestro equipo, además de subirse a la nave.
+ 
+ En cuanto la mantícora despegó, se presentó voluntaria a unirse a las filas de los Fénix como una miembro del pelotón por derecho propio. Sería estúpido negarse a aceptar a alguien tan capaz y motivado como ella.","La nostra squadra ha raggiunto con successo la Manticore ed è riuscita a fuggire dal rifugio invaso. La macchina è in condizioni eccellenti ed è armata pesantemente.
+ 
+ Dobbiamo questo successo alla pilota Synedrion di nome Eileen, che ha collaborato con la squadra e guidato il velivolo.
+
+ Dopo aver preso il volo sulla Manticore, si è offerta volontaria per unirsi alle truppe di Phoenix come un vero membro della squadra. Sarebbe stupido rifiutare una cadetta abile e motivata come lei.","Unser Einsatzteam hat den Manticore erreicht und ist aus der überfallenen Zuflucht entkommen. Die Maschine ist voll einsatzbereit und schwer bewaffnet.
+
+Einen erheblichen Anteil an diesem Erfolg verdanken wir der Synedrion-Pilotin Eileen. Sie kooperierte vollständig mit unserem Einsatzteam und bewies außergewöhnliches fliegerisches Können. Dank ihr erreichte unser neuer Manticore sein Ziel unversehrt.
+
+Als Dank für die Verteidigung ihrer Zuflucht bietet sie an, sich dem Phoenix-Projekt als vollwertige Soldatin anzuschließen. Es wäre fahrlässig, auf eine so fähige und motivierte Rekrutin zu verzichten.","Наша группа успешно добралась до ВС «Мантикора» и сумела вовремя улететь из захваченного убежища. Судно находится в отличном состоянии и хорошо оснащено тяжелым вооружением. 
+ 
+Немалой частью нашего успеха мы обязаны пилоту Синедриона по имени Эйлин, которая помогла нашей группе и также поднялась на борт воздушного судна. 
+ 
+ Как только мы взлетаем, она добровольно вступает в ряды Проекта Феникс в качестве полноценного члена нашего отряда. Было бы глупо отказаться от такого способного и целеустремленного оперативника, как она.","Nasz zespół z powodzeniem dotarł do mantykory i zdołał uciec z napadniętego bastionu. Maszyna jest w doskonałym stanie, w dodatku silnie uzbrojona. 
+ 
+ Zawdzięczamy to w niemałym stopniu pilotce Synedrionu o imieniu Eileen, która w pełni współpracowała z naszym zespołem i również weszła na pokład. 
+ 
+Zaraz po starcie mantykory pilotka zgłosiła chęć wstąpienia w szeregi Phoenix jako pełnoprawny członek załogi. Byłoby głupotą odmówić tak zdolnej i zmotywowanej kandydatce jak ona.",
+PROG_FS1_WIN_TEXT_GENERAL_1,Text,,"We’re receiving alarming news. 
+
+The alien entity known as ""Mount Egg"" has erupted from the inside, causing massive seismic activity and heavily damaging the surrounding area. A monstrous Pandoran creature has emerged from the shattered shell. Its gargantuan size is unlike anything we've ever encountered.
+
+Many havens report riots and inner mayhem. Currently, no authority seems to be able to control the masses or calm the panic caused by the hatching.",,"我们收到了令人担忧的消息。
+
+ 一个被称为“卵山”的外星实体从内部喷发，引发了大规模的地震活动，对周围地区造成了严重破坏。一只可怕的潘多拉体生物从中破壳而出，我们从未见过如此巨大的生物。
+
+ 许多避难所都报告发生了内乱。目前，似乎没有任何政府能够控制住群众或平息这次孵化引起的恐慌。","Nous recevons des nouvelles alarmantes.
+ 
+ L'entité extraterrestre connue comme le « Mont Œuf » est entré en éruption de l'intérieur, provoquant une activité sismique énorme et endommageant sérieusement la zone alentour. Une créature pandorienne monstrueuse a émergé de la coquille brisée. Sa taille gargantuesque ne ressemble en rien à ce que nous avons rencontré jusqu'à présent.
+ 
+ Plusieurs refuges font état d'émeutes et de chaos interne. À l'heure actuelle, les autorités ne semblent pas être capables de contrôler les foules ni de calmer la panique causée par l'éclosion.","Estamos recibiendo noticias alarmantes.
+ 
+ La entidad alienígena conocida como «Monte huevo» ha hecho erupción desde el interior, causando una actividad sísmica gigantesca y dañando de gravedad la zona circundante. Una monstruosa criatura pandoriana emergió del cascarón roto. Su titánico tamaño no se parece a nada que nos hayamos encontrado anteriormente.
+
+ Hay muchos informes que hablan de disturbios en los refugios y de caos en su interior. Ahora mismo, no parece que haya ninguna autoridad capaz de controlar a las masas o de calmar el pánico provocado por la eclosión.","Stiamo ricevendo notizie allarmanti.
+ 
+ L'entità aliena conosciuta come ""Monte Uovo"" ha eruttato, provocando un'attività sismica massiccia e danneggiando pesantemente l'area circostante. Una mostruosa creatura Pandora è emersa dal guscio distrutto. Le sue colossali dimensioni sono qualcosa di mai visto prima.
+ 
+ Molti rifugi riferiscono disordini e confusioni interne. Al momento nessuna autorità sembra essere in grado di controllare le masse o calmare il panico causato dalla schiusa.","Uns erreichen alarmierende Nachrichten.
+
+Die außerirdische Entität, bekannt als „Berg-Ei“, ist von innen heraus aufgebrochen, hat massive seismische Aktivität ausgelöst und die Umgebung schwer verwüstet. Aus der zersplitterten Hülle ist eine monströse pandoranische Kreatur hervorgebrochen. Ihre gigantische Größe übertrifft alles, was wir bislang erlebt haben.
+
+Viele Zufluchten melden Ausschreitungen und innere Unruhen. Derzeit kann keine Führung die Massen kontrollieren oder die Panik beruhigen, die das Schlüpfen ausgelöst hat.","Мы получили тревожные новости. 
+ 
+ Раскрылась некая чужеродная сущность, известная как «Маунт-Эгг», что послужило причиной интенсивной сейсмической активности и принесло с собой большие разрушения. Чудовищный пандоран разорвал окружавшую его оболочку и пробился наружу. Его громадный размер нельзя сравнить ни с чем, что мы видели прежде.
+
+ Многие убежища сообщают о волнениях и внутренних беспорядках. Сейчас, похоже, ни одна организация не в силах справиться с народными массами и унять вызванную панику.","Otrzymujemy niepokojące wieści.
+ 
+ Obca istota znana jako Jajogóra eksplodowała, powodując potężny wstrząs sejsmiczny i ogromne zniszczenia w okolicy. Z rozbitej skorupy wydostał się wielki Pandoranin. Nie widzieliśmy do tej pory niczego tak olbrzymiego.
+
+ Z wielu bastionów docierają do nas doniesienia o zamieszkach i chaosie. Nie ma obecnie żadnej władzy, która byłaby w stanie kontrolować tłumy i okiełznać panikę spowodowaną przez ten wylęg.",
+PROG_FS1_WIN_TITLE,Text,,Citizen Eileen At Your Service,,市民艾琳为你效劳,Citoyenne Eileen à votre service,Ciudadana Eileen a tu servicio,Cittadina Eileen al tuo servizio,Bürgerin Eileen zu Diensten,Гражданка Эйлин к вашим услугам,Obywatelka Eileen melduje się na służbę,
+PROG_FS20_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_FS20_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+The colossal organism known as the Behemoth has been infecting some human havens with a new mutation of the Pandoravirus, while stomping others into fine dust. So far, all militaristic assaults against it have been ineffective. The back of the creature is swarmed by flying Pandorans, forming an impenetrable area the Disciples call the ""Festering Skies"". Scientists and air force commanders speculate it is guarding something.
+
+For the sake of humanity, we must find a way to penetrate the Festering Skies. Should we fail in this, all is lost.",,"消息
+ 来自：托拜厄斯 韦斯特（新耶利哥）
+接收：凤凰计划
+ 
+ 这个被称为“巨兽”的巨型生物体一直在用新变异的潘多拉病毒感染人类避难所，一些地方甚至直接被它踏为尘土。目前，我们对它发动的各种武装进攻均以失败告终。这个生物的背部聚集着成群的潘多拉飞行体，形成了一片密不透风的区域，安努门徒教会将其称之为“溃烂天空”。科学家和空军将领推测，它是在保护着什么东西。
+
+ 为了人类的未来，我们必须想办法穿过溃烂天空。如果我们失败，人类将面临终结。","MESSAGE
+ DE : Tobias West (Nouvelle-Jéricho)
+ À : Projet Phoenix
+
+ L'organisme colossal connu comme le Béhémoth infecte certains refuges humains avec une nouvelle mutation du Pandoravirus tout en réduisant d'autres colonies en poussière avec ses piétinements. Jusqu'ici, tous les assauts militaires se sont avérés inefficaces. Le dos de la créature est rempli de Pandoriens volants qui forment une zone impénétrable ; les Disciples l'appellent « les Ciels de poison ». Les scientifiques et les commandants des forces aériennes avancent l'hypothèse que ces créatures protègent quelque chose.
+ 
+ Pour le bien de l'humanité, nous devons trouver un moyen de pénétrer les Ciels de poison. Si nous échouons, tout est perdu.","MENSAJE
+ DE: Tobias West (Nueva Jericó)
+ PARA: Proyecto Fénix
+
+ El organismo colosal conocido como bégimo ha infectado algunos refugios humanos con una nueva mutación del Pandoravirus, mientras que otros han sido pisoteados hasta quedar hechos ruinas. Por ahora, todos los asaltos militares lanzados contra él han sido ineficaces. La espalda de la criatura está repleta de pandorianos voladores que forman una zona impenetrable que los Discípulos llaman «Cielos en descomposición». Los científicos y los comandantes de las fuerzas aéreas especulan que está protegiendo algo.
+ 
+ Por el bien de la humanidad, debemos encontrar el modo de penetrar los Cielos en descomposición. Si fracasamos en esta misión, todo estará perdido.","MESSAGGIO
+ DA: Tobias West (Nuova Gerico)
+ A: Progetto Phoenix
+ 
+ L'organismo colossale conosciuto come Behemoth ha infettato alcuni rifugi umani con una nuova mutazione di Pandoravirus, riducendone altri in polvere. Finora, ogni assalto militare è stato inefficace. Il dorso della creatura è circondato da Pandora volanti, che formano un'impenetrabile area chiamata dai Discepoli ""Cieli infetti"". Gli scienziati e i comandanti delle forze aeree sospettano che stiano proteggendo qualcosa.
+ 
+ Per il bene dell'umanità, dobbiamo trovare un modo per penetrare i Cieli infetti. Se dovessimo fallire, sarà tutto perduto.","NACHRICHT
+ VON: Tobias West (Neu-Jericho)
+ AN: Phoenix-Projekt
+ 
+Der kolossale Organismus, der als Behemoth bekannt ist, hat einige menschliche Zufluchten mit einer neuen Mutation des Pandoravirus infiziert, während er andere zu feinem Staub zermalmt hat. Bislang waren alle militärischen Angriffe gegen ihn wirkungslos. Der Rücken der Kreatur wird von fliegenden Pandoranern umschwärmt, die ein undurchdringliches Gebiet bilden, das die Jünger „Faulige Himmel“ nennen. Wissenschaft und Kommandeure vermuten, dass es etwas bewacht.
+ 
+Um der Menschheit willen müssen wir einen Weg finden, in den Fauliger Himmel einzudringen. Sollten wir dabei scheitern, ist alles verloren.","СООБЩЕНИЕ
+ ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ ПОЛУЧАТЕЛЬ: Проект Феникс
+
+ Исполинское существо, известное как Бегемот, направило на одни поселения людей новую мутацию пандоравируса, а другие обращает в руины. До сих пор не удалось провести ни одну эффективную военную операцию против него. Его спина кишит летающими пандоранами, образующими непроходимый участок, который Последователи Ану называют «Гнойное Небо». Ученые и командующие воздушных сил предполагают, что оно что-то охраняет.
+
+ Ради спасения всего человечества мы должны пробиться сквозь Гнойное Небо. Если нам это не удастся, все потеряно.","WIADOMOŚĆ
+ OD: Tobias West (Nowe Jerycho)
+ DO: Projekt Phoenix
+
+ Olbrzymi organizm znany jako Behemot zainfekował kilka bastionów ludzkości nową mutacją pandorawirusa. Inne zostały zwyczajne wgniecione w ziemię. Jak dotąd, żaden atak wojskowy przeciwko niemu nie okazał się skuteczny. Grzbiet stwora roi się od latających Pandoran, tworząc nieprzenikniony obszar, który Akolici nazywają gnijącymi niebiosami. Naukowcy i dowódcy sił powietrznych spekulują, że stwór czegoś strzeże.
+ 
+ Dla dobra ludzkości musimy znaleźć sposób na przedostanie się do gnijących niebios. Jeśli nam się to nie uda, wszystko jest stracone.",
+PROG_FS20_TITLE,Text,,The Festering Skies,,溃烂天空,Les Ciels de poison,Los Cielos en descomposición,I Cieli infetti,Fauliger Himmel,Гнойное Небо,Gnijące niebiosa,
+PROG_FS2_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_FS2_FAIL_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_FS2_FAIL_TEXT_GENERAL_0,Text,,"Despite our best efforts, the Behemoth organism was not neutralized. However, our method seems to be working. We must try again - the world depends on it. ",,虽然我们尽了最大努力，但还是没能干掉巨兽。不过我们的方法似乎奏效了。我们必须再试一次，整个世界的将来都在此一举。,"Malgré tous nos efforts, l'organisme Béhémoth n'a pas pu être neutralisé. Toutefois, notre méthode semble fonctionner. Nous devons réessayer – le monde en dépend.","A pesar de esforzarnos al máximo, el organismo bégimo no ha sido neutralizado. Sin embargo, nuestro método parece estar funcionando, por lo que debemos intentarlo de nuevo. El mundo depende de ello.","Nonostante i nostri sforzi, l'organismo chiamato Behemoth non è stato neutralizzato. Tuttavia, il nostro metodo sembra funzionare. Dobbiamo provare di nuovo: il destino del mondo dipende da noi.",Trotz aller Anstrengungen konnten wir den Behemoth nicht neutralisieren. Unsere Methode zeigt jedoch Wirkung. Wir müssen es erneut versuchen – das Schicksal der Welt hängt davon ab.,"Несмотря на все наши усилия, Бегемот не был нейтрализован. Но, похоже, наша задумка верна. Мы должны попробовать ещё раз — от этого зависит судьба всего мира.",Mimo wszelkich wysiłków nie udało się wyeliminować Behemota. Nasze sposoby wydają się jednak działać. Musimy spróbować raz jeszcze – od tego zależą losy świata.,
+PROG_FS2_FAIL_TITLE,Text,,This might just work...,,这也许能行……,Ça pourrait fonctionner...,Puede que esto funcione...,Questo dovrebbe funzionare...,Das könnte sogar funktionieren...,"Возможно, у нас получится…",To może się udać...,
+PROG_FS2_MISS_CHOICE_0_TEXT,Text,,START MISSION,,开始任务,COMMENCER LA MISSION,EMPEZAR MISIÓN,AVVIA MISSIONE,MISSION STARTEN,НАЧАТЬ МИССИЮ,ROZPOCZNIJ MISJĘ,
+PROG_FS2_MISS_CHOICE_1_TEXT,Text,,CANCEL,,取消,ANNULER,CANCELAR,ANNULLA,ABBRECHEN,ОТМЕНА,ANULUJ,
+PROG_FS2_MISS_TEXT_GENERAL_0,Text,,"MISSION BRIEFING
+
+Our researches believe this should work, but there's only one way to know for certain. The Masked Manticore will breach the Festering Skies and carry a squad of operatives to the creature's back. A well-timed injection of the virophage weapon should put an end to its rampage once and for all.
+
+We should be on the lookout for other human vessels in the air who might mistake us for Pandoran aircraft and attack.",,"任务概要
+ 
+ 我们的研究人员十分相信这种做法切实可行，但只有一种方法能够确定。隐形蝎狮将冲破溃烂天空，把一队特工送到巨兽的背部，然后找准时机注射病毒噬菌体，彻底给这个庞然巨物的生命画上句号。
+
+ 我们应该注意空中是否有其他人类飞船误认为我们是潘多拉体飞行器而发动攻击。","RÉSUMÉ DE LA MISSION
+ 
+ Nos recherches garantissent que cela fonctionnerait, mais il n'y a qu'un seul moyen de le savoir. La Manticore masquée pénètrera les Ciels de poison et transportera une escouade d'agents derrière la créature. Une injection au bon moment de l'arme virophage devrait mettre fin à sa folie destructrice une bonne fois pour toutes.
+ 
+ Nous devrions faire preuve de vigilance que d'autres vaisseaux humains ne nous attaquent pas en nous prenant pour un vaisseau pandorien.","INSTRUCCIONES DE LA MISIÓN
+ 
+ Nuestros investigadores están seguros de que esto debería funcionar, pero solo hay una manera de asegurarse. La mantícora enmascarada romperá los Cielos en descomposición y llevará a un pelotón de operativos hasta la espalda de la criatura. Una inyección en el momento correcto de la arma virófaga debería acabar con él de una vez por todas.
+ 
+ Deberíamos prestar atención otras naves humanas que haya en el aire por si nos confundieran con naves pandorianas y nos atacasen.","RIEPILOGO MISSIONE
+ 
+ I nostri ricercatori sono certi che funzionerà, ma c'è solo un modo per esserne sicuri. La Manticore mascherata farà breccia nei Cieli infetti, depositando una squadra di agenti sul suo dorso. Un'iniezione di virofago al momento gusto dovrebbe mettere fine una volta per tutte alla sua furia.
+ 
+ Dovremmo stare attenti ad altre navicelle umane che potrebbero scambiarci per un velivolo di Pandora e attaccarci.","MISSIONSBRIEFING
+ 
+Unsere Forschungsabteilung hält den Plan für erfolgversprechend, doch Gewissheit bringt nur der Einsatz. Der getarnte Manticore wird in die Fauligen Himmel eindringen und ein Einsatzteam auf dem Rücken der Kreatur absetzen. Eine rechtzeitige Injektion der Virophagen-Waffe sollte ihren Amoklauf ein für alle Mal beenden.
+ 
+Wir sollten nach anderen menschlichen Fluggeräten Ausschau halten, die uns für Pandoraner halten und angreifen könnten.","СВОДКА МИССИИ
+
+ Наши исследователи уверены, что это сработает, но есть лишь один способ узнать наверняка. Замаскированная Мантикора прорвется сквозь Гнойное Небо и унесет отряд оперативников на спину этого существа. Если своевременно ввести вирофаговое оружие, это положит конец всему его неистовству раз и навсегда.
+ 
+ Мы должны внимательно следить за другими воздушными судами людей, которые могут принять нас за пандоранов и напасть.","ODPRAWA MISJI
+ 
+ Nasi badacze są pewni, że powinno się udać, ale możemy się o tym przekonać tylko w jeden sposób. Zamaskowana mantykora przedrze się przez gnijące niebiosa i przeniesie oddział operatorów na grzbiet stwora. Dobrze zaplanowany w czasie zastrzyk z broni antywirusowej powinien na zawsze skończyć to szaleństwo.
+
+ Musimy uważać na inne ludzkie statki, które mogą pomylić nas z Pandoranami i zaatakować.",
+PROG_FS2_MISS_TITLE,Text,,Behemoth,,巨兽,Béhémoth,Bégimo,Behemoth,Behemoth,Бегемот,Behemot,
+PROG_FS2_TEXT_GENERAL_0,Text,,"We are receiving a message from our scientific laboratory. Our scientists made an extraordinary breakthrough - a method to fuse aircraft alloy with Pandoran DNA using mutagens. Initial tests have proven Panorans can't distinguish the material from their own flesh.
+
+If this is true, we might be able to produce a masked aircraft and infiltrate the Festering Skies undetected.
+
+The plan is extremely dangerous but the potential outcome is worth the risk.",,"我们收到了科学实验室发来的信息。我们的科学家取得了非凡的突破，找到了一种利用诱变剂将飞行器合金与潘多拉体 DNA 融合的方法。初步测试证明，潘多拉体无法将这种材料和它们自己的肉体区分开来。
+
+ 如果信息属实，我们也许就能制造隐形飞行器，秘密潜入溃烂天空。
+
+ 这个计划虽然十分冒险，但绝对值得尝试。","Nous recevons un message de notre laboratoire scientifique. Nos chercheurs ont fait une incroyable découverte – une méthode de fusion de l'alliage du vaisseau avec l'ADN pandorien à l'aide de mutagènes. Les premiers tests indiquent que les Pandoriens sont incapables de distinguer le matériau de leur propre chair.
+ 
+ Si cela est vrai, nous pourrions être en mesure de produire un vaisseau masqué pour infiltrer les Ciels de poison sans nous faire repérer.
+ 
+ Cette stratégie est extrêmement dangereuse, mais le résultat potentiel en vaut la peine.","Estamos recibiendo un mensaje de nuestro laboratorio científico. Nuestros científicos han hecho un descubrimiento extraordinario: un método de fusión de aleación de naves con ADN pandoriano usando mutágenos. Las pruebas iniciales han demostrado que los pandorianos no pueden distinguir el material de su propia carne.
+ 
+ Si esto es cierto, puede que consigamos producir una nave enmascarada e infiltrarnos en los Cielos en descomposición sin ser detectados.
+ 
+ El plan es extremadamente peligroso, pero el posible resultado vale la pena.","Stiamo ricevendo un messaggio dal nostro laboratorio di ricerca. I nostri scienziati hanno fatto una scoperta straordinaria: un metodo per fondere la lega dei velivoli con il DNA Pandora utilizzando dei mutageni. I test iniziali hanno dimostrato che i Pandora non sono in grado di distinguere il materiale dalla propria carne.
+ 
+ Se è così, potremmo riuscire a produrre velivoli mascherati e infiltrarci nei Cieli infetti senza essere scoperti.
+ 
+ Il piano è molto pericoloso, ma il gioco vale la candela.","Wir erhalten eine Nachricht aus unserem wissenschaftlichen Labor. Unseren Wissenschaftlern ist ein außergewöhnlicher Durchbruch gelungen - eine Methode, Fluggerätlegierung unter Verwendung von Mutagenen mit pandoranischer DNA zu verschmelzen. Erste Tests haben gezeigt, dass die Pandoraner das Material nicht von ihrem eigenen Fleisch unterscheiden können.
+ 
+Wenn das stimmt, könnten wir in der Lage sein, ein getarntes Fluggerät zu produzieren und den Fauligen Himmel unentdeckt zu infiltrieren.
+ 
+Der Plan ist extrem gefährlich, aber das mögliche Ergebnis ist das Risiko wert.","Мы получили сообщение из научной лаборатории. Наши ученые совершили выдающийся прорыв — нашли способ применить мутагены для слияния металлического сплава, из которого изготовлено воздушное судно, с пандоранской ДНК. Первоначальные испытания показали, что пандораны не могут отличить получившийся материал от собственной плоти.
+ 
+ Если это так, мы сможем создать замаскированное воздушное судно и незамеченными прорваться сквозь Гнойное Небо.
+ 
+План чрезвычайно опасен, но игра стоит свеч.","Mamy wiadomość z laboratorium naukowego. Nasi uczeni dokonali szczególnie ważnego przełomu – opracowali sposób łączenia poszycia statków powietrznych z DNA Pandoran za pomocą mutagenów. Wstępne testy dowiodły, że Pandoranie nie potrafią odróżnić tego materiału od własnego ciała.
+ 
+ Jeśli to się potwierdzi, będziemy mogli tworzyć zamaskowane statki i wnikać niepostrzeżenie do gnijących niebios.
+ 
+ To bardzo niebezpieczny plan, ale warto zaryzykować dla potencjalnych efektów.",
+PROG_FS2_TITLE,Text,,A Plan Hatches,,酝酿计划,Élaboration d'un plan,El plan eclosiona,L'elaborazione di un piano,Ein Plan formiert sich,Рождение плана,Rodzi się plan,
+PROG_FS2_TRACKER_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_FS2_TRACKER_TITLE,Text,,Kill the Behemoth,,杀死巨兽,Tuez le Béhémoth,Mata al bégimo,Uccidi il Behemoth,Töte den Behemoth,Убейте Бегемота,Zabij Behemota,
+PROG_FS2_WIN_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_FS2_WIN_TEXT_GENERAL_0,Text,,"The combined efforts of Phoenix Point, scientists, and allied forces has successfully neutralized the greatest threat the world has ever seen. We've won our toughest battle yet. Can we also win the war?",,在凤凰点、科学家和盟军的共同努力下，我们成功消灭了这个世界上有史以来最严峻的威胁。我们已经赢得了最艰难的战斗，能否再一鼓作气赢下这场战争？,"Les efforts combinés de Phoenix Point, des scientifiques et des forces alliées ont assuré la neutralisation de la plus grande menace que le monde ait jamais vue. Nous avons remporté la bataille la plus difficile jusqu'à présent. Pouvons-nous aussi gagner la guerre ?","Los esfuerzos combinados de Punto Fénix, los científicos y las fuerzas aliadas han logrado neutralizar con éxito a la mayor amenaza que haya visto nunca el mundo. Hemos vencido en nuestra batalla más dura, pero ¿podremos ganar también la guerra?","Gli sforzi combinati di Phoenix Point, scienziati e forze alleate ha neutralizzato con successo la più grande minaccia mai vista al mondo. Abbiamo vinto la nostra battaglia più ardua. Riusciremo a vincere anche la guerra?","Die gemeinsamen Anstrengungen des Phoenix-Projekts, der Wissenschaft und unserer Verbündeten haben die größte Bedrohung, die die Welt je gesehen hat, erfolgreich neutralisiert.","Совместными усилиями Проекта Феникс, ученых и союзных сил нам удалось нейтрализовать величайшую угрозу этому миру. Мы одержали победу в самой сложной битве, в которой мы когда-либо участвовали. Удастся ли нам выиграть и саму войну?","Połączone siły Phoenix Point, naukowców i sojuszników zneutralizowały największe zagrożenie, z jakim do tej pory miał do czynienia nasz świat. Wygraliśmy najtrudniejszą z naszych bitew. Czy zdołamy też wygrać wojnę?",
+PROG_FS2_WIN_TITLE,Text,,A Gargantuan Triumph,,伟大的胜利,Un triomphe gargantuesque,Un triunfo colosal,Un colossale trionfo,Ein gewaltiger Triumph,Грандиозный триумф,Olbrzymi triumf,
+PROG_FS3_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_FS3_FAIL_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_FS3_FAIL_TEXT_GENERAL_0,Text,,We did not have the strength to combat this threat. But we must return.,,虽然我们无力对抗这种威胁，但我们必须回去。,Nous n'avions pas la force nécessaire pour affronter cet ennemi. Mais nous devons y retourner.,"No tuvimos la fuerza para combatir esta amenaza, pero debemos volver.",Non abbiamo le forze per combattere questa minaccia. Ma dovremo ritornare.,"Wir hatten nicht die Kraft, diese Bedrohung zu bekämpfen. Aber wir müssen zurückkehren.",Нам не хватило сил побороть эту угрозу. Но мы вернемся.,"Nie mamy dość sił, żeby zwalczyć to zagrożenie. Ale trzeba odpowiedzieć.",
+PROG_FS3_FAIL_TITLE,Text,,Corruption of the Body,,身体的腐败,Corruption du corps,Corrupción del cuerpo,Corruzione del corpo,Verderbnis des Körpers,Тление тела,Zepsucie ciała,
+PROG_FS3_MISS_CHOICE_0_TEXT,Text,,START MISSION,,开始任务,COMMENCER LA MISSION,EMPEZAR MISIÓN,AVVIA MISSIONE,MISSION STARTEN,НАЧАТЬ МИССИЮ,ROZPOCZNIJ MISJĘ,
+PROG_FS3_MISS_CHOICE_1_TEXT,Text,,CANCEL,,取消,ANNULER,CANCELAR,ANNULLA,ABBRECHEN,ОТМЕНА,ANULUJ,
+PROG_FS3_MISS_TEXT_GENERAL_0,Text,,Locate and destroy the Pandoran mutation that has taken hold of the minds of the Anu splinter group command.,,找到并摧毁控制这支安努门徒分支派系指挥部思想的潘多拉体变种。,Trouvez et détruisez le mutant Pandorien qui contrôle mentalement les chefs du groupe dissident d'Anu.,Encuentra y destruye la mutación pandoriana que se ha apoderado de las mentes del grupo dividido de comando de Anu.,Localizza e distruggi la mutazione Pandora che ha preso il controllo delle menti delle autorità della fazione separatista di Anu.,"Finde und zerstöre die pandoranische Mutation, die den Verstand des Anu-Splittergruppen-Kommandos in Beschlag genommen hat.","Найдите и уничтожьте пандоранскую мутацию, захватившую умы командования секты, отколовшейся от Последователей Ану.","Znajdź i zniszcz pandorańską mutację, która przejęła umysły dowództwa frakcji Anu.",
+PROG_FS3_MISS_TITLE,Text,,Corruption of the Mind,,思想的腐败,Corruption de l'esprit,Corrupción de la mente,Corruzione della mente,Verderbnis des Geistes,Тление ума,Zepsucie umysłu,
+PROG_FS3_TEXT_GENERAL_0,Text,,"We receive a worrisome report from our intelligence operatives.
+
+It appears that a splinter group of Anu are worshipping a grotesque Pandoran mutation. Our spy informs us of gruesome, inhumane rituals. Normally we don't take a stand against the excesses of the fringe Anu cults, but in this case an armed response is warranted.
+
+The cult's base is located in a remote area. The sooner we get there, the better.",,"我们从情报部门收到了一份令人担忧的报告。
+
+ 似乎有一个安努门徒教会的分支派系崇拜畸形的潘多拉体变种。我们的间谍报告说他们进行了惨无人道的可怕仪式。通常情况下，我们并不反对安努门徒教会的边缘支派做出过激的行为，但面对这种情况，我们有必要采取武力应对。
+
+ 这个邪教的基地位于一个偏远的地区。事不宜迟，我们要尽快抵达。","Nous avons reçu un rapport inquiétant de nos services de renseignement.
+
+ Il semble qu'un groupe dissident d'Anu vénère un mutant pandorien grotesque. Notre espion nous informe de rituels inhumains effroyables. Normalement, nous ne prenons pas position contre les excès des cultes d'Anu marginaux, mais dans ce cas, une réponse armée est justifiée.
+ 
+ La base du culte se trouve dans une région éloignée. Plus vite nous y arriverons, mieux ce sera.","Hemos recibido un informe preocupante de nuestros servicios de inteligencia.
+
+ Parece ser que un grupo dividido de Anu venera a una grotesca mutación pandoriana. Nuestro espía informa de unos rituales inhumanos y espantosos. Normalmente no nos acercaríamos a los límites de las sectas de Anu pero, en este caso, una respuesta armada está justificada.
+ 
+ La base de la secta se ubica en una zona remota. Cuanto antes lleguemos hasta allí, mejor.","Abbiamo ricevuto un rapporto preoccupante dalla nostra intelligence.
+ 
+Sembra che un gruppo di Anu veneri una grottesca mutazione di Pandora. Le nostre spie riferiscono di rituali raccapriccianti e disumani. Normalmente non badiamo agli eccessi dei cultisti di Anu più estremi, ma in questo caso è necessario rispondere con le armi.
+ 
+ La base del culto si trova in un'area remota. Dobbiamo raggiungerla il prima possibile.","Wir haben einen beunruhigenden Bericht von unserer Aufklärung erhalten.
+
+Eine Splittergruppe der Anu scheint eine groteske pandoranische Mutation anzubeten. Es wird von grausamen, unmenschlichen Ritualen berichtet. Normalerweise gehen wir nicht gegen die Exzesse der Anu-Sekten vor, aber in diesem Fall ist ein bewaffneter Einsatz gerechtfertigt.
+ 
+Die Basis des Kults befindet sich in einem abgelegenen Gebiet. Je eher wir dort sind, desto besser.","Мы получили тревожную разведывательную сводку.
+ 
+ Похоже, сторонники некой секты, отколовшейся от Последователей Ану, поклоняются зловещей пандоранской мутации. Наш разведчик сообщает об ужасных и бесчеловечных ритуалах. Обычно мы не вмешиваемся в дела разных культов среди Последователей Ану, но в этом случае вооруженное столкновение просто необходимо.
+
+ Члены культа расположились в отдаленном месте. Чем раньше мы до них доберемся, тем лучше.","Otrzymaliśmy niepokojący meldunek naszego wywiadu.
+ 
+ Wygląda na to, że odłam Anu czci jakąś groteskową pandorańską mutację. Nasz szpieg informuje o makabrycznych, nieludzkich rytuałach. Zazwyczaj nie zajmujemy stanowiska wobec ekscesów fanatycznych kultów Anu, ale w tym przypadku zbrojna reakcja jest uzasadniona.
+ 
+ Baza kultu znajduje się na peryferiach. Im szybciej się tam dostaniemy, tym lepiej.",
+PROG_FS3_TITLE,Text,,Ghastly Dispatch,,可怕的消息,Déploiement épouvantable,Envío abominable,Una spedizione agghiacciante,Grausiger Einsatz,Скверные вести,Ekspedycja przeciw koszmarowi,
+PROG_FS3_WIN_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_FS3_WIN_TEXT_GENERAL_0,Text,,The horrifying creature will no longer terrorize the Anu cultists. Let's hope they rebuild in a sensible way.,,这个可怕的生物将不再恐吓安努的信徒。希望他们能以明智的方式重建他们的信仰。,L'horrible créature ne terrorisera plus les adeptes d'Anu. Espérons qu'ils reconstruisent de manière raisonnable.,Esa horripilante criatura ya no volverá a aterrorizar a los sectarios de Anu. Esperemos que se recuperen de forma adecuada.,L'orribile creatura non terrorizzerà più gli adepti di Anu. Speriamo che riescano a ricostruire in modo giudizioso.,"Die furchterregende Kreatur wird die Anu-Kultisten nicht mehr terrorisieren. Hoffen wir, dass sie sich auf eine vernünftige Art und Weise wieder erholen.","Ужасающее существо больше не будет терроризировать сторонников культа Ану. Остается надеяться, что к ним вернется разум.","Ta straszliwa istota nie będzie już terroryzować kultystów Anu. Miejmy nadzieję, że odbudują się w sensowny sposób.",
+PROG_FS3_WIN_TITLE,Text,,Cleansed,,净化完成,Purifié,Purificación completada,Purificazione,Gereinigt,Зачистка выполнена,Oczyszczeni,
+PROG_FS9_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_FS9_TEXT_GENERAL_0,Text,,"Earlier today, a meteor has crashed into Earth, causing great damage and widespread panic. 
+
+The landing has left a giant, peculiarly shaped mass of celestial rock towering above the surrounding mountain range. Initial probing of its properties does not match any records in our geological database.
+
+Scientists, religious leaders, and politicians from across the globe have been taking turns speculating and arguing over the nature of this alien object nicknamed ""Mount Egg"".",,"今天早些时候，一颗流星撞上了地球，造成了巨大的破坏并引起了广泛的恐慌。
+
+ 这次撞击在周围的山脉上留下了一块巨大的畸形陨石。经过初步调查，这块陨石的属性与我们地质数据库中的所有记录都无法吻合。
+
+ 世界各地的科学家、宗教领袖和政客纷纷议论这个绰号为“卵山”的外星物体究竟是什么东西。","Un peu plus tôt dans la journée, une météorite s'est écrasée sur Terre, provoquant d'énormes dégâts et la panique générale.
+
+ L'impact a laissé une masse gigantesque de rocher céleste à la forme bizarre qui domine la chaîne de montagne qui l'entoure. L'analyse initiale de ses propriétés ne correspond à aucune information de notre base de données géologiques.
+ 
+ Les scientifiques, les chefs religieux et les politiciens du monde entier spéculent à tour de rôle et se disputent quant à la nature de cet objet extraterrestre surnommé « Mont Œuf ».","Hoy mismo se estrelló un meteorito contra la Tierra, causando grandes daños y un pánico generalizado.
+ 
+ El aterrizaje ha dejado una roca celestial gigante con una forma de lo más peculiar que sobresale de la zona montañosa que la rodea. Los descubrimientos iniciales de sus propiedades no encajan con ninguno de nuestros registros de la base de datos geológica.
+
+ Los científicos, líderes religiosos y políticos de todo el mundo se han estado turnando a la hora de especular y discutir sobre la naturaleza de este ser alienígena conocido como «Monte huevo».","Poco fa un meteorite si è schiantato sulla Terra, provocando enormi danni e panico generale.
+ 
+ L'impatto ha lasciato una massa di detriti celesti enorme e dalla forma particolare, che svetta sulle montagne circostanti. Una prima analisi non risulta corrispondere ad alcun elemento geologico registrato nei nostri database.
+ 
+ Scienziati, leader religiosi e politici da tutto il mondo hanno speculato e discusso sulla natura di questo oggetto alieno soprannominato ""Monte Uovo"".","Heute früh ist ein Meteor auf die Erde gestürzt und hat große Schäden verursacht und Panik verbreitet. 
+ 
+Der Aufschlag hat eine riesige, seltsam geformte Masse aus extraterrestrischem Gestein hinterlassen, die die umliegende Bergkette überragt. Erste Untersuchungen seiner Eigenschaften stimmen mit keinen Aufzeichnungen in unserer geologischen Datenbank überein.
+
+Weltweit spekulieren und streiten Wissenschaftler, Kleriker und Politiker über die Natur dieses fremden Objekts, das den Spitznamen „Berg-Ei“ trägt.","Сегодня на Землю упал метеорит, что вызвало большие разрушения и повсеместную панику. 
+ 
+ В месте столкновения появилась гигантская скала необычной формы и небесного происхождения, возвышающаяся над окружающим ее горным хребтом. Ее свойства, согласно предварительному исследованию, не совпадают ни с одной из имеющихся записей в геологической базе данных.
+ 
+ Ученые, религиозные лидеры и политики со всего земного шара по очереди размышляли над ситуацией и спорили о природе этого чужеродного объекта, получившего название «Маунт-Эгг».","Dziś na Ziemi rozbił się meteor, powodując ogromne zniszczenia i powszechną panikę. 
+ 
+ W rezultacie powstała gigantyczna, osobliwie ukształtowana masa kosmicznej materii, przewyższająca otaczające ją góry. Wstępne badania właściwości skały nie pasują do żadnych zapisów w naszej geologicznej bazie danych.
+ 
+ Naukowcy, przywódcy religijni i politycy z całego świata na zmianę spekulują i spierają się o naturę tego obcego obiektu, określanego mianem Jajogóry.",
+PROG_FS9_TITLE,Text,,Mount Egg,,卵山,Mont Œuf,Monte huevo,Monte Uovo,Berg-Ei,МАУНТ-ЭГГ,Jajogóra,
+PROG_FS9_TITLE_TEST,Text,,DELETE ME ,,删除我,M'EFFACER,BÓRRAME,ELIMINAMI,LÖSCHEN,УДАЛИТЕ МЕНЯ,USUŃ MNIE,

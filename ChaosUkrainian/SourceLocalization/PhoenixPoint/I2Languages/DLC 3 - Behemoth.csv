@@ -1,0 +1,786 @@
+Key,Type,Desc,English,Chinese (Simplified),French,German,Italian,Polish,Russian,Spanish,UI_Tester
+KEY_ABILITY_INTERCEPT_DESCRIPTION,Text,,Engage enemy aircraft in air combat,与敌方飞行器空中交战,Engagez le vaisseau ennemi dans un combat aérien,Führe einen Luftkampf gegen feindliche Fluggeräte aus,Ingaggia un velivolo nemico in un combattimento aereo,Nawiązuje walkę z wrogim statkiem,Вступить в бой с вражеским воздушным судном,Entabla combate aéreo con una nave enemiga-,
+KEY_ABILITY_INTERCEPT_NAME,Text,,INTERCEPT ENEMY AIRCRAFT,拦截敌方飞行器,INTERCEPTER LE VAISSEAU ENNEMI,ABFANG FEINDLICHER FLUGGERÄTE,INTERCETTA VELIVOLO NEMICO,PRZEJMIJ WROGI STATEK,ДАТЬ ОТПОР ВРАЖЕСКОМУ ВОЗДУШНОМУ СУДНУ,INTERCEPCIÓN DE NAVE ENEMIGA,
+KEY_AIRCRAFT_ITEM_STAT_CHARGES,Text,,Charges,充能,RECHARGES,LADUNGEN,CARICHE,ŁADUNKI,ЗАРЯДЫ,CARGAS,
+KEY_AIRCRAFT_ITEM_STAT_COOLDOWN,Text,,Cooldown,冷却,RECHARGE,ABKLINGZEIT,TEMPO DI RICARICA,ODNOWIENIE,ПЕРЕЗАРЯДКА,ENFRIAMIENTO,
+KEY_AIRCRAFT_ITEM_STAT_DURATION,Text,,Duration,持续时间,DURÉE,DAUER,DURATA,CZAS TRWANIA,ДЛИТЕЛЬНОСТЬ,DURACIÓN,
+KEY_AIRCRAFT_ITEM_STAT_PREPARATION,Text,,Preparation,准备,PRÉPARATION,VORBEREITUNG,PREPARAZIONE,PRZYGOTOWANIE,ПОДГОТОВКА,PREPARACIÓN,
+KEY_AIRCRAFT_PP_2_LONG,Text,,Phoenix Infiltration Aircraft,凤凰渗透飞行器,Vaisseau d'infiltration Phoenix,Phoenix-Infiltrationsfluggerät,Velivolo di infiltrazione Phoenix,Statek powietrzny Phoenix do infiltracji,Разведывательное ВС Проекта Феникс,Nave Fénix de infiltración,
+KEY_ALN_ACID_SWARMER_DESCRIPTION,Text,,Acid Myrmidon,酸性侍从,Myrmidon Caustique,Säure-myrmidone,Mirmidone Acido,Kwasowy Myrmidon,Кислотный Мирмидон,Mirmidón Ácido,
+KEY_ALN_ACID_SWARMER_NAME,Text,,ACID MYRMIDON,酸性侍从,MYRMIDON CAUSTIQUE,SÄURE-MYRMIDONE,MIRMIDONE ACIDO,KWASOWY MYRMIDON,КИСЛОТНЫЙ МИРМИДОН,MIRMIDÓN ÁCIDO,
+KEY_ALN_CORRUPTION_NODE_DESCRIPTION,Text,,Corruption Node,腐败节点,Nœud de Corruption,Verderbnisknoten,Nodo di Corruzione,Węzeł Zepsucia,Узел Тления,Nodo de Corrupción,
+KEY_ALN_CORRUPTION_NODE_NAME,Text,,CORRUPTION NODE,腐败节点,NŒUD DE CORRUPTION,VERDERBNISKNOTEN,NODO DI CORRUZIONE,WĘZEŁ ZEPSUCIA,УЗЕЛ ТЛЕНИЯ,NODO DE CORRUPCIÓN,
+KEY_ALN_EXPLOSIVE_EGG_DESCRIPTION,Text,,Explosive Egg,爆卵,Œuf Explosif,Explosives Ei,Uovo Esplosivo,Wybuchowe Jajo,Взрывное Яйцо,Huevo Explosivo,
+KEY_ALN_EXPLOSIVE_EGG_NAME,Text,,EXPLOSIVE EGG,爆卵,ŒUF EXPLOSIF,EXPLOSIVES EI,UOVO ESPLOSIVO,WYBUCHOWE JAJO,ВЗРЫВНОЕ ЯЙЦО,HUEVO EXPLOSIVO,
+KEY_ALN_SWARMER_DESCRIPTION,Text,,Myrmidon,侍从,Myrmidon,Myrmidone,Mirmidone,Myrmidon,Мирмидон,Mirmidón,
+KEY_ALN_SWARMER_EGG_DESCRIPTION,Text,,Myrmidon Egg,侍从卵,Œuf de Myrmidon,Myrmidonen-Ei,Uovo di Mirmidone,Jajo Myrmidona,Яйцо Мирмидона,Huevo de Mirmidón,
+KEY_ALN_SWARMER_EGG_NAME,Text,,MYRMIDON EGG,侍从卵,ŒUF DE MYRMIDON,MYRMIDONEN-EI,UOVO DI MIRMIDONE,JAJO MYRMIDONA,ЯЙЦО МИРМИДОНА,HUEVO DE MIRMIDÓN,
+KEY_ALN_SWARMER_NAME,Text,,MYRMIDON,侍从,MYRMIDON,MYRMIDONE,MIRMIDONE,MYRMIDON,МИРМИДОН,MIRMIDÓN,
+KEY_ALN_VENOMOUS_SWARMER_DESCRIPTION,Text,,Venomous Myrmidon,剧毒侍从,Myrmidon Venimeux,Giftiger Myrmidone,Mirmidone Velenoso,Jadowity Myrmidon,Ядовитый Мирмидон,Mirmidón Venenoso,
+KEY_ALN_VENOMOUS_SWARMER_NAME,Text,,VENOMOUS MYRMIDON,剧毒侍从,MYRMIDON VENIMEUX,GIFTIGER MYRMIDONE,MIRMIDONE VELENOSO,JADOWITY MYRMIDON,ЯДОВИТЫЙ МИРМИДОН,MIRMIDÓN VENENOSO,
+KEY_AUTO_BATTLE_TOOLTIP,Text,,AUTO-BATTLE ON/OFF,自动战斗开/关,COMBAT AUTOMATIQUE OUI/NON,AUTO-KAMPF EIN/AUS,COMBATTIMENTO AUTOMATICO ON/OFF,BITWA AUTOMATYCZNA WŁ./WYŁ.,АВТОБОЙ ВКЛ/ВЫКЛ,BATALLA AUTOMÁTICA SÍ/NO,
+KEY_BEHEMOTH_ATTACK_OBJECTIVES,Text,,INJECT BEHEMOTH WITH BIOWEAPON,使用生化武器注射巨兽,INJECTER LE BÉHÉMOTH AVEC UNE ARME BIOLOGIQUE,INJIZIERE DEN BEHEMOTH MIT EINER BIOWAFFE,INIETTA L'ARMA BIOLOGICA NEL BEHEMOTH,WSTRZYKNIJ BEHEMOTOWI BROŃ BIOLOGICZNĄ,ВВЕДИТЕ БИООРУЖИЕ БЕГЕМОТУ,INYECTA UNA ARMA BIOLÓGICA AL BÉGIMO,
+KEY_BEHEMOTH_ATTACK_TITLE,Text,,NEUTRALIZE THE BEHEMOTH,消灭巨兽,NEUTRALISER LE BÉHÉMOTH,BEHEMOTH NEUTRALISIEREN,NEUTRALIZZA IL BEHEMOTH,WYELIMINUJ BEHEMOTA,НЕЙТРАЛИЗУЙТЕ БЕГЕМОТА,NEUTRALIZA AL BÉGIMO,
+KEY_CORRUPTION_NODE_BODY_DESCRIPTION,Text,,Corruption Node's body looks shapeless and alien,我的腐败节点躯体看起来没有形状且十分怪异,Le corps de mon Nœud de corruption est difforme et étrange,Der Körper meines Verderbnisknotens wirkt formlos und fremdartig.,Il corpo del Nodo di corruzione sembra alieno e senza forma,Korpus mojego węzła zepsucia jest bezkształtny i obcy,Туловище Узла Тления выглядит бесформенным и чужеродным,El cuerpo de nodo de corrupción parece alienígena y deforme.,
+KEY_CORRUPTION_NODE_BODY_NAME,Text,,CORRUPTION NODE BODY,腐败节点躯体,CORPS DE NŒUD DE CORRUPTION,VERDERBNISKNOTEN-KÖRPER,CORPO DEL NODO DI CORRUZIONE,CIAŁO WĘZŁA ZEPSUCIA,ТУЛОВИЩЕ УЗЛА ТЛЕНИЯ,CUERPO DE NODO DE CORRUPCIÓN,
+KEY_CORRUPTION_NODE_VIRAL_ATTACK_DESCRIPTION,Text,,The Corruption Node spreads viral infection damaging nearby characters,腐败节点会传播病毒感染并对附近角色造成伤害,Le Nœud de corruption propage une infection virale qui inflige des dégâts aux agents à proximité,"Der Verderbnisknoten verbreitet eine Virusinfektion, die Charakteren in der Nähe Schaden zufügt",Il Nodo di corruzione diffonde un'infezione virale che danneggia i personaggi vicini,"Węzeł zepsucia wypuszcza wirusy, zadając obrażenia pobliskim postaciom.","Узел Тления распространяет вирусную инфекцию, которая поражает ближайшие цели",El nodo de corrupción expande una infección viral que daña a los personajes cercanos.,
+KEY_CORRUPTION_NODE_VIRAL_ATTACK_NAME,Text,,VIRAL PULSE,病毒脉冲,PULSATION VIRALE,VIRALER PULS,IMPULSO VIRALE,IMPULS WIRUSOWY,ВИРУСНЫЙ ИМПУЛЬС,IMPULSO VIRAL,
+KEY_DEPLOYMENTSCREENOBJECTIVE_ESCAPEFROMHELL,Text,,REACH THE ARMED MANTICORE AND ESCAPE,抵达武装蝎狮处并逃离,ATTEINDRE LA MANTICORE ARMÉE ET FUIR,ERREICHE DEN BEWAFFNETEN MANTICORE UND ENTKOMME,RAGGIUNGI LA MANTICORE ARMATA E SCAPPA,DOSTAŃ SIĘ DO UZBROJONEJ MANTYKORY I UCIEKNIJ,ДОБЕРИТЕСЬ ДО БОЕВОЙ МАНТИКОРЫ И СБЕГИТЕ,LLEGA HASTA LA MANTÍCORA ARMADA Y HUYE,
+KEY_DLC3_AIRCRAFT_ROSTER_MODULE,Text,,MODULE,模块,MODULE,MODUL,MODULO,MODUŁ,МОДУЛЬ,MÓDULO,
+KEY_DLC3_AIRCRAFT_ROSTER_WEAPONS,Text,,WEAPONS,武器,ARMES,WAFFEN,ARMI,BROŃ,ОРУЖИЕ,ARMAS,
+KEY_DLC3_AIRFORCE,Text,,AIR FORCE,空军,ARMÉE DE L'AIR,HANGAR,AERONAUTICA,SIŁY POWIETRZNE,ВОЗДУШНЫЕ СИЛЫ,FUERZA AÉREA,
+KEY_DLC3_ALN_LARGE_FLYER_LONG,Text,,The largest species of winged Pandoran discovered to date shows superior strength and intelligence. Its complex and unpredictable behavioral patterns make it the greatest airborne threat to humanity.,迄今为止发现的体型最大的有翼潘多拉体物种。这种生物表现出超凡的力量和智慧，具有复杂且难以预测的行为模式，是人类面临的最大的空中威胁。,"La plus grande espèce de Pandorien ailé découverte à ce jour. Elle est dotée d'une force et d'une intelligence supérieures, et ses comportements complexes et imprévisibles en font la menace volante la plus redoutable pour l'humanité.","Die größte bisher entdeckte Spezies geflügelter Pandoraner zeigt überlegene Stärke und Intelligenz. Ihre komplexen, unvorhersehbaren Verhaltensmuster machen sie zur größten Bedrohung der Menschheit aus der Luft.","La specie più grossa di Pandora alati conosciuta ad oggi. Mostrano una forza e un'intelligenza superiori, e i loro schemi comportamentali complessi e imprevedibili li rendono la peggiore minaccia aerea per gli esseri umani.","Największy odkryty do tej pory gatunek skrzydlatego Pandoranina. Charakteryzuje się ponadprzeciętną siłą i inteligencją, a jego złożone i nieprzewidywalne wzorce zachowań czynią go największym powietrznym zagrożeniem dla ludzkości.","Самый крупный вид пандоранов, обнаруженный на сегодняшний день. Демонстрирует превосходящие силу и интеллект, а его сложные и непредсказуемые модели поведения делают его величайшей угрозой, с которой человечество может столкнуться в воздухе.","La especie alada de pandoriano más grande descubierta hasta la fecha. Posee una fuerza e inteligencia superiores. Sus patrones de comportamiento son complejos e impredecibles, suponiendo una gran amenaza para aérea para la humanidad.",
+KEY_DLC3_ALN_LARGE_FLYER_NAME,Text,,ABADDON,亚巴顿,ABADDON,ABADDON,ABADDON,ABADDON,АВАДДОН,ABADÓN,
+KEY_DLC3_ALN_MEDIUM_FLYER_LONG,Text,,This new mutation spawned from the Festering Skies is aggressive and tenacious. Its well-coordinated flight patterns indicate a sinister sense of purpose. Berith strikes are carefully planned in advance and executed with alarming haste and precision.,这种从溃烂天空中孵化出的新变异体具有很强的侵略性和韧性，拥有协调良好的飞行模式，并表现出某种邪恶的意图。贝里斯发起的攻击大都经过精心策划，并且会以惊人的速度和精准处决目标。,Cette nouvelle mutation est apparue dans les Ciels de poison. Elle est agressive et tenace. Ses trajectoires de vol indiquent une détermination sinistre. Les attaques de Berith sont soigneusement planifiées et réalisées avec une vitesse et une précision alarmantes.,"Diese neue Mutation, die aus dem Faulenden Himmel hervorgegangen ist, ist aggressiv und hartnäckig. Ihre gut koordinierten Flugmuster deuten auf einen finsteren Zweck hin. Die Angriffe der Berith sind sorgfältig geplant und werden mit erschreckender Geschwindigkeit und Präzision ausgeführt.",Questa nuova mutazione generata dai Cieli infetti è aggressiva e tenace. I suoi schemi di volo ben coordinati lasciano intuire che punta a scopi precisi. I colpi di un Berith sono pianificati con attenzione ed eseguiti con una velocità e precisione allarmanti.,Ta nowa mutacja zrodzona z gnijących niebios jest agresywna i nieustępliwa. Jej dobrze skoordynowane wzorce lotu wskazują na ponurą determinację. Ataki berytów są dokładnie zaplanowane i wykonywane niepokojąco szybko i precyzyjnie.,"Новая мутация, порожденная Гнойным Небом. Проявляет выраженные агрессию и упорство. По всей видимости, выбирает осмысленные траектории для полетов. Тщательно планирует свои нападения и осуществляет их с настораживающими поспешностью и точностью.","Esta nueva mutación, generada en los Cielos en descomposición, es agresiva y tenaz. Sus patrones de vuelo bien coordinados indican una razón de ser de lo más siniestra. Los ataques de los Berith se planean con cuidado y se ejecutan con una velocidad y precisión muy alarmantes.",
+KEY_DLC3_ALN_MEDIUM_FLYER_NAME,Text,,BERITH,贝里斯,BERITH,BERITH,BERITH,BERYT,ВЕРИФ,BERITH,
+KEY_DLC3_ALN_SMALL_FLYER_LONG,Text,,"This newly discovered mutation of the Pandoravirus likely bred inside the Festering Skies. It shows signs of great intelligence, probably remotely guided by some sort of hive mind. Charun specimens are highly aggressive and are known to attack both airborne and stationary human targets.",这种新发现的潘多拉病毒变异体很可能是在溃烂天空内繁殖出来的。这种生物表现出相当程度的智慧，可能是受到某种蜂巢思维的远程引导。凯隆样本具有很强的攻击性，可以攻击空中和静止的人体目标。,Cette mutation récemment découverte du Pandoravirus a probablement été produite dans les Ciels de poison. Elle montre des signes de grande intelligence et elle est sûrement guidée par une sorte d'intelligence collective. Les spécimens de Charun sont très agressifs et attaquent les cibles humaines en vol ou stationnaires.,"Diese neu entdeckte Mutation des Pandoravirus wurde wahrscheinlich im Inneren des Faulenden Himmels gezüchtet. Sie zeigt Anzeichen von großer Intelligenz und wird wahrscheinlich von einer Art Schwarmbewusstsein ferngesteuert. Charun-Exemplare sind äußerst aggressiv und dafür bekannt, dass sie sowohl fliegende als auch stationäre menschliche Ziele angreifen.",Questa mutazione del Pandoravirus scoperta di recente si è probabilmente sviluppata nei Cieli infetti. Mostra segni di grande intelligenza e forse è guidata da remoto da un qualche tipo di coscienza collettiva. La specie degli Charun è altamente aggressiva ed è nota per attaccare sia i bersagli in volo sia gli esseri umani a terra.,"Ta nowo odkryta mutacja pandorawirusa została prawdopodobnie wyhodowana w gnijących niebiosach. Wykazuje oznaki wysokiej inteligencji i prawdopodobnie jest zdalnie sterowana przez coś w rodzaju umysłu roju. Okazy Charun są bardzo agresywne i znane z atakowania zarówno powietrznych, jak i stacjonarnych celów ludzkich.","Недавно обнаруженная мутация пандоранов, порожденная, по всей видимости, Гнойным Небом. Демонстрирует признаки развитого интеллекта и, вероятно, с расстояния контролируется чем-то вроде коллективного разума. Проявляет ярко выраженную агрессию. Нападает как на воздушные, так и на неподвижные цели людей.","Esta mutación del Pandoravirus recientemente descubierta se ha criado, probablemente, en el interior de los Cielos en descomposición. Muestra signos de una gran inteligencia y, probablemente, se está guiando de forma remota por una especie de mente colmena. Los especímenes de Charun son muy agresivos y suelen atacar tanto a naves aéreas como a objetivos humanos inmóviles.",
+KEY_DLC3_ALN_SMALL_FLYER_NAME,Text,,CHARUN,凯隆,CHARUN,CHARUN,CHARUN,CHARUN,ХАРУН,CHARUN,
+KEY_DLC3_BEHEMOTH_SPEED,Text,,Currently moving at {0} kph,当前移动速度 {0} 千米/时,Se déplace actuellement à {0} km/h,Im Augenblick unterwegs mit {0} km/h,Attualmente ti muovi a {0} km/h,Obecna prędkość: {0} km/h,Сейчас движется со скоростью {0} км/ч,Moviéndose actualmente a {0} km/h,
+KEY_DLC3_BEHEMOTH_STATE_COUNTER,Text,,Disruption Points {0}/{1},干扰点数 {0}/{1},Points de perturbation {0}/{1},Störungspunkte {0}/{1},Punti disturbo {0}/{1},Punty oporu {0}/{1},Очки отбития: {0}/{1},Puntos de disrupción: {0}/{1},
+KEY_DLC3_BEHEMOTH_STATE_LAND,Text,,The Behemoth is roaming the land,巨兽正在大地上游荡,Le Béhémoth sillonne le territoire,Der Behemoth streift an Land umher,Il Behemoth vaga sulla terraferma,Behemot grasuje na lądzie,Бегемот рыщет по земле,El bégimo está moviéndose por la tierra,
+KEY_DLC3_BEHEMOTH_STATE_RETREATING,Text,,The Behemoth is heading towards the ocean,巨兽正在前往海洋,Le Béhémoth se dirige vers l'océan,Der Behemoth begibt sich in Richtung Ozean,Il Behemoth si dirige verso l'oceano,Behemot kieruje się w stronę oceanu,Бегемот направляется к океану,El bégimo está avanzando en dirección al océano,
+KEY_DLC3_BEHEMOTH_STATE_UNDERWATER,Text,,The Behemoth is underwater,巨兽正在水下,Le Béhémoth est submergé,Der Behemoth ist unter Wasser,Il Behemoth si trova sott'acqua,Behemot jest pod wodą,Бегемот под водой,El bégimo está bajo el agua,
+KEY_DLC3_CAMERA_SHAKE,Text,,(FESTERING SKIES) CAMERA SHAKE,（溃烂天空）镜头晃动,(CIELS DE POISON) VIBRATION CAMÉRA,(FESTERING SKIES) KAMERAWACKELN,VIBRAZIONE TELECAMERA (CIELI INFETTI),DRGANIA KAMERY (GNIJĄCE NIEBIOSA),(ГНОЙНОЕ НЕБО) ДРОЖАНИЕ КАМЕРЫ,(CIELOS EN DESCOMPOSICIÓN) SACUDIDA DE CÁMARA,
+KEY_DLC3_CANT_REDIRECT_AIRCRAFT,Text,,Can't redirect a disengaging aircraft,无法改变处于脱离状态飞行器的方向,Impossible de rediriger un vaisseau en retrait,Fluggerät im Rückzug kann nicht umgeleitet werden,Impossibile deviare un velivolo che si sta disimpegnando,Nie można przekierować wycofywanego statku.,Невозможно перенаправить воздушное судно с активированным протоколом отступления,No se puede desviar una nave en retirada,
+KEY_DLC3_COUNTERMEASURE_ELECTRONIC,Text,,Counters radar-guided weapons,电子反制,CONTRE-MESURES ÉLECTRONIQUES,ELEKTRONISCHE GEGENMASSNAHMEN,CONTROMISURE ELETTRONICHE,ELEKTRONICZNE ŚRODKI ZARADCZE,РАДИОЭЛЕКТРОННАЯ ЗАЩИТА,CONTRAMEDIDAS ELECTRÓNICAS,
+KEY_DLC3_COUNTERMEASURE_EVASION,Text,,Counters visual-guided weapons,规避反制,CONTRE-MESURES CONTRE LA FUITE,AUSWEICH-GEGENMASSNAHMEN,CONTROMISURE DI EVASIONE,KAMUFLUJĄCE ŚRODKI ZARADCZE,ЗАЩИТА-УКЛОНЕНИЕ,CONTRAMEDIDAS EVASIVAS,
+KEY_DLC3_COUNTERMEASURE_FIRE,Text,,Counters fire weapons,防火反制,CONTRE-MESURES CONTRE LE FEU,FEUER-GEGENMASSNAHMEN,CONTROMISURE ANTINCENDIO,AGRESYWNE ŚRODKI ZARADCZE,ПРОТИВОПОЖАРНАЯ ЗАЩИТА,CONTRAMEDIDAS ÍGNEAS,
+KEY_DLC3_COUNTERMEASURE_INFRARED,Text,,Counters heat-guided weapons,红外反制,CONTRE-MESURES CONTRE LES INFRAROUGES,INFRAROT-GEGENMASSNAHMEN,CONTROMISURE A INFRAROSSI,ŚRODKI ZARADCZE NA PODCZERWIEŃ,ИНФРАКРАСНАЯ ЗАЩИТА,CONTRAMEDIDAS INFRARROJAS,
+KEY_DLC3_COUNTERMEASURE_SECURITY,Text,,Counters bioweapons,安全反制,CONTRE-MESURES DE SÉCURITÉ,SICHERHEITS-GEGENMASSNAHMEN,CONTROMISURE DI SICUREZZA,OCHRONNE ŚRODKI ZARADCZE,ОБЕСПЕЧЕНИЕ БЕЗОПАСНОСТИ,CONTRAMEDIDAS DE SEGURIDAD,
+KEY_DLC3_DAMAGE_ACID_DESCRIPTION,Text,,Damages armor over time,持续对护甲造成伤害,Dégâts infligés à l'armure sur la durée,Beschädigt die Rüstung nach und nach,Danneggiano l'armatura nel tempo,Uszkadza pancerz przez pewien czas,Наносит повреждения броне со временем,Daña la armadura con el tiempo.,
+KEY_DLC3_DAMAGE_ACID_NAME,Text,,Acid damage,酸蚀伤害,Dégâts caustiques,Säureschaden,Danni acidi,Obrażenia od kwasu,Урон от кислоты,Daño ácido,
+KEY_DLC3_DAMAGE_ARMOR_PENETRATION_DESCRIPTION,Text,,Ignores Armor,忽略护甲,Ignore l'armure,Ignoriert Rüstung,Ignora l'armatura,Ignoruje pancerz,Наносит повреждения в обход брони,El daño ignora la armadura.,
+KEY_DLC3_DAMAGE_ARMOR_PENETRATION_NAME,Text,,Armor Penetration,护甲穿透,Perforation d'armure,Rüstungsdurchdringung,Penetrazione armatura,Przebicie pancerza,Бронебойность,Penetración de armadura,
+KEY_DLC3_DAMAGE_BIOWEAPON_DESCRIPTION,Text,,Damages the aircraft over time,持续对飞行器造成伤害,Dégâts infligés au vaisseau sur la durée,Beschädigt das Fluggerät nach und nach,Danneggiano il velivolo nel tempo,Uszkadza statek powietrzny przez pewien czas,Наносит повреждения воздушному судну со временем,Daña a la nave con el tiempo.,
+KEY_DLC3_DAMAGE_BIOWEAPON_NAME,Text,,Bioweapon damage,生物武器伤害,Dégâts d'arme biologique,Biowaffenschaden,Danni da arma biologica,Obrażenia od broni biologicznej,Урон от биооружия,Daño de bioarma,
+KEY_DLC3_DAMAGE_EMP_DESCRIPTION,Text,,Deals extra damage to non-organic aircraft,对非有机飞行器造成额外伤害,Inflige des dégâts supplémentaires aux vaisseaux non organiques,Fügt nicht organischen Fluggeräten zusätzlichen Schaden zu,Infliggono danni extra ai velivoli inorganici,Zadaje dodatkowe obrażenia nieorganicznym statkom powietrznym,Наносит дополнительные повреждения воздушным судам неорганического происхождения,Inflige daño adicional a las naves no orgánicas.,
+KEY_DLC3_DAMAGE_EMP_NAME,Text,,EMP damage,电磁脉冲伤害,Dégâts EMP,EMP-Schaden,Danni elettromagnetici,Obrażenia elektromagnetyczne,Урон от ЭМИ,Daño de PEM,
+KEY_DLC3_DAMAGE_FIRE_DESCRIPTION,Text,,Damages the aircraft over time,持续对飞行器造成伤害,Dégâts infligés au vaisseau sur la durée,Beschädigt das Fluggerät nach und nach,Danneggiano il velivolo nel tempo,Uszkadza statek powietrzny przez pewien czas,Наносит повреждения воздушному судну со временем,Daña a la nave con el tiempo.,
+KEY_DLC3_DAMAGE_FIRE_NAME,Text,,Fire damage,火焰伤害,Dégâts de feu,Feuerschaden,Danni da fuoco,Obrażenia od ognia,Урон от пожара,Daño de fuego,
+KEY_DLC3_DAMAGE_INCENDIARY_DESCRIPTION,Text,,Has chance to cause a fire,可能会引发火焰,Peut causer des incendies,Kann Feuer verursachen,Potrebbero causare un incendio,Może powodować pożary,Может вызывать пожары,Puede provocar incendios.,
+KEY_DLC3_DAMAGE_INCENDIARY_NAME,Text,,Incendiary damage,燃烧伤害,Dégâts incendiaires,Brandschaden,Danni incendiari,Obrażenia od podpalenia,Урон от зажигания,Daño incendiario,
+KEY_DLC3_DAMAGE_REGULAR_DESCRIPTION,Text,,Damage done to aircraft's Hull Points,对飞行器的机体耐久度造成伤害,Points de dégâts infligés à la coque du vaisseau,Schaden an Rumpfpunkten des Fluggeräts.,Danni inflitti ai Punti scafo del velivolo,Obrażenia zadane punktom poszycia statku powietrznego,"Повреждения, получаемые корпусом воздушного судна",Daño infligido a los puntos del casco de la nave.,
+KEY_DLC3_DAMAGE_REGULAR_NAME,Text,,Damage,伤害,Dégâts,Schaden,Danni,Obrażenia,Урон,Daño,
+KEY_DLC3_DAMAGE_SHOCK_DESCRIPTION,Text,,Temporarily disables modules,暂时损坏模块,Désactive temporairement les modules,Deaktiviert vorübergehend Module,Disattivano temporaneamente i moduli,Tymczasowo dezaktywuje moduły,Временно отключает модули,Desactiva módulos temporalmente.,
+KEY_DLC3_DAMAGE_SHOCK_NAME,Text,,Shock damage,冲击伤害,Dégâts électriques,Schockschaden,Danni da shock,Obrażenia od wstrząsu,Урон от оглушения,Daño de choque,
+KEY_DLC3_DAMAGE_SHRED_DESCRIPTION,Text,,Damages armor upon impact,命中时对护甲造成伤害,Dégâts infligés à l'armure à l'impact,Beschädigt Rüstung bei Aufprall,Danneggiano l'armatura all'impatto,Uszkadza pancerz po uderzeniu,Наносит повреждения броне при ударе,Daña la armadura al impactar.,
+KEY_DLC3_DAMAGE_SHRED_NAME,Text,,Shred damage,粉碎伤害,Dégâts de déchiquetage,Zerfetzungsschaden,Danni da lacerazione,Obrażenia od szatkowania,Рваный урон,Daño de rotura,
+KEY_DLC3_DAMAGE_VIROPHAGE_DESCRIPTION,Text,,Deals extra damage to organic aircraft,对有机飞行器造成额外伤害,Inflige des dégâts supplémentaires aux vaisseaux organiques,Fügt organischen Fluggeräten zusätzlichen Schaden zu,Infliggono danni extra ai velivoli organici,Zadaje dodatkowe obrażenia organicznym statkom powietrznym,Наносит дополнительные повреждения воздушным судам органического происхождения,Inflige daño adicional a las naves orgánicas.,
+KEY_DLC3_DAMAGE_VIROPHAGE_NAME,Text,,Virophage damage,噬病毒体伤害,Dégâts virophages,Virophagenschaden,Danni da virofago,Obrażenia wirusowe,Урон от вирофага,Daño virófago,
+KEY_DLC3_DISENGAGING,Text,,DISENGAGING,脱离,EN RETRAIT,IM RÜCKZUG,SGANCIAMENTO,WYCOFANIE,АВАРИЙНОЕ ОТСТУПЛЕНИЕ,DE RETIRADA,
+KEY_DLC3_EILEEN_DESCRIPTION,Text,,Synedrion Pilot,平衡议会驾驶员,Pilote du Synédrion,Synedrion-Pilot,Pilota Synedrion,Synedrioński pilot,Пилот Синедриона,Piloto de Synedrion,
+KEY_DLC3_EILEEN_NAME,Text,,Citizen Eileen,市民艾琳,Citoyenne Eileen,Bürgerin Eileen,Cittadino Eileen,Obywatelka Eileen,Гражданка Эйлин,Ciudadana Eileen,
+KEY_DLC3_ENEMY_AIRCRAFT_CONDITION,Text,,ENEMY AIRCRAFT CONDITION,敌方飞行器状态,ÉTAT DU VAISSEAU ENNEMI,ZUSTAND DES FEINDLICHEN FLUGGERÄTS,CONDIZIONI VELIVOLO NEMICO,STAN WROGIEGO STATKU,СОСТОЯНИЕ ВОЗДУШНОГО СУДНА ВРАГА,CONDICIÓN DE LA NAVE ENEMIGA,
+KEY_DLC3_FACTION_INTERCEPTION_LOSS,Text,,{0} {1} was destroyed by {2} {3},{0} {1} 已被 {2} {3} 摧毁,Le vaisseau {1} de la faction {0} a été détruit par un vaisseau {3} de la faction {2},{1} ({0}) zerstört von {3} ({2}),{1} {0} è stato distrutto da {3} {2},Statek {1} ({0}) zostaje zniszczony przez: {3} ({2}),ВС {3} ({2}) уничтожило: {1} ({0}),{1} {0} ha sido destruida por: {3} {2},
+KEY_DLC3_FACTION_INTERCEPTION_WIN,Text,,{0} {1} successfully intercepted {2} {3},{0} {1} 成功拦截 {2} {3},Le vaisseau {1} de la faction {0} a intercepté le vaisseau {3} de la faction {2},{1} ({0}) hat {3} ({2}) erfolgreich abgefangen,{1} {0} ha intercettato con successo {3} {2},Statek {1} ({0}) zostaje przejęty przez: {3} ({2}),ВС {1} ({0}) успешно пресекло полет: {3} ({2}),{1} {0} ha sido interceptada con éxito por: {3} {2},
+KEY_DLC3_FILTER_ALL,Text,,Filter: All,筛选：全部,Filtre : tout,Filter: Alle,Filtro: tutto,Filtr: Wszystko,Фильтр: все,Filtrar: todo,
+KEY_DLC3_FILTER_MODULES,Text,,Filter: Modules,筛选：模块,Filtre : modules,Filter: Module,Filtro: moduli,Filtr: Moduły,Фильтр: модули,Filtrar: módulos,
+KEY_DLC3_FILTER_WEAPONS,Text,,Filter: Weapons,筛选：武器,Filtre : armes,Filter: Waffen,Filtro: armi,Filtr: Broń,Фильтр: оружие,Filtrar: armas,
+KEY_DLC3_GEOBONUS_ARMOR,Text,,Provides {bonus} additional armor,提供 {bonus} 额外护甲,Accorde {bonus} points d'armure supplémentaires,Bringt {bonus} zusätzliche Rüstung,Fornisce {bonus} armatura supplementare,Zapewnia dodatkowy pancerz w ilości {bonus}.,Усиливает броню на {bonus},Aporta {bonus} puntos de armadura adicionales.,
+KEY_DLC3_GEOBONUS_HITPOINTS,Text,,Provides {bonus} additional Hull Points,提供 {bonus} 额外机体耐久度,Accorde {bonus} points de coque supplémentaires,Bringt {bonus} zusätzliche Rumpfpunkte,Fornisce {bonus} Punti scafo supplementari,Zapewnia dodatkowe punkty poszycia w ilości {bonus}.,Усиливает прочность корпуса на {bonus},Aporta {bonus} puntos del casco adicionales.,
+KEY_DLC3_GEOBONUS_ORACLE,Text,,Provides weapons with psychic guidance,为武器提供灵能制导,Donne un guidage psychique aux armes,Bringt Waffen mit psychischer Führung,Fornisce armi con guida psichica,Zapewnia broń naprowadzaną telepatycznie,Оснащает оружие телепатическим наведением,Otorga armas con guiado psíquico.,
+KEY_DLC3_GEOBONUS_RANGE,Text,,Geoscape range increased by {bonus},世界地图范围增加 {bonus},Portée du Geoscape augmentée de {bonus},Geoscape-Reichweite erhöht um {bonus},Portata sul Globo aumentata di {bonus},Zasięg wzrasta o {bonus},Радиус геоскопа увеличен на {bonus},Alcance de la geovista aumentada en {bonus},
+KEY_DLC3_GEOBONUS_RECUPERATION,Text,,Protects onboard personnel if the aircraft is destroyed,飞行器被摧毁时保护机上人员,Protège le personnel à bord si le vaisseau est détruit,"Schützt Besatzung an Bord, wenn das Fluggerät zerstört wird",Protegge il personale a bordo in caso di distruzione del velivolo,Chroni załogę po zniszczeniu statku,Защищает экипаж на борту при уничтожении воздушного судна,Protege al personal que esté a bordo si la nave queda destruida,
+KEY_DLC3_GEOBONUS_SPEED,Text,,Geoscape speed increased by {bonus},世界地图速度增加 {bonus},Vitesse du Geoscape augmentée de {bonus},Geoscape-Geschwindigkeit erhöht um {bonus},Velocità sul Globo aumentata di {bonus},Prędkość poruszania się po globie wzrasta o {bonus},Скорость геоскопа увеличена на {bonus},Velocidad de la geovista aumentada en {bonus},
+KEY_DLC3_GEOBONUS_STAMINA,Text,,Onboard personnel recovers Stamina,机上人员恢复耐力,Le personnel à bord récupère de l'endurance,Besatzung an Bord stellt Ausdauer wieder her,Il personale a bordo recupera resistenza,Załoga odzyskuje wytrzymałość,Экипаж на борту восстанавливает очки выносливости,El personal a bordo recupera aguante,
+KEY_DLC3_GEOSCAPE_MESSAGE_VEHICLE_REPAIRED,Text,,{0} and all modules fully repaired,{0} 和所有模块已完全修复,{0} et tous les modules sont réparés.,{0} und alle Module wurden vollständig repariert,Il veicolo {0} e tutti i moduli sono stati completamente riparati,{0} i wszystkie moduły zostały w pełni naprawione.,{0} и все модули полностью отремонтированы,"{0}, así como todos los módulos, han sido totalmente reparados",
+KEY_DLC3_GEO_OBJECTIVE_ALIEN_FLYERS,Text,,Active Pandoran Flyers: {0},活动中的潘多拉体飞行物：{0},Pandoriens ailés actifs : {0},Aktive Pandora-Flieger: {0},Velivoli Pandora attivi: {0},Aktywne jednostki latające Pandoran: {0},Пандораны в полете: {0},Pilotos pandorianos activos: {0},
+KEY_DLC3_GEO_OBJECTIVE_BEHEMOTH,Text,,The Behemoth is roaming,巨兽正在游荡,Le Béhémoth rôde,Der Behemoth streift umher,Il Behemoth è in movimento,Behemot grasuje,Бегемот рыщет,El bégimo está moviéndose,
+KEY_DLC3_GROUND_FORCES,Text,,GROUND FORCES,地面部队,TROUPES AU SOL,BODENTRUPPEN,FORZE TERRESTRI,SIŁY LĄDOWE,СУХОПУТНЫЕ ВОЙСКА,FUERZAS TERRESTRES,
+KEY_DLC3_GUIDANCE_HEAT,Text,,Heat Guidance,热量制导,GUIDAGE THERMIQUE,HITZE-FÜHRUNG,GUIDA TERMICA,NAPROWADZANIE TERMICZNE,ТЕПЛОНАВЕДЕНИЕ,GUIADO POR CALOR,
+KEY_DLC3_GUIDANCE_PHYCHIC,Text,,Psychic Guidance,灵能制导,GUIDAGE PSYCHIQUE,PSYCHISCHE FÜHRUNG,GUIDA PSICHICA,NAPROWADZANIE TELEPATYCZNE,ТЕЛЕПАТИЧЕСКОЕ НАВЕДЕНИЕ,GUIADO PSÍQUICO,
+KEY_DLC3_GUIDANCE_RADAR,Text,,Radar Guidance,雷达制导,GUIDAGE RADAR,RADAR-FÜHRUNG,GUIDA RADAR,NAPROWADZANIE ZA POMOCĄ RADARU,РАДИОНАВЕДЕНИЕ,GUIADO POR RADAR,
+KEY_DLC3_GUIDANCE_VISUAL,Text,,Visual Guidance,视觉制导,GUIDAGE VISUEL,VISUELLE FÜHRUNG,GUIDA VISIVA,NAPROWADZANIE WIZYJNE,ВИЗУАЛЬНОЕ НАВЕДЕНИЕ,GUIADO VISUAL,
+KEY_DLC3_HULL_POINTS,Text,,HULL POINTS,机体耐久度,POINTS DE COQUE,RUMPF,PUNTI SCAFO,PUNKTY POSZYCIA:,ПРОЧНОСТЬ КОРПУСА,PUNTOS DEL CASCO,
+KEY_DLC3_INFESTED,Text,,Infested,已感染,Infesté,Infiziert,Con infestazione,Skażenie,Заражено,Infestada,
+KEY_DLC3_INTERCEPTION_AIRCRAFT_CONDITION,Text,,AIRCRAFT CONDITION,飞行器状态,ÉTAT DU VAISSEAU,ZUSTAND DES FLUGGERÄTS,CONDIZIONI VELIVOLO,STAN STATKU,СОСТОЯНИЕ ВОЗДУШНОГО СУДНА,CONDICIÓN DE LA NAVE,
+KEY_DLC3_INTERCEPTION_DISENGAGE,Text,,DISENGAGE,脱战,SE RETIRER,ABSETZEN,DISIMPEGNA,WYCOFAJ SIĘ,ОТМЕНА,RETIRADA,
+KEY_DLC3_INTERCEPTION_ENGAGE,Text,,ENGAGE,交战,ENGAGER,ANGREIFEN,INGAGGIA,ATAKUJ,В БОЙ,ENFRENTAMIENTO,
+KEY_DLC3_INTERCEPTION_FAILED,Text,,Your characters have suffered Stamina and Hit Point loss. Survivors will be transported to the nearest Phoenix base.,你的角色遭受了耐力和生命值损失。幸存者将被转移至最近的凤凰基地。,Vos agents ont perdu de l'endurance et des points de vie. Les survivants seront transportés à la base Phoenix la plus proche.,Deine Charaktere haben Ausdauer und Trefferpunkte verloren. Überlebende werden zur nächstgelegenen Phoenix-Basis gebracht.,I tuoi personaggi hanno subito una perdita di resistenza e punti ferita. I superstiti verranno trasportati verso la base Phoenix più vicina.,Twoje postacie utraciły punkty kondycji i życia. Ocalali zostaną przeniesieni do najbliższej bazy projektu Phoenix.,Ваши персонажи потеряли выносливость и здоровье. Выживших доставят на ближайшую базу Проекта Феникс.,Tus personajes han perdido aguante y puntos de salud. Los supervivientes se transportarán hasta la base fénix más cercana.,
+KEY_DLC3_INTERCEPTION_MISSION_RESULT_DISENGAGED,Text,,DISENGAGED,已脱战,RETIRÉ,ABGESETZT,DISIMPEGNATO,WYCOFANY,БОЙ ОТМЕНЕН,RETIRADA COMPLETADA,
+KEY_DLC3_INTERCEPTION_MISSION_TITLE,Text,,DESTROY ENEMY AIRCRAFT,摧毁敌方飞行器,DÉTRUIRE UN VAISSEAU ENNEMI,ZERSTÖRE FEINDLICHE FLUGGERÄTE,DISTRUGGI VELIVOLO NEMICO,ZNISZCZ WROGI STATEK,УНИЧТОЖЬТЕ ВРАЖЕСКОЕ ВОЗДУШНОЕ СУДНО,DESTRUCCIÓN DE NAVE ENEMIGA,
+KEY_DLC3_INTERCEPTION_PXPEDIA,Text,,"Accuracy: % odds to hit the target, miss otherwise. Can be modified by weather.
+
+Guidance: The type of guidance employed by a weapon. Most guidance types can be evaded via specialized modules.
+
+Armor: Protects the Hull and the Modules.
+
+Hull: When Hull drops to 0, the aircraft is destroyed.
+
+Modules: Many modules (but not all) lose their functionality when down to 0. Extra damage overflows as Hull damage.
+
+Acid: Each tick of Acid damages Armor, then decreases the Acid stack by 10. When Armor is down to 0, Acid damages the Hull and the Modules simultaneously. Additional applications of Acid stack.
+
+Fire Onboard: Each tick of Fire causes 40 damage to the Hull and each Module. Fire applications do not stack, nor does the damage diminish in time.
+
+Bioweapon Onboard: Each tick of Bioweapon causes 40 damage to the Hull and each Module. Bioweapon applications do not stack, nor does the damage diminish in time.
+
+EMP: extra damage against Phoenix and Faction aircraft.
+
+Virophage: extra damage against Pandoran and Infested aircraft.
+
+Shred: reduces Armor.
+
+Shock: divide value by Module current hit points, this is the number of seconds the Module is unusable.
+
+Armor Penetration: ignores Armor.
+
+","准度：百分比几率命中目标，否则就会落空。会受到天气的影响。
+
+ 制导：武器使用的制导类型。大多数制导类型可通过专门的模块来规避。
+
+ 护甲：保护机体与模块。
+ 
+机体：当机体降低至 0 时，飞行器将会被摧毁。
+
+ 模块：多数模块（并非全部）在降低至 0 时会失去其功能。额外的伤害将会作为机体伤害溢出。
+
+ 酸蚀：每层酸蚀会对护甲造成伤害，然后降低 10 层酸蚀层数。当护甲降低至 0 时，酸蚀会同时对机体和模块造成伤害。后续的酸蚀效果会相互叠加。
+
+ 飞行器起火：燃烧的火焰每次生效会对机体和每个模块造成 40 点伤害。火焰效果不会叠加，伤害也不会随着时间推移而降低。
+
+ 飞行器遭受生化打击：生化武器每次生效会对机体和每个模块造成 40 点伤害。生化武器效果不会叠加，伤害也不会随着时间推移而降低。
+
+ 电磁脉冲：对凤凰和派系飞行器造成额外伤害。
+
+ 噬病毒体：对潘多拉体和感染的飞行器造成额外伤害。
+
+ 粉碎：降低护甲。
+ 
+ 冲击：将数值除以模块当前的生命值，得出的数值就是该模块失效的秒数。
+
+ 护甲穿透：忽略护甲。","Précision : probabilités en % de toucher la cible, autrement elle est manquée. Influencée par les conditions météorologiques.
+
+ Guidage : le type de guidage employé par une arme. La plupart des guidages peuvent être déjoués avec des modules spécialisés.
+ 
+ Armure : protège la coque et les modules.
+ 
+ Coque : lorsque la coque tombe à 0, le vaisseau est détruit.
+ 
+ Modules : de nombreux modules (mais pas tous) perdent leur fonctionnalité quand ils tombent à 0. Les dégâts supplémentaires sont comptés comme dégâts de coque.
+ 
+ Acide : chaque intervalle d'acide endommage l'armure, puis réduit le cumul d'acide de 10 points. Lorsque l'armure est à 0, l'acide inflige simultanément des dégâts à la coque et aux modules. Applications supplémentaires de cumul d'acide.
+ 
+ Feu à bord : chaque intervalle de feu inflige 40 points de dégâts à la coque et à chaque module. Les applications du feu ne se cumulent pas et les dégâts ne diminuent pas avec le temps.
+
+ Arme biologique à bord : chaque intervalle de l'arme biologique cause 40 points de dégâts à la coque et à chaque module. Les applications de l'arme biologique ne se cumulent pas et les dégâts ne diminuent pas avec le temps.
+ 
+ EMP : dégâts supplémentaires contre Phoenix et les vaisseaux de la faction.
+ 
+ Virophage : dégâts supplémentaires contre les Pandoriens et les vaisseaux infestés.
+ 
+ Déchiquetage : réduit les points d'armure.
+ 
+ Décharge : divisez la valeur par le nombre actuel de points de vie du module, ce qui donne le nombre de secondes durant lesquelles le module est inutilisable.
+ 
+ Perforation d'armure : ignore l'armure.","Genauigkeit: Prozentuale Wahrscheinlichkeit, das Ziel zu treffen, ansonsten verfehlt. Durch das Wetter veränderlich.
+ 
+Lenkung: Die Art der Lenkung, die von einer Waffe verwendet wird. Die meisten Lenkungsarten können durch spezielle Module umgangen werden.
+ 
+Rüstung: Schützt den Rumpf und die Module.
+ 
+Rumpf: Wenn der Rumpf auf 0 fällt, wird das Fluggerät zerstört.
+ 
+Module: Viele Module (aber nicht alle) verlieren ihre Funktionalität, wenn sie auf 0 sinken. Zusätzlicher Schaden geht in Rumpfschaden über.
+
+Säure: Jeder Tick Säure beschädigt die Rüstung und verringert dann den Säurestapel um 10. Ist die Rüstung auf 0 gesunken, beschädigt Säure gleichzeitig den Rumpf und die Module. Zusätzliche Anwendungen von Säure werden gestapelt.
+ 
+Feuer an Bord: Jeder Tick Feuer verursacht 40 Schaden am Rumpf und an jedem Modul. Feueranwendungen sind nicht stapelbar, und der Schaden nimmt auch nicht mit der Zeit ab.
+ 
+Biowaffe an Bord: Jeder Tick Biowaffe verursacht 40 Schaden am Rumpf und an jedem Modul. Biowaffen-Anwendungen sind nicht stapelbar, und der Schaden nimmt auch nicht mit der Zeit ab.
+
+EMP: Zusätzlicher Schaden gegen Phoenix und Fraktionsfluggeräte.
+
+Virophage: Zusätzlicher Schaden gegen Pandoraner und infizierte Fluggeräte.
+
+Zerfetzen: Reduziert die Rüstung.
+ 
+Schock: Wert wird durch aktuelle Trefferpunkte des Moduls geteilt. Dies ist die Anzahl der Sekunden, die das Modul unbrauchbar ist.
+ 
+Rüstungsdurchdringung: Ignoriert Rüstung.","Precisione: percentuale di possibilità di colpire il bersaglio, che in caso contrario verrà mancato. Può essere influenzata dal tempo atmosferico.
+
+ Guida: tipologie di guida di un'arma. Molte possono essere schivate mediante un modulo specializzato.
+ 
+ Armatura: protegge lo scafo e i moduli.
+ 
+Scafo: quando raggiunge lo 0, il velivolo viene distrutto.
+ 
+ Moduli: molti moduli (ma non tutti) diventano inefficaci quando raggiungono lo 0. I danni aggiuntivi verranno inflitti allo scafo.
+ 
+ Acido: a ogni scatto l’acido danneggia l'armatura, poi la quantità di acido si riduce di 10. Quando l'armatura raggiunge lo 0, l'acido danneggia lo scafo e i moduli in contemporanea. I getti di acido sono cumulabili.
+ 
+ Fuoco a bordo: a ogni scatto il fuoco infligge 40 danni allo scafo e a ogni modulo. I danni da fuoco non sono cumulabili e non si riducono nel tempo.
+ 
+ Arma biologica a bordo: a ogni scatto l’arma biologica infligge 40 danni allo scafo e a ogni modulo. I danni da arma biologica non sono cumulabili e non si riducono nel tempo.
+ 
+ EMP: danni extra contro i velivoli di Phoenix e delle fazioni.
+ 
+ Virofago: danni extra contro i velivoli infestati e Pandora.
+ 
+ Lacerazione: riduce l'armatura.
+ 
+Shock: dividendo il valore per i punti ferita attuali del modulo si ottiene il numero di secondi durante cui il modulo è inutilizzabile.
+ 
+ Penetrazione armatura: ignora l'armatura.","Celność: procentowa szansa trafienia w cel, w razie niepowodzenia strzał będzie chybiony. Celność może być modyfikowana przez pogodę.
+ 
+ Naprowadzanie: Rodzaj naprowadzania zastosowany w broni. Większość typów naprowadzania może być udaremniana przez specjalne moduły.
+ 
+ Pancerz: Chroni kadłub i moduły.
+ 
+ Punkty poszycia: Gdy spadną do 0, statek zostanie zniszczony.
+ 
+ Moduły: Wiele modułów (ale nie wszystkie) przestaje działać, gdy wartość ta spadnie do 0. Dodatkowe obrażenia przenoszone są na kadłub.
+ 
+ Kwas: Każda dawka kwasu uszkadza pancerz, a następnie zmniejsza kumulację kwasu o 10. Gdy pancerz spadnie do 0, kwas zada jednocześnie obrażenia kadłubowi i modułom. Dawki kwasu kumulują się.
+ 
+ Ogień na pokładzie: Każda dawka ognia zadaje 40 obrażeń kadłubowi i każdemu z modułów. Ogień nie kumuluje się, a obrażenia nie zmniejszają się z czasem.
+ 
+ Broń biologiczna na pokładzie: Każda dawka broni biologicznej zadaje 40 obrażeń kadłubowi i każdemu z modułów. Dawki broni biologicznej nie kumulują się, a obrażenia nie zmniejszają się z czasem.
+ 
+ EMP: dodatkowe obrażenia przeciwko statkom powietrznym Phoenixa i frakcji.
+
+ Broń przeciwwirusowa: dodatkowe obrażenia przeciwko statkom powietrznym Pandoran i skażeniu.
+ 
+ Poszatkowanie: zmniejsza pancerz.
+
+ Wstrząs: liczba sekund, przez które moduł jest bezużyteczny, określa się, dzieląc tę wartość przez aktualne punkty życia modułu.
+ 
+ Przebicie pancerza: ignoruje pancerz.","Точность — вероятность попадания в цель (в противном случае атака не будет успешной). Значение может изменяться в зависимости от погодных условий.
+
+ Наведение — тип наведения, используемый в оружии для проведения атак. От атак с большинством типов наведения можно уклониться с помощью специальных модулей.
+ 
+ Броня — защита, отражающая атаки по корпусу и модулям.
+ 
+ Корпус — шкала исправности воздушного судна. Воздушное судно будет уничтожено, если число очков корпуса снизится до 0.
+ 
+ Модули — большинство модулей (но не все) нельзя использовать, если шкала их исправности доходит до 0. В случае неисправности все атаки по ним наносят урон по корпусу.
+ 
+ Кислота — через равные промежутки времени наносит урон по броне, после чего количество кислоты снижается на 10. Когда число очков брони снижается до 0, кислота наносит урон по корпусу и модулям одновременно. Количество кислоты складывается.
+
+ Пожар на борту — через равные промежутки времени наносит 40 очков урона по корпусу и каждому модулю. Площадь, охваченная пожаром, не увеличивается, а урон от него не уменьшается со временем.
+ 
+ Биооружие на борту — через равные промежутки времени наносит 40 очков урона по корпусу и каждому модулю. Площадь, охваченная биологическим оружием, не увеличивается, а урон от него не уменьшается со временем.
+ 
+ ЭМИ — дополнительный урон по воздушному судну Проекта Феникс или какой-либо из фракций.
+ 
+ Вирофаг — дополнительный урон по летающему пандорану или зараженному воздушному судну.
+ 
+ Разрыв — снижает число очков брони.
+ 
+ Оглушение — блокирует возможность использовать модуль в течение определенного времени (чтобы узнать время в секундах, нужно разделить значение оглушения на текущее число очков исправности модуля).
+ 
+ Бронебойность — наносит урон в обход брони.","Precisión: Porcentaje de posibilidades de impactar al objetivo. Puede ser modificado por el clima.
+ 
+ Guiado: El tipo de guiado usado por un arma. La mayoría de los tipos de guiado se pueden esquivar con módulos especializados.
+ 
+ Armadura: Protege el casco y los módulos.
+ 
+ Casco: Cuando llega a 0, la nave queda destruida.
+ 
+ Módulos: Muchos módulos (no todos) pierden sus funciones al llegar a 0. El daño recibido de manera adicional se convierte en daño de casco.
+ 
+ Ácido: Cada garrapata de ácido daña la armadura y, luego, disminuye la acumulación de ácido en 10. Cuando la armadura llega a 0, el ácido daña el casco y los módulos de manera simultánea. La aplicación de ácido adicional se acumula.
+ 
+ Fuego a bordo: Cada garrapata de fuego causa 40 de daño al casco y a cada módulo. Las aplicaciones de fuego no se acumulan, ni tampoco se reduce el daño con el tiempo.
+ 
+ Bioarma a bordo: Cada garrapata de bioarma causa 40 de daño al casco y a cada módulo. Las aplicaciones de bioarma no se acumulan, ni tampoco se reduce el daño con el tiempo.
+
+ PEM: Inflige daño adicional contra las naves Fénix y de facciones.
+
+ Virófago: Inflige daño adicional contra las naves pandorianas e infestadas.
+ 
+ Rotura: Reduce la armadura.
+ 
+ Choque: Dividiendo el valor por los puntos de salud actuales del módulo se obtiene la cantidad de segundos que queda inutilizado dicho módulo.
+ 
+ Penetración de armadura: Ignora la armadura.",
+KEY_DLC3_INTERCEPTION_REPAIR_AIRCRAFT,Text,,"Reach a Phoenix base in order to repair, reload and edit weapons and modules",抵达凤凰基地进行修理、重新装填并编辑武器和模块,"Atteignez une base Phoenix pour réparer, recharger et modifier les armes et les modules","Erreiche eine Phoenix-Basis, um Ausrüstung zu reparieren, nachzuladen und umzurüsten.","Raggiungi una base Phoenix per poter riparare, ricaricare e modificare armi e moduli","Dotrzyj do bazy Phoenix, aby naprawiać, przeładowywać i zmieniać broń oraz moduły.","Доберитесь до базы Проекта Феникс, чтобы отремонтировать, перезарядить или заменить оружие и модули","Llega a una base Fénix para reparar, recargar y editar las armas y los módulos.",
+KEY_DLC3_INT_AUTO_BATTLE,Text,,AUTO-BATTLE,自动战斗,COMBAT AUTOMATIQUE,AUTO-KAMPF,COMBATTIMENTO AUTOMATICO,BITWA AUTOMATYCZNA,АВТОБОЙ,Batalla automática,
+KEY_DLC3_INT_BLOCKED,Text,,BLOCKED,抵挡,BLOQUÉ,BLOCKIERT,BLOCCATO,ZABLOKOWANE,БЛОК,BLOQUEADOS,
+KEY_DLC3_INT_CHARGING_MODULE,Text,,CHARGING MODULE,正在充能模块,MODULE EN CHARGE,MODUL WIRD GELADEN,MODULO IN CARICAMENTO,ŁADOWANIE MODUŁU,ЗАРЯДКА МОДУЛЯ,MÓDULO CARGANDO,
+KEY_DLC3_INT_CHOSE_TARGET,Text,,CHOOSE A TARGET,选择目标,CHOISISSEZ UNE CIBLE,WÄHLE EIN ZIEL,SCEGLI UN BERSAGLIO,WYBIERZ CEL,ВЫБЕРИТЕ ЦЕЛЬ,ELIGE UN OBJETIVO,
+KEY_DLC3_INT_COUNTER_BIOWEAPON_NEUTRALIZED,Text,,Bioweapon Neutralized,生化武器失效,Arme biologique neutralisée,Biowaffe neutralisiert,Arma biologica neutralizzata,Broń biologiczna zneutralizowana,Биооружие нейтрализовано,Bioarma neutralizado,
+KEY_DLC3_INT_COUNTER_EVADED,Text,,EVADED,闪避,ESQUIVÉ,AUSGEWICHEN,SCHIVATO,UNIKNIĘTO,УКЛОНЕНИЕ,EVADIDOS,
+KEY_DLC3_INT_COUNTER_FIRE_NEUTRALIZED,Text,,Fire Neutralized,火焰失效,Feu neutralisé,Feuer neutralisiert,Fuoco neutralizzato,Ogień ugaszony,Пожар нейтрализован,Fuego neutralizado,
+KEY_DLC3_INT_DMG_ARMOR_PIERCED,Text,,ARMOR PIERCED,护甲穿透,ARMURE PERFORÉE,RÜSTUNG DURCHBOHRT,ARMATURA PERFORATA,PANCERZ PRZEBITY,БРОНЯ ПРОБИТА,ARMADURA PERFORADA,
+KEY_DLC3_INT_DMG_ARMOR_SHREDDED,Text,,ARMOR SHREDDED,护甲粉碎,ARMURE DÉCHIQUETÉE,RÜSTUNG ZERFETZT,ARMATURA LACERATA,PANCERZ POSZATKOWANY,БРОНЯ РАЗОРВАНА,ARMADURA DESTROZADA,
+KEY_DLC3_INT_DMG_BIOWEAPON,Text,,BIOWEAPON APPLIED,生化武器伤害,ARME BIOLOGIQUE APPLIQUÉE,BIOWAFFE EINGESETZT,ARMA BIOLOGICA APPLICATA,POD WPŁYWEM BRONI BIOLOGICZNEJ,ПРИМЕНЕНО БИООРУЖИЕ,BIOARMA APLICADA,
+KEY_DLC3_INT_DMG_FIRE,Text,,FIRE APPLIED,火焰伤害,FEU APPLIQUÉ,FEUER EINGESETZT,FUOCO APPLICATO,POD WPŁYWEM OGNIA,ПРИМЕНЕН ПОЖАР,FUEGO APLICADO,
+KEY_DLC3_INT_DMG_SHOCKED,Text,,SHOCKED,冲击,ÉLECTRIFIÉ,GESCHOCKT,SCIOCCATO,PORAŻONE,ОГЛУШЕНИЕ,HERIDOS DE CHOQUE,
+KEY_DLC3_INT_ENEMY_MODULE_DESTROYED,Text,,ENEMY {0} DESTROYED,敌人 {0} 已摧毁,ENNEMI {0} DÉTRUIT,{0} DES FEINDES ZERSTÖRT,NEMICO {0} DISTRUTTO,{0} WROGA – ZNISZCZONO,ВРАГ {0} УНИЧТОЖЕН,SE HA DESTRUIDO EL SIGUIENTE ENEMIGO: {0},
+KEY_DLC3_INT_ENEMY_WEAPON_IN_RANGE,Text,,ENEMY {0} IN RANGE,敌人 {0} 位于射程内,ENNEMI {0} À PORTÉE,{0} DES FEINDES IN REICHWEITE,NEMICO {0} A PORTATA,{0} WROGA W ZASIĘGU,ВРАГ {0} В РАДИУСЕ,EL SIGUIENTE ENEMIGO ESTÁ AL ALCANCE: {0},
+KEY_DLC3_INT_HIT,Text,,HIT,命中,TOUCHÉ,TREFFER,COLPITO,TRAFIONE,УДАР,GOLPEADOS,
+KEY_DLC3_INT_MISS,Text,,MISS,未命中,RATÉ,VERFEHLT,MANCATO,CHYBIONE,МИМО,FALLADOS,
+KEY_DLC3_INT_MODULE,Text,,MODULE,模块,MODULE,MODUL,MODULO,MODUŁ,МОДУЛЬ,MÓDULO,
+KEY_DLC3_INT_MODULE_LOST,Text,,MODULE LOST,模块已损毁,MODULE PERDU,MODUL VERLOREN,MODULO PERSO,MODUŁ UTRACONY,МОДУЛЬ ПОТЕРЯН,MÓDULO PERDIDO,
+KEY_DLC3_INT_MODULE_NOT_READY,Text,,MODULE NOT READY,模块未就绪,LE MODULE N'EST PAS PRÊT,MODUL NICHT BEREIT,MODULO NON PRONTO,MODUŁ NIEGOTOWY,МОДУЛЬ НЕ ГОТОВ,MÓDULO NO PREPARADO,
+KEY_DLC3_INT_OUT_OF_AMMO,Text,,{0} OUT OF AMMO,{0}：弹药耗尽,{0} : MUNITIONS ÉPUISÉES,{0}: KEINE MUNITION MEHR,{0}: SENZA MUNIZIONI,{0} – BRAK AMUNICJI,{0}: НЕТ БОЕПРИПАСОВ,{0} SE HA QUEDADO SIN MUNICIÓN,
+KEY_DLC3_INT_OUT_OF_RANGE,Text,,{0} OUT OF RANGE,{0}：超出射程,{0} : HORS DE PORTÉE,{0}: AUSSER REICHWEITE,{0}: FUORI PORTATA,{0} – POZA ZASIĘGIEM,{0}: ВНЕ РАДИУСА,{0} NO ESTÁ AL ALCANCE,
+KEY_DLC3_INT_S1_P1,Text,,<color=#ECBA62>Manticore AI Core:</color> AIRBORNE HOSTILE DETECTED.,蝎狮人工智能核心：侦测到空中敌人。,Centre IA de Manticore : ENNEMI VOLANT DÉTECTÉ.,<color=#ECBA62>KI-Kern Manticore:</color> FEIND IN DER LUFT ERKANNT.,Nucleo IA Manticore: MINACCIA AEREA RILEVATA.,Rdzeń SI mantykory: WYKRYTO WROGA W POWIETRZU.,ИИ-ядро «Мантикоры»: ОБНАРУЖЕН ВРАГ В ВОЗДУХЕ.,Núcleo de IA de mantícora: HOSTIL AÉREO DETECTADO.,
+KEY_DLC3_INT_S1_P2,Text,,<color=#ECBA62>Eileen:</color> What the hell? This thing is huge! Arm all weapons!,艾琳：见鬼！这家伙也太大了！所有武器准备！,Eileen : C'est quoi ce truc ? C'est énorme ! Préparez toutes les armes !,<color=#ECBA62>Eileen:</color> Was zum Teufel? Dieses Ding ist ja riesig! Alle Waffen scharf machen!,Eileen: Ma che diavolo?! È enorme! Preparare tutte le armi!,"Eileen: O cholera, jakie to wielkie! Przygotować cały arsenał!",Эйлин: Какого черта? Вот так громадина! К оружию!,Eileen: ¿Pero qué narices...? ¡Esa cosa es enorme! ¡Preparad todas las armas!,
+KEY_DLC3_INT_S2_P1,Text,,<color=#ECBA62>Eileen:</color> We are under fire! ,艾琳：我们遭到攻击！,Eileen : Nous nous faisons attaquer !,<color=#ECBA62>Eileen:</color> Wir stehen unter Beschuss!,Eileen: Siamo sotto attacco!,Eileen: Zostaliśmy zaatakowani!,Эйлин: На нас нападают!,Eileen: ¡Nos están atacando!,
+KEY_DLC3_INT_S2_P2,Text,,<color=#ECBA62>Manticore AI Core:</color> BRACE FOR IMPACT.,蝎狮人工智能核心：准备承受撞击。,Centre IA de Manticore : PRÉPAREZ-VOUS POUR L'IMPACT.,<color=#ECBA62>KI-Kern Manticore:</color> AUF AUFSCHLAG VORBEREITEN.,Nucleo IA Manticore: PREPARARSI ALL'IMPATTO.,Rdzeń SI mantykory: PRZYGOTOWAĆ SIĘ NA UDERZENIE.,ИИ-ядро «Мантикоры»: ПРИГОТОВИТЬСЯ К УДАРУ.,Núcleo de IA de mantícora: TODOS PREPARADOS PARA EL IMPACTO.,
+KEY_DLC3_INT_S2_P3,Text,,An aircraft is destroyed when its Hull Points drop to 0. ,飞行器的机体耐久度降为 0 时就会坠毁。,Un vaisseau est détruit quand ses points de coque sont à 0.,"Ein Fluggerät ist zerstört, wenn seine Rumpfpunkte auf 0 gefallen sind.",Un velivolo viene distrutto quando i suoi Punti scafo raggiungono lo 0.,"Statek powietrzny zostanie zniszczony, gdy liczba punktów poszycia spadnie do zera.","Воздушное судно будет уничтожено, когда значение прочности его корпуса опустится до 0.",Las naves se destruyen cuando los puntos de su casco llegan a 0.,
+KEY_DLC3_INT_S2_P4,Text,,Make sure to Disengage before that happens!,一定要在那之前脱离战斗！,Retirez-vous avant que cela ne se produise !,"Setz dich ab, bevor das passiert!",Assicurati di disimpegnarti sganciandoti prima che accada!,"Wycofaj się, zanim to nastąpi!","Обязательно отступите до того, как это произойдет!",¡Asegúrate de retirarte antes de que eso suceda!,
+KEY_DLC3_INT_S3_P1,Text,,"<color=#ECBA62>Manticore AI Core:</color> NOMAD LAUNCHER OPERATIONAL.
+",<color=#ECBA62>蝎狮人工智能核心：</color>浪人发射器正在运作。,<color=#ECBA62>Centre IA de Manticore :</color> LANCE-MISSILES NOMADE OPÉRATIONNEL.,<color=#ECBA62>KI-Kern Manticore:</color> NOMAD-WERFER BETRIEBSBEREIT.,<color=#ECBA62>Nucleo IA Manticore:</color> LANCIAMISSILI NOMAD OPERATIVO.,<color=#ECBA62>Rdzeń SI mantykory:</color> WYRZUTNIA NOMAD URUCHOMIONA.,<color=#ECBA62>ИИ-ядро ВС «Мантикора»:</color> РУ «КОЧЕВНИК» В БОЕГОТОВНОСТИ.,<color=#ECBA62>Núcleo de IA de mantícora:</color> LANZAGRANADAS NÓMADA OPERATIVO.,
+KEY_DLC3_INT_S3_P2,Text,,<color=#ECBA62>Eileen:</color> Return fire! ,艾琳：还击！,Eileen : Ripostez !,<color=#ECBA62>Eileen:</color> Feuer erwidern!,Eileen: Rispondere al fuoco!,Eileen: Ognia!,Эйлин: Ответный огонь!,Eileen: ¡Abrid fuego!,
+KEY_DLC3_INT_S3_P3_C,Text,,"To aim a weapon system, select your Weapon, then select the target icon.
+",使用武器系统进行瞄准时，选择你的武器，然后选择目标图标。,"Pour viser avec un dispositif armé, sélectionnez votre arme, puis l'icône cible.","Um mit einem Waffensystem zu zielen, wähle deine Waffe, dann das Zielsymbol.","Per mirare con l'arma, seleziona la tua arma, poi seleziona l'icona del bersaglio.","Aby wycelować broń, najpierw wybierz ją, a następnie ikonę celu.","Чтобы нацелить боевую установку, выберите оружие, а затем — значок цели.","Para apuntar a un sistema de armas, selecciona tu arma y, después, el icono del objetivo.",
+KEY_DLC3_INT_S3_P3_K,Text,,"To aim a weapon system left click your Weapon, then left-click the target icon.
+",使用武器系统进行瞄准时，左键点击你的武器，然后左键点击目标图标。,"Pour viser avec un dispositif armé, effectuez un clic gauche sur l'arme, puis sur l'icône cible.","Um mit einem Waffensystem zu zielen, klicke mit links auf deine Waffe, dann auf das Zielsymbol.","Per mirare con l'arma, clicca col tasto sinistro sulla tua arma, poi clicca col tasto sinistro sull'icona del bersaglio.","Aby wycelować broń, kliknij lewym przyciskiem najpierw ją, a następnie ikonę celu.","Чтобы нацелить боевую установку, левой кнопкой мыши нажмите на оружие, а затем — на значок цели.","Para apuntar a un sistema de armas, haz clic con el botón izquierdo en el icono del objetivo.",
+KEY_DLC3_INT_S4_P1,Text,,"Our aircraft has a defensive Module. The Afterburner makes us dodge any visually guided projectile, including the acid spit used by this Pandoran flyer.",我们的飞行器搭载有防御模块。加力燃烧室可让我们躲避任何视觉制导射弹，包括这个潘多拉体飞行物所使用的酸液喷吐。,"Notre vaisseau dispose d'un module défensif. Le module de postcombustion nous permet d'éviter n'importe quel projectile guidé visuellement, y compris la projection jet d'acide de ce Pandorien volant.",Unser Fluggerät hat ein Verteidigungsmodul. Mithilfe des Nachbrenners können wir visuell geführten Projektilen wie diesem gefährlichen Säurestoß von dem pandoranischen Flieger ausweichen.,"Il nostro velivolo possiede un modulo difensivo. Il Postbruciatore ci permette di schivare qualsiasi proiettile guidato visivamente, compresa la saliva acida utilizzata da questo Pandora volante.","Nasz statek ma moduł obronny. Dzięki dopalaczowi unikniemy każdego pocisku kierowanego optycznie, w tym kwasu, którym pluje ta pandorańska jednostka latająca.","У нашего воздушного судна есть защитный модуль. С помощью форсажной системы можно уклониться от любой атаки с визуальным наведением, в том числе от кислоты, которую выбрасывает этот летающий пандоран.","Nuestra nave tiene un módulo defensivo. El postquemador nos permite esquivar los proyectiles guiados por visión, incluyendo los escupitajos ácidos de ese volador pandoriano.",
+KEY_DLC3_INT_S4_P2,Text,,"<color=#ECBA62>Eileen:</color> Engage the Afterburner!
+",艾琳：启用加力燃烧室！,Eileen : Engagez le module de postcombustion !,<color=#ECBA62>Eileen:</color> Nachbrenner aktivieren!,Eileen: Attivare il Postbruciatore!,Eileen: Uruchomić dopalacz!,Эйлин: Запустить форсаж!,Eileen: ¡Luchad contra el postquemador!,
+KEY_DLC3_INT_S5_P1,Text,,Damage done to disabled Modules is transferred directly to the Hull.,对损坏模块造成的伤害会直接转移到机体上。,Les dégâts subis par les modules hors service sont transférés directement à la coque.,"Schaden, der zerstörten Modulen zugefügt wird, geht direkt auf die Struktur über.",I danni inflitti ai moduli disattivati vengono trasferiti direttamente allo scafo.,Uszkodzenia zadane wyłączonym modułom przypisywane są kadłubowi.,"Урон, наносимый поврежденным модулям, переносится непосредственно на корпус.",El daño realizado a los módulos desactivados se transfiere directamente al casco.,
+KEY_DLC3_INT_S5_P2,Text,,"<color=#ECBA62>Eileen:</color> Let’s finish this Pandoran monster!
+",艾琳：跟这些潘多拉体怪物做个了断吧！,Eileen : Finissons-en avec ce monstre pandorien !,<color=#ECBA62>Eileen:</color> Vernichten wir dieses pandoranische Monster!,Eileen: Finiamo quel Pandora!,Eileen: Rozwalmy to pandorańskie monstrum!,Эйлин: Прикончим этого пандорана!,Eileen: ¡Acabemos con ese monstruo pandoriano!,
+KEY_DLC3_INT_S5_P3,Text,,<color=#ECBA62>Manticore AI Core:</color> THREAT ELIMINATED.,蝎狮人工智能核心：威胁已消除。,Centre IA de Manticore : MENACE ÉLIMINÉE.,<color=#ECBA62>KI-Kern Manticore:</color> BEDROHUNG AUSGESCHALTET.,Nucleo IA Manticore: MINACCIA ELIMINATA.,Rdzeń SI mantykory: ZAGROŻENIE USUNIĘTE.,ИИ-ядро «Мантикоры»: УГРОЗА УСТРАНЕНА.,Núcleo de IA de mantícora: AMENAZA ELIMINADA.,
+KEY_DLC3_INT_S6_P1,Text,,<color=#ECBA62>Manticore AI Core:</color> CODE RED! EMERGENCY DISENGAGE PROTOCOL ACTIVATED.,蝎狮人工智能核心：红色警戒！已启动紧急脱离程序。,Centre IA de Manticore : CODE ROUGE ! PROTOCOLE DE RETRAIT D'URGENCE ACTIVÉ.,<color=#ECBA62>KI-Kern Manticore:</color> ALARMSTUFE ROT! NOTFALL-ABSETZPROTOKOLL AKTIVIERT.,Nucleo IA Manticore: CODICE ROSSO! PROTOCOLLO DI SGANCIAMENTO D'EMERGENZA ATTIVATO.,Rdzeń SI mantykory: CZERWONY ALARM! AKTYWUJĘ PROTOKÓŁ AWARYJNEGO WYCOFANIA SIĘ.,ИИ-ядро «Мантикоры»: КРАСНЫЙ КОД! АКТИВИРОВАН ПРОТОКОЛ АВАРИЙНОГО ОТСТУПЛЕНИЯ.,Núcleo de IA de mantícora: ¡CÓDIGO ROJO! PROTOCOLO DE RETIRADA DE EMERGENCIA ACTIVADO.,
+KEY_DLC3_INT_S6_P2,Text,,"<color=#ECBA62>Eileen:</color> Thanks for sharing! Now go, go, go!",艾琳：感谢告知！快走，快！,"Eileen : Merci pour l'info ! Maintenant, en avant !","<color=#ECBA62>Eileen:</color> Danke für die Meldung! Und jetzt los, los, los!",Eileen: Grazie per avermelo detto! Ora vai vai vai!,Eileen: Dzięki za wiadomość! A teraz jazda!,Эйлин: Как же не вовремя! Убираемся!,"Eileen: Gracias por avisar... ¡Ahora vamos, venga, venga!",
+KEY_DLC3_INT_S6_P3_C,Text,,Select Disengage or press :BACK:. ,选择脱离或按 :BACK:。,Sélectionnez Se retirer ou appuyez sur :BACK:.,Wähle Absetzen oder drücke :BACK:.,Seleziona il comando per sganciarti o premi :BACK:.,Wybierz „Wycofaj się” lub naciśnij :BACK:.,Выберите «Отмена» или нажмите :BACK:.,Selecciona Retirada o pulsa :BACK:.,
+KEY_DLC3_INT_S6_P3_K,Text,,Select Disengage or press {[EndTurn]},选择脱离或按 {[EndTurn]},Sélectionnez Se retirer ou appuyez sur {[EndTurn]},Wähle Absetzen oder drücke {[EndTurn]},Seleziona il comando per sganciarti o premi {[EndTurn]},Wybierz „Wycofaj się” lub naciśnij {[EndTurn]}.,Выберите «Отмена» или нажмите {[EndTurn]},Selecciona Retirada o pulsa {[EndTurn]}.,
+KEY_DLC3_INT_TARGET_ACQUIRED,Text,,TARGET ACQUIRED,目标锁定,CIBLE DÉFINIE,ZIEL ERFASST,BERSAGLIO ACQUISITO,CEL NAMIERZONY,ЦЕЛЬ ЗАХВАЧЕНА,OBJETIVO A LA VISTA,
+KEY_DLC3_INT_TOGGLE_TIME_HOTKEY,Text,,Pause/Unpause,暂停/取消暂停,Mettre en pause/Reprendre,Pausieren/Weiter,Pausa/Continua,Pauza/Wznów,Приостановить/возобновить,Pausar/Reanudar,
+KEY_DLC3_INT_TOGGLE_TOOLTIPS_HOTKEY,Text,,Show/Hide Tooltips,显示/隐藏工具栏,Afficher/Masquer les conseils,Kurzinfo zeigen/verbergen,Mostra/Nascondi suggerimenti,Pokaż/ukryj podpowiedzi,Показать/скрыть подсказки,Mostrar/Ocultar ayuda,
+KEY_DLC3_INT_USE_MODULE_HOTKEY,Text,,Use Module,使用模块,Utiliser le module,Modul benutzen,Usa modulo,Użyj modułu,Использовать модуль,Usar módulo,
+KEY_DLC3_INT_WARNING_BIOWEAPON,Text,,WARNING: Bioweapon on board!,警告：飞行器遭受生化打击！,AVERTISSEMENT : Arme biologique à bord !,WARNUNG: Biowaffe an Bord!,ATTENZIONE: arma biologica a bordo!,UWAGA: Broń biologiczna na pokładzie!,ПРЕДУПРЕЖДЕНИЕ: биооружие на борту!,ADVERTENCIA: ¡Bioarma a bordo!,
+KEY_DLC3_INT_WARNING_FIRE,Text,,WARNING: Fire on board!,警告：飞行器起火！,AVERTISSEMENT : Feu à bord !,WARNUNG: Feuer an Bord!,ATTENZIONE: fuoco a bordo!,UWAGA: Ogień na pokładzie!,ПРЕДУПРЕЖДЕНИЕ: пожар на борту!,ADVERTENCIA: ¡Fuego a bordo!,
+KEY_DLC3_INT_WARNING_HP_20,Text,,WARNING: HP below 20%,警告：生命值低于 20%,AVERTISSEMENT : PV inférieurs à 20 %,WARNUNG: TP unter 20%,ATTENZIONE: PF inferiori al 20%,UWAGA: PŻ poniżej 20%,ПРЕДУПРЕЖДЕНИЕ: менее 20% здоровья,ADVERTENCIA: PS por debajo del 20 %,
+KEY_DLC3_INT_WARNING_HP_50,Text,,WARNING: HP below 50%,警告：生命值低于 50%,AVERTISSEMENT : PV inférieurs à 50 %,WARNUNG: TP unter 50%,ATTENZIONE: PF inferiori al 50%,UWAGA: PŻ poniżej 50%,ПРЕДУПРЕЖДЕНИЕ: менее 50% здоровья,ADVERTENCIA: PS por debajo del 50 %,
+KEY_DLC3_INT_WEAPON,Text,,WEAPON,武器,ARME,WAFFE,ARMA,BROŃ,ОРУЖИЕ,ARMA,
+KEY_DLC3_INT_WEAPON_1,Text,,WEAPON 1,武器 1,ARME 1,WAFFE 1,ARMA 1,BROŃ 1,ОРУЖИЕ 1,ARMA 1,
+KEY_DLC3_INT_WEAPON_2,Text,,WEAPON 2,武器 2,ARME 2,WAFFE 2,ARMA 2,BROŃ 2,ОРУЖИЕ 2,ARMA 2,
+KEY_DLC3_INT_WEAPON_3,Text,,WEAPON 3,武器 3,ARME 3,WAFFE 3,ARMA 3,BROŃ 3,ОРУЖИЕ 3,ARMA 3,
+KEY_DLC3_INT_WEAPON_4,Text,,WEAPON 4,武器 4,ARME 4,WAFFE 4,ARMA 4,BROŃ 4,ОРУЖИЕ 4,ARMA 4,
+KEY_DLC3_INT_WEAPON_5,Text,,WEAPON 5,武器 5,ARME 5,WAFFE 5,ARMA 5,BROŃ 5,ОРУЖИЕ 5,ARMA 5,
+KEY_DLC3_INT_WEAPON_6,Text,,WEAPON 6,武器 6,ARME 6,WAFFE 6,ARMA 6,BROŃ 6,ОРУЖИЕ 6,ARMA 6,
+KEY_DLC3_INT_WEAPON_LOST,Text,,{0} LOST,{0} 已损毁,ARME {0} PERDUE,{0} VERLOREN,ARMA {0} PERSA,{0} – UTRACONO,{0}: ПОТЕРЯНО,SE HA PERDIDO: {0},
+KEY_DLC3_LOSSES,Text,,LOSSES,损失,PERTES,VERLUSTE,PERDITE,STRATY,ПОТЕРИ,PÉRDIDAS,
+KEY_DLC3_MOUNTEGG_NAME,Text,,MOUNT EGG,卵山,MONT ŒUF,BERG-EI,MONTE UOVO,JAJOGÓRA,МАУНТ-ЭГГ,MONTE HUEVO,
+KEY_DLC3_MOVEMENT_PENTALY,Text,,{0} SPEED,{0} 速度,{0} POINTS DE VITESSE,{0} GESCHWINDIGKEIT,VELOCITÀ {0},PRĘDKOŚĆ {0},СКОРОСТЬ: {0},VELOCIDAD: {0},
+KEY_DLC3_PANDORAN,Text,,Pandoran,潘多拉体,Pandorien,Pandoraner,Pandora,Pandoranie,Пандоран,Pandoriano,
+KEY_DLC3_REBIND_ENEMY_1,Text,,ENEMY WEAPON/MODULE 1,敌方武器/模块 1,ARME/MODULE ENNEMI(E) 1,FEINDWAFFE / MODUL 1,ARMA/MODULO NEMICO 1,BROŃ/MODUŁ PRZECIWNIKA 1,ДРУЖЕСТВЕННОЕ ОРУЖИЕ/МОДУЛЬ 1,ARMA ENEMIGA/MÓDULO 1,
+KEY_DLC3_REBIND_ENEMY_2,Text,,ENEMY WEAPON/MODULE 2,敌方武器/模块 2,ARME/MODULE ENNEMI(E) 2,FEINDWAFFE / MODUL 2,ARMA/MODULO NEMICO 2,BROŃ/MODUŁ PRZECIWNIKA 2,ДРУЖЕСТВЕННОЕ ОРУЖИЕ/МОДУЛЬ 2,ARMA ENEMIGA/MÓDULO 2,
+KEY_DLC3_REBIND_ENEMY_3,Text,,ENEMY WEAPON/MODULE 3,敌方武器/模块 3,ARME/MODULE ENNEMI(E) 3,FEINDWAFFE / MODUL 3,ARMA/MODULO NEMICO 3,BROŃ/MODUŁ PRZECIWNIKA 3,ДРУЖЕСТВЕННОЕ ОРУЖИЕ/МОДУЛЬ 3,ARMA ENEMIGA/MÓDULO 3,
+KEY_DLC3_REBIND_ENEMY_4,Text,,ENEMY WEAPON/MODULE 4,敌方武器/模块 4,ARME/MODULE ENNEMI(E) 4,FEINDWAFFE / MODUL 4,ARMA/MODULO NEMICO 4,BROŃ/MODUŁ PRZECIWNIKA 4,ДРУЖЕСТВЕННОЕ ОРУЖИЕ/МОДУЛЬ 4,ARMA ENEMIGA/MÓDULO 4,
+KEY_DLC3_REBIND_ENEMY_5,Text,,ENEMY WEAPON/MODULE 5,敌方武器/模块 5,ARME/MODULE ENNEMI(E) 5,FEINDWAFFE / MODUL 5,ARMA/MODULO NEMICO 5,BROŃ/MODUŁ PRZECIWNIKA 5,ДРУЖЕСТВЕННОЕ ОРУЖИЕ/МОДУЛЬ 5,ARMA ENEMIGA/MÓDULO 5,
+KEY_DLC3_REBIND_ENEMY_6,Text,,ENEMY WEAPON/MODULE 6,敌方武器/模块 6,ARME/MODULE ENNEMI(E) 6,FEINDWAFFE / MODUL 6,ARMA/MODULO NEMICO 6,BROŃ/MODUŁ PRZECIWNIKA 6,ДРУЖЕСТВЕННОЕ ОРУЖИЕ/МОДУЛЬ 6,ARMA ENEMIGA/MÓDULO 6,
+KEY_DLC3_REBIND_ENEMY_HULL,Text,,ENEMY HULL,敌方机体,COQUE ENNEMIE,FEINDRUMPF,SCAFO NEMICO,KADŁUB PRZECIWNIKA,КОРПУС ПРОТИВНИКА,CASCO ENEMIGO,
+KEY_DLC3_REBIND_FRIENDLY_1,Text,,FRIENDLY WEAPON 1,友方武器 1,ARME ALLIÉE 1,VERBÜNDETENWAFFE 1,ARMA AMICA 1,BROŃ SOJUSZNIKA 1,ДРУЖЕСТВЕННОЕ ОРУЖИЕ 1,ARMA ALIADA 1,
+KEY_DLC3_REBIND_FRIENDLY_2,Text,,FRIENDLY WEAPON 2,友方武器 2,ARME ALLIÉE 2,VERBÜNDETENWAFFE 2,ARMA AMICA 2,BROŃ SOJUSZNIKA 2,ДРУЖЕСТВЕННОЕ ОРУЖИЕ 2,ARMA ALIADA 2,
+KEY_DLC3_REBIND_FRIENDLY_3,Text,,FRIENDLY MODULE,友方模块,MODULE ALLIÉ,VERBÜNDETENMODUL,MODULO AMICO,MODUŁ SOJUSZNIKA,ДРУЖЕСТВЕННЫЙ МОДУЛЬ,MÓDULO ALIADO,
+KEY_DLC3_ROSTER_HOTKEY_LOCATE,Text,,Locate,定位,Trouver,Lokalisieren,Localizza,Znajdź,Найти,Localizar,
+KEY_DLC3_ROSTER_HOTKEY_RENAME,Text,,Rename,重命名,Renommer,Umbenennen,Rinomina,Zmień nazwę,Переименовать,Renombrar,
+KEY_DLC3_STATUS_HIGH_WINDS_DESCRIPTION,Text,,"Grenades, grenade launchers, and missile launchers have halved range",手雷、榴弹发射器和导弹发射器的射程减半,"La portée des grenades, des lance-grenades et des lance-missiles est réduite de moitié","Granaten, Granat- sowie Raketenwerfer besitzen nur noch halbe Reichweite","Le granate, i lanciagranate e i lanciamissili hanno portata dimezzata","Zasięg granatów, granatników i wyrzutni rakiet jest zmniejszony o połowę","Гранаты, гранатометы и ракетные установки сократили дистанцию вдвое","Las granadas, los lanzagranadas y los lanzamisiles ven reducido su alcance a la mitad.",
+KEY_DLC3_STATUS_HIGH_WINDS_NAME,Text,,HIGH WINDS,狂风,GRAND VENT,STARKWINDE,VENTI FORTI,WICHURA,СИЛЬНЫЕ ВЕТРА,FUERTES VIENTOS,
+KEY_DLC3_STORAGE,Text,,STORAGE,仓库,ENTREPÔT,LAGER,MAGAZZINO,MAGAZYN,ХРАНИЛИЩЕ,ALMACENAMIENTO,
+KEY_DLC3_TAC_HINT_ACID_SWARMER_DESCRIPTION,Text,,The body of this advanced form of Myrmidon mutation produces dangerous acids. It's advisable to shoot it from a safe distance to prevent exposure to the dangerous chemicals.,这种高级形式的侍从突变体能够产生危险的酸液。建议从安全距离进行射击，以免接触到危险的化学物质。,Le corps de cette forme de Myrmidon mutant produit de dangereux acides. Il est conseillé de tuer cette créature à une distance sûre pour éviter une exposition aux substances chimiques.,"Der Körper dieser fortgeschrittenen Form der Myrmidonenmutation produziert gefährliche Säuren. Es ist ratsam, ihn aus sicherer Entfernung zu erschießen, um eine Exposition gegenüber den gefährlichen Chemikalien zu vermeiden.",Il corpo di questa forma avanzata di mutazione Mirmidone produce acidi pericolosi. Si consiglia di sparare da una distanza di sicurezza per prevenire l'esposizione alle sostanze chimiche pericolose.,"Ciało tej wysoce zmutowanej formy myrmidona wytwarza niebezpieczne kwasy. Zaleca się strzelanie z bezpiecznej odległości, aby unikać kontaktu z tymi związkami.","Туловище Кислотного Мирмидона выделяет опасную кислоту. При нападении держитесь от него подальше, чтобы на вас не попали опасные вещества.",El cuerpo de esta forma avanzada de mirmidón mutado produce ácidos peligrosos. Se recomienda dispararle desde una distancia prudencial para evitar la exposición a químicos peligrosos.,
+KEY_DLC3_TAC_HINT_ACID_SWARMER_NAME,Text,,PANDORAN SUPPLEMENTAL - ACID MYRMIDON,补充潘多拉体——酸性侍从,SUPPLÉMENT PANDORIEN – MYRMIDON CAUSTIQUE,PANDORANISCHE ERGÄNZUNG - SÄURE-MYRMIDONE,SUPPLEMENTO PANDORA - MIRMIDONE ACIDO,PANDORANIE (UZUPEŁNIENIE) – KWASOWY MYRMIDON,ДОПОЛНЕНИЕ ПАНДОРАНА — КИСЛОТНЫЙ МИРМИДОН,COMPLEMENTO PANDORIANO - MIRMIDÓN ÁCIDO,
+KEY_DLC3_TAC_HINT_CORRUPTION_NODE_DESCRIPTION,Text,,"We've discovered the neural core that managed to telepathically overwhelm the entire haven. 
+This monstrous Pandoran does not resemble anything we've previously encountered. It's body has an unnatural structure devoid of any human features. 
+Our squad needs to exercise extreme caution approaching such a creature. An aggressive offensive seems to be our best course of action.","我们发现了一种用心灵攻击压垮了整个避难所的神经核心。
+这种巨大的潘多拉体和我们之前遇到的都不一样。它拥有超自然的身体结构，没有任何人类特征。
+我们的小队在接近这种生物时要格外小心。积极的攻势似乎是最好的行动方案。","Nous avons découvert le centre neural qui a réussi à prendre le contrôle de tout le refuge par télépathie.
+ Ce monstre pandorien ne ressemble à aucun autre rencontré jusqu'ici. Son corps est doté d'une structure anormale sans aucun trait humain.
+ Notre escouade doit faire preuve d'une extrême prudence à l'approche de cette créature. Une attaque agressive semble être notre meilleur plan d'action.","Wir haben den neuralen Kern entdeckt, der die gesamte Zuflucht telepathisch überwältigt hat.
+Dieser monströse Pandoraner ähnelt nichts, was uns bisher begegnet ist. Sein Körper weist eine unnatürliche Struktur ohne jegliche menschliche Züge auf.
+Unser Einsatzteam muss bei der Annäherung äußerste Vorsicht walten lassen. Ein kontrollierter Angriff scheint die beste Vorgehensweise zu sein.","Abbiamo scoperto il nucleo neurale che riusciva a sopraffare telepaticamente l'intero rifugio. 
+ Questo mostruoso Pandora non assomiglia a nulla di ciò che abbiamo incontrato in precedenza. Il suo corpo ha una struttura innaturale, priva di qualsiasi caratteristica umana. 
+ La nostra squadra deve esercitare la massima cautela nell'avvicinarsi a una tale creatura. Un'offensiva aggressiva sembra essere l'opzione migliore.","Odkryliśmy rdzeń neuronowy, któremu udało się pokonać telepatią cały bastion.
+ Ten potężny Pandoranin nie przypomina niczego, co napotkaliśmy do tej pory. Jego ciało ma nienaturalną budowę pozbawioną jakichkolwiek cech ludzkich.
+Zbliżając się do tej istoty, nasz oddział musi zachować najwyższą ostrożność. Agresywna obrona powinna zadziałać tu najlepiej.","Мы обнаружили нейронное ядро, которому удалось телепатически овладеть всем убежищем. 
+ Этот чудовищный пандоран не похож ни на что, с чем мы сталкивались прежде. Его неестественный образ лишен каких-либо человеческих черт. 
+ При приближении к нему нашему отряду нужно проявлять предельную осторожность. По всей видимости, лучшим способом с ним справиться является агрессивное наступление.","Hemos descubierto el núcleo neurálgico que conseguía oprimir telepáticamente a todo el refugio.
+ Este monstruoso pandoriano no se parece a nada que hayamos visto antes. Su cuerpo tiene una estructura antinatural que carece de rasgos humanos.
+ El pelotón debe proceder con una cautela extrema a la hora de abordar a dicha criatura. Una ofensiva agresiva parece ser el mejor procedimiento.",
+KEY_DLC3_TAC_HINT_CORRUPTION_NODE_NAME,Text,,PANDORAN - CORRUPTION NODE,潘多拉体——腐败节点,PANDORIEN – NŒUD DE CORRUPTION,PANDORANER - VERDERBNISKNOTEN,NODO DI CORRUZIONE - PANDORA,PANDORANIE – WĘZEŁ ZEPSUCIA,ПАНДОРАН — УЗЕЛ ТЛЕНИЯ,PANDORIANO - NODO DE CORRUPCIÓN,
+KEY_DLC3_TAC_HINT_EILEEN_STORY_LOSE_DESCRIPTION,Text,,"""Phoenix, respond! Phoenix? Damn...
+If anybody receives this transmission: This is Citizen Eileen speaking. Your squad is missing, presumed K.I.A. I am taking off with the armed Manticore. Stand by for future transmissions. Eileen out.""",,,"„Phoenix, antwortet! Phoenix? Verdammt...
+Falls jemand diese Übertragung empfängt: Hier spricht Bürgerin Eileen. Euer Einsatzteam gilt als vermisst – vermutlich gefallen. Ich starte mit der bewaffneten Manticore. Wartet auf weitere Übertragungen. Eileen, Ende.“",,,,,
+KEY_DLC3_TAC_HINT_EILEEN_STORY_LOSE_NAME,Text,,TRANSMISSION,,,FUNKSPRUCH,,,,,
+KEY_DLC3_TAC_HINT_EILEEN_STORY_WIN_DESCRIPTION,Text,,"""Is everybody on board? I'm afraid we can't afford to stay any longer... things are getting really ugly down there...
+My name is Citizen Eileen and it is my duty to see you returned safely. This was my home haven, but... we need to go. Prepare for takeoff!""","“所有人都登机了吗？恐怕我们不能久留了……下面的情况实在太糟糕了……
+我是市民艾琳，而我的任务就是确保你们安全回归。这里曾是我的家园避难所，但是……我们得走了。准备起飞！”","« Est-ce que tout le monde est à bord ? Je crains que nous ne puissions rester plus longtemps... la situation se détériore rapidement là-bas...
+Je suis la citoyenne Eileen et je dois veiller à ce que vous rentriez en toute sécurité. C'était mon refuge, mais... nous devons partir. Préparez-vous pour le décollage ! »","„Sind alle an Bord? Ich fürchte, wir können nicht länger bleiben ... da unten wird es richtig heftig ... Mein Name ist Bürgerin Eileen und meine Pflicht lautet, euch sicher nach Hause zu bringen. Das hier war meine Zuflucht, aber ... wir müssen los. Bereitmachen für den Abflug!“","""Siamo tutti a bordo? Temo che non possiamo fermarci più a lungo... Le cose si stanno mettendo davvero male quaggiù...
+ Il mio nome è Cittadina Eileen e ho il dovere di riportarvi indietro sani e salvi. Questo era il mio rifugio, ma... dobbiamo andare. Prepararsi al decollo!""","„Wszyscy już są? Niestety, nie możemy tu dłużej pozostać – zrobiło się paskudnie.
+ Jestem obywatelka Eileen i mam obowiązek dopilnować, żebyście bezpiecznie wrócili. To był mój bastion, ale... musimy odejść. Przygotować się do startu!”","«Все на борту? Боюсь, мы больше не можем позволить себе здесь оставаться... иначе плохо кончим...
+Я гражданка Эйлин, и мой долг в том, чтобы вы вернулись в целости и сохранности. Это было мое родное убежище, но... нам нужно убираться. Готовьтесь к взлету!»","«¿Está todo el mundo a bordo? Me temo que no podemos quedarnos más tiempo... Las cosas se están poniendo muy feas ahí abajo...
+Me llamo Ciudadana Eileen y mi deber es asegurarme de que volvéis a salvo. Antes vivía en este refugio, pero... ahora tenemos que irnos. ¡Preparaos para despegar!».",
+KEY_DLC3_TAC_HINT_EILEEN_STORY_WIN_NAME,Text,,TO THE SKIES,冲向天空,VERS LES CIEUX,IN DEN HIMMEL,VERSO I CIELI,W NIEBO,В НЕБО,HACIA LOS CIELOS,
+KEY_DLC3_TAC_HINT_EXPLOSIVE_EGG_DESCRIPTION,Text,,"This Pandoran egg is different from what we've previously seen. The dangerous chemicals inside make it prone to exploding, so our soldiers need to approach with caution.",这种潘多拉体的卵与我们之前看到的不同。蕴含的危险化学物质使它更容易爆炸，因此我们的士兵在接近时要格外小心。,"Cet œuf pandorien est différent de ce qu'on a vu auparavant. Les dangereuses substances chimiques qu'il contient le rendent sujet à l'explosion, nos soldats doivent donc s'en approcher avec prudence.","Dieses pandoranische Ei unterscheidet sich von denen, die wir bisher gesehen haben. Die gefährlichen Chemikalien im Inneren machen es anfällig für Explosionen, sodass sich unsere Soldaten nur vorsichtig nähern sollten.","Questo uovo Pandora è diverso da ciò che abbiamo visto finora. Le pericolose sostanze chimiche al suo interno lo rendono incline ad esplodere, perciò i nostri soldati devono avvicinarvisi con cautela.","To pandorańskie jajo nie przypomina tych, które znaliśmy do tej pory. Znajdujące się wewnątrz niebezpieczne związki chemiczne sprawiają, że może wybuchnąć, żołnierze powinni więc zachować ostrożność podczas zbliżania się do nich.","Это яйцо пандорана отличается от тех, которые мы видели прежде. Из-за высокой концентрации опасных веществ оно может в любую минуту взорваться, поэтому нашим солдатам нужно проявлять с ним предельную осторожность.","Este huevo pandoriano es diferente a todo lo que hemos visto antes. Los químicos peligrosos de su interior lo hacen propenso a explotar, por lo que nuestros soldados tendrán que proceder con precaución.",
+KEY_DLC3_TAC_HINT_EXPLOSIVE_EGG_NAME,Text,,PANDORAN - EXPLOSIVE EGG,潘多拉体——爆卵,PANDORIEN – ŒUF EXPLOSIF,PANDORANER - EXPLOSIVES EI,PANDORA - UOVO ESPLOSIVO,PANDORANIE – WYBUCHOWE JAJO,ПАНДОРАН — ВЗРЫВНОЕ ЯЙЦО,PANDORIANO - HUEVO EXPLOSIVO,
+KEY_DLC3_TAC_HINT_GILLS_DESCRIPTION,Text,,The behemoth's stomp puts our whole team in great danger. Disabling the creature's gills will hinder its breathing cycle and significantly slow it down.,巨兽的践踏让我们的整个队伍都处于极大的危险之中。破坏这个生物的鳃部可以阻碍它的呼吸，大幅减慢它的速度。,Le piétinement du Béhémoth met toute notre équipe en grand danger. Désactiver les branchies de cette créature entravera son cycle respiratoire et la ralentira considérablement.,Das Stampfen des Behemoths bringt unser gesamtes Team in große Gefahr. Das Zerstören der Kiemen der Kreatur wird ihren Atemzyklus beeinträchtigen und sie erheblich verlangsamen.,I pestoni del Behemoth mettono tutta la nostra squadra in pericolo. Ferire le branchie della creatura ostacolerà il suo ciclo respiratorio rallentandolo notevolmente.,Tupnięcia Behemota narażają na wielkie niebezpieczeństwo całą drużynę. Zniszczenie jego skrzeli zatrzyma cykl oddechowy bestii i znacznie ją spowolni.,"Наша команда попадет в большую опасность, если Бегемот до нас доберется. Можно повредить ему жабры, чтобы затруднить его дыхание и значительно его замедлить.",El pisotón del bégimo pone a todo el equipo en grave peligro. Desactivar las branquias de la criatura complicará su ciclo de respiración y ralentizará su velocidad de forma significativa.,
+KEY_DLC3_TAC_HINT_GILLS_NAME,Text,,BEHEMOTH'S GILLS,巨兽的鳃部,BRANCHIES DE BÉHÉMOTH,BEHEMOTH-KIEMEN,BRANCHIE DEL BEHEMOTH,SKRZELA BEHEMOTA,ЖАБРЫ БЕГЕМОТА,BRANQUIAS DE BÉGIMO,
+KEY_DLC3_TAC_HINT_INJECTORS_DESCRIPTION,Text,,Our operatives are armed with a powerful bioweapon. We should exploit the weak spots on the Behemoth's skin and inject the virophage agent there.,我们的特工配备了强大的生化武器。我们应该利用巨兽皮肤上的弱点，向其注射噬病毒体药剂。,Nos agents sont équipés d'une puissante arme biologique. Nous devrions exploiter les points faibles de la peau du Béhémoth pour lui injecter l'agent virophage.,Unsere Soldaten sind mit einer machtvollen Biowaffe bewaffnet. Wir sollten die Schwachstellen auf der Haut des Behemoth ausnutzen und den Virophagen-Wirkstoff dort injizieren.,I nostri agenti sono armati con una potente arma biologica. Dovremmo sfruttare i punti deboli della pelle del Behemoth e iniettare lì l'agente virofago.,Nasi operatorzy uzbrojeni są w potężną broń biologiczną. Powinniśmy wykorzystać słabe punkty na skórze Behemota i wstrzyknąć tam środek przeciwwirusowy.,У наших оперативников есть мощное биологическое оружие. Нам нужно найти уязвимые точки у Бегемота на коже и ввести под нее агент-вирофаг.,Los operativos están armados con una bioarma muy poderosa. Deberíamos aprovechar los puntos débiles de la piel del bégimo para inyectar ahí el agente virófago.,
+KEY_DLC3_TAC_HINT_MANTICORE_RUN_HURRY_DESCRIPTION,Text,,"""Phoenix? I see you're getting close. More crabmen are approaching from all sides, so hurry up! I'm waiting for you inside the Manticore.""",凤凰计划？我看到你们正在接近。更多的蟹钳人正从四面八方涌来。动作快点！我在蝎狮里等你们。,"Phoenix? Je vois que vous vous rapprochez. D'autres hommes-crabes arrivent de tous les côtés, faites vite ! Je vous attends dans la Manticore.","Phoenix? Sie sind fast da, wie ich sehe. Von allen Seiten nähern sich weitere Krabbenmenschen, also beeilen Sie sich! Ich warte im Manticore auf Sie.","Phoenix? Vedo che vi state avvicinando. Altri Uomini granchio sono in arrivo da tutte le direzioni, quindi fate in fretta! Vi aspetto all'interno della Manticore.","Phoenix? Widzę, że się zbliżacie. Z każdej strony idą na nas kraboczłeki, pospieszcie się! Czekam na was w mantykorze.","Феникс? Вижу, вы на подходе. Краболюди наступают со всех сторон. Поторопитесь! Жду вас на «Мантикоре».","¿Fénix? Veo que os estáis acercando. Se aproximan más hombres cangrejos por todos los flancos, ¡así que daos prisa! Os estoy esperando dentro de la mantícora.",
+KEY_DLC3_TAC_HINT_MANTICORE_RUN_HURRY_NAME,Text,,TRANSMISSION,通讯传输,TRANSMISSION,FUNKSPRUCH,TRASMISSIONE,TRANSMISJA,ПЕРЕДАЧА,TRANSMISIÓN,
+KEY_DLC3_TAC_HINT_MANTICORE_RUN_START_DESCRIPTION,Text,,"If the Synedrion are to be trusted, this hangar contains a fully operational Manticore armed for aerial battle. A pilot is waiting for us inside. We should reach it as soon as possible, avoiding any unnecessary engagements with the enemy.",如果平衡议会没骗我们，这个机库中应该有一台性能良好且已做好空战准备的蝎狮。驾驶员应该已经在里面等我们了。我们应当尽快抵达那里，尽量避免与敌人交战。,"Si nous nous fions au Synédrion, ce hangar contient une Manticore opérationnelle armée pour le combat aérien. Un pilote nous attend à l'intérieur. Nous devrions l'atteindre au plus vite en évitant tout combat inutile contre l'ennemi.","Falls man Synedrion trauen kann, befindet sich in diesem Hangar ein voll funktionsfähiger, für den Luftkampf bewaffneter Manticore. Drinnen wartet eine Pilotin auf uns. Wir sollten ihn so schnell wie möglich erreichen und unnötige Gefechte mit dem Feind vermeiden.","Se i Synedrion dicono il vero, l'hangar contiene una Manticore completamente operativa e armata per il combattimento aereo. Un pilota ci aspetta all'interno. Dovremmo raggiungerla il prima possibile, evitando qualsiasi contatto non necessario con il nemico.","Jeżeli można ufać Synedrionowi, w hangarze znajdziemy sprawną mantykorę uzbrojoną do walki powietrznej. Pilot czeka w środku. Musimy tam dotrzeć jak najwcześniej, unikając niepotrzebnych starć.","Если верить Синедриону, в ангаре содержится полностью исправное ВС «Мантикора», оснащенное для воздушного боя. Внутри нас ждет пилот. Нам нужно добраться туда как можно скорее и избежать по пути ненужных столкновений с противником.","Según Synedrion, si es que podemos confiar en ellos, este hangar contiene una mantícora totalmente funcional armada para el combate aéreo. Nos espera un piloto en el interior. Deberíamos ir con él cuanto antes y evitar enfrentamientos innecesarios con el enemigo.",
+KEY_DLC3_TAC_HINT_MANTICORE_RUN_START_NAME,Text,,ARMED AIRCRAFT,武装飞行器,VAISSEAU ARMÉ,BEWAFFNETES FLUGGERÄT,VELIVOLO ARMATO,UZBROJONE STATKI POWIETRZNE,ВООРУЖЕННАЯ МАНТИКОРА,NAVE ARMADA,
+KEY_DLC3_TAC_HINT_MANTICORE_RUN_STORY_DESCRIPTION,Text,,"Looks like the Pandorans have besieged the haven from all sides, including the sky above. The massive seismic eruption has cut off the main entrance and our transport was lost in the sinkhole. We'll need to find another way out.",看样子潘多拉体已经从包括天空在内的各个方向包围了这个避难所。大规模的地震已切断了主入口，而我们的运输载具也陷入了陷坑之中。我们必须得另寻出路了。,"On dirait que les Pandoriens ont assiégé le refuge de tous les côtés, y compris du ciel. L'énorme éruption sismique a coupé l'entrée principale et notre véhicule a disparu dans le gouffre. Nous allons devoir trouver un autre moyen de partir.","Es sieht so aus, als hätten die Pandoraner die Zuflucht von allen Seiten belagert, selbst vom Himmel aus. Die massive seismische Eruption hat den Haupteingang abgeschnitten und unser Transportmittel ist in dem Krater verloren gegangen. Wir müssen einen anderen Weg nach draußen finden.","Sembra che i Pandora abbiano assediato il rifugio da ogni lato, persino dal cielo. La potente eruzione sismica ha bloccato l'ingresso principale e il nostro mezzo di trasporto è stato inghiottito dalla voragine. Dobbiamo trovare un'altra via di uscita.","Pandoranie oblegają bastion ze wszystkich stron, również z powietrza. Ogromna sejsmiczna erupcja odcięła główne wejście, a transport przepadł w szczelinie. Musimy znaleźć inne wyjście.","Похоже, пандораны осадили убежище со всех сторон, в том числе с воздуха. Из-за мощной сейсмической волны был перекрыт доступ к главному входу, а наш транспорт провалился под землю. Нам нужно будет найти другой выход.","Parece que los pandorianos han atacado al refugio desde todas las direcciones, incluyendo desde el cielo. Una gran erupción sísmica ha bloqueado la entrada principal y hemos perdido nuestro medio de transporte entre los cimientos. Tenemos que encontrar otra manera de salir.",
+KEY_DLC3_TAC_HINT_MANTICORE_RUN_STORY_NAME,Text,,TRAPPED,陷入困境,PIÉGÉS,GEFANGEN,IN TRAPPOLA,W PUŁAPCE,В ЛОВУШКЕ,ATRAPADO,
+KEY_DLC3_TAC_HINT_NJECTORS_NAME,Text,,VIROPHAGE INJECTION,噬病毒体注射,INJECTION VIROPHAGE,VIROPHAGEN-INJEKTION,INIEZIONE DI VIROFAGO,WSTRZYKNIĘCIE ŚRODKA PRZECIWWIRUSOWEGO,ИНЪЕКЦИЯ ВИРОФАГА,INYECTOR VIRÓFAGO,
+KEY_DLC3_TAC_HINT_SWARMER_DESCRIPTION,Text,,Myrmidons are nimble Pandorans capable of flight at short distances. Their primary goal is to secure strategic zones on the battlefield.,侍从是敏捷的潘多拉体，能够进行短距飞行。它们的主要任务是抢夺战略要地。,Les Myrmidons sont des Pandoriens agiles qui peuvent voler sur de courtes distances. Leur but premier consiste à s'emparer des zones stratégiques sur le champ de bataille.,"Myrmidonen sind bewegliche Pandoraner, die kurze Distanzen fliegen können. Ihr primäres Ziel ist es, strategische Zonen auf dem Schlachtfeld zu sichern.",I Mirmidoni sono agili Pandora capaci di volare per brevi distanze. Il loro obiettivo primario è conquistare zone strategiche sul campo di battaglia.,Myrmidony to zwinni Pandoranie zdolni do lotów krótkodystansowych. Ich główny cel to zabezpieczanie ważnych stref pola walki.,"Мирмидоны — быстрые пандораны, способные летать на короткие расстояния. Основная их цель заключается в том, чтобы захватить стратегически важные зоны на поле боя.",Los mirmidones son pandorianos ágiles capaces de volar a corta distancia. Su objetivo principal es asegurar zonas estratégicas del campo de batalla.,
+KEY_DLC3_TAC_HINT_SWARMER_EGG_DESCRIPTION,Text,,"Each of these eggs contains a hibernating Myrmidon inside ready to burst out.
+It's advisable for our operatives to shoot if from a safe distance.","每个卵里都有一只即将破壳而出的休眠侍从。
+建议特工在射击时保持安全距离。","Chacun de ces œufs contient un Myrmidon en hibernation prêt à sortir.
+ Nous recommandons à nos agents de tirer dessus à une distance sûre.","Jedes dieser Eier enthält einen schlafenden Myrmidonen, der bereit zum Schlüpfen ist.
+Unseren Soldaten sollten nur aus sicherer Entfernung schießen.","Ogni uovo contiene al suo interno un Mirmidone ibernato pronto a uscire.
+Si consiglia ai nostri agenti di sparargli da una distanza di sicurezza.","Każde z tych jaj zawiera myrmidona w hibernacji, który gotów jest z niego wyskoczyć. Operatorom zaleca się strzelać do nich z bezpiecznej odległości.","В каждом из этих яиц покоится Мирмидон, готовый в любую минуту вырваться наружу.
+ Нашим оперативникам рекомендуется уничтожить его с безопасного расстояния.","Cada uno de estos huevos contiene un mirmidón en estado de hibernación listo para salir.
+ Se recomienda a nuestros operativos que le disparen a una distancia prudencial.",
+KEY_DLC3_TAC_HINT_SWARMER_EGG_NAME,Text,,PANDORAN - MYRMIDON EGG,潘多拉体——侍从卵,PANDORIEN – ŒUF MYRMIDON,PANDORANISCHES MYRMIDONEN-EI,PANDORA - UOVO DI MIRMIDONE,PANDORANIE – JAJO MYRMIDONA,ПАНДОРАН — ЯЙЦО МИРМИДОНА,PANDORIANO - HUEVO DE MIRMIDÓN,
+KEY_DLC3_TAC_HINT_SWARMER_NAME,Text,,PANDORAN - MYRMIDON,潘多拉体——侍从,PANDORIEN – MYRMIDON,PANDORANISCHER MYRMIDONE,PANDORA - MIRMIDONE,PANDORANIE – MYRMIDON,ПАНДОРАН — МИРМИДОН,PANDORIANO - MIRMIDÓN,
+KEY_DLC3_TAC_HINT_VENOMOUS_SWARMER_DESCRIPTION,Text,,"This sub mutation of the Myrmidon species has developed internal organs producing dangerous gasses. Be careful with your positioning when shooting these creatures down, because they might explode.",这种侍从的亚变种进化出了能够产生危险气体的内脏。射击这种生物时要注意自己的位置，因为它们可能会爆炸。,"Cette sous-mutation de l'espèce Myrmidon a développé des organes internes qui produisent de dangereux gaz. Faites attention à votre position quand vous abattez ces créatures, elles peuvent exploser.","Diese Untermutation der Myrmidonenspezies hat innere Organe entwickelt, die gefährliche Gase produzieren. Achtung beim Abschießen der Kreaturen, da sie explodieren könnten.","Questa sotto-mutazione della specie Mirmidone ha sviluppato organi interni che producono gas pericolosi. Fare attenzione al posizionamento quando si spara a queste creature, potrebbero esplodere.","Ten zmutowany myrmidon wykształcił organy wytwarzające niebezpieczne gazy. Podczas strzelania do tych stworów należy zachować odpowiednią odległość, ponieważ mogą wybuchać.","Внутренние органы Ядовитого Мирмидона выделяют опасный газ. При нападении держитесь от него подальше, так как он может взорваться.","Esta submutación de mirmidón ha desarrollado órganos internos que producen gases peligrosos. Cuidado con la posición al dispararles, pues podrían explotar.",
+KEY_DLC3_TAC_HINT_VENOMOUS_SWARMER_NAME,Text,,PANDORAN SUPPLEMENTAL - VENOMOUS MYRMIDON,补充潘多拉体——剧毒侍从,SUPPLÉMENT PANDORIEN – MYRMIDON VENIMEUX,PANDORANISCHE ERGÄNZUNG - GIFTIGER MYRMIDONE,SUPPLEMENTO PANDORA - MIRMIDONE VELENOSO,PANDORANIE (UZUPEŁNIENIE) – JADOWITY MYRMIDON,ДОПОЛНЕНИЕ ПАНДОРАНА — ЯДОВИТЫЙ МИРМИДОН,COMPLEMENTO PANDORIANO - MIRMIDÓN VENENOSO,
+KEY_DLC3_TAC_INJECTOR_OBJECTIVE_DESCRIPTION,Text,,Exploit a weakness on the back of the Behemoth to inject our virophage weapon. The injecting process will take 2 turns.,利用巨兽背部的弱点注射我们的噬病毒体武器。注射过程需要持续 2 个回合。,Exploitez un point faible sur le dos du Béhémoth pour injecter notre agent virophage. Le processus d'injection dure 2 tours.,"Nutze eine Schwäche auf dem Rücken des Behemoth aus, um unseren Virophagen-Wirkstoff zu injizieren. Das Injizieren dauert 2 Züge.",Sfrutta il punto debole sul dorso del Behemoth per iniettare la nostra arma virofaga. La procedura di iniezione durerà 2 turni.,"Wykorzystaj słaby punkt na grzbiecie Behemota, aby wstrzyknąć tam broń przeciwwirusową. Proces wstrzykiwania potrwa 2 tury.",Введите инъекцию вирофагового оружия в слабой точке на спине Бегемота. Процесс займет 2 хода.,Aprovecha una debilidad en la espalda del bégimo para inyectarle nuestra arma virófaga. El proceso de inyección dura 2 turnos.,
+KEY_DLC3_TAC_INJECTOR_OBJECTIVE_NAME,Text,,INJECT BIOWEAPON,注射生化武器,ARME BIOLOGIQUE D'INJECTION,BIOWAFFE INJIZIEREN,INIETTA ARMA BIOLOGICA,WSTRZYKNIJ BROŃ BIOLOGICZNĄ,ВВЕДИТЕ ИНЪЕКЦИЮ БИООРУЖИЯ,INYECTAR BIOARMA,
+KEY_DLC3_TAC_INJECTOR_STATUS_DESCRIPTION,Text,,This operative is in the process of injecting the Behemoth with our virophage weapon. They won't be able to perform any other tasks for 2 turns.,这名特工正在给巨兽注射我们的噬病毒体武器。其在 2 回合内无法执行其他任务。,Cet agent est en train d'injecter le Béhémoth avec notre arme virophage. Il ne pourra pas réaliser d'autres actions pendant 2 tours.,"Dieser Soldat ist damit beschäftigt, dem Behemoth unseren Virophagen-Wirkstoff zu injizieren. Kann 2 Züge lang keine weiteren Aufgaben ausführen.",L'agente sta iniettando la nostra arma virofaga nel Behemoth. Non potrà eseguire altre azioni per i prossimi 2 turni.,Agent jest w trakcje wstrzykiwania Behemotowi naszej broni przeciwwirusowej. Przez 2 tury nie będzie mógł wykonywać innych zadań.,Оперативник вводит Бегемоту инъекцию вирофагового оружия. Он не сможет выполнять другие действия в течение 2 ходов.,Este operativo está en proceso de inyectarle al bégimo nuestra arma virófaga. No podrá realizar ninguna otra tarea durante 2 turnos.,
+KEY_DLC3_TAC_INJECTOR_STATUS_NAME,Text,,STATUS - INJECTING,状态——注射,ÉTAT - INJECTION,STATUS – INJIZIERT,STATO - INIEZIONE,STATUS – WSTRZYKIWANIE,СТАТУС: ВВОДИТ ИНЪЕКЦИЮ,ESTADO: INYECTANDO,
+KEY_DLC3_THE_GIFT,Text,,THE GIFT,礼物,LE CADEAU,DAS GESCHENK,IL DONO,DAR,ДАР,LA OFRENDA,
+KEY_DLC3_TUT_AIR_FORCE_TAB_DESCRIPTION,Text,,"This is the AIR FORCE tab. Here you'll be able to view, equip, and manage all your aircraft.",这里是空军标签栏。你可以在这里浏览、装备并管理所有飞行器。,"Voici l'onglet ARMÉE DE L'AIR. Il vous permet de consulter, d'équiper et de gérer tous vos vaisseaux.","Im HANGAR kannst du alle deine Fluggeräte ansehen, ausrüsten und verwalten.","Questa è la scheda dell'AERONAUTICA. Qui potrai visualizzare, equipaggiare e gestire i tuoi velivoli.","To zakładka SIŁ POWIETRZNYCH. Możesz tu przeglądać, wyposażać i zarządzać wszystkimi statkami.","Вкладка для управления ВОЗДУШНЫМИ СИЛАМИ. Здесь можно посмотреть информацию обо всех ваших воздушных судах, а также настроить их и управлять ими.","Esta es la sección de las fuerzas aéreas. Aquí podrás ver, equipar y gestionar todas tus naves.",
+KEY_DLC3_TUT_AIR_FORCE_TAB_NAME,Text,,MANAGE AIRCRAFT,管理飞行器,GÉRER LE VAISSEAU,FLUGGERÄTE VERWALTEN,GESTISCI VELIVOLI,ZARZĄDZAJ STATKIEM,УПРАВЛЕНИЕ ВС,GESTIONAR NAVE,
+KEY_DLC3_TUT_BEHEMOTH_DESCRIPTION,Text,,The Behemoth is stronger than we feared. It is capable of razing havens to the ground and its travel pattern indicates sinister intelligence. Observing its behavior leads us to believe the targets for its next destructive rampage are the two nearby havens.,巨兽比我们所担心的还要强大。它能够将避难所夷为平地，而其行动路径也表明它生性残忍且具有智慧。通过观察它的行为，我们有理由相信它的下次破坏行径应该就是附近的这两个避难所。,Le Béhémoth est plus puissant qu'on ne le craignait. Il est capable de raser des refuges et son schéma de déplacements indique une intelligence malveillante. L'observation de son comportement nous porte à croire que les cibles de son prochain carnage sont deux refuges voisins.,"Der Behemoth ist stärker, als wir befürchtet haben. Er kann Zufluchten dem Erdboden gleichmachen, und sein Bewegungsmuster deutet auf eine finstere Intelligenz hin. Unsere Beobachtungen legen nahe, dass die beiden nahen Zufluchten das Ziel seines nächsten zerstörerischen Amoklaufs sind.","Il Behemoth è più potente di quanto pensassimo. È in grado di radere al suolo i rifugi e la regolarità dei suoi spostamenti suggerisce un'inquietante intelligenza. Osservando il suo comportamento, siamo giunti alla conclusione che i prossimi bersagli della sua furia distruttiva sono i due rifugi nelle vicinanze.","Behemot jest silniejszy niż myśleliśmy. Potrafi spalić bastion na popiół, a dane ze śledzenia jego przemieszczania się wskazują na jakiś ponury rodzaj inteligencji. Z obserwacji zachowania Behemota wnioskujemy, że celem jego kolejnych ataków są dwa pobliskie bastiony.","Бегемот обладает силой, превосходящей все наши опасения. Он способен стирать убежища с лица земли, а его поведение свидетельствует о наличии у него зловещих признаков интеллекта. Наблюдения за его перемещениями позволяют полагать, что целью его следующей атаки являются два ближайших убежища.","El bégimo es más fuerte de lo que temíamos. Es capaz de demoler refugios hasta los cimientos y su patrón de viaje indica que posee una inteligencia siniestra. Tras observar su comportamiento, creemos que los objetivos de su conducta destructiva son dos refugios cercanos.",
+KEY_DLC3_TUT_BEHEMOTH_DISRUPTION_DESCRIPTION,Text,,"""The Behemoth will repeatedly emerge from the ocean and unleash a devastating rampage, destroying multiple havens unless we hinder its advance. It deploys small flyers on reconnaissance missions to probe haven defenses-intercepting these flyers before they return will keep the havens safe from attack.
+
+Various actions will earn Disruption Points (DP): destroying a Charun (1 DP), a Berith or an Infested Aircraft (2 DP), an Abaddon (4 DP), or cleansing an Infested Haven (5 DP). Destroying Pandoran ground bases also grants DP: Nest (1 DP), Lair (2 DP), Citadel (3 DP). Havens under attack generate additional DP through their defenders: 1 DP when the Behemoth attacks or infests directly, and 2 DP when it destroys a haven.
+
+Once enough Disruption Points are accumulated, the Behemoth will end its rampage and return to the ocean depths.
+
+<i>""""Only this once, we shall embrace humanity and ally with our sinful brethren in the Grand Rite of Winged Warfare. For the sake of the Dead God and all living things!""""  - The Exalted</i>""","巨兽会反复从海中浮现并发动毁灭性的狂暴攻势，摧毁多个避难所，除非我们设法阻止它的前进。它会派出小型飞行单位侦察避难所的防御弱点--在它们返回之前将其拦截，便能使避难所免遭攻击。
+
+多种行动可获得扰乱点数（DP）：摧毁卡伦（1 DP）、贝利斯或已感染的飞行器（2 DP）、阿巴顿（4 DP），或净化被感染的避难所（5 DP）。摧毁潘多兰地面巢穴也会获得扰乱点数：巢穴 1 DP、巢窟 2 DP、城塞 3 DP。避难所在遭受攻击时，其防御者也会产生扰乱点数：巨兽直接攻击或感染避难所时获得 1 DP，巨兽摧毁避难所时获得 2 DP。
+
+当累计足够的扰乱点数后，巨兽将终止其狂暴行动并返回海洋深处。
+
+ <i>“只此一次，我们将拥抱人类，并与大空战仪式中罪恶的同胞携手。为了死亡之神及芸芸众生！”--圣尊</i>","Le Béhemoth surgira à plusieurs reprises de l’océan pour déclencher une dévastatrice campagne de destruction, anéantissant plusieurs havens à moins que nous ne freinions sa progression. Il envoie de petits volants pandoriens en mission de reconnaissance pour sonder les défenses des havens ; les intercepter avant leur retour permettra d’épargner ces havens.
+
+Diverses actions rapportent des Points de Perturbation (PP) : détruire un Charun (1 PP), un Berith ou un Aéronef Infecté (2 PP), un Abaddon (4 PP) ou purifier un haven infesté (5 PP). Détruire les bases terrestres pandoriennes rapporte également : Nid (1 PP), Repaire (2 PP), Citadelle (3 PP). Lorsque le Béhemoth attaque un haven, ses défenseurs génèrent aussi des PP : 1 PP lorsque le Béhemoth attaque ou infeste, et 2 PP s’il détruit le haven.
+
+Une fois suffisamment de Points de Perturbation accumulés, le Béhemoth mettra fin à sa fureur et retournera dans les profondeurs océaniques.
+ 
+ <i>« Cette fois seulement, nous accepterons l'humanité et nous nous allierons à nos frères immoraux dans le Grand rite de la Guerre ailée. Au nom du Dieu défunt et de toutes les créatures vivantes ! » - L'Exaltée</i>","Der Behemoth wird wiederholt aus dem Ozean auftauchen und einen verheerenden Amoklauf beginnen, der mehrere Zufluchten zerstört, sofern wir seinen Vormarsch nicht aufhalten. Er entsendet kleine pandoranische Flieger auf Aufklärungsmissionen, um die Verteidigungen der Zufluchten zu prüfen-fangen wir sie vor ihrer Rückkehr ab, bleiben die Zufluchten verschont.
+
+Verschiedene Aktionen gewähren Störpunkte (SP): das Zerstören eines Charuns (1 SP), eines Berith oder eines Infizierten Fluggeräts (2 SP), eines Abaddons (4 SP) oder das Säubern einer befallenen Zuflucht (5 SP). Auch das Zerstören pandoranischer Bodenstützpunkte bringt Punkte: Nest (1 SP), Bau (2 SP), Zitadelle (3 SP). Greift der Behemoth eine Zuflucht an, erzeugen deren Verteidiger zusätzliche SP: 1 SP, wenn er sie angreift oder infiziert, und 2 SP, wenn er sie zerstört.
+
+Sind genug Störpunkte gesammelt, beendet der Behemoth seinen Amoklauf und kehrt in die Tiefen des Ozeans zurück.
+ 
+ <i>„Nur dieses eine Mal werden wir die Menschheit umarmen und uns mit unseren sündigen Brüdern und Schwestern im Großen Ritus der geflügelten Kriegsführung verbünden. Um des Toten Gottes und aller Lebewesen willen!“ – Die Erhabene</i>","Il Behemoth emergerà ripetutamente dall’oceano scatenando una devastante furia distruttiva, radendo al suolo diversi avamposti a meno che non riusciamo a fermarne l’avanzata. Rilascia piccoli volatori pandoriani in missione di ricognizione per sondare le difese degli avamposti: intercettarli prima che tornino li preserverà dagli attacchi del Behemoth.
+
+Diverse azioni forniscono Punti Disturbo (PD): distruggere un Charun (1 PD), un Berith o un Velivolo Infestato (2 PD), un Abaddon (4 PD) o purificare un Avamposto Infestato (5 PD). Anche distruggere le basi terrestri pandoriane assegna punti: Nido (1 PD), Tana (2 PD), Cittadella (3 PD). Quando il Behemoth attacca un avamposto, i suoi difensori generano ulteriori PD: 1 PD se il Behemoth attacca o infesta direttamente, e 2 PD se lo distrugge.
+
+Una volta accumulati abbastanza Punti Disturbo, il Behemoth porrà fine alla sua devastazione e tornerà negli abissi oceanici.
+ 
+ <i>""Soltanto una volta, abbracceremo l'umanità e stringeremo un'alleanza con i nostri fratelli peccatori nel sommo rito della Guerra alata. Nel nome del Dio morto e di ogni cosa vivente!"" - La Suprema</i>","Behemot będzie cyklicznie wynurzał się z oceanu, rozpoczynając niszczycielski marsz ku spustoszeniu licznych enklaw, jeśli nie powstrzymamy jego natarcia. Wysyła niewielkie pandorańskie jednostki latające na misje zwiadowcze, by szukały słabych punktów obronnych. Przechwycenie ich przed powrotem ochroni enklawy przed atakiem.
+
+Zróżnicowane działania zapewniają Punkty Oporu (PO): zniszczenie Charuna (1 PO), Beritha lub Zainfekowanego Samolotu (2 PO), Abaddona (4 PO) lub oczyszczenie Zainfekowanej Enklawy (5 PO). Niszczenie pandorańskich baz naziemnych także daje punkty: Gniazdo (1 PO), Nora (2 PO), Cytadela (3 PO). Podczas ataku Behemota obrońcy enklawy generują dodatkowe PO: 1 PO, gdy Behemot atakuje lub zakaża, oraz 2 PO, gdy enklawa zostaje zniszczona.
+
+Po zgromadzeniu wystarczającej liczby Punktów Oporu, Behemot zakończy swój marsz i powróci w oceaniczne głębiny.
+ 
+ <i>„Tylko ten jeden raz, wykazując się człowieczeństwem, sprzymierzymy się z naszymi grzesznymi braćmi w Wielkim Obrządku Podniebnej Wojny. Na chwałę Martwego Boga i wszystkich żywych istot!” – Wywyższona</i>","Бегемот будет неоднократно подниматься из океана и устраивать разрушительный разгром, уничтожая множество убежищ, если мы не сумеем остановить его продвижение. Он выпускает небольших пандоранских летунов для разведки слабых мест в обороне убежищ-перехватив их до возвращения, мы спасём убежища от атаки.
+
+Различные действия приносят Очки Отбития (ОО): уничтожение Харуна (1 ОО), Берита или Заражённого Летательного Аппарата (2 ОО), Абаддона (4 ОО) или очистка Заражённого Убежища (5 ОО). Уничтожение наземных баз пандоранцев также добавляет очки: Гнездо (1 ОО), Логово (2 ОО), Цитадель (3 ОО). При атаке Бегемота защитники убежища получают: 1 ОО, если Бегемот атакует или заражает, и 2 ОО, если убежище уничтожено.
+
+Когда будет набрано достаточно Очков Отбития, Бегемот прекратит свой разгром и вернётся в океанские глубины.
+
+ <i>«Лишь в этот раз мы сжалимся над человеческим родом и вступим в союз с нашими грешными братьями в Великом Обряде Крылатой Брани. В имя Мертвого Бога и всего живого!» - Возвышенная</i>","El Behemoth emergerá repetidamente del océano y desatará una devastadora oleada de destrucción, arrasando varios refugios si no logramos frenar su avance. Envía pequeños voladores pandorianos en misiones de reconocimiento para detectar debilidades en las defensas de los refugios; si los interceptamos antes de que regresen, los refugios quedarán a salvo.
+
+Diversas acciones otorgan Puntos de Disrupción (PD): destruir un Charun (1 PD), un Berith o una Aeronave Infestada (2 PD), un Abaddon (4 PD) o limpiar un Refugio Infestado (5 PD). Destruir bases terrestres pandorianas también concede puntos: Nido (1 PD), Guarida (2 PD), Ciudadela (3 PD). Cuando el Behemoth ataca un refugio, sus defensores generan PD adicionales: 1 PD si el Behemoth ataca o infesta, y 2 PD si destruye el refugio.
+
+Cuando se acumulen suficientes Puntos de Disrupción, el Behemoth detendrá su devastación y regresará a las profundidades del océano.
+ 
+ <i>«Esta vez, y sin que sirva de precedente, abrazaremos la humanidad y nos aliaremos con nuestros hermanos en el gran rito de la guerra alada. ¡En nombre del Dios Muerto y de todo aquello que está vivo!». - La Glorificada</i>",
+KEY_DLC3_TUT_BEHEMOTH_DISRUPTION_NAME,Text,,DISRUPTING THE BEHEMOTH,干扰巨兽,PERTURBER LE BÉHÉMOTH,DEN BEHEMOTH AUFHALTEN,DISTURBO DEL BEHEMOTH,OPÓR WOBEC BEHEMOTA,ОТБИТИЕ БЕГЕМОТА,LA DISRUPCIÓN DEL BÉGIMO,
+KEY_DLC3_TUT_BEHEMOTH_NAME,Text,,THE BEHEMOTH,巨兽,LE BÉHÉMOTH,DER BEHEMOTH,IL BEHEMOTH,BEHEMOT,БЕГЕМОТ,EL BÉGIMO,
+KEY_DLC3_TUT_BOMBARDMENT_DESCRIPTION,Text,,"The largest species of winged Pandorans will target human settlements for SUSTAINED BOMBARDMENT.  It's advisable to intercept them before they complete their mission.
+
+<i>A new type of Pandoran with a wingspan much bigger than the rest of the newly-discovered species has begun congregating and attacking human settlements. Its tactics resemble sustained bombardment. 
+
+Worried scientist speculate they are adopted by studying the behavior and possibly the very minds of human pilots.</i>","体型最大的有翼潘多拉体会瞄准人类定居点进行持续轰炸。而最明智的应对办法就是在它们完成任务前进行拦截。
+
+ <i>一种翼展比其他新发现的物种都大得多的新型潘多拉体已开始集结并攻击人类定居点。其战术类似于持续轰炸。
+
+ 对此感到忧心忡忡的科学家推测，它们是通过研究人类飞行员的行为，甚至有可能是他们的思维而形成的。</i>","L'espèce la plus grosse de Pandoriens ailés cible les colonies humaines avec des BOMBARDEMENTS SOUTENUS. Il est recommandé de les intercepter avant qu'ils ne terminent leur mission.
+ 
+ <i>Un nouveau type de Pandorien d'une envergure bien plus importante que les autres espèces récemment découvertes a commencé à se rassembler pour attaquer des colonies humaines. Sa tactique ressemble à des bombardements soutenus.
+ 
+ Des scientifiques inquiets émettent l'hypothèse qu'ils ont adopté cette technique en étudiant le comportement et peut-être même l'esprit des pilotes humains.","Die größte Spezies der geflügelten Pandoraner visiert menschliche Siedlungen an, um sie HEFTIG ZU BOMBARDIEREN. Es ist ratsam, sie abzufangen, bevor sie ihre Mission erfüllen.
+ 
+ <i>Eine neue Art von Pandoranern mit einer viel größeren Flügelspannweite als der Rest der neu entdeckten Spezies hat begonnen, sich zu versammeln und menschliche Siedlungen anzugreifen. Ihre Taktik ähnelt einem anhaltenden Bombardement. 
+ 
+ Besorgte Wissenschaftler spekulieren, dass sie das Verhalten und möglicherweise sogar den Verstand der menschlichen Piloten studieren.</i>","La specie più grande di Pandora alati prende di mira gli insediamenti umani per bersagliarli con BOMBARDAMENTI CONTINUI. È consigliabile intercettarli prima che completino la loro missione.
+ 
+ <i>Una nuova tipologia di Pandora, con un'apertura alare molto superiore rispetto alle altre specie appena scoperte, ha cominciato a riunirsi e attaccare gli insediamenti umani. Le sue tattiche ricordano un bombardamento continuo. 
+ 
+ Gli scienziati sono intimoriti e credono che siano frutto dell'osservazione del comportamento e persino della mente di piloti umani.</i>","Największy gatunek skrzydlatych Pandoran przeprowadzi na ludzkich osadach CIĄGŁE BOMBARDOWANIE. Zaleca się przechwycenie agresorów, zanim wykonają swoją misję.
+ 
+ <i>Nowa odmiana Pandoran o rozpiętości skrzydeł znacznie większej niż u innych nowo odkrytych gatunków zaczął się gromadzić i atakować ludzkie osady. Jego taktyka przypomina ciągłe bombardowanie. 
+
+ Zaniepokojeni naukowcy spekulują, że ta taktyka mogła rozwinąć się przez badanie zachowań i być może umysłów ludzkich pilotów.</i>","Крупнейшие виды крылатых пандоранов нацеливаются на человеческие поселения для их НЕПРЕРЫВНОЙ БОМБАРДИРОВКИ. Желательно пресекать такие полеты до того, как пандораны осуществят свою миссию.
+ 
+ <i>Один из новых видов пандоранов, обладающий намного большим размахом крыльев, чем другие недавно открытые виды, замечен за тем, что его представители стали собираться с целью нападения на поселения людей. Их тактика похожа на стратегию непрерывной бомбардировки. 
+ 
+ Обеспокоенная научная общественность предполагает, что такая стратегия была позаимствована у пилотов-людей и, возможно, была найдена в самом их разуме.</i>","La especie más grande de pandorianos alados atacan a los asentamientos humanos con un bombardeo constante. Se aconseja interceptarlos antes de que completen su misión.
+ 
+ <i>Un nuevo tipo de pandoriano con una envergadura mucho mayor que el resto de las especies descubiertas recientemente han empezado a congregarse y a atacar asentamientos humanos. Sus técnicas se parecen a los bombardeos constantes.
+ 
+ Los científicos más preocupados por el asunto valoran que estén pilotados por pilotos humanos.</i>",
+KEY_DLC3_TUT_BOMBARDMENT_NAME,Text,,PANDORAN BOMBARDMENT FLIGHT,潘多拉体轰炸飞行,VOL DE BOMBARDEMENT PANDORIEN,PANDORANISCHER BOMBARDMENTFLUG,VOLO DI BOMBARDAMENTO PANDORA,PADNDORAŃSKIE BOMBARDOWANIA,ПОЛЕТ-БОМБАРДИРОВКА ПАНДОРАНОВ,VUELO DE BOMBARDEO PANDORIANO,
+KEY_DLC3_TUT_INFESTATION_DESCRIPTION,Text,,"Pandorans spawned from Behemoth will SEED CORRUPTING SPORES and hatch Mindfraggers inside human settlements.
+
+<i>Multiple havens have been reporting a worrisome behavior by the flying Pandoran species. The raids seem to be targeted at specific, key structures, and proceed to quickly corrupting the entire haven. In some cases, the settlement and its citizens are completely overtaken by the Pandoran intelligence.
+
+We are carefully recording the data from such raids under classification code IF standing for ""Infestation flights"".</i>","巨兽生成的潘多拉体会播种腐蚀孢子，并在人类定居点内孵化出心控虫。
+
+ <i>多个避难所已报告潘多拉体飞行物有这种令人担忧的行为。这些突袭似乎会针对特定的关键建筑，进而快速腐蚀整个避难所。在某些案例中，定居点及其居民会完全被潘多拉智慧体所取代。
+
+ 我们正在仔细记录这类突袭的数据，而分类代码 IF 即意味着“感染飞行”。</i>","Les Pandoriens nés du Béhémoth SÈMENT DES SPORES DE CORRUPTION et font éclore des Corrupteurs dans les colonies humaines.
+ 
+ <i>Plusieurs refuges signalent qu'une espèce de Pandoriens volants se comporte de façon inquiétante. Les raids semblent prendre pour cible des structures essentielles spécifiques avant de continuer à infester tout le refuge. Dans certains cas, la colonie et ses habitants sont complètement contrôlés par l'intelligence pandorienne.
+ 
+ Nous enregistrons actuellement minutieusement les données de ces raids sous un code de classification VI abrégé de « Vols d'infestation ».</i>","Vom Behemoth entsandte Pandoraner VERTEILEN VERDERBENDE SPOREN und brüten Gedankenfresser in menschlichen Siedlungen aus.
+ 
+ <i>Viele Zufluchten berichten von einem besorgniserregenden Verhalten der fliegenden Spezies der Pandoraner. Die Überfälle scheinen auf bestimmte, wichtige Strukturen abzuzielen und gehen schnell dazu über, die gesamte Zuflucht zu verderben. In einigen Fällen werden die Siedlung und ihre Bewohner komplett von der pandoranischen Intelligenz übernommen.
+ 
+ Wir zeichnen die Daten solcher Überfälle sorgfältig unter dem Klassifizierungscode BF auf, der für „Befallflüge“ steht.</i>","I Pandora generati dal Behemoth SPARGONO SPORE CORROTTE e fanno schiudere Strappamente all'interno degli accampamenti umani.
+ 
+ <i>Diversi rifugi hanno segnalato un comportamento preoccupante delle specie volanti di Pandora. Le incursioni sembrano essere dirette contro determinate strutture chiave, a partire dalle quali viene rapidamente corrotto l'intero rifugio. In alcuni casi, l'insediamento e i cittadini sono stati completamente sopraffatti dai Pandora.
+ 
+ Stiamo registrando scrupolosamente i dati degli assalti con la classificazione VI, ""voli di infestazione"".</i>","Pandoranie powstający z Behemota będą ROZSIEWAĆ SZKODLIWE ZARODNIKI i mnożyć w ludzkich osadach mózgopluskwy.
+ 
+ <i>Z wielu bastionów docierają doniesienia o niepokojącym zachowaniu latających jednostek Pandoran. Naloty wydają się być wymierzone w konkretne, kluczowe miejsca, a następnie szybko skażają cały bastion. W niektórych przypadkach osada i jej mieszkańcy zostają całkowicie opanowani przez inteligencję Pandoran.
+
+ Skrupulatnie rejestrujemy dane z takich nalotów jako NI, co oznacza „naloty infestacyjne”.</i>","Пандораны, порожденные Бегемотом, СЕЮТ СПОРЫ, из которых внутри поселений людей вылупляются промыватели.
+ 
+<i>Несколько убежищ сообщили о тревожном поведении летающих видов пандоранов. Похоже, такие нашествия нацелены на определенные ключевые строения, после чего заражение начинает быстро распространяться по всему убежищу. В некоторых случаях пандораны полностью овладевают убежищем и разумом его обитателей.
+
+ Мы тщательно фиксируем данные, полученные в ходе таких нападений, под аббревиатурой «ПН», что значит «полет-нашествие».</i>","Los pandorianos generados en el bégimo esparcen esporas corruptas y generan rompementes en los asentamientos humanos.
+ 
+ <i>Múltiples refugios han informado sobre un comportamiento preocupante por parte de las especies pandorianas voladoras. Las incursiones parecen tener como objetivo estructuras clave específicas, tras las cuales proceden a corromper rápidamente la totalidad del refugio. En algunos casos, el asentamiento y sus ciudadanos se ven totalmente sobrepasados por la inteligencia pandoriana.
+ 
+ Estamos registrando, minuciosamente, los datos de dichas incursiones en un código de clasificación por si nos enfrentamos a los «vuelos de infestación».</i>",
+KEY_DLC3_TUT_INFESTATION_NAME,Text,,PANDORAN INFESTATION FLIGHT,潘多拉体感染飞行,VOL D'INFESTATION PANDORIEN,PANDORANISCHER BEFALLFLUG,VOLO DI INFESTAZIONE PANDORA,PANDORAŃSKIE NALOTY INFESTACYJNE,ПОЛЕТ-НАШЕСТВИЕ ПАНДОРАНОВ,VUELO DE INFESTACIÓN PANDORIANO,
+KEY_DLC3_TUT_RAID_DESCRIPTION,Text,,"Hostile flights of pandorans will ATTACK HUMAN HAVENS on regular intervals. 
+
+<i>Our researchers have no doubt the behavior of the flying Pandorans is dictated by a hive-mind intelligence of some kind. Recently, creatures armed with bioweapons have begun attacking in carefully orchestrated strikes. 
+
+The Phoenix intelligence has prioritized the study of these raid flights so we can identify and intercept them before more havens are damaged.</i>","敌对的潘多拉体飞行物会定期攻击人类避难所。
+
+ <i>我们的研究人员断定那些潘多拉体飞行物的行为是由某种蜂巢主脑所决定的。近期，装备了生化武器的生物已开始了精心策划的袭击。
+
+ 凤凰情报局已优先研究这些突袭飞行物，以便我们能够在更多避难所被破坏前识别并拦截它们。</i>","Des vols hostiles de Pandoriens ATTAQUENT DES REFUGES HUMAINS à intervalles réguliers.
+ 
+ <i>Nos chercheurs sont persuadés que le comportement des Pandoriens volants est dicté par une certaine intelligence collective. Ces derniers temps, des créatures équipées d'armes biologiques ont commencé à réaliser des attaques soigneusement orchestrées.
+
+ Le service de renseignements de Phoenix a donné la priorité à l'étude de ces raids pour nous permettre de les intercepter avant que d'autres refuges ne soient mis à sac.<i>","In regelmäßigen Abständen GREIFEN feindliche fliegende Pandoraner ZUFLUCHTEN DER MENSCHEN AN. 
+ 
+ <i>Unsere Forscher haben keinen Zweifel, dass das Verhalten der fliegenden Pandoraner von einer Art Schwarmintelligenz diktiert wird. Seit Kurzem greifen sogar mit Biowaffen bewaffnete Kreaturen an. 
+ 
+ Der Phoenix-Geheimdienst hat der Erforschung dieser Angriffsflüge Priorität eingeräumt, damit wir sie identifizieren und abfangen können, bevor weitere Zufluchten beschädigt werden.</i>","Ostili Pandora volanti ATTACCANO I RIFUGI UMANI regolarmente. 
+ 
+ <i>I nostri ricercatori non dubitano che il comportamento di questi Pandora sia guidato da una specie di intelligenza collettiva. Di recente, alcune creature armate di armi biologiche hanno effettuato attacchi perfettamente orchestrati. 
+ 
+ L'intelligence di Phoenix ha privilegiato lo studio di questi attacchi aerei, in modo da poterli identificare e intercettare prima che danneggino altri rifugi.</i>","Jednostki powietrzne Pandoran będą ATAKOWAĆ LUDZKIE BASTIONY w regularnych odstępach czasu.
+ 
+ <i>Nasi badacze nie mają wątpliwości, że zachowanie latających Pandoran dyktowane jest przez jakiś rodzaj inteligencji roju. Ostatnio istoty uzbrojone w broń biologiczną zaczęły atakować w starannie zaplanowanych nalotach. 
+ 
+Wywiad Phoenixa nadał priorytet badaniom tych nalotów, abyśmy mogli je zidentyfikować i przechwycić, zanim kolejne bastiony padną ich ofiarą.</i>","Враждебные пандораны отправляются в полеты на регулярной основе с целью НАПАДЕНИЯ НА ПОСЕЛЕНИЯ ЛЮДЕЙ. 
+ 
+ <i>Наши исследователи не сомневаются, что поведение летающих пандоранов продиктовано своего рода коллективным разумом. В последнее время разные существа, владеющие биологическим оружием, стали наносить тщательно спланированные удары. 
+ 
+ Разведка Проекта Феникс уделяет первоочередное внимание изучению таких рейдовых полетов с целью их идентификации и перехвата до того, как пострадает больше убежищ.</i>","Los pandorianos voladores hostiles atacan a los refugios humanos de forma regular.
+ 
+ <i>Nuestros investigadores tienen claro que el comportamiento de los pandorianos voladores está dictado por alguna especie de inteligencia colmena. Recientemente, unas criaturas armadas con bioarmas han comenzado a atacar de una forma minuciosamente orquestada.
+ 
+ La inteligencia Fénix ha priorizado el estudio de estas incursiones voladoras para poder identificarlas e interceptarlas antes de que los refugios resulten dañados.</i>",
+KEY_DLC3_TUT_RAID_NAME,Text,,PANDORAN RAID FLIGHT,潘多拉体突袭飞行,RAID PANDORIEN,PANDORANISCHER ANGRIFFSFLUG,VOLO DI ASSALTO PANDORA,PANDORAŃSKIE NALOTY,РЕЙДОВЫЙ ПОЛЕТ ПАНДОРАНОВ,VUELO DE INCURSIÓN PANDORIANO,
+KEY_DLC3_TUT_RECON_DESCRIPTION,Text,,"The Behemoth releases small Pandoran flyers to SCOUT NEARBY HAVENS for any crack in their defenses. Intercept them before they return, and the havens will be spared from the Behemoth’s assault.
+
+<i>Pandoran specialists have been carefully analyzing the aerial movements of the new species and determined they are executing what could be, for lack of better term,best described as ""reconnaissance missions"".</i>","巨兽会释放小型潘多兰飞行单位，以侦察附近的避难所是否存在任何防御破绽。在它们返回之前将其拦截，避难所便能免遭巨兽的袭击。
+
+ <i>潘多拉体专家一直在仔细分析这些新物种的空中动向，并确定了他们正在执行的任务，如果没有其他更好的词来形容的话，暂且就称之为“侦察任务”。</i>","Le Béhemoth libère de petits volants pandoriens pour ALLER EN ÉCLAIRAGE DES HAVENS VOISINS à la recherche de la moindre faille dans leurs défenses. Interceptez-les avant leur retour, et les havens seront épargnés par l’assaut du Béhemoth.
+ 
+ <i>Les experts en matière de Pandoriens analysent minutieusement les vols de la nouvelle espèce et ont déterminé qu'ils réalisent ce qui pourrait être décrit comme des « missions de reconnaissance », faute de trouver un meilleur terme.</i>","Der Behemoth setzt kleine pandoranische Flieger frei, um NAHELIEGENDE ZUFLUCHTEN AUSZUKUNDSCHAFTEN und nach Schwachstellen in deren Verteidigung zu suchen. Fange diese ab, bevor sie zurückkehren, und die Zufluchten bleiben vom Angriff des Behemoths verschont.
+ 
+<i>Pandoranische Spezialisten haben die Flugbewegungen der neuen Spezies sorgfältig analysiert und festgestellt, dass sie etwas ausführen, was man in Ermangelung eines besseren Begriffs am ehesten als „Aufklärungsmissionen“ bezeichnen könnte.</i>","Il Behemoth rilascia piccoli volatori pandoriani per ESPLORARE GLI AVAMPOSTI VICINI in cerca di qualsiasi crepa nelle loro difese. Intercettali prima che ritornino, e gli avamposti saranno risparmiati dall’assalto del Behemoth.
+ 
+ <i>Gli specialisti dei Pandora hanno analizzato attentamente i movimenti aerei della nuova specie e hanno concluso che si tratta, in mancanza di un termine migliore, di ""missioni di ricognizione"".</i>","Behemot wypuszcza niewielkie pandorańskie jednostki latające, aby PROWADZIĆ ZWIAD OKOLICZNYCH ENKLAW w poszukiwaniu jakiejkolwiek luki w ich obronie. Przechwyć je, zanim wrócą, a enklawy zostaną ocalone przed atakiem Behemota.
+ 
+ <i>Specjaliści do spraw Pandoran dokładnie analizują manewry lotnicze nowych gatunków. Stwierdzili, że przeprowadzają one coś, czemu najlepiej odpowiada określenie „misje zwiadowcze”.</i>","Бегемот выпускает небольших пандоранских летунов, чтобы РАЗВЕДАТЬ БЛИЖАЙШИЕ УБЕЖИЩА на предмет любых уязвимостей в их обороне. Перехватите их до возвращения - и убежища будут спасены от нападения Бегемота.
+ 
+ <i>Специалисты по изучению пандоранов тщательно проанализировали воздушные перемещения новых видов и определили, что те выполняют своего рода «разведмиссии», названные так за отсутствием более подходящего термина.</i>","El Behemoth libera pequeños voladores pandorianos para EXPLORAR LOS REFUGIOS CERCANOS en busca de cualquier grieta en sus defensas. Intercéptalos antes de que regresen y los refugios quedarán a salvo del asalto del Behemoth.
+
+ <i>Los especialistas pandorianos han analizado de forma minuciosa los movimientos aéreos de esta nueva especie y han determinado que esta está ejecutando lo que podría considerarse, a falta de un término mejor, «misiones de reconocimiento».",
+KEY_DLC3_TUT_RECON_NAME,Text,,PANDORAN RECON FLIGHT,潘多拉体侦察飞行,VOL DE RECONNAISSANCE PANDORIEN,PANDORANISCHER AUFKLÄRUNGSFLUG,VOLO DI RICOGNIZIONE PANDORA,PANDORAŃSKI LOT ZWIADOWCZY,РАЗВЕДПОЛЕТ ПАНДОРАНОВ,VUELO DE RECONOCIMIENTO PANDORIANO,
+KEY_DLC3_TUT_SUPPLY_DESCRIPTION,Text,,"The Behemoth sends flying Pandorans to raid human settlements and HARVEST THEIR RESOURCES.
+
+<i>Scientists observing the Behemoth have identified a dangerous behavioral pattern - sending off its flock to raid isolated human communities to steal food and materials. 
+
+We've codenamed these raids ""supply flights"", as they happen too often to be discarded as accidental.</i>","巨兽派遣了潘多拉体飞行物来突袭人类据点并掠夺他们的资源。
+
+ <i>一直在观察巨兽的科学家们现了一种危险的行为模式——派遣群落突袭孤立的人类社群，从而窃取食物与材料。
+
+ 这些突袭行动太过频繁，根本不像是意外事件，所以我们将其命名为“补给飞行”。</i>","Le Béhémoth envoie des Pandoriens volants attaquer des colonies humaines et RÉCOLTER LEURS RESSOURCES.
+ 
+ <i>Les scientifiques qui observent le Béhémoth ont identifié un schéma de comportements dangereux – il envoie sa nuée de créatures pour attaquer les communautés humaines isolées et voler leur nourriture et leurs matériaux. 
+ 
+Nous avons donné à ces raids le nom de code « vols d'approvisionnement », car ceux-ci se produisent trop souvent pour être considérés comme étant accidentels.</i>","Der Behemoth schickt fliegende Pandoraner aus, um menschliche Siedlungen zu überfallen und IHRE RESSOURCEN ZU PLÜNDERN.
+ 
+<i>Wissenschaftler, die den Behemoth beobachten, haben ein gefährliches Verhaltensmuster identifiziert – er schickt seine Herde aus, um isolierte menschliche Gemeinschaften zu überfallen und Nahrung und Materialien zu stehlen. 
+ 
+Wir haben diese Überfälle „Versorgungsflüge“ genannt, da sie zu oft vorkommen, um als zufällig abgetan werden zu können.</i>","Il Behemoth invia Pandora volanti a razziare gli insediamenti umani e RACCOGLIERE LE LORO RISORSE.
+ 
+ <i>Osservando il Behemoth, gli scienziati hanno identificato un pericoloso schema comportamentale, che consiste nell'inviare lo stormo a razziare comunità umane isolate per rubare cibo e materiali. 
+ 
+ Abbiamo chiamato queste incursioni ""voli di rifornimento"", dato che la loro frequenza è troppo elevata per considerarla casuale.</i>","Behemot wysyła latające jednostki Pandoran, by napadały na ludzkie osady i GRABIŁY ZASOBY.
+ 
+ <i>Obserwujący Behemota naukowcy zidentyfikowali niebezpieczny wzorzec zachowań – istota wysyła swoje stado, aby napadało na odizolowane ludzkie społeczności w celu kradzieży żywności i materiałów.
+ 
+ Nadaliśmy tym najazdom nazwę „loty zaopatrzeniowe”, ponieważ zdarzają się one zbyt często, by można je było uznać za przypadkowe.</i>","Бегемот посылает летающих пандоранов на поселения людей с целью ДОБЫЧИ РЕСУРСОВ.
+ 
+ <i>Специалисты, занимающиеся изучением Бегемота, выявили опасную модель его поведения, в рамках которой он посылает своих приспешников на поселения людей с целью добычи провианта и материалов. 
+ 
+ Таким набегам мы дали название «полет за припасами» — они стали появляться довольно часто, чтобы считать их случайностью или совпадением.</i>","El bégimo envía pandorianos voladores a atacar asentamientos humanos y robarles sus recursos.
+ 
+ <i>Los científicos que han observado al bégimo han identificado un patrón de comportamiento peligroso, enviando a su séquito a atacar comunidades humanas aisladas para robarles su alimento y sus materiales.
+ 
+ A esto le hemos puesto el nombre en clave «vuelos de suministros», pues ocurren lo bastante a menudo como para descartar que sean algo accidental.</i>",
+KEY_DLC3_TUT_SUPPLY_NAME,Text,,PANDORAN SUPPLY FLIGHT,潘多拉体补给飞行,VOL D'APPROVISIONNEMENT PANDORIEN,PANDORANISCHER VERSORGUNGSFLUG,VOLO DI RIFORNIMENTO PANDORA,PANDORAŃSKIE LOTY ZAOPATRZENIOWE,ПОЛЕТ ПАНДОРАНОВ ЗА ПРИПАСАМИ,VUELO DE SUMINISTROS PANDORIANO,
+KEY_DLC3_VEHICLE_ROSTER_IN_TRANSIT,Text,,In Transit,运输中,En transit,UNTERWEGS,In transito,W transporcie,В пути,En camino,
+KEY_DLC3_VEHICLE_ROSTER_NO_VEHICLES,Text,,"No aircraft available. 
+You can manufacture new aircraft in the MANUFACTURING tab.","没有可使用的飞行器。
+ 你可以在制造标签栏中制造新的飞行器。","Aucun vaisseau disponible.
+ Vous pouvez fabriquer un nouveau vaisseau dans l'onglet FABRICATION.","Keine Fluggeräte verfügbar.
+ Du kannst neue Fluggeräte im Reiter PRODUZIEREN herstellen.","Nessun velivolo disponibile. 
+ Puoi fabbricare un nuovo velivolo nella scheda FABBRICAZIONE.","Brak dostępnych statków.
+ Możesz stworzyć nowy statek na karcie PRODUKCJA.","Воздушные суда недоступны. 
+ Новое воздушное судно можно собрать на вкладке ПРОИЗВОДСТВО.","No hay ninguna nave disponible.
+ Puedes fabricar naves nuevas en la pestaña de fabricación.",
+KEY_DLC3_WEATHEREFFECT_CLEAR,Text,,No penalties to Accuracy,无准度惩罚,Aucune pénalité de précision,Keinen Abzug auf Genauigkeit,Nessuna penalità alla precisione,Brak kar do celności,Точность не изменяется,No hay penalizaciones a la precisión,
+KEY_DLC3_WEATHEREFFECT_MIST,Text,,Pandoran weapons have {0} Accuracy,潘多拉武器获得 {0} 准度,Les armes pandoriennes ont {0} de précision,Pandoranische Waffen haben {0} Genauigkeit,Le armi dei Pandora hanno {0} precisione,Broń Pandoran ma {0} pkt. celności.,Точность оружия пандоранов: {0},Las armas pandorianas tienen {0} de precisión,
+KEY_DLC3_WEATHEREFFECT_OVERCAST,Text,,Visually guided weapons have {0} Accuracy,视觉制导武器获得 {0} 准度,Les armes guidées visuellement ont {0} de précision,Visuell geführte Waffen haben {0} Genauigkeit,Le armi guidate visivamente hanno {0} precisione,Broń kierowana optycznie ma {0} pkt. celności.,Точность оружия с визуальным наведением: {0},Las armas guiadas por visión tienen un {0} de precisión,
+KEY_DLC3_WEATHEREFFECT_STORM,Text,,Radar guided weapons have {0} Accuracy,雷达制导武器获得 {0} 准度,Les armes guidées par radar ont {0} de précision,Radargesteuerte Waffen haben {0} Genauigkeit,Le armi guidate tramite radar hanno {0} precisione,Broń kierowana radarem ma {0} pkt. celności.,Точность оружия с радиолокационным наведением: {0},Las armas guiadas por radar tienen {0} de precisión,
+KEY_DLC3_WEATHER_CLEAR_NAME,Text,,CLEAR,晴朗,DÉGAGÉ,KLAR,SERENO,BEZCHMURNIE,ЯСНО,DESPEJADO,
+KEY_DLC3_WEATHER_INTERCEPTION_NAME,Text,,WEATHER,天气,CONDITIONS MÉTÉO,WETTER,TEMPO ATMOSFERICO,POGODA,ПОГОДА,CLIMA,
+KEY_DLC3_WEATHER_MIST_NAME,Text,,MIST,迷雾,BRUME,NEBEL,BRUMA,MGŁA,ТУМАН,NIEBLA,
+KEY_DLC3_WEATHER_NAME,Text,,WEATHER:,天气：,CONDITIONS MÉTÉO :,WETTER:,TEMPO ATMOSFERICO,POGODA:,ПОГОДА:,CLIMA:,
+KEY_DLC3_WEATHER_OVERCAST_NAME,Text,,OVERCAST,阴天,COUVERT,BEWÖLKT,NUVOLOSO,ZACHMURZENIE,ПАСМУРНО,NUBLADO,
+KEY_DLC3_WEATHER_STORM_NAME,Text,,STORM,风暴,ORAGE,STURM,TEMPESTA,BURZA,БУРЯ,TORMENTA,
+KEY_EGG_EXPLOSIVE_EXPLODE_DESCRIPTION,Text,,The egg violently explodes damaging all nearby characters,卵会发生剧烈爆炸并对附近所有角色造成伤害,L'œuf explose violemment infligeant des dégâts aux agents à proximité,Das Ei explodiert heftig und fügt allen Charakteren in der Nähe Schaden zu,L'uovo esplode violentemente danneggiando tutti i personaggi vicini,"Jajo gwałtownie wybucha, zadając obrażenia pobliskim postaciom.",Яйцо взрывается и безжалостно поражает все ближайшие цели,"El huevo explota de manera violenta, dañando a todos los personajes cercanos.",
+KEY_EGG_EXPLOSIVE_EXPLODE_NAME,Text,,EXPLODE,爆炸,EXPLOSION,EXPLOSION,ESPLOSIONE,EKSPLOZJA,ВЗРЫВ,EXPLOSIÓN,
+KEY_FS_ALN_ACID_SPIT_DESCRIPTION,Text,,Pandoran air-to-air weapon,潘多拉体近距离空对空武器,Arme aérienne pandorienne de courte portée,Pandoranische Kurzstrecken-Luft-Luft-Waffe,Arma aria-aria a corto raggio dei Pandora,Pandorańska broń typu powietrze-powietrze krótkiego zasięgu,Пандоранское оружие ближнего действия класса «воздух — воздух»,Arma aire-aire pandoriana de corto alcance.,
+KEY_FS_ALN_ACID_SPIT_NAME,Text,,Acid Spit,酸液喷吐,Jet d'acide,Säurespeichel,Saliva acida,Plucie kwasem,Плевок кислотой,Escupitajo de ácido,
+KEY_FS_ALN_NAPALM_BREATH_DESCRIPTION,Text,,Pandoran incendiary air-to-air weapon,潘多拉体空对空燃烧武器,Arme aérienne pandorienne incendiaire,Pandoranische Brand-Luft-Luft-Waffe,Arma incendiaria aria-aria dei Pandora,Pandorańska broń zapalająca typu powietrze-powietrze,Зажигательное оружие пандоранов класса «воздух — воздух»,Arma aire-aire incendiaria pandoriana.,
+KEY_FS_ALN_NAPALM_BREATH_NAME,Text,,Napalm Breath,凝固汽油吐息,Souffle de napalm,Napalmhauch,Soffio di napalm,Wyrzut napalmu,Дыхание напалмом,Aliento de napalm,
+KEY_FS_ALN_NAPALM_RAM_DESCRIPTION,Text,,Pandoran air-to-air close quarters weapon,潘多拉体空对空近距离武器,Arme aérienne pandorienne de combat rapproché,Pandoranische Luft-Luft-Nahkampfwaffe,Arma ravvicinata aria-aria dei Pandora,Pandorańska broń typu powietrze-powietrze do walki w zwarciu,Пандоранское оружие ближнего боя класса «воздух — воздух»,Arma aire aire pandoriana a corta distancia.,
+KEY_FS_ALN_NAPALM_RAM_NAME,Text,,Ram,冲撞,Bélier,Rammen,Ariete,Taran,Таран,Embestida,
+KEY_FS_ALN_SPIKES_DESCRIPTION,Text,,Pandoran long-range air-to-air weapons,潘多拉体近距离空对空武器,Arme aérienne pandorienne de courte portée,Pandoranische Kurzstrecken-Luft-Luft-Waffe,Arma aria-aria a corto raggio dei Pandora,Pandorańska broń typu powietrze-powietrze krótkiego zasięgu,Пандоранское оружие ближнего действия класса «воздух — воздух»,Arma aire-aire pandoriana de corto alcance.,
+KEY_FS_ALN_SPIKES_NAME,Text,,Spikes,尖刺,Piques,Stacheln,Picche,Kolce,Шипы,Espinas,
+KEY_FS_ALN_TICK_DESCRIPTION,Text,,Pandoran air-to-air bioweapon,潘多拉体空对空生物武器,Arme biologique aérienne pandorienne,Pandoranische Luft-Luft-Biowaffe,Arma biologica aria-aria dei Pandora,Pandorańska broń biologiczna typu powietrze-powietrze,Биологическое оружие пандоранов класса «воздух — воздух»,Bioarma aire-aire pandoriana.,
+KEY_FS_ALN_TICK_NAME,Text,,Tick,蜱虫,Tique,Zecke,Zecca,Kleszcz,Клещ,Garrapata,
+KEY_FS_ALN_VOID_CHAMBER_DESCRIPTION,Text,,Pandoran air-to-air weapon,潘多拉体空对空武器,Arme aérienne pandorienne,Pandoranische Luft-Luft-Waffe,Arma aria-aria dei Pandora,Pandorańska broń typu powietrze-powietrze,Пандоранское оружие класса «воздух — воздух»,Arma aire-aire pandoriana.,
+KEY_FS_ALN_VOID_CHAMBER_NAME,Text,,Void Chamber,虚空腔,Chambre de vide,Leerekammer,Camera a vuoto,Komora pustki,Камера бездны,Cámara de vacío,
+KEY_FS_AN_BOMBARD_MODULE_DESCRIPTION,Text,,Anu Heavy Cannon,安努重型加农炮,Canon lourd d'Anu,Brechergeschütz von Anu,Cannone pesante Anu,Ciężkie działo Anu,Тяжелая пушка Последователей Ану,Cañón pesado Anu.,
+KEY_FS_AN_BOMBARD_MODULE_NAME,Text,,Ninurta's Mace,尼努尔塔权杖,Massue de Ninurta,Ninurtas Keule,Mazza di Ninurta,Buława Ninurty,Булава Нинурты,Maza de Ninurta,
+KEY_FS_AN_ECM_JAMMER_MODULE_DESCRIPTION,Text,,Radar Countermeasures,雷达反制,Contre-mesures contre les radars,Radar-Gegenmaßnahmen,Contromisure radar,Środki zaradcze oparte na radarze,Противорадиолокация,Contramedidas de radar.,
+KEY_FS_AN_ECM_JAMMER_MODULE_NAME,Text,,ECM Jammer,电子对抗干扰器,Brouilleur CME,Störsender,Disturbatore per contromisure elettroniche,Zakłócacz sterownika,РЭЗ «Глушитель»,Inhibidor electromagnético,
+KEY_FS_AN_MUTOG_CATAPULT_MODULE_DESCRIPTION,Text,,Anu Mutog Catapult,安努变异犬弹射器,Catapulte de Mutog d'Anu,Mutog-Katapult von Anu,Catapulta Mutog Anu,Katapulta z mutogiem Anu,Мутог-катапульта Последователей Ану,Catapulta mutog Anu.,
+KEY_FS_AN_MUTOG_CATAPULT_MODULE_NAME,Text,,Ishara's Bane,伊斯哈拉之灾,Fléau d'Ishara,Isharas Bann,Flagello di Ishara,Zguba Iszhary,Бич Ишары,Flagelo de Ishara,
+KEY_FS_AN_ORACLE_MODULE_DESCRIPTION,Text,,Anu Guidance Module,安努制导模块,Module de guidage d'Anu,Führungsmodul von Anu,Modulo di orientamento Anu,Moduł naprowadzający Anu,Модуль наведения Последователей Ану,Módulo de guiado Anu.,
+KEY_FS_AN_ORACLE_MODULE_NAME,Text,,Oracle,神谕,Oracle,Orakel,Oracolo,Wyrocznia,Оракул,Oráculo,
+KEY_FS_AN_RAM_MODULE_DESCRIPTION,Text,,Anu Ramming Module,安努撞击模块,Module percutant d'Anu,Rammmodul von Anu,Modulo di sfondamento Anu,Moduł taranujący Anu,Таранный модуль Последователей Ану,Módulo de embestida Anu.,
+KEY_FS_AN_RAM_MODULE_NAME,Text,,Ravager,劫掠者,Ravageur,Ravager,Devastatore,Dewastator,Губитель,Saqueador,
+KEY_FS_AN_REINFORCED_BULKHEADS_MODULE_DESCRIPTION,Text,,Anu Defensive Module,安努防御模块,Module défensif d'Anu,Defensivmodul von Anu,Modulo difensivo Anu,Moduł obronny Anu,Защитный модуль Последователей Ану,Módulo defensivo Anu.,
+KEY_FS_AN_REINFORCED_BULKHEADS_MODULE_NAME,Text,,Reinforced Bulkheads,强化舱壁,Cloisons renforcées,Verstärkte Schotten,Paratie di rinforzo,Wzmocnione wręgi,Усиленные переборки,Mamparos reforzados,
+KEY_FS_NJ_ARMOR_PLATES_MODULE_DESCRIPTION,Text,,New Jericho Defensive Module,新耶利哥防御模块,Module défensif de la Nouvelle-Jéricho,Defensivmodul von Neu-Jericho,Modulo difensivo Nuova Gerico,Moduł obronny Nowego Jerycha,Защитный модуль Нового Иерихона,Módulo defensivo de Nueva Jericó.,
+KEY_FS_NJ_ARMOR_PLATES_MODULE_NAME,Text,,Armor Plates,装甲板,Plaques de blindage,Panzerplatten,Piastre di armatura,Opancerzenie,Бронезащита,Planchas de armadura,
+KEY_FS_NJ_CRUISE_CONTROL_MODULE_DESCRIPTION,Text,,New Jericho Navigation Module,新耶利哥导航模块,Module de navigation de la Nouvelle-Jéricho,Navigationsmodul von Neu-Jericho,Modulo di navigazione Nuova Gerico,Moduł nawigacyjny Nowego Jerycha,Навигационный модуль Нового Иерихона,Módulo de navegación de Nueva Jericó.,
+KEY_FS_NJ_CRUISE_CONTROL_MODULE_NAME,Text,,Cruise Control,巡航控制,Régulateur de vitesse,Flugautomatik,Controllo di crociera,Autonawigacja,Круиз-контроль,Control de crucero,
+KEY_FS_NJ_FUEL_TANK_MODULE_DESCRIPTION,Text,,New Jericho Navigation Module,新耶利哥导航模块,Module de navigation de la Nouvelle-Jéricho,Erweiterungstank von Neu-Jericho,Modulo di navigazione Nuova Gerico,Moduł nawigacyjny Nowego Jerycha,Навигационный модуль Нового Иерихона,Módulo de navegación de Nueva Jericó.,
+KEY_FS_NJ_FUEL_TANK_MODULE_NAME,Text,,Fuel Tank,油箱,Réservoir de carburant,Treibstofftank,Serbatoio di carburante,Zbiornik paliwa,Топливный бак,Tanque de combustible,
+KEY_FS_NJ_FURY_POD_MODULE_DESCRIPTION,Text,,New Jericho Fury Pod,新耶利哥狂怒舱,Pod de fureur de la Nouvelle-Jéricho,Furykapsel von Neu-Jericho,Capsula della furia Nuova Gerico,Kapsuła furii Nowego Jerycha,Капсула ярости Нового Иерихона,Cápsula de furia de Nueva Jericó.,
+KEY_FS_NJ_FURY_POD_MODULE_NAME,Text,,Gadfly RC-6,牛虻 RC-6,Taon RC-6,Gadfly RC-6,Gadfly RC-6,Giez DW-6,ВП-6 «Овод»,Tábano RC-6,
+KEY_FS_NJ_RAILGUN_MODULE_DESCRIPTION,Text,,New Jericho Railgun,新耶利哥轨道炮,Canon électrique de la Nouvelle-Jéricho,Railgun von Neu-Jericho,Cannone Nuova Gerico,Działo elektromagnetyczne Nowego Jerycha,Рельсовая пушка Нового Иерихона,Cañón de riel de Nueva Jericó.,
+KEY_FS_NJ_RAILGUN_MODULE_NAME,Text,,Marauder AC-4,掠夺者 AC-4,Maraudeur AC-4,Marauder AC-4,Marauder AC-4,Bandyta AA-4,АП-4 «Мародер»,Saqueador AC-4,
+KEY_FS_NJ_TACTICAL_NUKE_MODULE_DESCRIPTION,Text,,New Jericho Tactical Nuclear Missile,战术核导弹,Missile nucléaire tactique,Taktische Nuklearrakete,Missile tattico nucleare,Taktyczny pocisk nuklearny,Тактическая ядерная ракета,Misil nuclear táctico.,
+KEY_FS_NJ_TACTICAL_NUKE_MODULE_NAME,Text,,Armageddon AAM,末日审判 AAM,Armageddon AAM,Armageddon AAM,Armageddon AAM,Pocisk Armagedon,РВВ «Армагеддон»,Armagedón aire-aire,
+KEY_FS_PX_AFTERBURNER_MODULE_DESCRIPTION,Text,,Evasion Countermeasures,规避反制,Contre-mesures contre la fuite,Ausweich-Gegenmaßnahmen,Contromisure di evasione,Kamuflujące środki zaradcze,Защита-уклонение,Contramedidas evasivas.,
+KEY_FS_PX_AFTERBURNER_MODULE_NAME,Text,,Afterburner,加力燃烧室,Postcombustion,Nachbrenner,Postbruciatore,Dopalacz,Форсаж,Postquemador,
+KEY_FS_PX_AUTOCANNON_MODULE_DESCRIPTION,Text,,Phoenix Autocannon,凤凰机关炮,Canon automatique de Phoenix,Autokanone von Phoenix,Cannone automatico Phoenix,Armata automatyczna Phoenix,Автоматическая пушка Проекта Феникс,Cañón automático Fénix,
+KEY_FS_PX_AUTOCANNON_MODULE_NAME,Text,,Brokkr AC-3,布洛克 AC-3,Brokkr AC-3,Brokkr AC-3,Brokkr AC-3,Brokkr AA-3,АП-3 «Брок»,Brokkr AC-3,
+KEY_FS_PX_BASIC_MISSILE_MODULE_DESCRIPTION,Text,,Phoenix Air-To-Air Missile,凤凰空对空导弹,Missile air-air de Phoenix,Luft-Luft-Flugkörper von Phoenix,Missile aria-aria Phoenix,Pocisk powietrze-powietrze Phoenix,Ракета «воздух — воздух» Проекта Феникс,Misil Fénix aire-aire,
+KEY_FS_PX_BASIC_MISSILE_MODULE_NAME,Text,,Nomad AAM,浪人 AAM,Nomade AAM,Nomad AAM,Nomad AAM,Pocisk Nomad,РВВ «Кочевник»,Nómada aire-aire,
+KEY_FS_PX_ELECTROLASER_MODULE_DESCRIPTION,Text,,Electrolaser Heavy Cannon,电子激光重型加农炮,Canon lourd à électrolaser,Elektrolaser-Brechergeschütz,Cannone pesante elettrolaser,Ciężkie działo elektrolaserowe,Тяжелая электролазерная пушка,Cañón pesado electroláser.,
+KEY_FS_PX_ELECTROLASER_MODULE_NAME,Text,,Thunderbolt HC-9,霹雳 HC-9,Éclair HC-9,Thunderbolt HC-9,Thunderbolt HC-9,Grom CD-9,ТП-9 «Удар молнии»,Rayo HC-9,
+KEY_FS_PX_ESCAPE_PODS_MODULE_DESCRIPTION,Text,,Phoenix Safety Module,凤凰安全模块,Module de sécurité de Phoenix,Sicherheitsmodul von Phoenix,Modulo di sicurezza Phoenix,Moduł bezpieczeństwa Phoenix,Модуль безопасности Проекта Феникс,Módulo de seguridad fénix.,
+KEY_FS_PX_ESCAPE_PODS_MODULE_NAME,Text,,Escape Pods,逃生舱,Capsules de sauvetage,Fluchtkapseln,Capsule di salvataggio,Kapsuły ratunkowe,Спасательные капсулы,Cápsulas de huida.,
+KEY_FS_PX_FLARES_MODULE_DESCRIPTION,Text,,Infrared Countermeasures,红外反制,Contre-mesures contre les infrarouges,Infrarot-Gegenmaßnahmen,Contromisure a infrarossi,Środki zaradcze na podczerwień,Инфракрасная защита,Contramedidas infrarrojas.,
+KEY_FS_PX_FLARES_MODULE_NAME,Text,,Flares,热诱弹,Fusées éclairantes,Täuschkörper,Razzi di segnalazione,Flary,Вспышки,Fulgor,
+KEY_FS_PX_HEAVY_CANNON_MODULE_DESCRIPTION,Text,,Phoenix Heavy Cannon,凤凰重型加农炮,Canon lourd de Phoenix,Brechergeschütz von Phoenix,Cannone pesante Phoenix,Ciężkie działo Phoenix,Тяжелая пушка Проекта Феникс,Cañón pesado Fénix.,
+KEY_FS_PX_HEAVY_CANNON_MODULE_NAME,Text,,Orochi HC-1,大蛇 HC-1,Orochi HC-1,Orochi HC-1,Orochi HC-1,Orochi CD-1,ТП-1 «Ороти»,Orochi HC-1,
+KEY_FS_PX_HYPERSONIC_MISSILE_MODULE_DESCRIPTION,Text,,Hypersonic Missile,超声速导弹,Missile hypersonique,Hyperschallgeschoss,Missile Ipersonico,Pocisk hipersoniczny,Гиперзвуковая ракета,Misil hipersónico.,
+KEY_FS_PX_HYPERSONIC_MISSILE_MODULE_NAME,Text,,Hand of Tyr,提尔之手,Main de Tyr,Hand von Tyr,Mano di Tyr,Ręka Tyra,Рука Тюра,Mano de Tyr,
+KEY_FS_PX_VIROPHAGE_GUN_MODULE_DESCRIPTION,Text,,Virophage Rotary Cannon,凤凰噬病毒体旋转炮,Canon rotatif virophage de Phoenix,Virophagen-Rotationskanone von Phoenix,Cannone rotante virofago Phoenix,Antywirusowe działo wielolufowe Phoenix,Вращающаяся вирофаговая пушка Проекта Феникс,Cañón giratorio Fénix virófago.,
+KEY_FS_PX_VIROPHAGE_GUN_MODULE_NAME,Text,,Fenrir RC-7,芬里厄 RC-7,Fenrir RC-7,Fenrir RC-7,Fenrir RC-7,Fenrir DW-7,ВП-7 «Фенрир»,Fenrir RC-7,
+KEY_FS_SYN_EMP_MISSILE_MODULE_DESCRIPTION,Text,,Synedrion EMP MIssile,平衡议会电磁脉冲导弹,Missile EMP du Synédrion,EMP-Rakete von Synedrion,Missile a impulso elettromagnetico Synedrion,Pocisk elektromagnetyczny Synedrionu,ЭМИ-ракета Синедриона,Misil PEM de Synedrion,
+KEY_FS_SYN_EMP_MISSILE_MODULE_NAME,Text,,Medusa AAM,美杜莎 AAM,Méduse AAM,Medusa AAM,Medusa AAM,Pocisk Meduza,РВВ «Медуза»,Medusa aire-aire,
+KEY_FS_SYN_FIRE_SUPPRESSION_MODULE_DESCRIPTION,Text,,Fire Countermeasures,防火反制,Contre-mesures contre le feu,Feuer-Gegenmaßnahmen,Contromisure antincendio,Przeciwogniowe środki zaradcze,Противопожарная защита,Contramedidas ígneas,
+KEY_FS_SYN_FIRE_SUPPRESSION_MODULE_NAME,Text,,Fire Suppression System,灭火系统,Système d'extinction d'incendies,Brandschutzsystem,Sistema di soppressione del fuoco,System gaśniczy,Система пожаротушения,Sistema de supresión de incendios,
+KEY_FS_SYN_HYBERNATION_PODS_MODULE_DESCRIPTION,Text,,Crew Recuperation Module,乘员恢复模块,Module de récupération de l'équipage,Erholungsmodul,Modulo recupero equipaggio,Moduł regeneracji załogi,Модуль оздоровления экипажа,Módulo de recuperación de tripulación,
+KEY_FS_SYN_HYBERNATION_PODS_MODULE_NAME,Text,,Hibernation Pods,休眠舱,Capsules d'hibernation,Schlafkapseln,Capsule di ibernazione,Kapsuły hibernacyjne,Капсулы гибернации,Cápsulas de hibernación,
+KEY_FS_SYN_INCINERATOR_MISSILE_MODULE_DESCRIPTION,Text,,Synedrion Incinerator Missile,平衡议会燃烧导弹,Missile incinérateur du Synédrion,Brandrakete von Synedrion,Missile inceneritore Synedrion,Pocisk spalający Synedrionu,Ракета-сжигатель Синедриона,Misil incinerador de Synedrion.,
+KEY_FS_SYN_INCINERATOR_MISSILE_MODULE_NAME,Text,,Prometheus AAM,普罗米修斯 AAM,Prométhée AAM,Prometheus AAM,Prometheus AAM,Pocisk Prometeusz,РВВ «Прометей»,Prometeo aire-aire,
+KEY_FS_SYN_LASER_GUN_MODULE_DESCRIPTION,Text,,Synedrion Laser Gun,平衡议会镭射炮,Fusil laser du Synédrion,Laserwaffe von Synedrion,Arma laser Synedrion,Pistolet laserowy Synedrionu,Лазерная пушка Синедриона,Escopeta láser de Synedrion.,
+KEY_FS_SYN_LASER_GUN_MODULE_NAME,Text,,Artemis MK. I,阿尔忒弥斯 MK. I,Artémis MK. I,Artemis MK. I,Artemis MK I,Artemida MK. I,МК. 1 «Артемида»,Artemisa MK. I,
+KEY_FS_SYN_SECURITY_STATION_MODULE_DESCRIPTION,Text,,Bioweapon Countermeasures,生化武器反制,Contre-mesures contre les armes biologiques,Biowaffen-Gegenmaßnahmen,Contromisure contro armi biologiche,Biologiczne środki zaradcze,Защита от биооружия,Contramedidas de bioarmas.,
+KEY_FS_SYN_SECURITY_STATION_MODULE_NAME,Text,,Security Station,安检站,Poste de sécurité,Sicherheitsstation,Stazione di sicurezza,Stacja bezpieczeństwa,Защитная станция,Estación de seguridad,
+KEY_GEOSCAPE_ALIEN_RAID_BOMB_HEVEN_FAILED,Text,,Pandoran raid flight successfully intercepted!,成功拦截潘多拉体突袭飞行！,Raid des Pandoriens intercepté !,Der Angriffsflug der Pandoraner wurde erfolgreich abgefangen!,Il volo di assalto dei Pandora è stato intercettato con successo!,Udało się przechwycić nalot Pandoran!,Рейдовый полет пандоранов успешно пресечен!,¡El vuelo de incursión pandoriano ha sido interceptado con éxito!,
+KEY_GEOSCAPE_ALIEN_RAID_BOMB_HEVEN_STARTED,Text,,Pandorans have initiated a raid flight!,潘多拉体启动了突袭飞行！,Les Pandoriens ont commencé un raid !,Die Pandoraner haben einen Angriffsflug gestartet!,I Pandora hanno avviato un volo di assalto!,Pandoranie rozpoczęli nalot!,Пандораны начали рейдовый полет!,¡Los pandorianos han iniciado un vuelo de incursión!,
+KEY_GEOSCAPE_ALIEN_RAID_BOMB_HEVEN_SUCCESSFUL,Text,,Pandorans have completed a raid flight!,潘多拉体完成了突袭飞行！,Les Pandoriens ont effectué un raid !,Die Pandoraner haben einen Angriffsflug abgeschlossen!,I Pandora hanno completato un volo di assalto!,Pandoranie ukończyli nalot!,Пандораны завершили рейдовый полет!,¡Los pandorianos han completado un vuelo de incursión!,
+KEY_GEOSCAPE_ALIEN_RAID_BOMB_PHOENIX_FAILED,Text,,Pandoran Phoenix base raid flight successfully intercepted!,成功拦截潘多拉体凤凰基地突袭飞行！,Raid des Pandoriens sur la base Phoenix intercepté !,Der Angriffsflug der Pandoraner auf eine Phoenix-Basis wurde erfolgreich abgefangen!,Il volo di assalto alla base Phoenix dei Pandora è stato intercettato con successo!,Udało się przechwycić nalot Pandoran na bazę Phoenix!,Рейдовый полет пандоранов на базу Проекта Феникс успешно пресечен!,¡El vuelo de incursión en una base Fénix pandoriano ha sido interceptado con éxito!,
+KEY_GEOSCAPE_ALIEN_RAID_BOMB_PHOENIX_STARTED,Text,,Pandorans have initiated a Phoenix base raid flight!,潘多拉体启动了凤凰基地突袭飞行！,Les Pandoriens ont commencé un raid sur la base Phoenix !,Die Pandoraner haben einen Angriffsflug auf eine Phoenix-Basis gestartet!,I Pandora hanno avviato un volo di assalto alla base Phoenix!,Pandoranie rozpoczęli nalot na bazę Phoenix!,Пандораны начали рейдовый полет на базу Проекта Феникс!,¡Los pandorianos han iniciado un vuelo de incursión en una base Fénix!,
+KEY_GEOSCAPE_ALIEN_RAID_BOMB_PHOENIX_SUCCESSFUL,Text,,Pandorans have completed a Phoenix base raid flight!,潘多拉体完成了凤凰基地突袭飞行！,Les Pandoriens ont effectué un raid sur la base Phoenix !,Die Pandoraner haben einen Angriffsflug auf eine Phoenix-Basis abgeschlossen!,I Pandora hanno completato un volo di assalto alla base Phoenix!,Pandoranie ukończyli nalot na bazę Phoenix!,Пандораны завершили рейдовый полет на базу Проекта Феникс!,¡Los pandorianos han completado un vuelo de incursión en una base Fénix!,
+KEY_GEOSCAPE_ALIEN_RAID_DESTROY_HAVEN_FAILED,Text,,Pandoran bombardment flight successfully intercepted!,成功拦截潘多拉体轰炸飞行！,Vol de bombardement des Pandoriens intercepté !,Der Bombardementflug der Pandoraner wurde erfolgreich abgefangen!,Il volo di bombardamento dei Pandora è stato intercettato con successo!,Udało się przechwycić nalot bombowy Pandoran!,Полет-бомбардировка пандоранов успешно пресечен!,¡El vuelo de bombardeo pandoriano ha sido interceptado con éxito!,
+KEY_GEOSCAPE_ALIEN_RAID_DESTROY_HAVEN_STARTED,Text,,Pandorans have initiated a bombardment flight!,潘多拉体启动了轰炸飞行！,Les Pandoriens ont commencé un vol de bombardement !,Die Pandoraner haben einen Bombardementflug gestartet!,I Pandora hanno avviato un volo di bombardamento!,Pandoranie rozpoczęli nalot bombowy!,Пандораны начали полет-бомбардировку!,¡Los pandorianos han iniciado un vuelo de bombardeo!,
+KEY_GEOSCAPE_ALIEN_RAID_DESTROY_HAVEN_SUCCESSFUL,Text,,Pandorans have completed a bombardment flight!,潘多拉体完成了轰炸飞行！,Les Pandoriens ont effectué un vol de bombardement !,Die Pandoraner haben einen Bombardementflug abgeschlossen!,I Pandora hanno completato un volo di bombardamento!,Pandoranie ukończyli nalot bombowy!,Пандораны завершили полет-бомбардировку!,¡Los pandorianos han completado un vuelo de bombardeo!,
+KEY_GEOSCAPE_ALIEN_RAID_INFEST_HAVEN_FAILED,Text,,Pandoran infestation flight successfully intercepted!,成功拦截潘多拉体感染飞行！,Vol d'infestation des Pandoriens intercepté !,Der Befallflug der Pandoraner wurde erfolgreich abgefangen!,Il volo di infestazione dei Pandora è stato intercettato con successo!,Udało się przechwycić lotniczą inwazję Pandoran!,Полет-нашествие пандоранов успешно пресечен!,¡El vuelo de infestación pandoriano ha sido interceptado con éxito!,
+KEY_GEOSCAPE_ALIEN_RAID_INFEST_HAVEN_STARTED,Text,,Pandorans have initiated an infestation flight!,潘多拉体启动了感染飞行！,Les Pandoriens ont commencé un vol d'infestation !,Die Pandoraner haben einen Befallflug gestartet!,I Pandora hanno avviato un volo di infestazione!,Pandoranie rozpoczęli lotniczą inwazję!,Пандораны начали полет-нашествие!,¡Los pandorianos han iniciado un vuelo de infestación!,
+KEY_GEOSCAPE_ALIEN_RAID_INFEST_HAVEN_SUCCESSFUL,Text,,Pandorans have completed an infestation flight!,潘多拉体完成了感染飞行！,Les Pandoriens ont effectué un vol d'infestation !,Die Pandoraner haben einen Befallflug abgeschlossen!,I Pandora hanno completato un volo di infestazione!,Pandoranie ukończyli lotniczą inwazję!,Пандораны завершили полет-нашествие!,¡Los pandorianos han completado un vuelo de infestación!,
+KEY_GEOSCAPE_ALIEN_RAID_RECON_FAILED,Text,,Pandoran recon flight successfully intercepted!,成功拦截潘多拉体侦察飞行！,Vol de reconnaissance des Pandoriens intercepté !,Der Aufklärungsflug der Pandoraner wurde erfolgreich abgefangen!,Il volo di ricognizione dei Pandora è stato intercettato con successo!,Udało się przechwycić lot rozpoznawczy Pandoran!,Разведполет пандоранов успешно пресечен!,¡El vuelo de reconocimiento pandoriano ha sido interceptado con éxito!,
+KEY_GEOSCAPE_ALIEN_RAID_RECON_STARTED,Text,,Pandorans have initiated a recon flight!,潘多拉体启动了侦察飞行！,Les Pandoriens ont commencé un vol de reconnaissance !,Pandoranischer Aufklärungsflug gestartet!,I Pandora hanno avviato un volo di ricognizione!,Pandoranie rozpoczęli lot rozpoznawczy!,Пандораны начали разведполет!,¡Los pandorianos han iniciado un vuelo de reconocimiento!,
+KEY_GEOSCAPE_ALIEN_RAID_RECON_SUCCESSFUL,Text,,Pandorans have completed a recon flight!,潘多拉体完成了侦察飞行！,Les Pandoriens ont effectué un vol de reconnaissance !,Die Pandoraner haben einen Aufklärungsflug abgeschlossen!,I Pandora hanno completato un volo di ricognizione!,Pandoranie ukończyli lot rozpoznawczy!,Пандораны завершили разведполет!,¡Los pandorianos han completado un vuelo de reconocimiento!,
+KEY_GEOSCAPE_ALIEN_RAID_SUPPLY_FAILED,Text,,Pandoran supply flight successfully intercepted!,成功拦截潘多拉体补给飞行！,Vol d'approvisionnement des Pandoriens intercepté !,Der Versorgungsflug der Pandoraner wurde erfolgreich abgefangen!,Il volo di rifornimento dei Pandora è stato intercettato con successo!,Udało się przechwycić lot zaopatrzeniowy Pandoran!,Полет пандоранов за припасами успешно пресечен!,¡El vuelo de suministro pandoriano ha sido interceptado con éxito!,
+KEY_GEOSCAPE_ALIEN_RAID_SUPPLY_STARTED,Text,,Pandorans have initiated a supply flight!,潘多拉体启动了补给飞行！,Les Pandoriens ont commencé un vol d'approvisionnement !,Die Pandoraner haben einen Versorgungsflug gestartet!,I Pandora hanno avviato un volo di rifornimento!,Pandoranie rozpoczęli lot zaopatrzeniowy!,Пандораны начали полет за припасами!,¡Los pandorianos han iniciado un vuelo de suministros!,
+KEY_GEOSCAPE_ALIEN_RAID_SUPPLY_SUCCESSFUL,Text,,Pandorans have completed a supply flight!,潘多拉体完成了补给飞行！,Les Pandoriens ont effectué un vol d'approvisionnement !,Die Pandoraner haben einen Versorgungsflug abgeschlossen!,I Pandora hanno completato un volo di rifornimento!,Pandoranie ukończyli lot zaopatrzeniowy!,Пандораны завершили полет за припасами!,¡Los pandorianos han completado un vuelo de suministros!,
+KEY_GEOSCAPE_BEHEMOTH_DAMAGE_HAVEN_MESSAGE,Text,,A haven was damaged by the Behemoth!,一座避难所被巨兽破坏了！,Un refuge a été endommagé par le Béhémoth !,Eine Zuflucht wurde vom Behemoth beschädigt!,Un rifugio è stato danneggiato dal Behemoth!,Bastion został uszkodzony przez Behemota!,Бегемот нанес урон убежищу!,¡El bégimo ha dañado un refugio!,
+KEY_GEOSCAPE_BEHEMOTH_DESTROYED_HAVEN_MESSAGE,Text,,A haven was destroyed by the Behemoth!,一座避难所被巨兽摧毁！,Un refuge a été détruit par le Béhémoth !,Eine Zuflucht wurde vom Behemoth zerstört!,Un rifugio è stato distrutto dal Behemoth!,Bastion został zniszczony przez Behemota!,Бегемот разрушил убежище!,¡El bégimo ha destruido un refugio!,
+KEY_GEOSCAPE_BEHEMOTH_EMERGED_MESSAGE,Text,,The Behemoth has emerged!,巨兽出现！,Le Béhémoth a émergé !,Behemoth gesichtet!,Il Behemoth è emerso!,Pojawił się Behemot!,Появился Бегемот!,¡El bégimo ha emergido!,
+KEY_GEOSCAPE_BEHEMOTH_INFEST_MESSAGE,Text,,A haven was infested by the Behemoth!,一座避难所被巨兽感染了！,Un refuge a été infesté par le Béhémoth !,Eine Zuflucht wurde vom Behemoth infiziert!,Un rifugio è stato infestato dal Behemoth!,Bastion został skażony przez Behemota!,Бегемот заразил убежище!,¡El bégimo ha infestado un refugio!,
+KEY_GEOSCAPE_MANTICORE_AVAILABLE_AFTER_ACTIVATION,Text,,Manticore available after activation,激活后可使用蝎狮,Manticore disponible après activation,Manticore nach Aktivierung verfügbar,Manticore disponibile dopo l'attivazione,Mantykora dostępna po aktywacji,Мантикора доступна после активации,Mantícora disponible tras la activación,
+KEY_GEOSCAPE_MESSAGE_VEHICLE_RELOADED,Text,,{0} was rearmed,{0} 重新装填完毕,Le véhicule {0} a été rechargé,{0} wurde nachgeladen,Il veicolo {0} è stato ricaricato,{0} – przeładowano.,{0}: перезарядка выполнена,{0} se ha recargado,
+KEY_GEOSCAPE_PX_AIRCRAFT_2,Text,,MASKED MANTICORE {0},隐形蝎狮 {0},MANTICORE MASQUÉE {0},GETARNTER MANTICORE {0},MANTICORE MASCHERATA {0},ZAMASKOWANA MANTYKORA {0},ЗАМАСКИРОВАННАЯ МАНТИКОРА {0},MANTÍCORA ENMASCARADA {0},
+KEY_LAUNCH_MISSION_BEHEMOTH_DESCRIPTION,Text,,Deploy a squad against the Behemoth,部署小队对抗巨兽,Déployez une escouade contre le Béhémoth,Entsende ein Team gegen den Behemoth,Schiera una squadra contro il Behemoth,Wyślij oddział przeciwko Behemotowi,Разверните отряд против Бегемота,Despliega un pelotón contra el bégimo,
+KEY_LEFT_WING_DESCRIPTION,Text,,These light wings allow the Myrmidon to fly,侍从可以借助这种轻盈的翅膀飞翔,Ces ailes légères permettent au Myrmidon de voler,Dank dieser leichten Flügel kann der Myrmidone fliegen,Queste ali leggere permettono al Mirmidone di volare,Te lekkie skrzydła umożliwiają Myrmidonom latanie,Благодаря этим легким крыльям Мирмидон может летать,Estas alas tan ligeras permiten que el mirmidón vuele.,
+KEY_LEFT_WING_NAME,Text,,LEFT WING,左翼,AILE GAUCHE,LINKER FLÜGEL,ALA SINISTRA,LEWE SKRZYDŁO,ЛЕВОЕ КРЫЛО,ALA IZQUIERDA,
+KEY_MESSAGE_NO_ENEMY_AIRCRAFTS,Text,,NO ENEMY AIRCRAFT IN RANGE,射程内没有敌方飞行器,AUCUN VAISSEAU ENNEMI À PORTÉE,KEINE FEINDLICHEN FLUGGERÄTE IN REICHWEITE,NESSUN VELIVOLO NEMICO NEL RAGGIO D'AZIONE,BRAK WROGICH STATKÓW W ZASIĘGU,В РАДИУСЕ НЕТ ВРАЖЕСКИХ ВОЗДУШНЫХ СУДОВ,NO HAY NAVES ENEMIGAS A TIRO,
+KEY_MISSION_CLEANSE_HAVEN,Text,,Destroy the Corruption Node,摧毁腐败节点,Détruire le Nœud de corruption,Zerstöre den Verderbnisknoten,Distruggi il Nodo di corruzione,Zniszcz węzeł zepsucia,Уничтожьте Узел Тления,Destruye el nodo de corrupción,
+KEY_MISSION_HAVEN_INFESTED_BRIEFING_NAME,Text,,HAVEN INFESTED BY PANDORANS,遭到潘多拉体感染的避难所,REFUGE INFESTÉ DE PANDORIENS,ZUFLUCHT VON PANDORANERN BEFALLEN,RIFUGI INFESTATI DAI PANDORA,BASTION OPANOWANY PRZEZ PANDORAN,УБЕЖИЩЕ КИШИТ ПАНДОРАНАМИ,REFUGIO INFESTADO DE PANDORIANOS,
+KEY_OBJECTIVE_BEHEMOTH_GILLS,Text,,OPTIONAL: DISABLE GILLS TO SLOW THE BEHEMOTH STOMP,可选：破坏鳃部来减缓其践踏速度,FACULTATIF : DÉSACTIVEZ SES BRANCHIES POUR RALENTIR SON PIÉTINEMENT,"OPTIONAL: ZERSTÖRE DIE KIEMEN, UM DAS STAMPFEN ZU VERLANGSAMEN",OPZIONALE: FERISCI LE BRANCHIE PER RALLENTARE I PESTONI,"OPCJONALNIE: USZKODŹ SKRZELA, ABY SPOWOLNIĆ RUCH","ДОПОЛНИТЕЛЬНО: ПОВРЕДИТЕ ЖАБРЫ, ЧТОБЫ ЗАМЕДЛИТЬ ЕГО АТАКИ",OPCIONAL: DESACTIVA LAS BRANQUIAS PARA RALENTIZAR SUS PISOTONES,
+KEY_OBJECTIVE_BEHEMOTH_INJECTOR,Text,,INJECT THE VIROPHAGE AGENT [{0}/{1}],注射噬病毒体药剂 [{0}/{1}],INJECTER L'AGENT VIROPHAGE [{0}/{1}],INJIZIERE DEN VIROPHAGEN-WIRKSTOFF [{0}/{1}],INIETTA L'AGENTE VIROFAGO [{0}/{1}],WSTRZYKNIJ ŚRODEK PRZECIWWIRUSOWY [{0}/{1}],ВВЕДИТЕ АГЕНТ-ВИРОФАГ [{0}/{1}],INYECTA EL AGENTE VIRÓFAGO [{0}/{1}],
+KEY_OBJECTIVE_B_BEHEMOTH_INJECTOR,Text,,INJECT THE VIROPHAGE AGENT [0/4],注射噬病毒体药剂 [0/4],INJECTER L'AGENT VIROPHAGE [0/4],INJIZIERE DEN VIROPHAGEN-WIRKSTOFF [0/4],INIETTA L'AGENTE VIROFAGO [0/4],WSTRZYKNIJ ŚRODEK PRZECIWWIRUSOWY [0/4],ВВЕДИТЕ АГЕНТ-ВИРОФАГ [0/4],INYECTA EL AGENTE VIRÓFAGO [0/4],
+KEY_PX_AIRSHIP_2_DESCRIPTION,Text,,Phoenix Aircraft,凤凰飞行器,Vaisseau Phoenix,Phoenix-Fluggerät,Velivolo Phoenix,Statek powietrzny Phoenix,ВС Проекта Феникс,Nave Fénix,
+KEY_PX_AIRSHIP_2_NAME,Text,,MASKED MANTICORE,隐形蝎狮,MANTICORE MASQUÉE,GETARNTER MANTICORE,MANTICORE MASCHERATA,ZAMASKOWANA MANTYKORA,ЗАМАСКИРОВАННАЯ МАНТИКОРА,MANTÍCORA ENMASCARADA,
+KEY_RADIAL_TOOLTIP,Text,,MODULE RADIAL,模块径向,MENU RADIAL DE MODULES,MODUL-KREISMENÜ,RADIALE MODULI,PROMIEŃ MODUŁU,МЕНЮ МОДУЛЕЙ,MENÚ RADIAL,
+KEY_RENAME_VEHICLE,Text,,Rename this vehicle?,重命名这辆载具吗？,Renommer ce véhicule ?,Dieses Fahrzeug umbenennen?,Vuoi rinominare questo veicolo?,Zmienić nazwę tego pojazdu?,Дать другое имя этой машине?,¿Quieres cambiar el nombre de este vehículo?,
+KEY_RIGHT_WING_DESCRIPTION,Text,,These light wings allow the Myrmidon to fly,侍从可以借助这种轻盈的翅膀飞翔,Ces ailes légères permettent au Myrmidon de voler,Dank dieser leichten Flügel kann der Myrmidone fliegen,Queste ali leggere permettono al Mirmidone di volare,Te lekkie skrzydła umożliwiają Myrmidonom latanie,Благодаря этим легким крыльям Мирмидон может летать,Estas alas tan ligeras permiten que el mirmidón vuele.,
+KEY_RIGHT_WING_NAME,Text,,RIGHT WING,右翼,AILE DROITE,RECHTER FLÜGEL,ALA DESTRA,PRAWE SKRZYDŁO,ПРАВОЕ КРЫЛО,ALA DERECHA,
+KEY_SECTION_TECH_CENTER,Text,,TECH CENTER,技术中心,CENTRE TECHNOLOGIQUE,TECHNIKZENTRUM,CENTRO TECNOLOGICO,CENTRUM TECHNICZNE,ТЕХЦЕНТР,CENTRO TECNOLÓGICO,
+KEY_SPAWN_SWARMER_DESCRIPTION,Text,,Give birth to a Myrmidon,生出一只侍从,Donne naissance à un Myrmidon,Gebäre einen Myrmidonen,Dai alla luce un Mirmidone,Rodzi myrmidona,Создать Мирмидона,Engendra a un Mirmidón.,
+KEY_SPAWN_SWARMER_NAME,Text,,SPAWN MYRMIDON,孵化侍从,PRODUCTION DE MYRMIDON,MYRMIDONE ERZEUGEN,GENERA MIRMIDONE,WYTWÓRZ MYRMIDONA,СОЗДАТЬ МИРМИДОНА,MIRMIDÓN ENGENDRADO,
+KEY_SWARMER_ACID_EXPLOSION_DIE_DESCRIPTION,Text,,"Upon death, the Myrmidon bursts in an acid explosion damaging nearby targets",侍从死后会发生酸性爆炸，对附近目标造成伤害,"À sa mort, le Myrmidon explose en projetant de l'acide qui inflige des dégâts aux cibles à proximité","Beim Tod explodiert der Myrmidone in einer Säureexplosion, die Zielen in der Nähe Schaden zufügt.","In punto di morte il Mirmidone esplode, rilasciando un acido che danneggia i bersagli vicini","Po śmierci myrmidon wybucha, rażąc kwasem i uszkadzając pobliskie cele.","Умирая, Мирмидон взрывается и поражает ближайшие цели кислотой","Al morir, el mirmidón estalla en una explosión ácida que daña a los objetivos cercanos.",
+KEY_SWARMER_ACID_EXPLOSION_DIE_NAME,Text,,ACID EXPLOSION,酸性爆炸,EXPLOSION CAUSTIQUE,SÄUREEXPLOSION,ESPLOSIONE ACIDA,EKSPLOZJA KWASU,КИСЛОТНЫЙ ВЗРЫВ,EXPLOSIÓN ÁCIDA,
+KEY_SWARMER_JUMP_DESCRIPTION,Text,,The Myrmidon flies to a nearby location,侍从飞向一个附近位置,Le Myrmidon vole jusqu'à un emplacement proche,Der Myrmidone fliegt zu einer Position in der Nähe.,Il Mirmidone vola verso un luogo vicino,Myrmidon leci do najbliższej lokacji,Мирмидон летит в ближайшее место,El mirmidón vuela a una ubicación cercana.,
+KEY_SWARMER_JUMP_NAME,Text,,TAKE FLIGHT,飞跃,S'ENVOLER,LOSFLIEGEN,PRENDI IL VOLO,ROZPOCZNIJ LOT,ПОЛЕТЕТЬ,DESPEGAR,
+KEY_SWARMER_POISON_EXPLOSION_DIE_DESCRIPTION,Text,,"Upon death, the Myrmidon bursts in a poison explosion damaging nearby targets",侍从死后会发生剧毒爆炸，对附近目标造成伤害,"À sa mort, le Myrmidon explose en projetant du poison qui inflige des dégâts aux cibles à proximité","Beim Tod explodiert der Myrmidone in einer Giftexplosion, die Zielen in der Nähe Schaden zufügt.","In punto di morte il Mirmidone esplode, rilasciando un veleno che danneggia i bersagli vicini","Po śmierci myrmidon wybucha, rażąc trucizną i uszkadzając pobliskie cele.","Умирая, Мирмидон взрывается и поражает ближайшие цели ядом","Al morir, el mirmidón estalla en una explosión venenosa que daña a los objetivos cercanos.",
+KEY_SWARMER_POISON_EXPLOSION_DIE_NAME,Text,,POISON EXPLOSION,剧毒爆炸,EXPLOSION TOXIQUE,GIFTEXPLOSION,ESPLOSIONE DI VELENO,EKSPLOZJA TRUCIZNY,ЯДОВИТЫЙ ВЗРЫВ,EXPLOSIÓN VENENOSA,
+KEY_UNIT_TYPE_MASKED_MANTICORES,Text,,MASKED MANTICORES,隐形蝎狮,MANTICORES MASQUÉES,GETARNTE MANTICORES,MANTICORE MASCHERATE,ZAMASKOWANE MANTYKORY,ЗАМАСКИРОВАННЫЕ МАНТИКОРЫ,MANTÍCORAS ENMASCARADAS,

@@ -1,0 +1,1425 @@
+Key,Type,Desc,English,Chinese (Simplified),French,German,Italian,Polish,Russian,Spanish,UI_Tester
+KEY_CONTROLS_ACTION_DISCRETE_FREEAIM,Text,,FREE AIM,自由瞄准,VISÉE LIBRE,FREIES ZIELEN,MIRA LIBERA,SWOBODNE CELOWANIE,ПРИЦЕЛЬНАЯ СТРЕЛЬБА,APUNTADO LIBRE,
+KEY_CUSTOM_SHOOT,Text,,SHOOT,射击,TIRER,SCHIESSEN,SPARO,STRZELANIE,ВЫСТРЕЛ,DISPARAR,
+KEY_OBJECTIVE_ALLMUSTSURVIVE,Text,,ALL OPERATIVES MUST SURVIVE,所有特工必须存活,TOUS LES AGENTS DOIVENT SURVIVRE,ALLE SOLDATEN MÜSSEN ÜBERLEBEN,TUTTI GLI AGENTI DEVONO SOPRAVVIVERE,WSZYSCY OPERATORZY MUSZĄ PRZETRWAĆ,ВСЕ АГЕНТЫ ДОЛЖНЫ ВЫЖИТЬ,DEBEN SOBREVIVIR TODOS LOS OPERATIVOS,
+KEY_TUT1_AP_DESCRIPTION,Text,,"Let's move to attack!
+
+Tiles inside BLUE AREA  allow soldiers to move and shoot in the same turn.
+
+A blue SHOOTING LINE will be drawn from the selected tile if an enemy can be shot from it.
+
+MOVE TO THE HIGHLIGHTED TILE
+","移动并攻击！
+ 
+ 蓝色区域内的方格可以让士兵在同一回合内进行移动和射击。
+
+ 如果可以从某个位置射击到敌人，所选方格将显示出一条蓝色的射击线。
+
+ 移动至高亮方格","Déplaçons-nous pour attaquer !
+ 
+ Sur les cases qui se trouvent dans une ZONE BLEUE, les soldats peuvent se déplacer et tirer dans le même tour.
+ 
+ Une LIGNE DE TIR bleue sera présente sur la case sélectionnée si un ennemi peut être atteint depuis cette case.
+ 
+ DÉPLACEZ-VOUS VERS LA ZONE EN ÉVIDENCE.","Auf in den Kampf!
+ 
+Felder im <color=#32C9C9>BLAUEN BEREICH</color> erlauben es Soldaten, sich zu bewegen und im selben Zug zu schießen.
+
+Von dem ausgewählten Feld wird eine blaue SCHUSSLINIE angezeigt, wenn von dort aus ein Gegner beschossen werden kann.
+
+BEWEGE DICH ZUM MARKIERTEN FELD","Passiamo all'attacco!
+ 
+ Le caselle dentro l'AREA BLU consentono ai soldati di muoversi e sparare nello stesso turno.
+ 
+ Se è possibile sparare a un nemico dalla casella selezionata, verrà tracciata una LINEA BLU.
+
+ SPOSTATI SULLA CASELLA EVIDENZIATA","Ruszajmy do ataku!
+ 
+ Z pól oznaczonych NIEBIESKĄ OBWÓDKĄ żołnierz może oddać strzał w tej samej turze, w której wykonuje ruch.
+ 
+ Jeżeli z miejsca umieszczenia wskaźnika wyboru można oddać strzał do wroga, wyświetli się tam niebieska LINIA STRZAŁU.
+ 
+ PRZEMIEŚĆ ŻOŁNIERZA NA PODŚWIETLONE POLE","Отправляемся в атаку!
+ 
+Внутри СИНЕЙ ЗОНЫ солдаты могут перемещаться и стрелять в течение одного хода.
+ 
+Синяя ТРАЕКТОРИИ ВЫСТРЕЛА протянется из курсора, если из выбранной клетки можно попасть по врагу.
+ 
+ПЕРЕМЕСТИТЕ ПЕРСОНАЖА НА ВЫДЕЛЕННУЮ КЛЕТКУ.","¡Avancemos para atacar!
+ 
+ Las casillas dentro de la ZONA AZUL permiten a los soldados desplazarse y disparar en el mismo turno.
+ 
+ Una LÍNEA DE DISPARO azul surgirá de la casilla seleccionada si se puede disparar a un enemigo desde ahí.
+ 
+ MUÉVETE A LA CASILLA RESALTADA",
+KEY_TUT1_AP_NAME,Text,,Movement,移动,Déplacement,Bewegung,Movimento,Ruch,Перемещение,Movimiento,
+KEY_TUT1_AP_PART2_DESCRIPTION_C,Text,,"Action controls
+
+
+Select Action: Use <size=60>:RT:</size> to enter the Action Bar and <size=60>:DLEFT:</size> and <size=60>:DRIGHT:</size> to select, and <size=60>:A:</size> to perform action.
+
+
+Movement: <size=60>:A:</size> then select MOVE to go to the Selection Marker location","行动控制
+ 
+ 选择行动：使用 <size=60>:RT:</size> 进入行动条，用 <size=60>:DLEFT:</size> 和 <size=60>:DRIGHT:</size> 进行选择，并按 <size=60>:A:</size> 执行。
+ 
+ 移动：按 <size=60>:A:</size> 然后选择“移动”即可前往选择标记位置","Commandes d'action
+ 
+ Sélectionner une action : utilisez <size=60>:RT:</size> pour accéder à la barre d'actions, <size=60>:DLEFT:</size> et <size=60>:DRIGHT:</size> pour sélectionner, puis <size=60>:A:</size> pour effectuer l'action.
+
+ Déplacement : <size=60>:A:</size>, puis sélectionnez SE DÉPLACER pour aller à l'emplacement du marqueur de sélection.","Aktionskontrollen
+ 
+Aktion wählen: Mit <size=60>:RT:</size> die Aktionsleiste aufrufen und mit <size=60>:DLEFT:</size> und <size=60>:DRIGHT:</size> die Aktion auswählen, mit <size=60>:A:</size> ausführen.
+ 
+Bewegung: <size=60>:A:</size>, dann BEWEGEN wählen, um zum Auswahlmarker zu gehen","Comandi azione
+ 
+ Seleziona azione: usa <size=60>:RT:</size> per accedere alla barra azione e <size=60>:DLEFT:</size> e <size=60>:DRIGHT:</size> per selezionare e <size=60>:A:</size> per eseguire l'azione.
+ 
+ Movimento: <size=60>:A:</size>, poi seleziona MUOVI per spostarti nella posizione con l'indicatore di selezione","Sterowanie akcją
+ 
+ Wybierz akcję: przejdź do paska akcji za pomocą <size=60>:RT:</size>, wybierz akcję, używając <size=60>:DLEFT:</size> i <size=60>:DRIGHT:</size>, a następnie naciśnij przycisk <size=60>:A:</size>, aby ją wykonać.
+ 
+ Ruch: naciśnij przycisk <size=60>:A:</size> i wybierz RUCH, aby przejść do położenia wskaźnika wyboru","Управление действиями
+
+Выбрать действие: используйте <size=60>:RT:</size>, чтобы активировать в панель действий и <size=60>:DLEFT:</size> и <size=60>:DRIGHT:</size>, чтобы совершить выбор, и <size=60>:A:</size>, чтобы совершить действие.
+ 
+Движение: <size=60>:A:</size>, потом выберите ПЕРЕМЕЩЕНИЕ, чтобы переместиться в выбранную область.","Controles de acción
+ 
+ Seleccionar acción: usa <size=60>:RT:</size> para acceder a la barra de acciones y <size=60>:DLEFT:</size> y <size=60>:DRIGHT:</size> para seleccionar. Pulsa <size=60>:A:</size> para realizar la acción.
+
+ Movimiento: <size=60>:A:</size> y después seleccionar MOVER para ir a la ubicación del marcador de selección",
+KEY_TUT1_AP_PART2_DESCRIPTION_K,Text,,"Action controls
+
+Select Action: :LMB: on the action icon
+Perform Action: :LMB: on the action button or icon
+
+Movement: :LMB: then select MOVE to go to the Selection Marker location
+
+Direct Movement: :RMB: to go directly to the Selection Marker location","行动控制
+ 
+ 选择行动：:LMB: 点击行动图标
+执行行动：:LMB: 点击行动按钮或图标
+
+ 移动：:LMB: 然后选择“移动”即可前往选择标记位置
+
+ 直接移动：:RMB: 直接前往选择标记位置","Commandes d'actions
+ 
+ Sélectionner une action : :LMB: sur l'icône d'action
+ Effectuer l'action : :LMB: sur le bouton ou l'icône d'action
+
+ Déplacement : :LMB:, puis sélectionnez SE DÉPLACER pour aller à l'emplacement du marqueur de sélection
+ 
+ Déplacement direct : :RMB: pour vous rendre directement à l'emplacement du marqueur de sélection","Aktionssteuerung
+ 
+Aktion auswählen: :LMB: auf dem Aktionssymbol
+Aktion ausführen: :LMB: auf dem Aktionsbutton oder dem Symbol
+ 
+Bewegen: :LMB: und wähle dann BEWEGEN, um zum Auswahlmarker zu gehen
+ 
+Direkte Bewegung: Mit :RMB: direkt zur Position des Auswahlmarkers","Comandi azione
+ 
+ Seleziona azione: :LMB: sull'icona dell'azione
+ Eseguire un'azione: :LMB: sul pulsante azione o sull'icona
+ 
+ Movimento: :LMB:, poi seleziona MUOVI per spostarti nella posizione con l'indicatore di selezione
+
+ Movimento diretto: :RMB: per spostarti direttamente nella posizione con l'indicatore di selezione","Sterowanie akcjami
+ 
+ Wybór akcji: kliknij :LMB: ikonę akcji
+Wykonanie akcji: kliknij :LMB: przycisk lub ikonę akcji
+ 
+ Ruch: kliknij :LMB:, a następnie wybierz RUCH, aby przejść do miejsca, w którym znajduje się wskaźnik wyboru
+ 
+ Bezpośredni ruch: kliknij RMB:, aby bezpośrednio udać się do miejsca, w którym znajduje się wskaźnik wyboru","Управление действиями
+
+Выбрать действие: :LMB: по иконке действия
+Совершить действие: :LMB: по кнопке действия или иконке
+
+Движение: нажмите :LMB:, потом выберите ДВИГАТЬСЯ, чтобы начать движение к выбранной области
+
+Движение без подтверждения: нажмите :RMB:, чтобы переместиться прямо в выбранную область","Controles de acción
+ 
+ Seleccionar acción: :LMB: en el icono de la acción
+ Realizar acción: :LMB: en el botón o icono de acción
+
+ Movimiento: :LMB: y después seleccionar MOVER para ir a la ubicación del marcador de selección
+ 
+ Movimiento directo: :RMB: para ir directamente a la ubicación del marcador de selección",
+KEY_TUT1_COVER_DESCRIPTION,Text,,"Any object in the environment can be used as cover to block the path of projectiles. Soldiers can make use of cover in two ways.
+ 
+ When next to a low obstacle or low wall, soldiers will crouch to reduce exposure.
+ 
+When next to a high obstacle or high wall, soldiers will remain standing and will step to the side to shoot.
+ 
+ NOW MOVE TO THE HIGHLIGHTED TILE","环境中的任何物体都可以阻挡投射物的路径，并可作为掩体使用。不过，士兵使用掩体有两种不同的方式。
+
+ 当靠近低矮的障碍物或墙壁时，士兵会采用蹲伏姿势来减少暴露。
+
+ 当靠近较高的障碍物或墙壁时，士兵会贴墙保持站立，不过可以探出身体进行射击。
+
+ 立即移动至高亮方格","Tout objet de l'environnement est susceptible de fournir une couverture en bloquant la trajectoire d'un projectile. Toutefois, les soldats peuvent utiliser une couverture de deux façons.
+ 
+ Lorsqu'ils se trouvent à proximité d'un petit obstacle ou d'un petit mur, les soldats s'accroupiront pour réduire leur exposition.
+ 
+ Lorsqu'ils se trouvent à proximité d'un grand obstacle ou d'un grand mur, ils resteront debout, mais feront un pas de côté pour tirer.
+ 
+ À PRÉSENT, DÉPLACEZ-VOUS SUR LA CASE EN ÉVIDENCE.","Jedes Objekt um dich herum kann dir Deckung vor Kugeln bieten. Soldaten können Deckung auf zwei Arten nutzen.
+ 
+Wenn Soldaten sich neben einem niedrigen Hindernis oder einer niedrigen Wand befinden, ducken sie sich, damit sie geschützter sind.
+ 
+Wenn sie sich neben einem hohen Hindernis oder einer hohen Mauer befinden, bleiben Soldaten aufrecht stehen, können aber einen Schritt zur Seite machen, um zu schießen.
+ 
+BEWEGE DICH JETZT ZUM HERVORGEHOBENEN FELD","Qualsiasi oggetto presente nell'ambiente può fornire copertura bloccando la traiettoria di un proiettile. I soldati possono sfruttare la copertura in due modi diversi.
+ 
+ Quando si trovano accanto a ostacoli o a muri bassi, i soldati possono accovacciarsi per essere meno esposti.
+ 
+ Quando si trovano vicino a ostacoli o a muri alti possono rimanere in piedi, spostandosi di lato per sparare.
+ 
+ ORA SPOSTATI SULLA CASELLA EVIDENZIATA","Każdy obiekt w otoczeniu może zostać wykorzystany jako osłona blokująca tor pocisku. Jednak żołnierze mogą wykorzystywać osłony na dwa różne sposoby.
+ 
+ Gdy żołnierz znajdzie się obok niskiej przeszkody lub ściany, przykucnie, aby ograniczyć powierzchnię ciała wystawioną na strzały.
+ 
+ Gdy żołnierz znajdzie się w pobliżu wysokiej przeszkody lub ściany, pozostanie w pozycji stojącej, ale aby oddać strzał, może się wychylić zza przeszkody.
+ 
+ A TERAZ PRZEMIEŚĆ SIĘ NA PODŚWIETLONE POLE","Любой объект на поле боя может служить укрытием, защищая от снарядов. Солдаты могут использовать укрытие двумя способами.
+ 
+Рядом с низким объектом или низкой стеной солдаты присядут, чтобы их было сложнее заметить.
+ 
+Рядом с высоким препятствием или стеной, солдаты останутся стоять, однако смогут выглядывать из-за укрытия, чтобы вести огонь.
+ 
+ТЕПЕРЬ ПЕРЕМЕСТИТЕСЬ НА ВЫДЕЛЕННУЮ КЛЕТКУ.","Los objetos en el entorno pueden ofrecer cobertura y bloquear la trayectoria de los proyectiles. No obstante, los soldados pueden usar la cobertura de dos maneras.
+ 
+ Cuando el obstáculo o el muro es bajo, los soldados se agachan para cubrirse y limitar la visibilidad.
+ 
+ Cuando el obstáculo o el muro es alto, los soldados permanecen de pie, pero se asomarán para disparar.
+ 
+ MUÉVETE A LA CASILLA RESALTADA",
+KEY_TUT1_COVER_NAME,Text,,Cover and Environment,掩体与环境,Couverture et environnement,Deckung und Umgebung,Copertura e ambiente,Ukrywanie się i otoczenie,Укрытие и окружение,Cobertura y entorno,
+KEY_TUT1_FREE_AIM_DESCRIPTION,Text,,"When shooting, you  can enter Free Aim mode for PRECISE TARGETING.
+
+ENTER FREE AIM MODE
+Press the ZOOM IN button or scroll :MW:","你可以在射击时进入自由瞄准模式，进行精确瞄准。
+
+ 进入自由瞄准模式
+ 点击“放大”按钮或滚动 :MW:","Lorsque vous tirez, le mode Visée libre vous permet de CIBLER AVEC PRÉCISION.
+
+ ENTRER EN MODE VISÉE LIBRE
+ Appuyez sur le bouton AGRANDIR ou faites défiler :MW:","Beim Schießen kannst du für PRÄZISES ZIELEN in den Modus „Freies Zielen“ wechseln.
+
+WECHSELE IN DEN MODUS FÜR FREIES ZIELEN
+Drücke die Taste zum REINZOOMEN oder das Scrollrad der Maus :MW:","Quando spari, puoi entrare in modalità Mira libera per MIRARE CON PRECISIONE.
+
+ ENTRA IN MODALITÀ MIRA LIBERA
+ Premi il pulsante di ZOOM AVANTI o scorri con :MW:","Podczas strzelania możesz wejść w tryb swobodnego celowania, by PRECYZYJNIE MIERZYĆ w części ciała.
+ 
+ PRZEJDŹ DO TRYBU SWOBODNEGO CELOWANIA
+ Naciśnij przycisk PRZYBLIŻENIA lub przewiń :MW:","Во время стрельбы вы можете войти в режим прицеливания для более ТОЧНОГО ВЫБОРА ЦЕЛИ.
+ 
+ВОЙДИТЕ В РЕЖИМ ПРИЦЕЛИВАНИЯ.
+Нажмите кнопку ПРИБЛИЗИТЬ или прокрутите :MW:.","Cuando vas a disparar, puedes entrar en modo de apuntado libre para APUNTAR CON MAYOR PRECISIÓN.
+ 
+ ENTRA EN MODO DE APUNTADO LIBRE
+ Pulsa el botón de ACERCARSE o usa :MW:",
+KEY_TUT1_FREE_AIM_DESCRIPTION_C,Text,,"When shooting, you  can enter Free Aim mode for PRECISE TARGETING.
+
+ENTER FREE AIM MODE
+<size=60>:RTS:</size>","你可以在射击时进入自由瞄准模式来精确瞄准。
+
+ 进入自由瞄准模式
+ <size=60>:RTS:</size>","Lorsque vous tirez, le mode Visée libre vous permet de CIBLER AVEC PRÉCISION.
+
+ ENTRER EN MODE VISÉE LIBRE.
+ <size=60>:RTS:</size>","Beim Schießen kannst du für PRÄZISES ZIELEN in den Modus „Freies Zielen“ wechseln.
+
+WECHSELE IN DEN MODUS FÜR FREIES ZIELEN
+<size=60>:RTS:</size>","Quando spari, puoi entrare in modalità Mira libera per MIRARE CON PRECISIONE.
+
+ ENTRA IN MODALITÀ MIRA LIBERA
+ <size=60>:RTS:</size>","Podczas strzelania możesz wejść w tryb swobodnego celowania, by PRECYZYJNIE MIERZYĆ w części ciała.
+ 
+ PRZEJDŹ DO TRYBU SWOBODNEGO CELOWANIA
+ <size=60>:RTS:</size>","Во время стрельбы вы можете войти в режим прицеливания для более ТОЧНОГО ВЫБОРА ЦЕЛИ.
+ 
+ВОЙДИТЕ В РЕЖИМ ПРИЦЕЛИВАНИЯ.
+<size=60>:RTS:</size>","Cuando vas a disparar, puedes entrar en modo de apuntado libre para APUNTAR CON MAYOR PRECISIÓN.
+ 
+ ENTRA EN MODO DE APUNTADO LIBRE
+ <size=60>:RTS:</size>",
+KEY_TUT1_FREE_AIM_DESCRIPTION_K,Text,,"When shooting, you  can enter Free Aim mode for PRECISE TARGETING.
+
+ENTER FREE AIM MODE
+Press FREE AIM or scroll :MW:","你可以在射击时进入自由瞄准模式来精确瞄准。
+
+ 进入自由瞄准模式
+ 点击“自由瞄准”或滚动 :MW:","Lorsque vous tirez, le mode Visée libre vous permet de CIBLER AVEC PRÉCISION.
+
+ ENTRER EN MODE VISÉE LIBRE.
+ Appuyez sur VISÉE LIBRE ou faites défiler :MW:","Beim Schießen kannst du für PRÄZISES ZIELEN in den Modus „Freies Zielen“ wechseln.
+
+WECHSELE IN DEN MODUS FÜR FREIES ZIELEN
+Drücke FREIES ZIELEN oder das Scrollrad der Maus :MW:","Quando spari, puoi entrare in modalità Mira libera per MIRARE CON PRECISIONE.
+
+ ENTRA IN MODALITÀ MIRA LIBERA
+ Premi MIRA LIBERA o scorri con :MW:","Podczas strzelania możesz wejść w tryb swobodnego celowania, by PRECYZYJNIE MIERZYĆ w części ciała.
+ 
+ PRZEJDŹ DO TRYBU SWOBODNEGO CELOWANIA
+ Naciśnij przycisk SWOBODNE CELOWANIE lub przewiń :MW:","Во время стрельбы вы можете войти в режим прицеливания для более ТОЧНОГО ВЫБОРА ЦЕЛИ.
+ 
+ВОЙДИТЕ В РЕЖИМ ПРИЦЕЛИВАНИЯ.
+Нажмите «РЕЖИМ ПРИЦЕЛИВАНИЯ» или прокрутите :MW:","Cuando vas a disparar, puedes entrar en modo de apuntado libre para APUNTAR CON MAYOR PRECISIÓN.
+ 
+ ENTRA EN MODO DE APUNTADO LIBRE
+ Pulsa APUNTADO LIBRE o usa :MW:",
+KEY_TUT1_FREE_AIM_DESCRIPTION_PART2_C,Text,,"In Free Aim mode, you shoot from the soldier's point of view.
+
+The outer BLUE CIRCLE shows you where all shots will land. The more accurate the weapon, the smaller the circle.
+
+Shooting at different BODY PARTS can disable them, denying the enemy some abilities.
+
+FREE AIM CONTROLS
+Move Crosshair: <size=60>:LTS:</size>
+Zoom in/Out: <size=60>:RTS:</size>
+Exit Free Aim: <size=60>:B:</size>
+
+SHOOT THE ENEMY","在自由瞄准模式中，你可以从士兵的视角开火射击。
+
+ 外侧蓝圈表示所有子弹的最终落点。武器准度越高，圆圈就越小。
+
+ 射击不同的身体部位可以将其破坏，阻止敌人使用某些技能。
+
+ 自由瞄准控制
+ 移动准星：<size=60>:LTS:</size>
+放大/缩进：<size=60>:RTS:</size>
+ 退出自由瞄准：<size=60>:B:</size>
+
+ 射击敌人","En mode Visée libre, vous tirez du point de vue du soldat.
+ 
+ Le CERCLE BLEU externe vous montre l'endroit où vos tirs atterriront. Plus l'arme est précise, plus le cercle sera restreint.
+ 
+ Tirez sur différentes PARTIES DU CORPS peut les désactiver, retirant certaines capacités à l'ennemi.
+ 
+ COMMANDES DE VISÉE LIBRE
+ Déplacer le pointeur : <size=60>:LTS:</size>
+ Agrandir/réduire : <size=60>:RTS:</size>
+ Quitter le mode Visée libre : <size=60>:B:</size>
+ 
+ TIREZ SUR L'ENNEMI.","Im Modus „Freies Zielen“ schießt du aus der Perspektive des Soldaten.
+ 
+Der äußere blaue Kreis zeigt dir, wo deine Schüsse landen. Je genauer die Waffe, desto kleiner der Kreis.
+ 
+Das Schießen auf verschiedene KÖRPERTEILE kann sie versehren und dem Gegner so einige Fähigkeiten verweigern.
+ 
+STEUERUNG FÜR DAS FREIE ZIELEN
+Bewege das Fadenkreuz: <size=60>:LTS:</size>
+Rein-/Rauszoomen: <size=60>:RTS:</size>
+Freies Zielen verlassen: <size=60>:B:</size>
+ 
+SCHIESSE AUF DEN GEGNER","In modalità Mira libera, spari dal punto di vista del soldato.
+ 
+ Il CERCHIO BLU esterno ti mostra dove finiranno tutti i colpi. Più precisa è l'arma, più piccolo diventa il cerchio.
+ 
+ Sparare a diverse PARTI DEL CORPO può disabilitarle, negando al nemico alcune abilità.
+ 
+COMANDI MIRA LIBERA
+ Sposta il mirino: <size=60>:LTS:</size>
+ Zoom avanti/indietro: <size=60>:RTS:</size>
+ Esci dalla modalità mira libera: <size=60>:B:</size>
+
+ SPARA AL NEMICO","W trybie swobodnego celowania strzelasz z punkty widzenia żołnierza.
+
+ Zewnętrzne NIEBIESKIE KOŁO wskazuje, gdzie trafią wszystkie strzały. Im dokładniejsza broń, tym mniejsze koło.
+
+ Strzelanie w różne CZĘŚCI CIAŁA pozwala je unieszkodliwić, pozbawiając przeciwnika niektórych umiejętności.
+ 
+ STEROWANIE SWOBODNYM CELOWANIEM
+ Przesuwanie celownika: <size=60>:LTS:</size>
+ Przybliżanie/oddalanie: <size=60>:RTS:</size>
+ Opuszczanie trybu swobodnego celowania: <size=60>:B:</size>
+
+ ZASTRZEL WROGA","В режиме Прицеливания вы используете вид от первого лица.
+ 
+Внешний СИНИЙ КРУГ показывает, куда попадут ваши выстрелы. Чем точнее оружие, тем меньше круг.
+ 
+Если выстрелить в разные части тела, их можно повредить, лишив врага некоторых способностей.
+
+УПРАВЛЕНИЕ В РЕЖИМЕ ПРИЦЕЛИВАНИЯ.
+Перемещать прицел: <size=60>:LTS:</size>
+Приблизить/отдалить: <size=60>:RTS:</size>
+Выйти из режима прицеливания: <size=60>:B:</size>
+ 
+ВЫСТРЕЛИТЕ ПО ВРАГУ!","En el modo de apuntado libre, disparas desde el punto de vista del soldado.
+
+ El CÍRCULO AZUL externo indica dónde impactarás. Cuanto más precisa sea el arma, más pequeño será el círculo.
+ 
+ Puedes disparar a diferentes PARTES DEL CUERPO para inhabilitarlas, lo que limita las habilidades del enemigo.
+ 
+ CONTROLES DE APUNTADO LIBRE
+ Mover puntero: <size=60>:LTS:</size>
+ Acercarse/alejarse: <size=60>:RTS:</size>
+ Salir de apuntado libre: <size=60>:B:</size>
+ 
+ DISPARA AL ENEMIGO",
+KEY_TUT1_FREE_AIM_DESCRIPTION_PART2_K,Text,,"In Free Aim mode, you shoot from the soldier's point of view.
+
+The outer BLUE CIRCLE shows you where all shots will land. The more accurate the weapon, the smaller the circle.
+
+Shooting at different BODY PARTS can disable them, denying the enemy some abilities.
+
+FREE AIM CONTROLS
+Move Crosshair: move the Mouse
+Zoom in/Out: scroll :MW:
+Exit Free Aim: :RMB: or ESC
+
+SHOOT THE ENEMY","在自由瞄准模式中，你可以从士兵的视角开火射击。
+
+ 外侧蓝圈表示所有子弹的最终落点。武器准度越高，圆圈就越小。
+
+ 射击不同的身体部位可以将其破坏，从而阻止敌人使用某些技能。
+
+ 自由瞄准控制
+ 移动准星：移动鼠标
+放大/缩进：滚动 :MW:
+ 退出自由瞄准：:RMB: 或 :ESC:
+ 
+ 射击敌人","En mode Visée libre, vous tirez du point de vue du soldat.
+ 
+ Le CERCLE BLEU externe vous montre l'endroit où vos tirs atterriront. Plus l'arme est précise, plus le cercle sera restreint.
+ 
+ Tirer sur différentes PARTIES DU CORPS peut les désactiver, retirant certaines capacités à l'ennemi.
+ 
+ COMMANDES DE VISÉE LIBRE
+ Déplacer le pointeur : déplacez la souris
+ Agrandir/réduire : faites défiler :MW:
+Quitter le mode Visée libre : :RMB: ou ÉCHAP
+ 
+ TIREZ SUR L'ENNEMI.","Im Modus „Freies Zielen“ schießt du aus der Perspektive des Soldaten.
+ 
+Der äußere blaue Kreis zeigt dir, wo deine Schüsse landen. Je genauer die Waffe, desto kleiner der Kreis.
+ 
+Das Schießen auf verschiedene KÖRPERTEILE kann sie versehren und dem Gegner so einige Fähigkeiten verweigern.
+ 
+STEUERUNG FÜR DAS FREIE ZIELEN
+Bewege das Fadenkreuz: Maus bewegen
+Rein-/Rauszoomen: Scrollrad der Maus :MW:
+Freies Zielen verlassen: :RMB: oder ESC
+ 
+SCHIESSE AUF DEN GEGNER","In modalità Mira libera, spari dal punto di vista del soldato.
+ 
+ Il CERCHIO BLU esterno ti mostra dove finiranno tutti i colpi. Più precisa è l'arma, più piccolo diventa il cerchio.
+ 
+ Sparare a diverse PARTI DEL CORPO può disabilitarle, negando al nemico alcune abilità.
+ 
+COMANDI MIRA LIBERA
+ Sposta il mirino: muovi il mouse
+ Zoom avanti/indietro: scorri con :MW:
+ Esci dalla modalità mira libera: :RMB: o :ESC:
+ 
+SPARA AL NEMICO","W trybie swobodnego celowania strzelasz z punkty widzenia żołnierza.
+
+ Zewnętrzne NIEBIESKIE KOŁO wskazuje, gdzie trafią wszystkie strzały. Im dokładniejsza broń, tym mniejsze koło.
+
+ Strzelanie w różne CZĘŚCI CIAŁA pozwala je unieszkodliwić, pozbawiając przeciwnika niektórych umiejętności.
+ 
+ STEROWANIE SWOBODNYM CELOWANIEM
+ Przesuwanie celownika: rusz myszką
+ Przybliżanie/oddalanie: przewiń :MW:
+ Opuszczanie trybu swobodnego celowania: :RMB: lub :ESC:
+
+ ZASTRZEL WROGA","В режиме Прицеливания вы используете вид от первого лица.
+ 
+Внешний СИНИЙ КРУГ показывает, куда попадут ваши выстрелы. Чем точнее оружие, тем меньше круг.
+ 
+Если выстрелить в разные части тела, их можно повредить, лишив врага некоторых способностей.
+
+УПРАВЛЕНИЕ В РЕЖИМЕ ПРИЦЕЛИВАНИЯ
+Перемещать прицел: двигайте мышью
+Приблизить/отдалить: прокрутите :MW:
+Выйти из режима прицеливания: :RMB: или :ESC:
+ 
+ВЫСТРЕЛИТЕ ПО ВРАГУ!","En el modo de apuntado libre, disparas desde el punto de vista del soldado.
+
+ El CÍRCULO AZUL externo indica dónde impactarás. Cuanto más precisa sea el arma, más pequeño será el círculo.
+ 
+ Puedes disparar a diferentes PARTES DEL CUERPO para inhabilitarlas, lo que limita las habilidades del enemigo.
+ 
+ CONTROLES DE APUNTADO LIBRE
+ Mover puntero: mueve el ratón
+ Acercarse/alejarse: usa :MW:
+ Salir de apuntado libre: :RMB: o :ESC:
+ 
+ DISPARA AL ENEMIGO",
+KEY_TUT1_FREE_AIM_NAME,Text,,Free Aim Shooting,自由瞄准射击,Tirs à visée libre,Freies Zielen,Sparare a mira libera,Swobodne celowanie,Режим прицеливания,Disparar con apuntado libre,
+KEY_TUT1_HEALTH_DESCRIPTION,Text,,"When a character is attacked, damage is done to the body part that was hit as well as reducing general Hit Points. Wounded body parts are marked in yellow on the Damage Display, left of the Health Bar. Disabled body parts are marked in red.
+
+Disabled body parts will usually cause bleeding, and the loss of Strength and possibly Willpower. Any special ability given by the body part will be lost.
+","角色受到攻击时，不仅会减少总生命值，被击中的身体部位也会受到伤害。健康条左侧的伤害显示会以黄色标记出受伤的身体部位。损坏的身体部位将标记为红色。
+
+ 身体部位损坏通常会造成流血效果，还会失去力量和意志力。该身体部位提供的特殊技能也将无法使用。","Lorsqu'un personnage est attaqué, certaines parties de son corps touchées peuvent être endommagées en plus de réduire ses points de vie généraux. Les parties du corps blessées apparaissent en jaune sur la visualisation des dégâts, à gauche de la jauge de santé. Les parties du corps désactivées apparaissent en rouge.
+ 
+ Les parties du corps désactivées causent généralement des saignements, ainsi que la perte de puissance et peut-être de volonté. Toute capacité spéciale octroyée par la partie du corps en question sera perdue.","Wenn ein Charakter angegriffen wird, nimmt das getroffene Körperteil Schaden – und die allgemeinen Trefferpunkte sinken. Verwundete Körperteile sind in der Schadensanzeige links neben der Gesundheitsleiste gelb markiert. Deaktivierte Körperteile sind rot markiert.
+
+Deaktivierte Körperteile verursachen meist Blutungen sowie den Verlust von Stärke und möglicherweise Willenskraft. Alle besonderen Fähigkeiten, die dieses Körperteil verleiht, gehen dabei verloren.","Quando un personaggio viene attaccato, il danno viene arrecato alla parte del corpo colpita e riducendo i punti ferita totali. Le parti del corpo che vengono ferite sono segnalate in giallo sulla visuale danni a sinistra della barra salute. Le parti del corpo fuori uso sono segnalate in rosso.
+ 
+Le parti del corpo fuori uso generalmente causano sanguinamento, perdita di forza e in alcuni casi di volontà. Ogni abilità speciale conferita da quella parte del corpo viene persa.","Gdy postać zostanie zaatakowana, obrażenia są zadawane tej części ciała, która została trafiona. Ponadto zmniejsza się też ogólna liczba punktów życia. Zranione części ciała są oznaczane na żółto na podglądzie obrażeń po lewej stronie paska zdrowia. Kontuzjowane części ciała są oznaczane na czerwono.
+ 
+ Kontuzja zazwyczaj powoduje krwawienie, a w związku z tym utratę siły i prawdopodobnie siły woli. Wszelkie specjalne umiejętności uzyskane dzięki danej części ciała przestają być dostępne.","Когда персонаж подвергается атаке, наносится урон той части тела, которая была поражена, а также уменьшается общее количество очков здоровья. Поврежденные части тела отмечены желтым цветом на индикаторе повреждений слева от шкалы здоровья. Разрушенные части тела отмечены красным.
+ 
+Разрушение части тела обычно приводит к кровотечению и потере Очков Силы и иногда - Очков Воли. Любые особые способности, которыми наделена данная часть тела, буду заблокированы.","Cuando se ataca a un personaje, el daño lo sufre la parte del cuerpo que ha recibido el impacto, además de reducir los puntos de salud generales. Las partes del cuerpo heridas se marcan en amarillo en el indicador de daño, a la izquierda de la barra de salud. Las partes del cuerpo inhabilitadas aparecen en rojo.
+ 
+ Las partes del cuerpo inhabilitadas provocan sangrado normalmente, así como la pérdida de fuerza y fuerza de voluntad. Las habilidades especiales que ofrece la parte del cuerpo se pierden.",
+KEY_TUT1_HEALTH_NAME,Text,,Damage and Body Parts,伤害与身体部位,Dégâts et parties du corps,Schaden und Körperteile,Danni e parti del corpo,Obrażenia i części ciała,Урон и части тела,Daño y partes del cuerpo,
+KEY_TUT1_MOVEMENT_DESCRIPTION_BIND_C,Text,,"TRY THE CAMERA CONTROLS
+
+Camera movement: <size=60>:LTS:</size>
+Camera rotation: <size=60>:RTSLEFT:</size> and <size=60>:RTSRIGHT:</size>
+Camera zoom: <size=60>:DUP:</size> and <size=60>:DDOWN:</size>","尝试视角控制
+ 
+ 视角移动：<size=60>:LTS:</size>
+视角旋转：<size=60>:RTSLEFT:</size> 和 <size=60>:RTSRIGHT:</size>
+视角缩放：<size=60>:DUP:</size> 和 <size=60>:DDOWN:</size>","TESTER LES COMMANDES DE LA CAMÉRA
+ 
+ Mouvement de caméra : <size=60>:LTS:</size>
+Rotation de caméra : <size=60>:RTSLEFT:</size> et <size=60>:RTSRIGHT:</size>
+Zoom : <size=60>:DUP:</size> et <size=60>:DDOWN:</size>","TESTE DIE KAMERASTEUERUNG
+ 
+Kamerabewegung: <size=60>:LTS:</size>
+Kamerarotation: <size=60>:RTSLEFT:</size> und <size=60>:RTSRIGHT:</size>
+Kamerazoom: <size=60>:DUP:</size> und <size=60>:DDOWN:</size>","PROVA I COMANDI DELLA TELECAMERA
+ 
+ Movimento della telecamera: <size=60>:LTS:</size>
+Rotazione della telecamera: <size=60>:RTSLEFT:</size> e <size=60>:RTSRIGHT:</size>
+Zoom della telecamera: <size=60>:DUP:</size> e <size=60>:DDOWN:</size>","WYPRÓBUJ STEROWANIE KAMERĄ
+ 
+ Ruch kamery: <size=60>:LTS:</size>
+Obrót kamery: <size=60>:RTSLEFT:</size> i <size=60>:RTSRIGHT:</size>
+Przybliżanie/oddalanie kamery: <size=60>:DUP:</size> i <size=60>:DDOWN:</size>","ПОПРОБУЙТЕ УПРАВЛЯТЬ КАМЕРОЙ
+ 
+Перемещение камеры: <size=60>:LTS:</size>
+Поворот камеры: <size=60>:RTSLEFT:</size> и <size=60>:RTSRIGHT:</size>
+Приблизить/отдалить: <size=60>:DUP:</size> и <size=60>:DDOWN:</size>","PRUEBA LOS CONTROLES DE LA CÁMARA
+ 
+ Movimiento de la cámara: <size=60>:LTS:</size>
+Rotación de la cámara: <size=60>:RTSLEFT:</size> and <size=60>:RTSRIGHT:</size>
+Acercar/alejar la cámara: <size=60>:DUP:</size> and <size=60>:DDOWN:</size>",
+KEY_TUT1_MOVEMENT_DESCRIPTION_BIND_K,Text,,"TRY THE CAMERA CONTROLS
+
+Camera movement: :LMB: + drag, or [<color=#ECBA62>{[Camera Up]}</color>] [<color=#ECBA62>{[Camera Left]}</color>] [<color=#ECBA62>{[Camera Down]}</color>] [<color=#ECBA62>{[Camera Right]}</color>]
+Camera rotation: [<color=#ECBA62>{[Rotate Left]}</color>] and [<color=#ECBA62>{[Rotate Right]}</color>]
+Camera zoom: [<color=#ECBA62>{[Discrete Zoom In]}</color>] and [<color=#ECBA62>{[Discrete Zoom Out]}</color>]
+","尝试视角控制
+ 
+ 视角移动： :LMB: + 拖动，或 [<color=#ECBA62>{[Camera Up]}</color>] [<color=#ECBA62>{[Camera Left]}</color>] [<color=#ECBA62>{[Camera Down]}</color>] [<color=#ECBA62>{[Camera Right]}</color>]
+ 视角旋转：[<color=#ECBA62>{[Rotate Left]}</color>] 和 [<color=#ECBA62>{[Rotate Right]}</color>]
+ 视角缩放：[<color=#ECBA62>{[Discrete Zoom In]}</color>] 和 [<color=#ECBA62>{[Discrete Zoom Out]}</color>]","TESTER LES COMMANDES DE LA CAMÉRA
+ 
+ Mouvement de caméra : :LMB: + glisser ou [<color=#ECBA62>{[Camera Up]}</color>] [<color=#ECBA62>{[Camera Left]}</color>] [<color=#ECBA62>{[Camera Down]}</color>] [<color=#ECBA62>{[Camera Right]}</color>]
+ Rotation de caméra : [<color=#ECBA62>{[Rotate Left]}</color>] et [<color=#ECBA62>{[Rotate Right]}</color>]
+ Zoom : [<color=#ECBA62>{[Discrete Zoom In]}</color>] et [<color=#ECBA62>{[Discrete Zoom Out]}</color>]","TESTE DIE KAMERASTEUERUNG
+ 
+Kamerabewegung: :LMB: + ziehen oder [<color=#ECBA62>{[Camera Up]}</color>] [<color=#ECBA62>{[Camera Left]}</color>] [<color=#ECBA62>{[Camera Down]}</color>] [<color=#ECBA62>{[Camera Right]}</color>]
+Kamerarotation: [<color=#ECBA62>{[Rotate Left]}</color>] und [<color=#ECBA62>{[Rotate Right]}</color>]
+Kamerazoom: [<color=#ECBA62>{[Discrete Zoom In]}</color>] und [<color=#ECBA62>{[Discrete Zoom Out]}</color>]","PROVA I COMANDI DELLA TELECAMERA
+ 
+ Movimento della telecamera: :LMB: + trascina, oppure [<color=#ECBA62>{[Camera Up]}</color>] [<color=#ECBA62>{[Camera Left]}</color>] [<color=#ECBA62>{[Camera Down]}</color>] [<color=#ECBA62>{[Camera Right]}</color>]
+ Rotazione della telecamera: [<color=#ECBA62>{[Rotate Left]}</color>] e [<color=#ECBA62>{[Rotate Right]}</color>]
+ Zoom della telecamera: [<color=#ECBA62>{[Discrete Zoom In]}</color>] e [<color=#ECBA62>{[Discrete Zoom Out]}</color>]","WYPRÓBUJ STEROWANIE KAMERĄ
+ 
+ Ruch kamery: kliknij :LMB: i przeciągnij lub [<color=#ECBA62>{[Camera Up]}</color>] [<color=#ECBA62>{[Camera Left]}</color>] [<color=#ECBA62>{[Camera Down]}</color>] [<color=#ECBA62>{[Camera Right]}</color>]
+Obrót kamery: [<color=#ECBA62>{[Rotate Left]}</color>] i [<color=#ECBA62>{[Rotate Right]}</color>].
+ Przybliżenie kamery: [<color=#ECBA62>{[Discrete Zoom In]}</color>] i [<color=#ECBA62>{[Discrete Zoom Out]}</color>].","ПОПРОБУЙТЕ УПРАВЛЯТЬ КАМЕРОЙ
+ 
+Перемещение камеры: зажмите :LMB и перемещайте мышь, или [<color=#ECBA62>{[Camera Up]}</color>] [<color=#ECBA62>{[Camera Left]}</color>] [<color=#ECBA62>{[Camera Down]}</color>] [<color=#ECBA62>{[Camera Right]}</color>
+Поворот камеры: [<color=#ECBA62>{[Rotate Left]}</color>] и [<color=#ECBA62>{[Rotate Right]}</color>]
+Приблизить/отдалить: [<color=#ECBA62>{[Discrete Zoom In]}</color>] и [<color=#ECBA62>{[Discrete Zoom Out]}</color>]","PRUEBA LOS CONTROLES DE LA CÁMARA
+ 
+ Movimiento de la cámara: :LMB: y arrastrar, o [<color=#ECBA62>{[Camera Up]}</color>] [<color=#ECBA62>{[Camera Left]}</color>] [<color=#ECBA62>{[Camera Down]}</color>] [<color=#ECBA62>{[Camera Right]}</color>]
+ Rotación de la cámara: [<color=#ECBA62>{[Rotate Left]}</color>] y [<color=#ECBA62>{[Rotate Right]}</color>]
+ Acercar/alejar la cámara: [<color=#ECBA62>{[Discrete Zoom In]}</color>] y [<color=#ECBA62>{[Discrete Zoom Out]}</color>]",
+KEY_TUT1_MOVEMENT_NAME,Text,,Camera and Movement,视角与移动,Caméra et déplacements,Kamera und Bewegung,Telecamera e movimento,Kamera i poruszanie się,Камера и перемещение,Cámara y movimiento,
+KEY_TUT1_MOVEMENT_PART2_DESCRIPTION_BIND_C,Text,,"MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE
+
+Мove the Selection Marker with <size=60>:LTS:</size> and press <size=60>:A:</size>
+","将你的士兵移动至高亮显示的方格处
+
+ 使用 :RTS: 移动选择标记并按 :A:","DÉPLACER VOTRE SOLDAT VERS LA CASE EN ÉVIDENCE
+ 
+ Déplacez votre marqueur de sélection avec :RTS: et appuyez sur :A:","BEWEGE DEINEN SOLDATEN AUF DAS HERVORGEHOBENE FELD
+ 
+Bewege den Auswahlmarker mit <size=60>:LTS:</size> und drücke <size=60>:A:</size>","SPOSTA IL TUO SOLDATO SULLA CASELLA EVIDENZIATA
+ 
+ Sposta l'indicatore di selezione con :RTS: e premi :A:","PRZEMIEŚĆ ŻOŁNIERZA W PODŚWIETLONE POLE
+ 
+ Przesuń wskaźnik za pomocą :RTS: i naciśnij przycisk :A:","ПЕРЕМЕСТИТЕ СОЛДАТА НА ВЫДЕЛЕННУЮ КЛЕТКУ
+ 
+Переместите курсор с помощью <size=60>:LTS:</size> 
+и нажмите <size=60>:A:</size>.","MUEVE AL SOLDADO A LA CASILLA RESALTADA
+ 
+ Mueve el cursor de selección con :RTS: y pulsa :A:",
+KEY_TUT1_MOVEMENT_PART2_DESCRIPTION_BIND_K,Text,,"MOVE YOUR SOLDIER TO THE HIGHLIGHTED TILE
+
+:RMB: on the destination tile or :LMB:, then select MOVE
+","将你的士兵移动至高亮显示的方格处
+
+ :RMB: 或 :LMB: 点击目标方格，然后选择移动","DÉPLACER VOTRE SOLDAT VERS LA CASE EN ÉVIDENCE
+ 
+ :RMB: sur la case de destination ou :LMB:, puis sélectionnez SE DÉPLACER","BEWEGE DEINEN SOLDATEN AUF DAS HERVORGEHOBENE FELD
+ 
+:RMB: auf das Zielfeld oder :LMB: und BEWEGEN wählen.","SPOSTA IL TUO SOLDATO SULLA CASELLA EVIDENZIATA
+ 
+ :RMB: sulla casella di destinazione o :LMB:, quindi seleziona MUOVI","PRZEMIEŚĆ ŻOŁNIERZA NA PODŚWIETLONE POLE
+ 
+ Kliknij :RMB: na docelowym polu lub kliknij :LMB:, a następnie wybierz opcję RUCH","ПЕРЕМЕСТИТЕ СОЛДАТА НА ВЫДЕЛЕННУЮ КЛЕТКУ.
+ 
+:RMB: на клетку назначения или :LMB:, а затем выберите ПЕРЕМЕЩЕНИЕ.","MUEVE AL SOLDADO A LA CASILLA RESALTADA
+ 
+ :RMB: en la casilla de destino o :LMB: y después selecciona MOVER",
+KEY_TUT1_MOVEMENT_PART2_NAME,Text,,Camera and Movement,视角与移动,Caméra et déplacements,Kamera und Bewegung,Telecamera e movimento,Kamera i poruszanie się,Камера и перемещение,Cámara y movimiento,
+KEY_TUT1_OBJECTIVE_DESCRIPTION,Text,,"Now that you know the basics of movement and shooting, it's time to finish the mission.
+Be on the lookout for more hostiles! 
+
+COMPLETE THE OBJECTIVE","现在，你已经学会了移动和射击的基础操作，是时候去完成任务了。
+注意更多来袭的敌人！
+ 
+ 完成目标","Maintenant que vous connaissez les bases du déplacement et du tir, il est temps de finir la mission.
+ Restez sur vos gardes au cas où il y aurait d'autres ennemis !
+ 
+ ATTEIGNEZ L'OBJECTIF.","Jetzt kennst du die Grundlagen von Bewegung und Schießen. Zeit, die Mission abzuschließen.
+Suche nach mehr Feinden!
+ 
+SCHLIESSE DAS ZIEL AB","Ora che hai imparato a spostarti e a sparare, è ora che completi la missione.
+Fai attenzione agli altri nemici! 
+ 
+ COMPLETA L'OBIETTIVO","Znasz już podstawy przemieszczanie się i strzelania. Teraz czas zakończyć tę misję.
+ Wypatruj kolejnych wrogów! 
+
+ UKOŃCZ CEL","Вы познакомились с основами управления перемещением и управления стрельбой. 
+
+Пора приступить к выполнению боевой задачи. Берегитесь врагов! 
+ 
+ВЫПОЛНИТЕ ЗАДАНИЕ!","Ya que sabes cómo moverte y disparar, es hora de terminar la misión.
+¡Estate alerta por si aparecen más enemigos!
+ 
+ COMPLETA EL OBJETIVO",
+KEY_TUT1_OBJECTIVE_NAME,Text,,Objective,目标,Objectif,Ziel,Obiettivo,Cel,Задание,Objetivo,
+KEY_TUT1_SELECTION_DESCRIPTION_BIND_C,Text,,"SELECT YOUR SOLDIER
+Press :RB:, or move the Selection Marker onto the soldier and press <size=60>:A:</size>","选择你的士兵
+ 按 :RB:，或移动选择标记至士兵身上然后按 <size=60>:A:</size>","SÉLECTIONNER VOTRE SOLDAT
+ Appuyez sur :RB: ou déplacez le marqueur de sélection sur le soldat et appuyez sur <size=60>:A:</size>","WÄHLE DEINEN SOLDATEN AUS
+Drücke :RB: oder bewege den Auswahlmarker auf den Soldaten und drücke <size=60>:A:</size>","SELEZIONA IL TUO SOLDATO
+ Premi :RB: o sposta l'indicatore di selezione sul soldato e premi <size=60>:A:</size>","WYBIERZ ŻOŁNIERZA
+ Naciśnij :RB: lub przesuń wskaźnik na wybranego żołnierza i wciśnij przycisk <size=60>:A:</size>","ВЫБЕРИТЕ СОЛДАТА
+Нажмите :RB: или переместите курсор на солдата и нажмите <size=60>:A:</size>.","SELECCIONA AL SOLDADO
+ Pulsa :RB: o mueve el cursor de selección sobre el soldado y pulsa <size=60>:A:</size>",
+KEY_TUT1_SELECTION_DESCRIPTION_BIND_K,Text,,"SELECT YOUR SOLDIER
+
+:LMB: on the soldier, or press TAB","选择你的士兵
+ 
+ :LMB: 点击士兵，或按 TAB","SÉLECTIONNER VOTRE SOLDAT
+ 
+ :LMB: sur le soldat ou appuyez sur TAB","WÄHLE DEINEN SOLDATEN
+ 
+:LMB: auf den Soldaten oder drücke TAB","SELEZIONA IL TUO SOLDATO
+ 
+ :LMB: sul soldato o premi TAB","WYBIERZ ŻOŁNIERZA
+ 
+ Kliknij :LMB: żołnierza lub naciśnij klawisz TAB","ВЫБЕРИТЕ СОЛДАТА
+
+:LMB: на солдата, или нажмите TAB.","SELECCIONA AL SOLDADO
+ 
+ :LMB: en el soldado o pulsa TABULADOR",
+KEY_TUT1_SELECTION_NAME,Text,,Selecting Soldiers,选择士兵,Sélection des soldats,Auswahl von Soldaten,Selezionare i soldati,Wybór żołnierza,Выбор солдат,Seleccionar soldados,
+KEY_TUT1_SHOOTING_DESCRIPTION_C,Text,,"Your movement is interrupted if you SPOT AN ENEMY. This doesn't end your turn.
+
+SELECT ""FIRE WEAPON""
+<size=60>:RT:</size>
+","如果发现敌人，你的移动就会中断，但这并不会结束你的回合。
+
+ 选择“发射武器”
+ <size=60>:RT:</size>","Votre déplacement est interrompu si vous DÉTECTEZ UN ENNEMI. Cela ne termine pas votre tour.
+ 
+ SÉLECTIONNER « UTILISER ARME »
+<size=60>:RT:</size>","Deine Bewegung wird unterbrochen, wenn EIN GEGNER ENTDECKT wird. Damit wird dein Zug nicht beendet.
+ 
+WÄHLE „WAFFE ABFEUERN“
+<size=60>:RT:</size>","Il tuo movimento è interrotto se INDIVIDUI UN NEMICO. Ciò non fa terminare il tuo turno.
+ 
+ SELEZIONA ""SPARA CON L'ARMA""
+ <size=60>:RT:</size>","WYKRYCIE WROGA przerywa twój ruch, ale nie kończy tury.
+ 
+ WYBIERZ OPCJĘ „STRZELAJ BRONIĄ”
+ <size=60>:RT:</size>","Движение персонажа прервется, если он ОБНАРУЖИТ ВРАГА. Это не приведет к завершению хода.
+
+ ВЫБЕРИТЕ «ВЫСТРЕЛ ИЗ ОРУЖИЯ»
+ <size=60>:RT:</size>","El movimiento se interrumpe si AVISTAS A UN ENEMIGO. Esto no finaliza el turno.
+ 
+ SELECCIONA “DISPARO DE ARMA”
+ <size=60>:RT:</size>",
+KEY_TUT1_SHOOTING_DESCRIPTION_K,Text,,"Your movement is interrupted if you SPOT AN ENEMY. This doesn't end your turn.
+
+SELECT ""FIRE WEAPON""
+:LMB: on the ""Fire Weapon"" icon
+","如果发现敌人，你的移动就会中断，但这并不会结束你的回合。
+
+ 选择“发射武器”
+ :LMB: 点击“发射武器”图标","Votre déplacement est interrompu si vous DÉTECTEZ UN ENNEMI. Cela ne termine pas votre tour.
+ 
+ SÉLECTIONNER « UTILISER ARME »
+:LMB: sur l'icône « Utiliser arme »","Deine Bewegung wird unterbrochen, wenn EIN GEGNER ENTDECKT wird. Damit wird dein Zug nicht beendet.
+ 
+WÄHLE „WAFFE ABFEUERN“
+:LMB: auf das Symbol „Feuerwaffe“","Il tuo movimento è interrotto se INDIVIDUI UN NEMICO. Ciò non fa terminare il tuo turno.
+ 
+ SELEZIONA ""SPARA CON L'ARMA""
+ :LMB: sull'icona ""Spara con l'arma""","WYKRYCIE WROGA przerywa twój ruch, ale nie kończy tury.
+ 
+ WYBIERZ OPCJĘ „STRZELAJ BRONIĄ”
+ Kliknij :LMB: na ikonie „Strzelaj bronią”","Движение персонажа прервется, если он ОБНАРУЖИТ ВРАГА. Это не приведет к завершению хода.
+
+ВЫБЕРИТЕ «ВЫСТРЕЛ ИЗ ОРУЖИЯ».
+:LMB: на иконку «Выстрел из оружия»","El movimiento se interrumpe si AVISTAS A UN ENEMIGO. Esto no finaliza el turno.
+ 
+ SELECCIONA “DISPARO DE ARMA”
+ :LMB: en el icono de “Disparo de arma”",
+KEY_TUT1_SHOOTING_NAME,Text,,Spotting While Moving,移动时发现目标,Détection en cours de déplacement,Entdeckung während der Bewegung,Individua mentre ti sposti,Wypatrywanie w ruchu,Обнаружение врагов во время движения,Avistar en movimiento,
+KEY_TUT1_SHOOTING_PART2_DESCRIPTION_C,Text,,"When targeting an enemy, the AMOUNT OF DAMAGE from an attack is shown on the Health Bar.
+
+The whiter the bar, the more CERTAIN the DAMAGE WILL BE INFLICTED.
+
+This bar is completely filled in pure white, which shows a guaranteed kill.
+
+FIRE AT THE ENEMY
+<size=60>:A:</size>
+","瞄准敌人时，攻击的伤害数值将显示在健康条上。
+
+ 颜色越白，将会造成的伤害就越高。
+
+ 此健康条完全是纯白色，表明一定会击杀目标。
+
+ 向敌人开火
+ <size=60>:A:</size>","Lorsque vous ciblez un ennemi, le NOMBRE DE POINTS DE DÉGÂTS d'une attaque s'affiche sur la jauge de santé.
+ 
+ Plus la jauge est blanche, plus il est CERTAIN que les DÉGÂTS SERONT INFLIGÉS.
+ 
+ La barre est complètement remplie de blanc, ce qui garantit que la cible sera éliminée.
+
+ TIRER SUR L'ENNEMI
+ <size=60>:A:</size>","Wenn du auf einen Gegner zielst, wird die HÖHE DES SCHADENS durch einen Angriff auf der Gesundheitsleiste angezeigt.
+ 
+Je weißer die Anzeige, desto SICHERER, dass der SCHADEN ZUGEFÜGT WIRD.
+ 
+Dieser Balken ist vollständig weiß ausgefüllt – das bedeutet eine garantierte Ausschaltung.
+
+FEUERE AUF DEN GEGNER
+<size=60>:A:</size>","Quando si mira a un nemico, la QUANTITÀ DI DANNI ricevuti da un attacco viene mostrata nella barra salute.
+ 
+ Più bianca è la barra, più è CERTO che i DANNI SARANNO INFLITTI.
+ 
+ Se questa barra è completamente bianca, significa uccisione garantita.
+ 
+ SPARA AL NEMICO
+ <size=60>:A:</size>","Podczas celowania we wroga OBRAŻENIA zadane przy ataku są wyświetlane na pasku zdrowia.
+ 
+ Im bielszy pasek, tym większe PRAWDOPODOBIEŃSTWO ZADANIA OBRAŻEŃ.
+ 
+ Ten pasek jest całkowicie biały, co oznacza gwarantowane zabójstwo.
+ 
+ STRZEL DO WROGA
+ <size=60>:A:</size>","ШКАЛА ЗДОРОВЬЯ показывает текущие очки здоровья.
+
+При наведении прицела на противника потенциальный УРОН ОТ АТАКИ отображается на шкале здоровья.
+
+Чем светлее шкала, тем больше вероятность, ЧТО БУДЕТ НАНЕСЕН УРОН.
+ 
+Сейчас шкала белая. Значит выстрел почти гарантированно убьет артрона.
+
+ВЫСТРЕЛИТЕ ПО ВРАГУ!
+ <size=60>:A:</size>","Cuando seleccionas a un enemigo como objetivo, la CANTIDAD DE DAÑO del ataque se muestra en la barra de salud.
+ 
+ La probabilidad de INFLIGIR DAÑO depende de lo blanca que sea la barra.
+ 
+ La barra está completamente blanca, lo que garantiza la muerte del enemigo.
+ 
+ DISPARA AL ENEMIGO
+<size=60>:A:</size>",
+KEY_TUT1_SHOOTING_PART2_DESCRIPTION_K,Text,,"The HEALTH BAR displays your current Hit Points.
+ 
+ When targeting an enemy, the AMOUNT OF DAMAGE your attack could deal is shown on the Health Bar.
+ 
+ The whiter the bar, the more certain the DAMAGE WILL BE INFLICTED.
+
+ This shot is marked in white. It’s almost guaranteed to kill the Arthron.
+ 
+ 
+ FIRE AT THE ENEMY
+ :LMB: the ""FIRE WEAPON"" button","健康条代表当前生命值。
+ 
+瞄准敌人时，攻击的伤害数值将显示在健康条上。
+
+ 颜色越白，将会造成的伤害就越高。
+
+ 此次射击以白色标记，几乎可以保证击杀这只蟹钳人。
+
+ 
+ 向敌人开火
+ :LMB: 点击“发射武器”按钮","La JAUGE DE SANTÉ indique les points de vie actuels.
+ 
+ Lorsque vous ciblez un ennemi, le NOMBRE DE POINTS DE DÉGÂTS d'une attaque s'affiche sur la jauge de santé.
+ 
+ Plus la jauge est blanche, plus il est certain que les DÉGÂTS SERONT INFLIGÉS.
+ 
+ Ce coup est marqué en blanc. C'est presque garanti qu'il tuera l'Arthron.
+ 
+ 
+ TIRER SUR L'ENNEMI
+:LMB: sur le bouton « UTILISER ARME »","Die GESUNDHEITSLEISTE zeigt die aktuellen Trefferpunkte an.
+ 
+Wenn du auf einen Gegner zielst, wird die HÖHE DES SCHADENS durch einen Angriff auf der Gesundheitsleiste angezeigt.
+ 
+Je weißer die Anzeige, desto sicherer, dass der SCHADEN ZUGEFÜGT WIRD.
+ 
+Dieser Schuss ist weiß markiert. Es ist so gut wie sicher, dass der Arthron getötet wird.
+ 
+
+FEUERE AUF DEN GEGNER
+:LMB: auf den Button „WAFFE ABFEUERN“","La BARRA SALUTE indica i punti ferita attuali.
+ 
+ Quando si mira a un nemico, la QUANTITÀ DI DANNI ricevuti da un attacco viene mostrata nella barra salute.
+ 
+ Più bianca è la barra, più è certo che i DANNI SARANNO INFLITTI.
+ 
+ Questo colpo è contrassegnato in bianco. L'uccisione dell'Arthron è quasi garantita.
+ 
+ 
+ SPARA AL NEMICO
+ :LMB: sul pulsante ""SPARA CON L'ARMA""","Na PASKU ZDROWIA podane są bieżące punkty życia.
+ 
+Podczas celowania we wroga OBRAŻENIA zadane przy ataku są wyświetlane na pasku zdrowia.
+ 
+ Im bielszy pasek, tym większe prawdopodobieństwo ZADANIA OBRAŻEŃ.
+ 
+ Ten strzał oznaczony jest na biało. To, że Arthron zginie, jest niemal pewne.
+ 
+ STRZEL DO WROGA
+ KLIKNIJ :LMB: na przycisku „Strzelaj bronią”","ШКАЛА ЗДОРОВЬЯ показывает текущие очки здоровья.
+
+При наведении прицела на противника потенциальный УРОН ОТ АТАКИ отображается на шкале здоровья.
+
+Чем светлее шкала, тем больше вероятность, ЧТО БУДЕТ НАНЕСЕН УРОН.
+ 
+Сейчас шкала белая. Значит выстрел почти гарантированно убьет артрона.
+
+ВЫСТРЕЛИТЕ ПО ВРАГУ!
+:LMB: на кнопку «ВЫСТРЕЛ ИЗ ОРУЖИЯ»","La BARRA DE SALUD muestra los puntos de salud actuales.
+ 
+ Al seleccionar a un enemigo, la CANTIDAD DE DAÑO del ataque se muestra en la barra de salud.
+ 
+ La probabilidad de INFLIGIR DAÑO depende de lo blanca que sea la barra.
+ 
+ El disparo se marca en blanco. Casi seguro que matará al arthron.
+ 
+ 
+ DISPARA AL ENEMIGO
+ :LMB: en el icono de “DISPARO DE ARMA”",
+KEY_TUT1_SHOOTING_PART2_NAME,Text,,Damage Prediction,伤害预测,Estimation des dégâts,Schadensvorhersage,Previsione dei danni,Przewidywane obrażenia,Прогноз урона,Predicción de daño,
+KEY_TUT1_SPOTTING_DESCRIPTION,Text,,"ENEMY ICONS above your Action Bar show all spotted enemies.
+
+А RED ICON (<color=#E51919>:CRABMAN:</color>) shows an enemy in direct line of sight of the selected soldier.","行动条上方的敌人图标显示所有已经发现了的敌人。
+
+ 红色图标 (<color=#E51919>:CRABMAN:</color>) 表示敌人正位于选中士兵的直接视线之内。","Les ICÔNES D'ENNEMIS au-dessus de votre barre d'actions montrent tous les ennemis repérés.
+ 
+ Une ICÔNE ROUGE (<color=#E51919>:CRABMAN:</color>) affiche un ennemi en ligne de mire directe du soldat sélectionné.","GEGNERSYMBOLE über der Aktionsleiste zeigen dir alle entdeckten Gegner.
+
+Ein ROTES SYMBOL (<color=#E51919>:CRABMAN:</color>) zeigt einen Gegner an, der sich in DIREKTER SICHTLINIE des ausgewählten Soldaten befindet.","Le ICONE NEMICO sulla barra azione mostrano tutti i nemici individuati.
+
+ UN'ICONA ROSSA (<color=#E51919>:CRABMAN:</color>) mostra un nemico nella linea di visuale diretta del soldato selezionato.","IKONY WROGÓW nad paskiem akcji oznaczają wszystkich zauważonych wrogów.
+ 
+ CZERWONA IKONA (<color=#E51919>:CRABMAN:</color>) oznacza wroga w bezpośrednim polu widzenia wybranego żołnierza.","ЗНАЧКИ ВРАГОВ над панелью действий показывают всех обнаруженных вами врагов.
+ 
+КРАСНЫЙ ЗНАЧОК (<color=#E51919>:CRABMAN:</color>) показывает врага, который находится в поле зрения выбранного солдата.","Los ICONOS ENEMIGOS encima de tu barra de acciones muestran los enemigos avistados.
+ 
+ El ICONO ROJO (<color=#E51919>:CRABMAN:</color>) indica que hay un enemigo a la vista para el soldado seleccionado.",
+KEY_TUT1_SPOTTING_NAME,Text,,Spotting Enemies,发现敌人,Détection d'ennemis,Gegnerentdeckung,Individuare i nemici,Wypatrywanie wrogów,Обнаружение врагов,Avistar enemigos,
+KEY_TUT1_STANDBY_DESCRIPTION_BIND_C,Text,,"Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. 
+
+You can order a soldier to enter Standby Mode by selecting the icon from the Action Bar, or using <size=60>:B:</size>
+
+SELECT STANDBY MODE
+","一名士兵用完行动点数之后便会进入预备模式，并且会选中下一名士兵。所有士兵都没有剩余行动点数时，你的回合结束。
+
+ 你可以在行动条中选择相应图标，或是按 <size=60>:B:</size> 来命令士兵进入预备模式。
+
+ 选择预备模式","Une fois qu'un soldat est à court de points d'action, il entre en mode Stand-by et le soldat suivant est sélectionné. Si aucun soldat n'a de points d'action, votre tour se termine.
+ 
+ Vous pouvez donner l'ordre à un soldat d'entrer en mode Stand-by en sélectionnant l'icône à partir de la barre d'actions ou en utilisant <size=60>:B:</size>.
+ 
+ SÉLECTIONNEZ LE MODE STAND-BY.","Sobald ein Soldat keine AP mehr hat, wechselt er in den Bereitschaftsmodus und der nächste Soldat wird ausgewählt. Wenn kein Soldat mehr AP hat, endet dein Zug.
+
+Du kannst einen Soldaten in den Bereitschaftsmodus versetzen, indem du das Symbol in der Aktionsleiste auswählst oder <size=60>:B:</size> drückst.
+
+WÄHLE DEN BEREITSCHAFTSMODUS AUS","Quando un soldato termina i PA, entra in modalità attesa e il soldato successivo viene selezionato. Se non ci sono soldati con PA residui, il turno termina. 
+ 
+ Puoi ordinare a un soldato di entrare in modalità attesa selezionando l'icona dalla barra azione, oppure premendo <size=60>:B:</size>
+
+ SELEZIONA LA MODALITÀ ATTESA","Gdy żołnierz wykorzysta wszystkie PA, przechodzi do trybu czuwania i można wybrać kolejnego żołnierza. Jeżeli żaden żołnierz nie ma niewykorzystanych PA, tura się kończy.
+
+ Możesz nakazać żołnierzowi przejście do trybu czuwania, wybierając ikonę z paska akcji lub naciskając przycisk <size=60>:B:</size>.
+ 
+ WYBIERZ TRYB CZUWANIA","Когда у солдата заканчиваются ОД, он переходит в режим ожидания, и выбирается следующий солдат. Если у вас не осталось солдат с ОД, то ход завершается. 
+ 
+Вы можете отдать солдату приказ перейти в режим ожидания, нажав на значок на панели действий, или с помощью <size=60>:B:</size>.
+ 
+ВЫБЕРИТЕ РЕЖИМ ОЖИДАНИЯ.","Cuando un soldado se queda sin puntos de acción, entra en modo reposo y se selecciona al siguiente soldado. Si no hay soldados con puntos de acción, termina tu turno.
+ 
+ Puedes ordenar a un soldado que entre en modo reposo seleccionando el icono en la barra de acciones o usando <size=60>:B:</size>
+
+ SELECCIONA EL MODO REPOSO",
+KEY_TUT1_STANDBY_DESCRIPTION_BIND_К,Text,,"Once a soldier is out of APs he enters Standby Mode and the next soldier is selected. If there are no soldiers with APs remaining your turn ends. 
+
+You can order a soldier to enter Standby Mode by using the [<color=#ECBA62>{[SetEndTurnAbility]}</color>], or selecting the icon from the Action Bar.
+
+SELECT STANDBY MODE
+","一名士兵用完行动点数之后便会进入预备模式，并且会选中下一名士兵。所有士兵都没有剩余行动点数时，你的回合结束。
+
+ 你可以按 [<color=#ECBA62>{[SetEndTurnAbility]}</color>] 键，或在行动条中选择相应图标来命令士兵进入预备模式。
+
+ 选择预备模式","Une fois qu'un soldat est à court de points d'action, il entre en mode Stand-by et le soldat suivant est sélectionné. Si aucun soldat n'a de points d'action, votre tour se termine.
+ 
+ Vous pouvez donner l'ordre à un soldat d'entrer en mode Stand-by en utilisant [<color=#ECBA62>{[SetEndTurnAbility]}</color>] ou en sélectionnant l'icône à partir de la barre d'actions.
+ 
+SÉLECTIONNEZ LE MODE STAND-BY.","Sobald ein Soldat keine AP mehr hat, wechselt er in den Bereitschaftsmodus und der nächste Soldat wird ausgewählt. Wenn kein Soldat mehr AP hat, endet dein Zug.
+
+Du kannst einen Soldaten in den Bereitschaftsmodus versetzen, indem du [<color=#ECBA62>{[SetEndTurnAbility]}</color>] verwendest oder das Symbol in der Aktionsleiste auswählst.
+
+WÄHLE DEN BEREITSCHAFTSMODUS AUS","Quando un soldato termina i PA, entra in modalità attesa e il soldato successivo viene selezionato. Se non ci sono soldati con PA residui, il turno termina. 
+ 
+ Puoi ordinare a un soldato di entrare in modalità attesa utilizzando [<color=#ECBA62>{[SetEndTurnAbility]}</color>], oppure selezionando l'icona dalla barra azione
+ 
+ SELEZIONA LA MODALITÀ ATTESA","Gdy żołnierz wykorzysta wszystkie PA, przechodzi w tryb czuwania i wybrany zostaje kolejny żołnierz. Jeżeli żaden żołnierz nie ma już PA, tura się kończy.
+ 
+ Możesz nakazać żołnierzowi przejście w tryb czuwania za pomocą klawisza [<color=#ECBA62>{[SetEndTurnAbility]}</color>] lub poprzez wybranie ikony z paska akcji.
+ 
+ WYBIERZ TRYB CZUWANIA","Когда у солдата заканчиваются ОД, он переходит в режим ожидания, и выбирается следующий солдат. Если у вас не осталось солдат с ОД, то ход завершается. 
+ 
+Вы можете отдать солдату приказ перейти в режим ожидания, нажав [<color=#ECBA62>{[SetEndTurnAbility]}</color>] или выбрав соответствующий значок на панели действий.
+ 
+ВЫБЕРИТЕ РЕЖИМ ОЖИДАНИЯ.","Cuando un soldado se queda sin puntos de acción, entra en modo reposo y se selecciona al siguiente soldado. Si no hay soldados con puntos de acción, termina tu turno.
+ 
+ Puedes ordenar a un soldado a que entre en modo reposo si le das a [<color=#ECBA62>{[SetEndTurnAbility]}</color>] o si seleccionas el icono en la barra de acciones
+ 
+ SELECCIONA EL MODO REPOSO",
+KEY_TUT1_STANDBY_NAME,Text,,Standby Mode,预备模式,Mode Stand-by,Bereitschaftsmodus,Modalità attesa,Tryb czuwania,Режим ожидания,Modo reposo,
+KEY_TUT1_TURNS_DESCRIPTION_BIND_C,Text,,You can end your turn at any time by pressing :BACK:. ,你可以在任何时候按 :BACK: 结束你的回合。,Terminez votre tour à tout moment en appuyant sur :BACK:.,Mit :BACK: kannst du deinen Zug jederzeit beenden.,Puoi mettere fine al tuo turno in qualsiasi momento premendo :BACK:.,"Możesz zakończyć swoją turę w dowolnym momencie, wciskając :BACK:.","Вы можете завершить свой ход в любое время, нажав кнопку :BACK:.",Puedes terminar tu turno en cualquier momento pulsando :BACK:.,
+KEY_TUT1_TURNS_DESCRIPTION_BIND_K,Text,,"You can end your turn at any time by pressing the END TURN button or the 
+ [<color=#ECBA62>{[EndTurn]}</color>] key","你可以随时点击屏幕上的“结束回合”按钮，或按 
+ [<color=#ECBA62>{[EndTurn]}</color>] 键来结束你的回合","Terminez votre tour à tout moment en appuyant sur le bouton TERMINER TOUR de l'écran
+ ou la touche [<color=#ECBA62>{[EndTurn]}</color>].","Du kannst deinen Zug jederzeit beenden, indem du den Button „ZUG BEENDEN“ anklickst oder die
+ [<color=#ECBA62>{[EndTurn]}</color>]-Taste drückst","Puoi mettere fine al tuo turno in qualsiasi momento premendo il pulsante FINE TURNO sullo schermo, oppure il
+  tasto [<color=#ECBA62>{[EndTurn]}</color>]","Możesz zakończyć swoją turę w dowolnej chwili. W tym celu naciśnij przycisk KONIEC TURY na ekranie lub
+ klawisz [<color=#ECBA62>{[EndTurn]}</color>].","Вы можете в любой момент закончить ход, нажав на «КОНЕЦ ХОДА» на экране или на кнопку 
+ [<color=#ECBA62>{[EndTurn]}</color>]",Puedes finalizar el turno en cualquier momento pulsando el botón de FIN DE TURNO en la pantalla o la tecla [<color=#ECBA62>{[EndTurn]}</color>],
+KEY_TUT1_TURNS_NAME,Text,,End Turn,结束回合,Terminer tour,Zug beenden,Fine turno,Koniec tury,Конец хода,Fin del turno,
+KEY_TUT1_VEHICLES_DESCRIPTION,Text,,"VEHICLES are a special type of unit that can transport Phoenix operatives.
+
+To enter the vehicle, move a soldier to the Entry Marker next to it, and confirm boarding.
+
+ENTER THE VEHICLE WITH BOTH SOLDIERS
+","载具是一种特殊类型的单位，可以运送凤凰特工。
+
+ 要让士兵进入载具，请将士兵移动至载具旁的进入标记，然后确认登上载具。
+
+ 让两名士兵进入载具","Les VÉHICULES sont un type spécial d'unité qui peut transporter des agents Phoenix.
+ 
+ Pour monter dans le véhicule, déplacez un soldat sur le marqueur d'entrée à côté du véhicule et confirmez l'embarquement.
+ 
+ MONTEZ DANS LE VÉHICULE AVEC LES DEUX SOLDATS.","FAHRZEUGE sind eine besondere Einheit, die Phoenix-Soldaten transportieren können.
+ 
+Um ein Fahrzeug zu betreten, bewege einen Soldaten zum Einstiegsmarker daneben und bestätige, dass du es besteigen willst.
+ 
+BEIDE SOLDATEN MÜSSEN INS FAHRZEUG","I VEICOLI sono uno speciale tipo di unità e possono trasportare agenti Phoenix.
+ 
+ Per entrare nel veicolo, muovi un soldato verso l'indicatore di entrata accanto a esso e conferma l'entrata.
+ 
+ ENTRA NEL VEICOLO CON ENTRAMBI I SOLDATI","POJAZDY to szczególny typ jednostek. Mogą transportować operatorów Phoenix.
+ 
+ Aby żołnierz wszedł do pojazdu, przesuń go na znacznik wejścia przy pojeździe i potwierdź wejście.
+
+ WEJDŹ DO POJAZDU OBYDWOMA ŻOŁNIERZAMI","ТРАНСПОРТНЫЕ СРЕДСТВА — это специальные игровые юниты, которые могу перевозить агентов Феникса.
+
+Чтобы посадить солдата в машину, отправьте его к маркеру входа рядом с машиной и подтвердите посадку.
+ 
+ПОСАДИТЕ ОБОИХ СОЛДАТ В МАШИНУ!","Los vehículos son un tipo de unidad especial que puede transportar operativos Fénix.
+ 
+ Para entrar en un vehículo, mueve a un soldado hasta el marcador de entrada al lado del vehículo y confirma para que se suba.
+
+ ENTRA AL VEHÍCULO CON AMBOS SOLDADOS",
+KEY_TUT1_VEHICLES_NAME,Text,,Vehicles,载具,Véhicules,Fahrzeuge,Veicoli,Pojazdy,Транспортные средства,Vehículos,
+KEY_TUT_ASSAULTRIFLES_DESCRIPTION,Text,,"The ASSAULT RIFLE is a versatile two-handed weapon.
+
+It requires 2 APs to use, and fires multiple shots that SHRED armor.","突击步枪是一种多功能双手武器。
+
+ 使用突击步枪开火需要 2 点行动点数，并且可以射出多发子弹来粉碎护甲。","Le FUSIL D'ASSAUT est une arme à deux mains polyvalente.
+ 
+ Son utilisation nécessite 2 PA et il peut tirer plusieurs balles qui DÉCHIQUETTENT les armures.","Das STURMGEWEHR ist eine vielseitige Zweihandwaffe.
+ 
+Sein Einsatz kostet 2 AP, und es gibt mehrere Schüsse ab, die Rüstung ZERFETZEN.","Il FUCILE D'ASSALTO è un'arma versatile a due mani.
+ 
+ Richiede 2 PA per essere utilizzato e spara colpi multipli che LACERANO l'armatura.","KARABIN SZTURMOWY to wszechstronna broń dwuręczna.
+ 
+ Jej użycie wymaga 2 PA. Karabin wystrzeliwuje wiele pocisków, które SZATKUJĄ pancerz.","ШТУРМОВАЯ ВИНТОВКА — это универсальное двуручное оружие. Для его использования требуется 2 ОД.
+
+Винтовка выстреливает несколькими РАЗРЫВНЫМИ зарядами, которые разрушают броню.","El RIFLE DE ASALTO es una arma versátil de dos manos.
+ 
+ Hacen falta 2 PA para usarse. Dispara varias veces y provoca la ROTURA de armadura.",
+KEY_TUT_ASSAULTRIFLES_NAME,Text,,Assault Rifles,突击步枪,Fusils d'assaut,Sturmgewehre,Fucili d'assalto,Karabiny szturmowe,Штурмовые винтовки,Rifles de asalto,
+KEY_TUT_ASSAULT_FEMALE,Text,,Sophia Brown,索菲娅·布朗,Sophia Brown,Sophia Brown,Sophia Brown,Sophia Brown,София Браун,Sophia Brown,Lise Eclaire
+KEY_TUT_ASSAULT_MALE,Text,,Jacob Eber,雅克布·埃贝尔,Jacob Eber,Jacob Eber,Jacob Eber,Jacob Eber,Джэйкоб Эбер,Jacob Eber,Bave C. Jack
+KEY_TUT_BASH_DESCRIPTION,Text,,"When your soldier is next to an enemy, you can perform the BASH melee attack. 
+
+It only costs 1 Action Point, so you can usually Bash an enemy MULTIPLE TIMES.","当你的士兵位于敌人旁边时，可以发动“猛击”近战攻击。
+
+ 猛击只需花费 1 点行动点数，因此你通常可以多次向敌人发起猛击。","Lorsque votre soldat est à côté d'un ennemi, vous pouvez effectuer l'attaque de contact COGNER.
+ 
+ Elle ne coûte que 1 point d'action, vous pouvez donc l'utiliser PLUSIEURS FOIS sur un ennemi.","Wenn dein Soldat neben einem Gegner steht, kannst du den Nahkampfangriff WUCHTSCHLAG ausführen.
+
+Er kostet nur 1 Aktionspunkt, sodass du in der Regel MEHRMALS zuschlagen kannst.","Quando il tuo soldato è vicino a un nemico, puoi eseguire l'attacco in mischia COLPO CONTUNDENTE. 
+ 
+ Costa solo 1 punto azione, quindi, di norma, puoi usare il colpo contundente su un nemico PIÙ VOLTE.","Gdy twój żołnierz znajduje się przy przeciwniku, może UDERZYĆ go przedmiotem.
+ 
+ Taki atak wręcz kosztuje tylko 1 punkt akcji, więc zazwyczaj uderzenie można wykonać WIELOKROTNIE.","Когда ваш солдат находится рядом с врагом, вы можете УДАРИТЬ противника. 
+ 
+Удар требует только 1ОД, поэтому врезать врагу можно НЕСКОЛЬКО РАЗ за ход.","Cuando un soldado está al lado de un enemigo, puedes usar GOLPE, un ataque cuerpo a cuerpo.
+ 
+ Solo cuesta 1 punto de acción, así que podrás usarlo contra el enemigo VARIAS VECES.",
+KEY_TUT_BASH_NAME,Text,,Bash,猛击,Cogner,Wuchtschlag,Colpo contundente,Uderzenie przedmiotem,Удар,Golpe,
+KEY_TUT_BLEEDEFFECT_DESCRIPTION,Text,,"This unit was hurt and is now BLEEDING. It will lose Hit Points every turn until healed or evacuated.
+ 
+There are various other status effects. Some abilities provide positive effects, while special weapons can inflict negative ones.","这个单位受伤了，受到了流血状态效果，每回合都会损失生命值，直到获得治疗或撤离。
+
+ 战斗中还有其他各种状态效果。一些技能可以提供正面效果，而一些特殊武器则可以造成负面效果。","Cette unité a subi des dégâts et est sous l'effet du SAIGNEMENT. Elle perdra des points de vie jusqu'à ce qu'elle soit soignée ou évacuée.
+
+ Il existe plusieurs autres états. Certaines capacités accordent des effets positifs, tandis que les armes spéciales en infligent des négatifs.","Diese Einheit wurde verletzt und hat den Statuseffekt BLUTUNG erhalten. Sie verliert mit jedem Zug Trefferpunkte, bis sie geheilt oder evakuiert ist.
+
+Es gibt noch weitere Statuseffekte. Manche Fähigkeiten verleihen positive Effekte, während Spezialwaffen negative verursachen können.","Quest'unità è stata ferita e ha ottenuto l'effetto di stato SANGUINAMENTO. Perderà punti ferita a ogni turno finché non viene curata o evacuata.
+
+ Esistono diversi effetti di stato. Alcune abilità forniscono effetti positivi, mentre armi speciali potrebbero infliggerne di negativi.","Ta jednostka jest ranna i ma efekt stanu KRWAWIENIE. Będzie traciła punkty życia co turę aż do wyleczenia lub ewakuacji.
+ 
+Istnieje szereg innych efektów stanu. Niektóre umiejętności dają pozytywne efekty, a pewne bronie specjalne mogą wywołać u celu negatywny efekt.","Вашего солдата ранили, его статус — КРОВОТЕЧЕНИЕ. Солдат будет терять очки здоровья с каждым ходом, пока его не вылечат или не эвакуируют.
+
+В игре у персонажей могут быть разные статусы. Некоторые способности дают положительные статусы, а урон от особого оружия может наложить отрицательный статус на персонажа.","Esta unidad ha sido herida y ha sufrido el efecto de estado SANGRADO. Perderá puntos de salud cada turno hasta que lo sanen o evacúe.
+ 
+ Existen otros tipos de efectos de estado. Algunas habilidades conceden efectos positivos, mientras que las armas especiales pueden aplicar efectos negativos.",
+KEY_TUT_BLEEDEFFECT_NAME,Text,,Status Effect: Bleed,状态效果：流血,État : saignement,Statuseffekt: Blutung,Effetto di stato: Sanguinamento,Efekt stanu: Krwawienie,Статус: Кровотечение,Efecto de estado: sangrado,
+KEY_TUT_BLEEDSTATUS_DESCRIPTION,Text,,"You were hurt and are now BLEEDING.
+ 
+Bleeding soldiers will continue to lose Hit Points every turn until healed or evacuated.","你受到了伤害并受到了流血状态效果。
+
+ 流血的士兵每回合都会损失生命值，直到获得治疗或撤离。","Vous avez subi des dégâts et vous subissez l'état de SAIGNEMENT.
+
+ Les soldats qui saignent perdent des points de vie à chaque tour jusqu'à ce qu'ils soient soignés ou évacués.","Du wurdest verletzt und hast den Statuseffekt BLUTUNG erhalten.
+
+Blutende Soldaten verlieren mit jedem Zug Trefferpunkte, bis sie geheilt oder evakuiert sind.","Hai subito un colpo e ottenuto l'effetto di stato SANGUINAMENTO. 
+ 
+ I soldati sanguinanti continueranno a perdere punti ferita a ogni turno finché non vengono curati o evacuati.","Żołnierz jest poważnie ranny i ma efekt stanu KRWAWIENIE. 
+ 
+ Krwawiący żołnierze tracą punkty życia co turę aż do wyleczenia lub ewakuacji.","Вашего солдата ранили, его статус — КРОВОТЕЧЕНИЕ. 
+ 
+Солдаты с кровотечением будут терять очки здоровья с каждым ходом, пока их не вылечат или не эвакуируют.","Te han herido y has sufrido el efecto de estado SANGRADO.
+ 
+ Los soldados que están sangrando pierden puntos de salud cada turno hasta que los sanan o evacúan.",
+KEY_TUT_BLEEDSTATUS_NAME,Text,,Status Effect: Bleed,状态效果：流血,État : saignement,Statuseffekt: Blutung,Effetto di stato: Sanguinamento,Efekt stanu: Krwawienie,Статус: Кровотечение,Efecto de estado: sangrado,
+KEY_TUT_ENEMYEXITMAP_DESCRIPTION,Text,,Enemies that are too injured to fight will FLEE the battlefield.,受伤严重而无法战斗的敌人会逃离战场。,Les ennemis qui sont trop blessés pour se battre FUIENT le champ de bataille.,"Gegner, die zu schwer verletzt sind, um zu kämpfen, FLIEHEN vom Schlachtfeld.",I nemici troppo feriti per combattere FUGGONO dal campo di battaglia.,"Przeciwnicy, którzy są zbyt ranni, aby walczyć, UCIEKNĄ z pola bitwy.","Если враг тяжело ранен и не может продолжать бой, он попытается УБЕЖАТЬ с поля боя.",Los enemigos que estén demasiado heridos para luchar HUIRÁN del campo de batalla.,
+KEY_TUT_ENEMYEXITMAP_NAME,Text,,Fleeing Enemies,逃跑的敌人,Ennemis en fuite,Fliehende Gegner,Nemici in fuga,Uciekający przeciwnicy,Убегающие враги,Enemigos huyendo,
+KEY_TUT_HANDGUNS_DESCRIPTION,Text,,"HANDGUNS are light weapon helds in ONE HAND. They are the ideal BACKUP if your soldier's main weapon on one of their arms get disabled.
+
+Handguns require only 1 Action Point to shoot and usually can be used multiple times per turn.","手枪是单手持有的轻型武器。当某个士兵的一只手臂损坏而无法使用主武器时，手枪是理想的备用武器。
+
+ 使用手枪开火只需要 1 点行动点数，因此每个回合通常可以多次使用。","Les PISTOLETS sont des armes légères tenues à UNE MAIN. C'est l'arme de SECOURS idéale si l'arme principale de votre soldat sur l'un de ses bras est hors de combat.
+ 
+ Les pistolets ne nécessitent que 1 point d'action pour tirer et peuvent généralement s'utiliser plusieurs fois par tour.","HANDFEUERWAFFEN sind leichte Waffen, die in EINER HAND gehalten werden, und das ideale BACKUP, wenn die Hauptwaffe deines Soldaten nicht nutzbar ist oder seine Arme in Mitleidenschaft geraten.
+ 
+Handfeuerwaffen benötigen zum Abfeuern nur 1 Aktionspunkt und können in der Regel mehrmals pro Zug eingesetzt werden.","Le PISTOLE sono armi leggere da tenere in UNA MANO. Sono la RISERVA ideale se l'arma principale del tuo soldato su una delle sue braccia viene messa fuori uso.
+ 
+ Le pistole richiedono solo 1 punto azione per sparare e possono essere solitamente usate più volte per turno.","PISTOLETY to JEDNORĘCZNA broń lekka. Są znakomitą BRONIĄ ZAPASOWĄ na wypadek unieszkodliwienia głównej broni żołnierza.
+
+ Strzał z pistoletu zużywa tylko 1 punkt akcji. Zazwyczaj można strzelić pistoletem wiele razy w jednej turze.","ПИСТОЛЕТЫ — легкое оружие, которое можно держать одной рукой. Это идеальный ЗАПАСНОЙ ВАРИАНТ, если основное оружие в одной из рук вашего солдата выведено из строя.
+
+Выстрел из пистолета требует только 1 Очко Действия, и обычно пистолет можно использовать несколько раз за один ход.","Las pistolas son armas ligeras de UNA MANO. Son ideales como armas de REPUESTO si el arma principal en una de las manos de un soldado queda inhabilitada.
+
+ Hace falta 1 punto de acción para disparar una pistola y suelen poder usarse más de una vez por turno.",
+KEY_TUT_HANDGUNS_NAME,Text,,Handguns,手枪,Pistolets,Handfeuerwaffen,Pistole,Pistolety,Пистолеты,Pistolas,
+KEY_TUT_HEAVY_MALE,Text,,Omar Ashour,奥马尔·阿舒尔,Omar Ashour,Omar Ashour,Omar Ashour,Omar Ashour,Омар Ашур,Omar Ashour,"Адриан ""Малыш"" Альвизо"
+KEY_TUT_HIGHCOVER_DESCRIPTION,Text,,"An operative will always hide behind walls and other obstacles to assume HIGH COVER. This obscures the soldier, potentially blocking some of the incoming shots.
+
+
+A soldier in high cover will SIDE STEP to shoot and go back to cover.","特工会采取躲在墙壁和其他障碍物后面的方式来倚靠高掩体。这可以隐藏士兵，可能会阻挡一些飞来的子弹。
+
+ 躲在高掩体后方的士兵在射击时会侧步探出，然后再返回掩体。","Un agent se cachera toujours derrière des murs ou d'autres obstacles pour se mettre en position de COUVERTURE HAUTE. Cela permet de dissimuler les parties du corps du soldat et de potentiellement bloquer les tirs ennemis.
+
+ Un soldat en couverture haute fera UN PAS DE CÔTÉ pour tirer et se remettre à couvert.","Ein Soldat versteckt sich hinter Mauern und anderen Hindernissen, um HOHE DECKUNG einzunehmen. Damit ist der Soldat verdeckt, und ein Teil der eingehenden Schüsse wird abgewehrt.
+ 
+Ein Soldat in hoher Deckung macht zum Schießen einen SEITENSCHRITT und geht wieder in Deckung.","Un agente si nasconderà sempre dietro muri e altri ostacoli per entrare in COPERTURA ALTA. Ciò nasconde il soldato, bloccando potenzialmente alcuni degli spari in arrivo.
+ 
+ Un soldato in copertura alta dovrà MUOVERSI DI FIANCO per sparare, poi potrà tornare al riparo.","Operatorzy zawsze kryją się za WYSOKĄ OSŁONĄ, czyli murami i innymi przeszkodami, które osłaniają żołnierza, obniżając prawdopodobieństwo postrzelenia.
+ 
+ Aby oddać strzał, żołnierz stojący za wysoką osłoną zrobi KROK W BOK i wróci za osłonę.","Оказавшись рядом с ВЫСОКИМ УКРЫТИЕМ, агент прислонится к нему. Это скроет солдата от врагов и позволит уклониться от некоторых вражеских выстрелов.
+ 
+Чтобы открыть огонь из высокого укрытия, солдат должен будет ВЫЙТИ ИЗ УКРЫТИЯ, а затем вернуться обратно.","Los operativos siempre se esconderán detrás de muros y otros obstáculos para recibir una COBERTURA ALTA. Esto oculta al soldado, lo que puede llegar a bloquear algunos proyectiles.
+ 
+ Los soldados con cobertura alta se ASOMARÁN para disparar y después se volverán a esconder.",
+KEY_TUT_HIGHCOVER_NAME,Text,,High Cover,高掩体,Couverture haute,Hohe Deckung,Copertura alta,Wysoka osłona,Высокое укрытие,Cobertura alta,
+KEY_TUT_INVENTORYACTION_DESCRIPTION,Text,,"The Inventory shows everything carried by a soldier, and items on the ground or in adjacent crates.
+
+ENCUMBRANCE
+If the weight of all carried items and armor is greater than the soldier's Strength then the soldier suffers a movement penalty.
+The tactical inventory display is divided into three sections.
+
+READY: Contains items that are currently equipped and ready for immediate use.
+BACKPACK: Holds all items carried, but not equipped.
+GROUND: Items on the soldier’s tile, or in surrounding tiles.","物品栏显示士兵携带的所有物品以及地上和相邻箱子中的物品。
+
+ 负重
+ 如果所有携带的物品和护甲的重量之和大于士兵的力量，士兵将受到移动惩罚。
+战术物品栏指示器分成三个分区。
+
+ 就绪区：包含当前装备并可立即使用的物品。
+背包区：包含所有已携带但未装备的物品。
+地面区：士兵所在方格或周围方格里的物品。","L'inventaire montre tous les objets transportés par un soldat, ainsi que ceux au sol ou dans des caisses à proximité.
+ 
+ CHARGE
+ Si le poids des objets transportés et de l'armure dépasse la puissance du soldat, il subit alors une pénalité de mouvement.
+ L'écran d'inventaire tactique est divisé en trois sections.
+ 
+ PRÊT : comprend tous les objets équipés et prêts à l'emploi.
+ SAC À DOS : comprend tous les objets transportés, mais non équipés.
+ À TERRE : les objets sur la case du soldat et sur celles aux alentours.","Das Inventar zeigt dir alles, was ein Soldat trägt, sowie die Gegenstände auf dem Boden oder in Kisten in der Nähe.
+
+BELASTUNG
+Wenn das Gewicht aller mitgeführten Gegenstände und Rüstungen höher ist als die Stärke des Soldaten, erhält er eine Bewegungsstrafe.
+Die taktische Inventaranzeige ist in drei Abschnitte unterteilt.
+
+BEREIT: Enthält Gegenstände, die derzeit ausgerüstet sind und sofort eingesetzt werden können.
+RUCKSACK: Enthält alle getragenen Gegenstände, die nicht ausgerüstet sind.
+BODEN: Gegenstände auf dem Feld des Soldaten oder auf angrenzenden Feldern.","L'inventario mostra tutto ciò che viene trasportato da un soldato, ma anche gli oggetti sul terreno o in casse adiacenti.
+ 
+ INGOMBRO
+ Se il peso di tutti gli oggetti trasportati e dell'armatura è superiore alla forza del soldato, il soldato riceve una penalità sul movimento.
+ La schermata dell'inventario tecnico è divisa in tre sezioni.
+ 
+ PRONTO: Contiene oggetti attualmente equipaggiati e pronti all'uso immediato.
+ ZAINO: Contiene tutti gli oggetti trasportati, ma non equipaggiati.
+ TERRENO: Oggetti sulla casella del soldato o nelle caselle circostanti.","W ekwipunku możesz zobaczyć wszystko, co ma przy sobie żołnierz, a także przedmioty na ziemi lub w sąsiadujących skrzyniach.
+
+ OBCIĄŻENIE
+ Jeżeli ciężar wszystkich przenoszonych przedmiotów i pancerza jest większy od siły żołnierza, wówczas żołnierz otrzymuje karne punkty poruszania się.
+Podgląd ekwipunku taktycznego jest podzielony na trzy sekcje.
+ 
+ GOTOWE: zawiera przedmioty, które są obecnie na wyposażeniu i są gotowe do natychmiastowego użycia.
+ PLECAK: przechowuje się w nim wszystkie przenoszone przedmioty, które nie są na bieżącym wyposażeniu.
+ NAZIEMNE: przedmioty umieszczone na polu żołnierza lub na pobliskich polach.","В Инвентаре показывается все, что есть у солдата, а также предметы на земле или в стоящих рядом ящиках.
+ 
+ПЕРЕГРУЗКА
+Если вес всех переносимых предметов и брони больше, чем сила солдата - то перемещение солдата ограничивается.
+
+Экран тактического инвентаря разделен на три раздела:
+
+БЫСТРЫЕ СЛОТЫ: содержат предметы, готовые к немедленному использованию.
+РЮКЗАК: содержит все предметы, которые есть у солдата, но не экипированы.
+ЗЕМЛЯ: предметы, находящиеся на клетке, где стоит солдат, или на соседних клетках.","El inventario muestra todo lo que lleva un soldado, además de los objetos que hay en el suelo o en cajas adyacentes.
+ 
+ IMPEDIMENTO
+ Los soldados sufren una penalización al movimiento si el peso de los objetos y la armadura que llevan es superior a su fuerza.
+ La pantalla del inventario táctico se divide en tres secciones.
+ 
+ LISTO: Contiene los objetos equipados y listos para su uso inmediato.
+ MOCHILA: Contiene los objetos que se llevan, pero que no están equipados.
+ SUELO: Los objetos en la casilla del soldado o en casillas cercanas.",
+KEY_TUT_INVENTORYACTION_NAME,Text,,Inventory,物品栏,Inventaire,Inventar,Inventario,Ekwipunek,Инвентарь,Inventario,
+KEY_TUT_INVENTORYNOAP_DESCRIPTION_BIND_C,Text,,"Moving items to and from the inventory REQUIRES 1 AP. 
+ You can browse the inventory at any time by pressing the <size=60>:DLEFT:</size> key and move them next time when you have more AP.","将物品放入或移出物品栏都需要 1 点行动点数。
+ 你可以在任何时候按下 <size=60>:DLEFT:</size> 键来浏览物品，并且可以在下次拥有行动点数时移动物品。","Mettre et retirer des objets de l'inventaire NÉCESSITENT 1 PA.
+ Vous pouvez parcourir les objets à tout moment en appuyant sur la touche <size=60>:DLEFT:</size> et les déplacer une fois que vous avez suffisamment de points d'action.","Das Verschieben von Gegenständen aus dem und in das Inventar BENÖTIGT 1 AP.
+Du kannst jederzeit alle Gegenstände durchgehen, indem du <size=60>:DLEFT:</size> drückst, und sie das nächste Mal verschieben, wenn du mehr AP hast.","Spostare oggetti da e nell'inventario RICHIEDE 1 PA. 
+ Puoi visualizzare gli oggetti in ogni momento, premendo il tasto <size=60>:DLEFT:</size> e spostarli la prossima volta quando avrai più PA.","Przenoszenie przedmiotów z ekwipunku i do niego WYMAGA 1 PA.
+ Możesz przeglądać przedmioty w dowolnej chwili, naciskając klawisz <size=60>:DLEFT:</size>, i przenieść je, gdy będziesz mieć więcej PA.","Перемещение предметов между панелями инветаря ТРЕБУЕТ 1 ОД. 
+
+Вы можете проверить инвентарь в другой раз, когда у персонажа будет достаточно ОД. Для этого надо будет нажать <size=60>:DLEFT:</size>.","Mover objetos desde el inventario y a este REQUIERE 1 PA.
+ Puedes echarle un vistazo los objetos en cualquier momento pulsando la tecla <size=60>:DLEFT:</size> y moverlos la próxima vez que tengas PA.",
+KEY_TUT_INVENTORYNOAP_DESCRIPTION_BIND_K,Text,,"Moving items to and from the inventory REQUIRES 1 AP. 
+ You can browse the inventory by pressing the [<color=#ECBA62>{[SetInventoryAbility]}</color>] key and move them next time when you have more AP.","将物品放入或移出物品栏都需要 1 点行动点数。
+ 你可以在任何时候按下 [<color=#ECBA62>{[SetInventoryAbility]}</color>] 键来浏览物品，并且可以在下次拥有行动点数时移动物品。","Mettre et retirer des objets de l'inventaire NÉCESSITENT 1 PA.
+ Vous pouvez parcourir les objets à tout moment en appuyant sur la touche [<color=#ECBA62>{[SetInventoryAbility]}</color>] et les déplacer une fois que vous avez suffisamment de points d'action.","Das Verschieben von Gegenständen aus dem und in das Inventar BENÖTIGT 1 AP.
+Du kannst jederzeit alle Gegenstände durchgehen, indem du die Taste [<color=#ECBA62>{[SetInventoryAbility]}</color>] drückst, und sie das nächste Mal verschieben, wenn du mehr AP hast.","Spostare oggetti da e nell'inventario RICHIEDE 1 PA. 
+ Puoi visualizzare gli oggetti in ogni momento, premendo il tasto [<color=#ECBA62>{[SetInventoryAbility]}</color>] e spostarli la prossima volta, quando avrai più PA.","Przenoszenie przedmiotów z ekwipunku i do niego WYMAGA 1 PA.
+ Możesz przeglądać przedmioty w dowolnej chwili, naciskając klawisz [<color=#ECBA62>{[SetInventoryAbility]}</color>], i przenieść je, gdy będziesz mieć więcej PA.","Перемещение предметов между панелями инветаря ТРЕБУЕТ 1 ОД. 
+
+Вы можете проверить инвентарь в другой раз, когда у персонажа будет достаточно ОД. Для этого надо будет нажать [<color=#ECBA62>{[SetInventoryAbility]}</color>]. ","Mover objetos desde el inventario y a este REQUIERE 1 PA.
+ Puedes ver los objetos en cualquier momento pulsando la tecla [<color=#ECBA62>{[SetInventoryAbility]}</color>] y moverlos la próxima vez que tengas PA.",
+KEY_TUT_INVENTORYNOAP_NAME,Text,,Not Enough AP,行动点数不足,PA insuffisants,Zu wenig AP,PA insufficienti,Za mało PA,Недостаточно Очков Действий (ОД),No hay PA suficientes,
+KEY_TUT_INVENTORY_DESCRIPTION,Text,,"The Inventory shows everything carried by soldiers, items on the ground, and items in adjacent crates.
+ 
+ENCUMBRANCE
+If the weight of all carried items and armor exceeds the soldier's Strength, the soldier suffers a movement penalty.
+The tactical inventory display is divided into three sections:
+
+READY: Contains items that are currently equipped and ready for immediate use.
+BACKPACK: Holds all items that are carried but not equipped.
+GROUND: Items on the soldier’s tile or surrounding tiles.","物品栏显示士兵携带的所有物品以及地上和相邻箱子中的物品。
+
+ 负重
+ 如果所有携带的物品和护甲的重量之和大于士兵的力量，士兵将受到移动惩罚。
+战术物品栏指示器分成三个分区。
+
+ 就绪区：包含当前装备并可立即使用的物品。
+背包区：包含所有已携带但未装备的物品。
+地面区：士兵所在方格或周围方格里的物品。","L'inventaire montre tous les objets transportés par un soldat, ainsi que ceux au sol ou dans des caisses à proximité.
+ 
+ CHARGE
+ Si le poids des objets transportés et de l'armure dépasse la puissance du soldat, il subit alors une pénalité de mouvement.
+ L'écran d'inventaire tactique est divisé en trois sections.
+ 
+ PRÊT : comprend tous les objets équipés et prêts à l'emploi.
+ SAC À DOS : comprend tous les objets transportés, mais non équipés.
+ À TERRE : les objets sur la case du soldat et sur celles aux alentours.","Das Inventar zeigt dir alles, was ein Soldat trägt, sowie die Gegenstände auf dem Boden oder in Kisten in der Nähe.
+
+BELASTUNG
+Wenn das Gewicht aller mitgeführten Gegenstände und Rüstungen höher ist als die Stärke des Soldaten, erhält er eine Bewegungsstrafe.
+Die taktische Inventaranzeige ist in drei Abschnitte unterteilt.
+
+BEREIT: Enthält Gegenstände, die derzeit ausgerüstet sind und sofort eingesetzt werden können.
+RUCKSACK: Enthält alle getragenen Gegenstände, die nicht ausgerüstet sind.
+BODEN: Gegenstände auf dem Feld des Soldaten oder auf angrenzenden Feldern.","L'inventario mostra tutto ciò che viene trasportato da un soldato, ma anche gli oggetti sul terreno o in casse adiacenti.
+ 
+ INGOMBRO
+ Se il peso di tutti gli oggetti trasportati e dell'armatura è superiore alla forza del soldato, il soldato riceve una penalità sul movimento.
+ La schermata dell'inventario tecnico è divisa in tre sezioni.
+ 
+ PRONTO: Contiene oggetti attualmente equipaggiati e pronti all'uso immediato.
+ ZAINO: Contiene tutti gli oggetti trasportati, ma non equipaggiati.
+ TERRENO: Oggetti sulla casella del soldato o nelle caselle circostanti.","W ekwipunku możesz zobaczyć wszystko, co ma przy sobie żołnierz, a także przedmioty na ziemi lub w sąsiadujących skrzyniach.
+
+ OBCIĄŻENIE
+ Jeżeli ciężar wszystkich przenoszonych przedmiotów i pancerza jest większy od siły żołnierza, wówczas żołnierz otrzymuje karne punkty poruszania się.
+Podgląd ekwipunku taktycznego jest podzielony na trzy sekcje.
+ 
+ GOTOWE: zawiera przedmioty, które są obecnie na wyposażeniu i są gotowe do natychmiastowego użycia.
+ PLECAK: przechowuje się w nim wszystkie przenoszone przedmioty, które nie są na bieżącym wyposażeniu.
+ NAZIEMNE: przedmioty umieszczone na polu żołnierza lub na pobliskich polach.","В инвентаре показано все, что есть у солдата, а также предметы, находящиеся на земле или ящиках, стоящих рядом.
+
+ПЕРЕГРУЗКА
+Если вес всех переносимых предметов и брони больше, чем сила солдата, то перемещение солдата ограничивается.
+
+Экран тактического инвентаря разделен на три раздела.
+
+БЫСТРЫЕ СЛОТЫ: содержит предметы, готовые к немедленному использованию.
+РЮКЗАК: содержит все предметы, которые есть у солдата, но не экипированы.
+ЗЕМЛЯ: предметы, находящиеся на клетке солдата или на соседних клетках.","El inventario muestra todo lo que lleva un soldado, además de los objetos que hay en el suelo o en cajas adyacentes.
+ 
+ IMPEDIMENTO
+ Los soldados sufren una penalización al movimiento si el peso de los objetos y la armadura que llevan es superior a su fuerza.
+ La pantalla del inventario táctico se divide en tres secciones.
+ 
+ LISTO: Contiene los objetos equipados y listos para su uso inmediato.
+ MOCHILA: Contiene los objetos que se llevan, pero que no están equipados.
+ SUELO: Los objetos en la casilla del soldado o en casillas cercanas.",
+KEY_TUT_INVENTORY_NAME,Text,,Inventory,物品栏,Inventaire,Inventar,Inventario,Ekwipunek,Инвентарь,Inventario,
+KEY_TUT_JETJUMP_DESCRIPTION,Text,,"The Heavy's emblematic jetpack suit allows him to FLY OVER OBSTACLES or reach high points with ease. 
+",重装兵可以用标志性的喷气背包轻松飞越障碍物或抵达高处。,La combinaison jetpack emblématique de Mastodonte permet de VOLER AU-DESSUS DES OBSTACLES et d'atteindre des points en hauteur sans trop de difficulté.,"Der charakteristische Raketenrucksackanzug der Brecher ermöglicht es ihnen, ÜBER HINDERNISSE ZU FLIEGEN oder mit Leichtigkeit höher gelegene Stellen zu erreichen.",L'emblematica tuta jetpack della classe Pesante consente di VOLARE SOPRA GLI OSTACOLI o raggiungere con facilità punti elevati.,Charakterystyczny plecak odrzutowy ciężkozbrojnego pozwala mu LATAĆ NAD PRZESZKODAMI lub łatwo dotrzeć do wysoko położonych miejsc.,"Солдат класса «Тяжелый штурмовик» оснащен реактивным ранцем, который позволяет ему ПРОЛЕТАТЬ НАД ПРЕПЯТСТВИЯМИ и с легкостью добираться до высоких мест.",La mochila propulsora es el equipamiento emblemático de los soldados pesados y les permite SUPERAR OBSTÁCULOS o alcanzar zonas elevadas con facilidad.,
+KEY_TUT_JETJUMP_NAME,Text,,Jet Jump ,喷射跳跃,Propulsion,Raketensprung,Salto jet,Skok odrzutowy,Реактивный прыжок,Salto propulsado,
+KEY_TUT_LOWCOVER_DESCRIPTION,Text,,"An operative will always kneel behind low terrain to assume LOW COVER. This obscures parts of the soldier, potentially blocking some of the incoming shots.
+
+
+A soldier in low cover will STAND UP to shoot.","特工在较低的地形后面总会采取跪姿来倚靠低矮掩体。这可以隐藏士兵的部分身体，可能会阻挡一些飞来的子弹。
+
+ 倚靠低矮掩体的士兵在射击时会站起来。","Un agent s'agenouillera toujours derrière un obstacle bas pour se mettre en position de COUVERTURE BASSE. Cela permet de dissimuler les parties du corps du soldat et de potentiellement bloquer les tirs ennemis.
+ 
+Un soldat en couverture basse SE LÈVERA pour tirer.","Ein Soldat kniet hinter niedrigem Gelände, um FLACHE DECKUNG einzunehmen. Damit sind Teile des Soldaten verdeckt, und ein Teil der eingehenden Schüsse wird abgewehrt.
+ 
+Ein Soldat in flacher Deckung STEHT zum Schießen AUF.","Un agente si inginocchierà sempre dietro a un terreno basso per entrare in COPERTURA BASSA. Ciò nasconde parti del soldato, bloccando potenzialmente alcuni degli spari in arrivo.
+ 
+Un soldato in copertura bassa dovrà ALZARSI per sparare.","Operatorzy zawsze kucają za NISKĄ OSŁONĄ, czyli niskim elementem terenu, który częściowo osłania żołnierza, obniżając prawdopodobieństwo postrzelenia.
+ 
+Żołnierz kucający za niską osłoną WSTANIE, aby oddać strzał.","Оказавшись рядом с НИЗКИМ УКРЫТИЕМ, агент спрячется за ним. Это частично скроет солдата от врагов и позволит уклониться от некоторых вражеских выстрелов.
+ 
+Чтобы открыть огонь из низкого укрытия, солдат должен будет ВСТАТЬ.","Los operativos siempre se arrodillarán detrás del terreno bajo para recibir una COBERTURA BAJA. Se ocultarán algunas partes del cuerpo, lo que puede llegar a bloquear algunos proyectiles.
+ 
+Los soldados se LEVANTARÁN para disparar si tienen cobertura baja.",
+KEY_TUT_LOWCOVER_NAME,Text,,Low Cover,低矮掩体,Couverture basse,Flache Deckung,Copertura bassa,Niska osłona,Низкое укрытие,Cobertura baja,
+KEY_TUT_MEDKIT_DESCRIPTION,Text,,"MEDKITS are powerful tools that can RESTORE HIT POINTS, disabled limbs, and remove status effects such as Bleeding. 
+ 
+A soldier can use a Medkit on themselves or an ALLY.","医疗包是一种很有用的工具，可以恢复生命值、治愈损坏的肢体并移除流血之类的状态效果。
+
+ 士兵可以对自己或盟友使用医疗包。","Les MÉDIKITS sont des outils très utiles qui peuvent RESTAURER DES POINTS DE VIE, des membres désactivés et retirer des états comme le saignement.
+ 
+ Un soldat peut utiliser un médikit pour lui-même ou pour un ALLIÉ.","MEDKITS sind leistungsstarke Werkzeuge, die TREFFERPUNKTE und versehrte Gliedmaßen WIEDERHERSTELLEN sowie Statuseffekte wie „Blutung“ entfernen.
+
+Ein Soldat kann Medkits an sich selbst oder an VERBÜNDETEN einsetzen.","I KIT MEDICI sono strumenti potenti che possono RIPRISTINARE PUNTI FERITA, arti fuori uso e rimuovere effetti di stato come il Sanguinamento. 
+ 
+Un soldato può usare un kit medico su di sé o su un ALLEATO.","APTECZKI to potężne narzędzia, które PRZYWRACAJĄ PUNKTY ŻYCIA, leczą kontuzjowane kończyny i usuwają efekty stanu takie jak krwawienie
+ 
+ Żołnierz może użyć apteczki na sobie lub SOJUSZNIKU.","АПТЕЧКА — мощное средство, которое может ВОССТАНОВИТЬ ОЧКИ ЗДОРОВЬЯ, исцелить поврежденные части тела и убрать такие статусы, как кровотечение. 
+ 
+Солдат может применить аптечку в отношении себя или СОЮЗНИКА.","Los BOTIQUINES son herramientas poderosas que RESTAURAN PUNTOS DE SALUD y extremidades inhabilitadas y eliminan efectos de estado como el de Sangrado.
+
+ Los soldados pueden usar los botiquines en sí mismos o en los ALIADOS.",
+KEY_TUT_MEDKIT_NAME,Text,,MedKit,医疗包,Médikit,Medkit,Kit medico,Apteczka,Аптечка,Botiquín,
+KEY_TUT_OVERWATCH_DESCRIPTION,Text,,"The Overwatch ability allows soldiers to guard an area during the enemy’s turn. If an enemy enters the Overwatch cone, it is attacked automatically.
+
+ OVERWATCH CONTROLS
+ Select target position: Move Mouse
+ Change width of Overwatch zone: CTRL + :MW:
+ Confirm Overwatch: :LMB:","警戒技能可以让士兵在敌人的回合中守卫某片区域。如果敌人进入了锥形警戒区，士兵将自动发起攻击。
+
+ 警戒控制
+ 选择目标位置：移动鼠标
+变更警戒区范围：Ctrl + :MW: 
+ 确认警戒：:LMB:","La capacité Vigilance permet aux soldats de garder une zone pendant le tour de l'ennemi. Si un ennemi entre dans la zone de vigilance, il est automatiquement attaqué.
+ 
+ COMMANDES DE VIGILANCE
+ Sélectionner la position cible : déplacez la souris
+ Modifier la largeur de la zone : CTRL + :MW:
+Confirmer Vigilance : :LMB:","Die Fähigkeit „Überwachung“ ermöglicht es Soldaten, ein Gebiet zu beschützen, während der Gegner zieht. Wenn ein Gegner in den Überwachungskegel tritt, wird er automatisch angegriffen.
+ 
+ STEUERUNG VON ÜBERWACHUNG
+ Zielposition auswählen: Mit der Maus
+ Änderung der Breite der Überwachungszone: STRG + :MW:
+ Überwachung bestätigen: :LMB:","L'abilità Guardia permette ai soldati di tenere sotto controllo un'area durante il turno del nemico. Se un nemico entra nel cono di guardia, viene attaccato in automatico.
+ 
+ COMANDI DI GUARDIA
+ Seleziona la posizione d'arrivo: sposta il mouse
+ Cambia il raggio della zona di guardia: CTRL + :MW:
+ Conferma guardia: :LMB:","Umiejętność Obserwacja umożliwia żołnierzom strzeżenie obszaru w trakcie tury przeciwnika. Jeżeli wróg wejdzie w stożkowaty obszar objęty obserwacją, zostanie automatycznie zaatakowany.
+ 
+ STEROWANIE OBSERWACJĄ
+ Wybór pozycji docelowej: przesuń myszkę.
+ Zmiana szerokości obserwowanej strefy: CTRL + :MW:.
+ Potwierdzenie ustawienia obserwacji: :LMB:.","Способность Наблюдение позволяет солдатам охранять территорию во время хода противника. Если враг окажется в зоне наблюдения, солдат автоматически откроет огонь.
+
+УПРАВЛЕНИЕ НАБЛЮДЕНИЕМ
+Выбрать направление: двигайте мышку
+Изменить ширину зоны наблюдения: CTRL + :MW:
+Подтвердить наблюдение: :LMB:","La habilidad de Supervisión permite a los soldados defender una zona durante el turno del enemigo. Si un enemigo entra en el cono de Supervisión, el soldado ataca automáticamente
+ 
+ CONTROLES DE LA SUPERVISIÓN
+Seleccionar la zona: mover el ratón
+ Cambiar el grosor de la zona de Supervisión: CTRL + :MW:
+ Confirmar Supervisión: :LMB:",
+KEY_TUT_OVERWATCH_NAME,Text,,Overwatch,警戒,Vigilance,Überwachung,Guardia,Obserwacja,Наблюдение за местностью,Supervisión,
+KEY_TUT_PANIC_DESCRIPTION,Text,,"When a unit's Will Points drop to 0, it becomes PANICKED. Panicked units will automatically move to find cover.",当单位的意志力点数降为 0 时，就会陷入恐慌。恐慌单位会自动移动寻找掩体。,"Lorsque les points de volonté d'une unité tombent à 0, l'unité entre en état de PANIQUE. Les unités paniquées se déplacent automatiquement pour se mettre à couvert.","Wenn die Willenspunkte einer Einheit auf 0 sinken, gerät sie in PANIK. Einheiten in Panik bewegen sich automatisch, um Deckung zu suchen.","Quando i punti volontà di un'unità arrivano a 0, essa va IN PANICO. Le unità in panico si muoveranno automaticamente per trovare copertura.","Gdy jednostka straci wszystkie punkty woli, zacznie PANIKOWAĆ. Spanikowane jednostki automatycznie szukają osłony.","Когда значение Воли солдата опускается до 0, он ПАНИКУЕТ (:PANIC:). Паникующие солдаты самостоятельно передвигаются в поисках укрытия.",Las unidades quedan ATERRORIZADAS cuando sus puntos de voluntad se reducen a 0. Se moverán automáticamente en busca de cobertura.,
+KEY_TUT_PANIC_NAME,Text,,Panic,恐慌,Panique,Panik,Panico,Panika,Паника,Pánico,
+KEY_TUT_PXHEAVYCANNON_DESCRIPTION,Text,,"The HEL II CANNON is a powerful heavy weapon with LOW ACCURACY and HIGH DAMAGE. 
+
+Firing it costs 3 Action Points. Use it to deal with nearby enemies!","赫尔 II 号加农炮是一种强大的重型武器，精度较低但伤害较高。
+
+ 开火需要消耗 3 点行动点数。用它来对付附近的敌人吧！","Le CANON HEL II est une arme lourde puissante avec une FAIBLE PRÉCISION et des DÉGÂTS ÉLEVÉS.
+ 
+ Son utilisation coûte 3 points d'action. Utilisez-le pour éliminer les ennemis à proximité !","Die HEL-II-KANONE ist eine mächtige Waffe von GERINGER GENAUIGKEIT und HOHEM SCHADEN.
+ 
+Das Abfeuern kostet 3 Aktionspunkte. Setze sie ein, um Gegner in der Nähe auszuschalten!","Il CANNONE HEL II è una potente arma pesante con BASSA PRECISIONE e DANNI ELEVATI. 
+ 
+ Usarla costa 3 punti azione. Utilizzala contro i nemici vicini!","DZIAŁO HEL II to potężna broń ciężka o NISKIEJ CELNOŚCI i DUŻEJ SILE RAŻENIA. 
+ 
+ Strzał z działa kosztuje 3 punkty akcji. Użyj go, aby rozprawić się z pobliskimi przeciwnikami!","ПУШКА «ХЕЛЬ II» — мощное оружие с НИЗКОЙ ТОЧНОСТЬЮ и ВЫСОКИМ УРОНОМ. 
+ 
+Выстрел из нее требует 3 очка действия. Используйте ее, чтобы разделаться с врагами неподалеку!","El CAÑÓN HEL II es una poderosa arma pesada con BAJA PRECISIÓN, pero MUCHO DAÑO.
+ 
+ Usarlo cuesta 3 puntos de acción. ¡Deshazte de los enemigos cercanos con él!",
+KEY_TUT_PXHEAVYCANNON_NAME,Text,,Hel II Cannon,赫尔 II 号加农炮,Canon Hel II,Hel-II-Kanone,Cannone Hel II,Działo Hel II,Пушка «Хель II»,Cañón Hel II,
+KEY_TUT_RECOVER_DESCRIPTION,Text,,A soldier can recover half of their Will Points by spending all 4 Action Points on the RECOVER ability. This also grants them immunity to Panic for one turn. Timing is key!,士兵可以使用恢复技能，花费全部的 4 点行动点数来恢复一半的意志力点数。使用时机至关重要！,Un soldat peut récupérer la moitié de ses points de volonté en utilisant 4 points d'action pour la capacité RÉCUPÉRER. Tout est dans le timing !,"Ein Soldat kann die Hälfte seiner Willenspunkte wiederherstellen, indem er alle 4 Aktionspunkte für die Fähigkeit WIEDERHERSTELLEN einsetzt. Das macht ihn außerdem für einen Zug immun gegen Panik. Der richtige Zeitpunkt ist entscheidend!",Un soldato può recuperare la metà dei suoi punti volontà spendendo tutti e 4 i punti azione per l'abilità RECUPERA. Il tempismo è fondamentale!,"Żołnierz może odzyskać połowę punktów woli, używając umiejętności ODZYSKANIE za wszystkie 4 punkty akcji. Wyczucie czasu to podstawa!","Солдат может восстановить половину очков Воли, потратив 4 Очка Действия на способность ВОССТАНОВЛЕНИЯ. Это также даст солдату способность противостоять Панике в течение одного хода. Используйте Восстановление в нужный момент!",Los soldados pueden recuperar la mitad de sus puntos de voluntad gastándose los 4 puntos de acción en la habilidad de RECUPERACIÓN. ¡Úsala con cabeza!,
+KEY_TUT_RECOVER_NAME,Text,,Recover,恢复,Récupérer,Wiederherstellen,Recupero,Odzyskanie,Восстановление,Recuperación,
+KEY_TUT_RELOAD_DESCRIPTION,Text,,"Your weapon is OUT OF AMMO. You'll need to use the RELOAD action to fire it again. 
+
+Reloading is only possible if you are carrying an AMMO MAGAZINE of the correct type.","你的武器弹药已耗尽。需要重新装填才能再次开火。
+
+ 只有携带正确类型的弹匣才能重新进行装填。","Votre arme N'A PLUS DE MUNITIONS. Vous devrez utiliser l'action RECHARGER pour continuer à tirer.
+ 
+ La recharge n'est possible que si vous transportez le bon type de CHARGEUR DE MUNITIONS.","Deine Waffe ist OHNE MUNITION. Du musst die Aktion NACHLADEN verwenden, um sie erneut abzufeuern.
+ 
+Nachladen ist nur möglich, wenn du ein MUNITIONSMAGAZIN des passenden Typs dabeihast.","La tua arma è SENZA MUNIZIONI. Dovrai usare l'azione RICARICA per sparare di nuovo. 
+ 
+ L'azione di ricarica è possibile solo se hai con te un CARICATORE DI MUNIZIONI del tipo giusto.","NIE MASZ AMUNICJI w broni. Aby ponownie z niej wystrzelić, musisz użyć czynności PRZEŁADOWANIE.
+ 
+ Przeładowanie jest możliwe tylko, jeśli masz przy sobie MAGAZYNEK odpowiedniego typu.","В оружии кончились патроны. Вам потребуется использовать действие ПЕРЕЗАРЯДКА, чтобы оно снова могло стрелять.
+
+Перезарядку можно сделать только в случае, если у персонажа есть МАГАЗИН нужного типа.","El arma NO TIENE MUNICIÓN. Tendrás que usar la acción de RECARGA antes de disparar de nuevo.
+ 
+ Solo podrás recargar si llevas un CARGADOR del tipo adecuado.",
+KEY_TUT_RELOAD_NAME,Text,,Out of Ammo,弹药耗尽,Munitions épuisées,Ohne Munition,Senza munizioni,Brak amunicji,Необходима перезарядка,Sin munición,
+KEY_TUT_SCARABMISSLE_DESCRIPTION,Text,,"The Scarab's powerful weapon launches TWO MISSLES тхат deal damage in an area. 
+
+It's perfect for clearing out groups of weak enemies, or damaging high-armor targets.","圣甲虫的强力武器可以发射两枚导弹，对一片区域造成范围伤害。
+
+ 这非常适合清理成群的弱小敌人，或是对高护甲目标造成伤害。","L'arme puissante du Scarabée lance DEUX MISSILES qui infligent des dégâts dans une zone.
+ 
+ Elle est parfaite pour éliminer des groupes d'ennemis faibles ou infliger des dégâts à des cibles portant des armures performantes.","Die mächtige Waffe des Scarabs verschießt ZWEI RAKETEN, die in einem Gebiet Schaden verursachen.
+
+Sie eignet sich perfekt, um Gruppen schwächerer Gegner auszuschalten oder stark gepanzerte Ziele zu beschädigen.","L'arma potente dello Scarabeo lancia DUE MISSILI che infliggono danni in un'area. 
+ 
+ È perfetta per eliminare gruppi di nemici deboli o danneggiare bersagli altamente corazzati.","Potężne wyrzutnie Skarabeusza wystrzeliwują DWA POCISKI RAKIETOWE, które zadają obrażenia w określonym obszarze.
+ 
+ To znakomity sposób na wyeliminowanie grupy słabszych przeciwników lub uszkodzenie celów o silnym pancerzu.","Мощное ракетная установка Скарабея выпускает ДВЕ РАКЕТЫ, наносящие урон по местности. 
+ 
+Эта атака идеальна для уничтожения групп слабых врагов или нанесения урона бронированным целям.","La poderosa arma del escarabajo lanza DOS MISILES que infligen daño en una zona.
+ 
+ Es ideal para acabar con grupos de enemigos débiles o para dañar a objetivos con mucha armadura.",
+KEY_TUT_SCARABMISSLE_NAME,Text,,Scarab Blast,圣甲虫轰炸,Explosion de Scarabée,Scarab-Doppelraketenwerfer,Esplosione dello Scarabeo,Skarabeuszowa eksplozja,Ракетный удар Скарабея,Estallido de escarabajo,
+KEY_TUT_SCARAB_DESCRIPTION,Text,,"The Scarab is a heavily armored TRANSPORT UNIT armed with devastating missile launchers.
+
+Use it to transport your operatives faster and blast enemies from a distance.","圣甲虫是一种重型装甲运输单位，搭载有破坏性极强的导弹发射器。
+
+ 你可以利用它更加迅速地运送特工，并从远处轰炸敌人。","Le Scarabée est une UNITÉ DE TRANSPORT blindée et armée de lance-missiles destructeurs.
+ 
+ Utilisez-le pour transporter vos agents plus rapidement et faire exploser vos ennemis à distance.","Der Scarab ist eine schwer gepanzerte TRANSPORTEINHEIT, bewaffnet mit verheerenden Raketenwerfern.
+ 
+Setze ihn ein, um Einheiten schneller zu transportieren und Gegner aus der Ferne zu vernichten.","Lo Scarabeo è un'UNITÀ DI TRASPORTO altamente corazzata, armata di lanciamissili devastanti.
+ 
+ Usalo per trasportare i tuoi agenti più velocemente e annientare i nemici a distanza.","Skarabeusz to ciężko opancerzony POJAZD TRANSPORTOWY wyposażony w siejące spustoszenie wyrzutnie rakiet.
+ 
+ Pozwala szybciej przewozić operatorów i ostrzeliwać wrogów z dużej odległości.","Скарабей — бронированное ТРАНСПОРТНОЕ СРЕДСТВО, вооруженное разрушительными ракетницами.
+ 
+Используйте его, чтобы оперативно перевозить своих агентов и стрелять по врагам с большого расстояния.","El escarabajo es una UNIDAD DE TRANSPORTE blindada con lanzamisiles devastadores.
+
+ Úsala para transportar a los operativos rápidamente y acribillar a los enemigos desde la distancia.",
+KEY_TUT_SCARAB_NAME,Text,,PX Scarab,凤凰圣甲虫,Scarabée PX,PX Scarab,Scarabeo PX,Skarabeusz PX,Скарабей ФС,Escarabajo Fénix,
+KEY_TUT_STANDBY_DESCRIPTION,Text,,"You can choose to end a soldier's turn by selecting STAND BY from the Action Bar. 
+
+If a soldier is OUT OF ACTION POINTS, they will Stand By automatically.","你可以在行动条中选择“预备”来结束一名士兵的回合。
+
+ 如果士兵的行动点数耗尽，将自动进入预备模式。","Vous pouvez choisir de terminer le tour d'un soldat en sélectionnant STAND-BY dans la barre d'actions.
+ 
+ Si un soldat n'a PLUS DE POINTS D'ACTION, il se mettra automatiquement en stand-by.","Du kannst den Zug eines Soldaten beenden, indem du in der Aktionsleiste BEREITSCHAFT wählst.
+
+Wenn ein Soldat keine AP mehr hat, geht er automatisch in Bereitschaft.","Puoi scegliere di terminare il turno di un soldato selezionando ATTESA dalla barra azione. 
+ 
+ Se un soldato ha TERMINATO I PUNTI AZIONE, andrà in Attesa automaticamente.","Możesz zakończyć turę żołnierza, wybierając opcję TRYB CZUWANIA z paska akcji.
+ 
+ Żołnierz BEZ PUNKTÓW AKCJI automatycznie przechodzi w tryb czuwania.","Вы можете завершить ход солдата, выбрав РЕЖИМ ОЖИДАНИЯ на панели действий. 
+ 
+Если у солдата КОНЧИЛИСЬ ОЧКИ ДЕЙСТВИЯ, он перейдет в режим ожидания автоматически.","Puedes terminar el turno de un soldado seleccionando REPOSO en la barra de acciones.
+ 
+ Si al soldado NO LE QUEDAN PUNTOS DE ACCIÓN, entrarán en modo Reposo automáticamente.",
+KEY_TUT_STANDBY_NAME,Text,,Stand By,预备,Stand-by,Bereitschaft,Attesa,Tryb czuwania,Режим ожидания,Reposo,
+KEY_TUT_VEHICLEAUTOFAMMO_DESCRIPTION,Text,,"Your vehicle is OUT OF AMMO. 
+Unlike firearms, vehicles don't have a Reload action. 
+
+Your vehicle's weapon will be recharged AFTER THE MISSION.","你的载具弹药已耗尽。
+ 载具与枪炮不同，不需要重新装填。
+
+ 任务结束后，载具武器就会重新补充弹药。","Votre véhicule N'A PLUS DE MUNITIONS
+ Contrairement aux armes à feu, les véhicules ne bénéficient pas d'action Recharger.
+ 
+ L'arme du véhicule sera rechargée APRÈS LA MISSION.","Dein Fahrzeug ist OHNE MUNITION.
+Im Gegensatz zu Schusswaffen besitzen Fahrzeuge keine Nachladeaktion.
+ 
+Die Waffe deines Fahrzeugs wird NACH DER MISSION wieder aufgeladen.","Il tuo veicolo è SENZA MUNIZIONI. 
+ A differenza delle armi da fuoco, i veicoli non hanno l'azione RICARICA. 
+ 
+ L'arma del tuo veicolo sarà ricaricata DOPO LA MISSIONE.","NIE MASZ AMUNICJI w pojeździe. 
+ W przeciwieństwie do broni palnej pojazdy nie mają czynności Przeładowanie.
+ 
+ Broń pojazdu zostanie przeładowana PO MISJI.","У вашего Скарабея КОНЧИЛИСЬ БОЕПРИПАСЫ. В отличие от огнестрельного оружия, оружие транспортного средства нельзя перезарядить. 
+
+Оружие на вашей машине будет перезаряжено ПОСЛЕ ЗАВЕРШЕНИЯ ЗАДАНИЯ.","El vehículo NO TIENE MUNICIÓN.
+ A diferencia de las armas, los vehículos no tienen una acción de recarga.
+ 
+ El arma del vehículo se recarga DESPUÉS DE LA MISIÓN.",
+KEY_TUT_VEHICLEAUTOFAMMO_NAME,Text,,Vehicle Out of Ammo,载具弹药耗尽,Munitions du véhicule épuisées,Fahrzeug ohne Munition,Veicolo senza munizioni,Brak amunicji w pojeździe,У машины кончились боеприпасы,Vehículos sin munición,

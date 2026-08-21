@@ -1,0 +1,91 @@
+Key,Ukrainian
+KEY_ACTOR_CYCLE_NEXT_TT,Наступний солдат
+KEY_ACTOR_CYCLE_PREV_TT,Попередній солдат
+KEY_AIRCRAFT_COUNT_TT,ПОВІТРЯНІ СУДНА — власні / місткість доступних транспортних відсіків
+KEY_ATTACHMENT_LOCKED,#НЕДОСТУПНО
+KEY_BACK,Назад
+KEY_BAVE,NEEDS TEXT
+KEY_CANCEL,СКАСУВАТИ
+KEY_CONTAINED_ALIENS_COUNT_TT,Захоплені пандорани — зайнятий простір / місткість усіх об'єктів утримання прибульців
+KEY_DAMAGE_TYPE,ТИП ШКОДИ
+KEY_DEPLOYMENT_CHECKBOX_TT,Вибрати цього солдата для розгортання
+KEY_DIPLOMACY_HAVENS_COUNT_TT,"Кількість притулків, контрольованих цією фракцією"
+KEY_DIPLOMACY_LEADER_NAME_TT,Ім'я лідера
+KEY_DIPLOMACY_POPULATION_TT,Загальне населення всіх притулків фракції
+KEY_DUMMY,#Мішень
+KEY_ENABLED,#УВІМКНЕНО
+KEY_ENVIRONMENT,#СЕРЕДОВИЩЕ
+KEY_EQUIPMENT_ARMOUR_TT,Надіта броня
+KEY_EQUIPMENT_BODY_TT,Предмети в рюкзаку солдата
+KEY_EQUIPMENT_READY_TT,Екіпіровані предмети
+KEY_FOOD_RESOURCE_TT,ЇЖА — ресурс для харчування та найму солдатів
+KEY_GEOSCAPE_NO_PRODUCTION,НЕМАЄ ДОСТУПНИХ ПРЕДМЕТІВ
+KEY_GEOSCAPE_NO_RESOURCES,НЕДОСТАТНЬО РЕСУРСІВ
+KEY_GEOSCAPE_PRODUCED,ВСЬОГО ВИРОБЛЕНО
+KEY_GEOSCAPE_SALVAGE,ОТРИМАТИ
+KEY_HAVEN_MIST_STATUS_TT,Підвищений рівень голоду та високий ризик нападу пандоранів
+KEY_HAVEN_RECRUIT_BUTTON_TT,Завербувати цього солдата
+KEY_HAVEN_START_MISSION_TT,Почати місію в цьому притулку
+KEY_HAVEN_TRADE_BUTTON_TT,Обміняти на вибраний ресурс
+KEY_HEALTH,ОЧКИ ЗДОРОВ'Я
+KEY_HIT_POINTS,Очки здоров'я:
+KEY_INSUFFICIENT_AMMO,"Недостатньо боєприпасів, щоб поповнити запаси загону"
+KEY_INVENTORY_ACTIONCOST_NONE,Вартість: 0 ОД
+KEY_INVENTORY_ACTIONCOST_STANDARD,Вартість: 1 ОД
+KEY_MAIN_MENU,ГОЛОВНЕ МЕНЮ
+KEY_MANUFACTURE_ADD_BUTTON_TT,Виготовити цей предмет
+KEY_MANUFACTURE_REMOVE_BUTTON_TT,Прибрати предмет з черги
+KEY_MANUFACTURE_TAB_ARMOUR_TT,Виготовити броню
+KEY_MANUFACTURE_TAB_EQUIPMENT_TT,Виготовити спорядження
+KEY_MANUFACTURE_TAB_VEHICLES_TT,Виготовити машини
+KEY_MANUFACTURE_TOGGLE_CLASS_TT,Увімкнути/вимкнути фільтр класу
+KEY_MASTER,#ГОЛОВНИЙ
+KEY_MATERIAL_RESOURCE_TT,МАТЕРІАЛИ — ресурс для загального будівництва
+KEY_MISSION_MATERIAL,Матеріали
+KEY_MISSION_PROVISIONS,Їжа
+KEY_MISSION_TECH,Технології
+KEY_MUTAGENS_RESOURCE_TT,МУТАГЕНИ — ресурс для створення мутацій
+KEY_NEW_GAME,НОВА ГРА
+KEY_NO,НІ
+KEY_OK,ОК
+KEY_OPTIONS_BUTTON_TT,Параметри
+KEY_PREPARING_DESCRIPTION,#ПІДГОТОВКА
+KEY_PREPARING_NAME,#ПІДГОТОВКА
+KEY_PRODUCTION_TOTAL_TT,"Виробнича потужність усіх баз — для виготовлення спорядження, броні та машин"
+KEY_PX_BASES_COUNT_TT,Бази Фенікса
+KEY_RESEARCH_BUTTON_TT,Розпочати це дослідження
+KEY_RESEARCH_CANCEL_BUTTON_TT,Скасувати це дослідження
+KEY_RESEARCH_INPROGRESS_TT,Дослідження виконується
+KEY_RESEARCH_TAB_ANU_TT,Дослідження Послідовників Ану
+KEY_RESEARCH_TAB_NEWJERICHO_TT,Дослідження Нового Єрихона
+KEY_RESEARCH_TAB_PHOENIX_TT,Дослідження Проєкту «Фенікс»
+KEY_RESEARCH_TAB_SYNEDRION_TT,Дослідження Синедріона
+KEY_RESEARCH_TOTAL_TT,"Дослідницькі лабораторії на всіх базах — будуйте більше, щоб скоротити час дослідження"
+KEY_RETRY,ПОВТОРИТИ
+KEY_ROSTER_LOCATION_AIRCRAFT_TT,Солдата призначено на повітряне судно
+KEY_ROSTER_LOCATION_FACILITY_TT,Солдата призначено на об'єкт
+KEY_ROSTER_LOCATION_PX_BASE_TT,Солдата призначено на базу Фенікса
+KEY_ROSTER_TAB_ALIENS_TT,Захоплені пандорани
+KEY_ROSTER_TAB_SOLDIERS_TT,Солдати
+KEY_ROSTER_TAB_VEHICLES_TT,Наземні машини
+KEY_SENTINEL,#Вартовий
+KEY_SOLDIERS_COUNT_TT,СОЛДАТИ — завербовані / місткість житлових приміщень
+KEY_STAT_STORAGE,СХОВИЩЕ {used}/{total}
+KEY_STORES_CAPACITY_TT,Склади — зайнятий простір / місткість усіх складських приміщень
+KEY_TECH_RESOURCE_TT,ТЕХНОЛОГІЇ — ресурс для створення високотехнологічних предметів
+KEY_TIME_MODULE_DECREASE_TT,Сповільнити час
+KEY_TIME_MODULE_INCREASE_TT,Пришвидшити час
+KEY_TIME_MODULE_PLAY_TT,Запустити/зупинити час
+KEY_TRAINING_ADD_POINTS_BUTTON_TT,Додати очки умінь
+KEY_TRAINING_SOLDIER_LEVEL_TT,Необхідний рівень солдата
+KEY_TRAINING_SUBSTRACT_POINTS_BUTTON_TT,Відняти очки умінь
+KEY_TURRET_GUN_DESCRIPTION,#Автоматична турель
+KEY_UI,#Інтерфейс
+KEY_VEHICLES_COUNT_TT,МАШИНИ — власні / місткість доступних транспортних відсіків
+KEY_VEHICLES_MODULE_NEXT_TT,Наступне повітряне судно
+KEY_VEHICLES_MODULE_PREV_TT,Попереднє повітряне судно
+KEY_VEHICLES_MODULE_SOLDIERS_TT,Солдати на борту
+KEY_VEHICLES_NAME,МАШИНИ
+KEY_WILLPOWER,СИЛА ВОЛІ:
+KEY_X_OF_Y,{0}/{1}
+KEY_YES,ТАК

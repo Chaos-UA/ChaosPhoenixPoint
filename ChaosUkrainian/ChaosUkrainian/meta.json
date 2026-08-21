@@ -1,0 +1,24 @@
+{
+  "ID": "com.chaos.Ukrainian",
+  "AssemblyName": "ChaosUkrainian.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "Chaos-UA-"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "Chaos Українізатор"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "Додає українську мову до гри для вибору в меню налаштувань"
+    }
+  ],
+  "Dependencies": []
+}

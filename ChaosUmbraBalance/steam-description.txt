@@ -1,0 +1,26 @@
+[h1]Chaos Umbra Balance[/h1]
+
+Tones down the Umbra — the devastating ambush predator that can instantly wipe a squad the moment it appears. Two independent options let you tune the threat level to taste.
+
+[h2]The Problem[/h2]
+The Umbra hits like a freight train on the very turn it spawns. With four full action points and devastating attacks, it can kill multiple soldiers before you've had a single chance to react — not a challenge, just a gotcha.
+
+[h2]Features[/h2]
+
+[b]Umbra First Turn AP[/b] — How many action points the Umbra gets on its very first turn after appearing.
+[list]
+[*] [b]0[/b] (default) — Umbra spawns but takes no actions on its first turn. You get one turn to react.
+[*] [b]1–3[/b] — Umbra gets a limited number of actions, giving you a fighting chance.
+[*] [b]4[/b] — No restriction. Vanilla behaviour.
+[/list]
+
+[b]Disable Umbra[/b] — When enabled, the Umbra appears on the map but is permanently suppressed: it will never act, and it dies at the start of your next turn. Effectively removes the Umbra as a threat without breaking mission scripting.
+
+[h2]Configuration[/h2]
+All options are available in the in-game [b]Mod Settings[/b] menu — no file editing required. Changes take effect from the next tactical mission.
+
+[h2]Compatibility[/h2]
+[list]
+[*] Works with the vanilla [b]Yuggoth (Umbra)[/b].
+[*] Compatible with [b]Terror From The Void (TFTV)[/b].
+[/list]

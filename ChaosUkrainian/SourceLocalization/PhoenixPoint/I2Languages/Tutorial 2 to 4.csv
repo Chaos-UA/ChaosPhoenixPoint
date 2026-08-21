@@ -1,0 +1,1338 @@
+Key,Type,Desc,English,Chinese (Simplified),French,German,Italian,Polish,Russian,Spanish,UI_Tester
+KEY_OPTIONS_SHOW_TACTICAL_HINTS,Text,,SHOW CONTEXT HINTS,显示战术环境提示,AFFICHER LES INDICES CONTEXTUELS TACTIQUES,TAKTISCHE KONTEXTHINWEISE,MOSTRA SUGGERIMENTI DI CONTESTO TATTICI,POKAŻ KONTEKSTOWE PORADY TAKTYCZNE,ПОКАЗЫВАТЬ ТАКТИЧЕСКИЕ ПОДСКАЗКИ,MOSTRAR PISTAS DE CONTEXTO TÁCTICO,
+KEY_TUT1_MISSIONEND,Text,,Get to the Scarab,抵达圣甲虫旁,Allez au Scarabée,Erreiche den Scarab,Vai allo Scarabeo,Dotrzyj do Skarabeusza,Доберитесь до Скарабея,Ve al escarabajo,
+KEY_TUT2_4AP_DESCRIPTION,Text,,"Soldiers have 4 ACTION POINTS (APs) to use for movement, shooting and other actions each turn. 
+
+These actions can be performed in any order. 
+","士兵每回合拥有 4 点行动点数 (AP) 用以移动、射击或执行其他行动。
+
+ 这些行动可以按照任意顺序执行。","Les soldats ont 4 POINTS D'ACTION (PA) à utiliser pour se déplacer, tirer et d'autres actions à chaque tour.
+ 
+ Ces actions peuvent être effectuées dans n'importe quel ordre.","Soldaten besitzen 4 AKTIONSPUNKTE (AP), die sie in jeder Runde für Bewegung, Schießen oder andere Aktionen einsetzen können.
+ 
+Diese Aktionen können in beliebiger Reihenfolge ausgeführt werden.","I soldati hanno 4 PUNTI AZIONE (PA) da usare per spostamenti, sparatorie e altre azioni a ogni turno. 
+ 
+ Queste azioni possono essere eseguite in qualsiasi ordine.","W każdej turze żołnierz ma 4 PUNKTY AKCJI (PA), które może przeznaczyć na ruch, strzelanie i inne czynności.
+ 
+Akcje te można wykonywać w dowolne kolejności.","На каждый ход солдату отводится 4 ОЧКА ДЕЙСТВИЯ (ОД) для движения, стрельбы и других манипуляций. 
+ 
+Действия солдата могут быть совершены в любом порядке.","Los soldados tienen 4 PUNTOS DE ACCIÓN (PA) cada turno que usan para moverse, disparar u otras acciones.
+ 
+ Las acciones se pueden realizar en cualquier orden.",
+KEY_TUT2_4AP_NAME,Text,,4 Action Point System,4 行动点数系统,Système à 4 points d'action,4-Aktionspunkte-System,Sistema con 4 punti azione,System 4 punktów akcji,Система 4-х Очков Действия,Sistema de 4 puntos de acción,
+KEY_TUT2_AMMO_OUT_DESCRIPTION,Text,,"Your weapon is OUT OF AMMO. You'll need to use the RELOAD (:RELOAD:) action to fire it again. 
+
+Reloading is only possible if you are carrying an AMMO MAGAZINE of the correct type. 
+
+Reloading costs 1 AP if the ammo is in your BACKPACK and 0 APs if it is in your READY SLOT.","你的武器弹药已耗尽。需要重新装填 (:RELOAD:) 才能再次开火。
+ 
+ 只有携带正确类型的弹匣才能重新进行装填。
+
+ 如果弹药在你的背包里，重新装填消耗 1 点行动点数；如果弹药在就绪槽位，则不需要消耗行动点数。","Votre arme N'A PLUS DE MUNITIONS. Vous devrez utiliser l'action RECHARGER (:RELOAD:) pour continuer à tirer.
+ 
+ La recharge n'est possible que si vous transportez le bon type de CHARGEUR DE MUNITIONS.
+ 
+ La recharge coûte 1 PA si les munitions sont dans votre SAC À DOS et 0 PA si elles se trouvent dans votre EMPLACEMENT PRÊT.","Deine Waffe ist OHNE MUNITION. Du musst die Aktion NACHLADEN (:RELOAD:) verwenden, um sie erneut abzufeuern.
+ 
+Nachladen ist nur möglich, wenn du ein MUNITIONSMAGAZIN des passenden Typs dabeihast.
+ 
+Nachladen kostet 1 AP, wenn sich die Munition in deinem Rucksack befindet, und 0 AP, wenn sie sich in deinem PLATZ FÜR BEREITE GEGENSTÄNDE befindet.","La tua arma è SENZA MUNIZIONI. Dovrai usare l'azione RICARICA (:RELOAD:) per sparare di nuovo. 
+ 
+ L'azione di ricarica è possibile solo se hai con te un CARICATORE DI MUNIZIONI del tipo giusto. 
+ 
+ La ricarica costa 1 PA se la munizione è nel tuo ZAINO e 0 PA se è nel tuo SLOT PRONTO.","NIE MASZ AMUNICJI w broni. Aby ponownie z niej wystrzelić, musisz użyć czynności PRZEŁADOWANIE (:RELOAD:).
+ 
+ Przeładowanie jest możliwe tylko, jeśli masz przy sobie MAGAZYNEK odpowiedniego typu.
+
+ Przeładowanie zużywa 1 PA, jeśli masz amunicję w PLECAKU, lub 0 PA, jeżeli magazynek znajduje się w MIEJSCU NA GOTOWY PRZEDMIOT.","В оружии ЗАКОНЧИЛИСЬ ПАТРОНЫ. Нужно использовать действие ПЕРЕЗАРЯДКА (:RELOAD:), чтобы оно снова могло стрелять. 
+ 
+Перезарядка возможна только в случае, если у персонажа есть МАГАЗИН нужного типа. 
+ 
+Перезарядка требует 1 ОД, если магазин - в РЮКЗАКЕ, и 0 ОД, если он - в БЫСТРОМ СЛОТЕ.","El arma NO TIENE MUNICIÓN. Tendrás que usar la acción RECARGA (:RELOAD:) antes de disparar de nuevo.
+ 
+ Solo podrás recargar si llevas un CARGADOR del tipo adecuado.
+ 
+ Recargar cuesta 1 PA si la munición está en la MOCHILA y 0 PA si está en un HUECO de objetos LISTOS.",
+KEY_TUT2_AMMO_OUT_NAME,Text,,Tactical Tip: Reload,战术提示：重新装填,Astuce tactique : recharger,Taktischer Tipp: Nachladen,Consiglio tattico: Ricarica,Wskazówka taktyczna: Przeładowanie,Тактический совет: Перезарядка,Consejo táctico: recarga,
+KEY_TUT2_AP_NEEDED_DESCRIPTION_C,Text,,"This soldier doesn't have enough APs to pick up items.
+You'll be able to do this action NEXT TURN by pressing <size=60>:DLEFT:</size>.","这名士兵没有足够的行动点数来拾取物品。
+你可以在下个回合按 <size=60>:DLEFT:</size> 来执行此动作。","Ce soldat n'a pas assez de PA pour récupérer des objets.
+ Vous pourrez effectuer cette action au PROCHAIN TOUR en appuyant sur <size=60>:DLEFT:</size>.","Dieser Soldat hat zu wenig AP, um Gegenstände aufzunehmen.
+Du kannst diese Aktion beim NÄCHSTEN ZUG ausführen, indem du <size=60>:DLEFT:</size> drückst.","Questo soldato non ha abbastanza PA per raccogliere oggetti.
+ Sarai in grado di eseguire questa azione IL PROSSIMO TURNO premendo <size=60>:DLEFT:</size>.","Ten żołnierz nie ma wystarczająco PA, aby podnieść przedmioty.
+ Możesz wykonać tę akcję w NASTĘPNEJ TURZE, naciskając <size=60>:DLEFT:</size>.","У этого солдата недостаточно ОД, чтобы взять предметы.
+
+Взять предметы можно будет ВО ВРЕМЯ СЛЕДУЮЩЕГО ХОДА, нажав <size=60>:DLEFT:</size>.","El soldado no tiene suficientes puntos de acción para recoger objetos.
+Podrás realizar esta acción el PRÓXIMO TURNO pulsando <size=60>:DLEFT:</size>.",
+KEY_TUT2_AP_NEEDED_DESCRIPTION_K,Text,,"This soldier doesn't have enough APs to pick up items.
+You'll be able to do this action NEXT TURN by pressing the Inventory icon (:INVENTORY:) on the action bar or [<color=#ECBA62>{[SetInventoryAbility]}</color>].","这名士兵没有足够的行动点数来拾取物品。
+你可以在下个回合点击行动条上的物品栏图标 (:INVENTORY:) 或按 [<color=#ECBA62>{[SetInventoryAbility]}</color>] 来执行这个动作。","Ce soldat n'a pas assez de PA pour récupérer des objets.
+ Vous pourrez effectuer cette action au PROCHAIN TOUR en appuyant sur l'icône de l'inventaire (:INVENTORY:) de la barre d'actions ou [<color=#ECBA62>{[SetInventoryAbility]}</color>].","Dieser Soldat hat zu wenig AP, um Gegenstände aufzunehmen.
+Du kannst diese Aktion beim NÄCHSTEN ZUG ausführen, indem du das Inventarsymbol (:INVENTORY:) auf der Aktionsleiste oder [<color=#ECBA62>{[SetInventoryAbility]}</color>] drückst.","Questo soldato non ha abbastanza PA per raccogliere oggetti.
+ Sarai in grado di eseguire questa azione IL PROSSIMO TURNO premendo l'icona Inventario (:INVENTORY:) sulla barra azione o [<color=#ECBA62>{[SetInventoryAbility]}</color>].","Ten żołnierz nie ma wystarczająco PA, aby zabrać przedmioty.
+Możesz wykonać tę akcję w NASTĘPNEJ TURZE, naciskając ikonę ekwipunku (:INVENTORY:) na pasku akcji lub [<color=#ECBA62>{[SetInventoryAbility]}</color>].","У этого солдата недостаточно ОД, чтобы взять предметы.
+
+Взять предметы можно будет ВО ВРЕМЯ СЛЕДУЮЩЕГО ХОДА, нажав на иконку инвентаря (:INVENTORY:) на панели действий или [<color=#ECBA62>{[SetInventoryAbility]}</color>].","El soldado no tiene suficientes puntos de acción para recoger objetos.
+Podrás realizar esta acción el PRÓXIMO TURNO pulsando el icono del inventario (:INVENTORY:) en la barra de acciones o [<color=#ECBA62>{[SetInventoryAbility]}</color>].",
+KEY_TUT2_AP_NEEDED_NAME,Text,,Not Enough Action Points (APs),行动点数 (AP) 不足,Points d'action (PA) insuffisants,Zu wenig Aktionspunkte (AP),Punti azione (PA) insufficienti,Za mało punktów akcji (PA),Недостаточно очков действия (ОД),No hay suficientes puntos de acción (PA),
+KEY_TUT2_ARMDISABLED_DESCRIPTION,Text,,"One of your arms is DISABLED.
+You won't be able to use two-handed weapons for the rest of the mission. 
+You can still use handguns, grenades, and medkits. 
+
+If you don't have a backup weapon, get one from a crate or a nearby ally.","你的一只手臂已损坏。
+ 在接下来的任务过程中，你将不能使用双手武器。
+你仍然可以使用手枪、手雷和医疗包。
+
+ 如果你没有备用武器，可从箱子或附近的盟友那里获得。","L'un de vos bras est DÉSACTIVÉ.
+ Vous ne pourrez pas utiliser les armes à deux mains pendant le reste de la mission.
+ Vous pouvez toujours utiliser les pistolets, les grenades et les médikits.
+ 
+ Si vous n'avez pas d'arme de secours, prenez-en une dans une caisse ou auprès d'un allié à proximité.","Einer deiner Arme ist VERSEHRT.
+Für den Rest der Mission kannst du keine zweihändigen Waffen mehr benutzen.
+Handfeuerwaffen, Granaten und Medkits können weiterhin eingesetzt werden.
+
+Wenn du keine Ersatzwaffe hast, besorge dir eine aus einer Kiste oder von einem nahen Verbündeten.","Una delle tue braccia è FUORI USO.
+ Non potrai usare armi a due mani per il resto della missione. 
+ Puoi ancora usare pistole, granate e kit medici. 
+ 
+ Se non hai un'arma di riserva, ottienine una da una cassa o da un alleato vicino.","Jedno z twoich ramion jest KONTUZJOWANE.
+ Do końca misji nie jesteś w stanie obsługiwać broni dwuręcznej.
+ Wciąż możesz używać pistoletów, granatów i apteczek.
+ 
+ Jeśli nie masz broni zapasowej, znajdź ją w skrzyni lub uzyskaj od pobliskiego sojusznika.","Персонажу ОТОРВАЛО РУКУ. 
+
+До завершения данного задания, он не сможет использовать двуручное оружие. Но все еще сможет использовать пистолеты, гранаты и аптечки.
+ 
+Если у него нет запасного оружия, возьмите его из ящика или у союзника.","Tienes uno de los brazos INHABILITADOS.
+ No podrás usar armas de dos manos durante el resto de la misión.
+ Aunque sí que podrás usar pistolas, granadas y botiquines.
+ 
+ Si no tienes una arma de repuesto, consigue una de una caja o un aliado cercano.",
+KEY_TUT2_ARMDISABLED_NAME,Text,,Arm Disabled,手臂损坏,Bras désactivé,Arm versehrt,Braccio fuori uso,Kontuzjowane ramię,Персонажу оторвало руку,Arma inhabilitada,
+KEY_TUT2_ARMOR_DESCRIPTION,Text,,"Your soldier is wearing armor, which reduces damage according to the armor value. 
+
+Different body parts may have different armor values according to the various armor types worn by the soldier.
+","你的士兵穿着护甲，可根据护甲值降低伤害。
+
+ 根据士兵所穿护甲的类型，不同的身体部位可能有不同的护甲值。","Votre soldat porte une armure qui réduit les dégâts selon la valeur d'armure
+ 
+ Différentes parties du corps peuvent avoir différentes valeurs d'armure selon les types d'armures portées par le soldat.","Dein Soldat trägt Rüstung, die Schaden entsprechend dem Rüstungswert reduziert.
+ 
+Verschiedene Körperteile können je nach den verschiedenen Rüstungstypen, die vom Soldaten getragen werden, unterschiedliche Rüstungswerte aufweisen.","Il tuo soldato sta indossando un'armatura che riduce i danni in base al valore dell'armatura. 
+ 
+ Le diverse parti del corpo possono avere diversi valori di armatura a seconda dei diversi tipi di armatura indossati dal soldato.","Twój żołnierz ma na sobie pancerz, który obniża ponoszone obrażenia w zależności od współczynnika pancerza.
+
+ Każda część ciała może mieć inny współczynnik pancerza uzależniony od tego, jakiego typu pancerz nosi żołnierz.","Ваш солдат одет в броню, которая снижает урон в зависимости от значения характеристики БРОНЯ. 
+ 
+У разных частей тела может быть разное значение брони в зависимости от экипировки солдата.","El soldado lleva armadura, lo que reduce el daño según su valor.
+
+ Las diferentes partes del cuerpo pueden tener valores de armadura distintos según los tipos de armadura que lleve el soldado.",
+KEY_TUT2_ARMOR_NAME,Text,,Tactical Tip: Armor,战术提示：护甲,Astuce tactique : armure,Taktischer Tipp: Rüstung,Consiglio tattico: Armatura,Wskazówka taktyczna: Pancerz,Тактический совет: Броня,Consejo táctico: armadura,
+KEY_TUT2_BANDIT,Text,,Bandit,强盗,Bandit,Bandit,Bandito,Bandyta,Бандит,Bandido,
+KEY_TUT2_BASH_DESCRIPTION,Text,,"When your soldier is next to an enemy, you can perform the BASH (:BASH:) melee attack. 
+
+It only costs 1 Action Point, so you can usually Bash an enemy multiple times in the same turn.","当你的士兵位于敌人旁边时，可以发动猛击 (:BASH:) 近战攻击。
+ 
+ 猛击只需花费 1 点行动点数，因此你通常可以多次向敌人发起猛击。","Lorsque votre soldat est à côté d'un ennemi, vous pouvez effectuer l'attaque de contact COGNER (:BASH:).
+ 
+ Elle ne coûte que 1 point d'action, vous pouvez donc l'utiliser plusieurs fois sur un ennemi dans un même tour.","Wenn dein Soldat neben einem Gegner steht, kannst du den Nahkampfangriff „WUCHTSCHLAG“ (:BASH:) ausführen.
+ 
+ Er kostet nur 1 Aktionspunkt, sodass du in der Regel mehrmals pro Zug zuschlagen kannst.","Quando il tuo soldato è vicino a un nemico, puoi eseguire l'attacco in mischia COLPO CONTUNDENTE (:BASH:). 
+ 
+ Costa solo 1 punto azione, quindi, di norma, puoi usare il colpo contundente su un nemico più volte nello stesso turno.","Gdy twój żołnierz znajduje się przy przeciwniku, może UDERZYĆ (:BASH:) go przedmiotem.
+ 
+ Taki atak wręcz kosztuje tylko 1 punkt akcji, więc zazwyczaj uderzenie można wykonać wielokrotnie w jednej turze.","Когда ваш солдат рядом с врагом, вы можете УДАРИТЬ (:BASH:) его. 
+ 
+Удар требует только 1 ОД, поэтому врезать врагу можно несколько раз за один ход.","Cuando un soldado está al lado de un enemigo, puedes usar GOLPE (:BASH:), un ataque cuerpo a cuerpo.
+ 
+ Solo cuesta 1 punto de acción, así que podrás usarlo contra el enemigo varias veces en el mismo turno.",
+KEY_TUT2_BASH_NAME,Text,,Tactical Tip: Bash,战术提示：猛击,Astuce tactique : cogner,Taktischer Tipp: Wuchtschlag,Consiglio tattico: Colpo contundente,Wskazówka taktyczna: Uderzenie przedmiotem,Тактический совет: Удар,Consejo táctico: golpe,
+KEY_TUT2_BLEEDINGEFFECT_DESCRIPTION,Text,,"When a character's limb is disabled, they get a BLEEDING (:BLEEDING:) status effect. Bleeding units lose Hit Points every turn until they die or get healed.
+",当角色有肢体损坏时，该单位就会受到流血 (:BLEEDING:) 状态效果影响。流血单位每回合都会损失生命值，直到死亡或被治疗。,"Lorsque le membre d'un personnage est désactivé, celui-ci subit l'état de SAIGNEMENT (:BLEEDING:). Les unités qui saignent perdent des points de vie à chaque tour jusqu'à ce qu'elles soient soignées ou meurent.","Wenn die Gliedmaßen eines Charakters versehrt sind, erhält er den Statuseffekt BLUTUNG (:BLEEDING:). Blutende Einheiten verlieren mit jedem Zug Trefferpunkte, bis sie sterben oder geheilt werden.","Quando l'arto di un personaggio è fuori uso, a esso viene attribuito l'effetto di stato SANGUINAMENTO (:BLEEDING:). Le unità sanguinanti perdono punti ferita a ogni turno fino alla morte o finché non vengono curate.","Gdy postać dozna kontuzji kończyny, otrzyma efekt stanu KRWAWIENIE (:BLEEDING:). Krwawiące jednostki tracą punkty życia co turę, aż umrą lub zostaną wyleczone.","Когда часть тела персонажа разрушена, персонаж получает статус «Кровотечение» (:BLEEDING:). Такие персонажи теряют очки здоровья с каждым ходом, пока не умрут или не будут вылечены.","Cuando un personaje tiene una extremidad inhabilitada, recibe el efecto de estado SANGRADO (:BLEEDING:). Las unidades que estén sangrando pierden puntos de salud cada turno hasta que mueren o reciben sanación.",
+KEY_TUT2_BLEEDINGEFFECT_NAME,Text,,Status Effect: Bleed,状态效果：流血,État : saignement,Statuseffekt: Blutung,Effetto di stato: Sanguinamento,Efekt stanu: Krwawienie,Статус: Кровотечение,Efecto de estado: sangrado,
+KEY_TUT2_BLEEDINGSTATUS_DESCRIPTION,Text,,"Your soldier was hurt and now has a BLEEDING (:BLEEDING:) status effect. 
+Take care of your bleeding soldiers - they will keep losing Hit Points every turn until HEALED WITH A MEDKIT.","你的士兵受伤了，而且受到了流血 (:BLEEDING:) 状态效果。
+ 请照顾好流血的士兵，他们每个回合都会失去生命值，直到用医疗包进行治疗。","Votre soldat a été blessé et il subit maintenant l'état de SAIGNEMENT (:BLEEDING:).
+ Occupez-vous des soldats qui saignent, car ils perdent des points de vie à chaque tour jusqu'à ce qu'ils soient SOIGNÉS AVEC UN MÉDIKIT.","Dein Soldat wurde verletzt und hat nun den Statuseffekt BLUTUNG (:BLEEDING:) erhalten.
+Kümmere dich um deine blutenden Soldaten – sie verlieren mit jedem Zug Trefferpunkte, bis sie MIT EINEM MEDKIT GEHEILT WERDEN.","Il tuo soldato è stato ferito e ora ha un effetto di stato SANGUINAMENTO (:BLEEDING:). 
+ Prenditi cura dei tuoi soldati sanguinanti: essi continueranno a perdere punti ferita a ogni turno finché non verranno CURATI CON UN KIT MEDICO.","Twój żołnierz jest ranny i ma efekt stanu KRWAWIENIE (:BLEEDING:).
+Uważaj na krwawiących żołnierzy – będą tracić punkty życia co turę aż do WYLECZENIA APTECZKĄ.","Ваш солдат ранен, и его статус — КРОВОТЕЧЕНИЕ (:BLEEDING:). 
+
+Cолдаты с кровотечением будут терять очки здоровья с каждым ходом, если их не ВЫЛЕЧИТЬ С ПОМОЩЬЮ АПТЕЧКИ.","Han herido al soldado y ahora sufre el efecto de estado SANGRADO (:BLEEDING:).
+Cuida de los soldados que estén sangrando, ya que perderán puntos de salud cada turno hasta que los SANEN CON UN BOTIQUÍN.",
+KEY_TUT2_BLEEDINGSTATUS_NAME,Text,,Status Effect: Bleed,状态效果：流血,État : saignement,Statuseffekt: Blutung,Effetto di stato: Sanguinamento,Efekt stanu: Krwawienie,Статус: Кровотечение,Efecto de estado: sangrado,
+KEY_TUT2_COVER_DESCRIPTION,Text,,"These hostiles are carrying FIREARMS, so don't leave your soldiers in the open.
+Taking cover next to obscuring terrain will grant your operatives some protection from the bandit's fire.","这些敌人都带着武器，因此不要让你的士兵待在开阔地带。
+以遮挡地形当作掩体，帮助特工阻挡部分强盗的火力。","Ces ennemis sont équipés D'ARMES À FEU, alors ne laissez pas vos soldats à découvert.
+ En utilisant les éléments du terrain comme couverture, vos agents bénéficieront d'une certaine protection contre les tirs ennemis.","Diese Gegner tragen SCHUSSWAFFEN, also lass deine Soldaten nicht auf dem Präsentierteller stehen.
+Wenn du mit deinen Soldaten neben verdeckendem Gelände in Deckung gehst, sind sie vor den Schüssen der Banditen einigermaßen geschützt.","Questi nemici hanno ARMI DA FUOCO, quindi non lasciare i tuoi soldati allo scoperto.
+ Ripararsi vicino a un terreno oscurante garantirà ai tuoi agenti un po' di protezione dal fuoco dei banditi.","Wrogowie są wyposażeni w BROŃ PALNĄ – ukryj żołnierzy.
+Ukrycie się za elementem terenu zapewni operatorom pewną ochronę przed ostrzałem bandytów.","У этого бандита ОГНЕСТРЕЛЬНОЕ ОРУЖИЕ, поэтому не оставляйте своих солдат на открытой местности.
+
+Укрытия защитят ваших агентов от выстрелов неприятеля.","El enemigo porta ARMAS DE FUEGO, así que no coloques a los soldados a tiro.
+ Si los soldados se ocultan junto a terrenos que ofrezcan cobertura, recibirán cierta protección contra el fuego de los bandidos.",
+KEY_TUT2_COVER_NAME,Text,,Tactical Tip: Take Cover!,战术提示：寻找掩体！,Astuce tactique : abritez-vous !,Taktischer Tipp: Geh in Deckung!,Consiglio tattico: Usa la copertura!,Wskazówka taktyczna: Osłaniaj się!,Тактический совет: Прячьтесь в укрытие!,Consejo táctico: ¡cúbrete!,
+KEY_TUT2_CRATE_DESCRIPTION,Text,,"Crates usually contain useful items.
+
+Move the big gun, an Autocannon, to the top READY item slot, and pick up the ammo and medkit.
+
+Weapons and medkits can only be used if they're in the soldier's READY section.","箱子里通常装着有用的物品。
+
+ 将机关炮移动至顶部的就绪物品槽位，然后捡起弹药和医疗包。
+
+ 武器和医疗包只有在士兵的就绪区域中才能使用。","Généralement, les caisses contiennent des objets utiles.
+ 
+ Mettez le canon, un canon automatique, sur l'emplacement d'objet PRÊT, et récupérez les munitions et le médikit.
+ 
+ Les armes et les médikits ne peuvent s'utiliser que s'ils sont dans la section PRÊT du soldat.","Kisten enthalten in der Regel nützliche Gegenstände.
+
+Verschiebe die große Waffe – die Autokanone – in den obersten Slot im Bereich BEREIT und nimm die Munition und das Medkit auf.
+
+Waffen und Medkits können nur verwendet werden, wenn sie im Bereich BEREIT ausgerüstet sind.","Di solito le casse contengono oggetti utili.
+ 
+ Sposta il fucile grosso, un cannone automatico, nello slot oggetto PRONTO più alto e raccogli munizioni e kit medico.
+ 
+ Le armi e i kit medici possono essere usati solo se sono nella sezione PRONTO del soldato.","Skrzynie zawierają zazwyczaj przydatne przedmioty.
+ 
+ Przenieś dużą broń, armatę automatyczną, w górne miejsce na GOTOWY przedmiot i podnieś amunicję oraz apteczkę.
+ 
+Bronie i apteczki można używać tylko, jeśli znajdują się w sekcji „GOTOWE”.","В ящиках могут находиться полезные вещи.
+ 
+Переместите большую автоматическую пушку в верхний БЫСТРЫЙ СЛОТ, а также заберите боеприпасы и аптечку.
+
+Оружие и аптечки могут быть использованы, только если они находятся БЫСТРОМ СЛОТЕ солдата.","Las cajas suelen contener objetos útiles.
+ 
+ Mueve el arma grande (el cañón automático) al hueco de objeto LISTO superior y recoge la munición y el botiquín.
+ 
+ Las armas y los botiquines solo pueden usarse si están en la sección de objetos LISTOS del soldado.",
+KEY_TUT2_CRATE_NAME,Text,,Tactical Tip: Opening Crates,战术提示：打开箱子,Astuce tactique : ouvrir des caisses,Taktischer Tipp: Öffnen von Kisten,Consiglio tattico: Aprire le casse,Wskazówka taktyczna: Otwieranie skrzyń,Тактический совет: Открывайте ящики,Consejo táctico: abrir cajas,
+KEY_TUT2_DASH_DESCRIPTION,Text,,"Experienced assault soldiers (:ASSAULT:) such as Sophia can spend Will Points to DASH (:DASH:), moving UP TO HALF THEIR MOVEMENT RANGE using only 1 AP.
+Soldiers can Dash up to twice per turn.","像索菲娅这样的老练突击兵 (:ASSAULT:)，可以使用意志力点数进行猛冲 (:DASH:)，只需消耗 1 点行动点数即可移动最多等于自己移动范围一半的距离。
+士兵每个回合最多可以猛冲两次。","Les Unités d'assaut expérimentées (:ASSAULT:) telles que Sophia peuvent utiliser leurs points de volonté pour COURIR (:DASH:) et atteindre JUSQU'À LA MOITIÉ DE LEUR RAYON NORMAL DE DÉPLACEMENT en utilisant seulement 1 PA.
+ Les soldats peuvent courir deux fois par tour au maximum.","Erfahrene Sturmsoldaten (:ASSAULT:) wie Sophia können Willenspunkte investieren, um zu SPRINTEN (:DASH:) und sich so mit nur 1 AP BIS ZUR HÄLFTE IHRER BEWEGUNGSREICHWEITE zu bewegen.
+Soldaten können bis zu zweimal pro Zug sprinten.","I soldati d'assalto esperti (:ASSAULT:) come Sophia possono spendere punti volontà per SCATTARE (:DASH:), spostandosi FINO ALLA METÀ DEL PROPRIO RAGGIO DI MOVIMENTO utilizzando solo 1 PA.
+ I soldati possono scattare fino a due volte per turno.","Doświadczeni szturmowcy (:ASSAULT:), tacy jak Sophia, mogą użyć punktów woli, aby pobiec SPRINTEM (:DASH:) i przemieścić się o MAKSYMALNIE POŁOWĘ ZASIĘGU RUCHU, zużywając tylko 1 PA. Żołnierz może użyć sprintu dwa razy na turę.","Опытные штурмовики (:ASSAULT:) вроде Софии могут потратить Очки Воли на то, чтобы совершить РЫВОК (:DASH:), переместившись на количество клеток, РАВНОЕ ИЛИ МЕНЬШЕЕ ИХ РАДИУСУ ЗОНЫ ДВИЖЕНИЯ, используя при этом лишь 1 ОД.
+
+Солдаты могут совершать рывок не чаще, чем два раза за ход.","Los soldados de asalto experimentados (:ASSAULT:), como Sophia, pueden usar los puntos de voluntad para CORRER (:DASH:). Se desplazan HASTA LA MITAD DE LA DISTANCIA DE SU MOVIMIENTO usando solo 1 PA.
+ Los soldados pueden Correr hasta dos veces por turno.",
+KEY_TUT2_DASH_NAME,Text,,Tactical Tip: Dash,战术提示：猛冲,Astuce tactique : courir,Taktischer Tipp: Sprint,Consiglio tattico: Scatto,Wskazówka taktyczna: Sprint,Тактический совет: Рывок,Consejo táctico: correr,
+KEY_TUT2_DAZED_DESCRIPTION,Text,,"This character is DAZED (:DAZED:) 
+They will only have 1 AP and 50% accuracy for one turn, then return to normal.
+Soldiers get dazed when they take a lot of SHOCK DAMAGE from melee attacks or heavy weapons.","这名角色被眩晕 (:DAZED:)
+ 眩晕角色将在一个回合中只有 1 点行动点数和 50% 的准度，之后便会恢复正常。
+当士兵受到近战攻击或重型武器的大量冲击伤害时，就会陷入眩晕。","Ce soldat est ÉTOURDI (:DAZED:)
+ Il ne disposera que de 1 PA et 50 % de précision pendant un tour, puis il reviendra à la normale.
+ Les soldats sont étourdis quand ils subissent beaucoup de DÉGÂTS ÉLECTRIQUES causés par des attaques au corps à corps ou des armes lourdes.","Dieser Charakter ist VERWIRRT (:DAZED:).
+Einen Zug lang besitzt er lediglich 1 AP und 50% Genauigkeit, dann löst sich die Verwirrung.
+Soldaten werden verwirrt, wenn sie eine Menge SCHOCKSCHADEN durch Nahkampfangriffe oder schwere Waffen einstecken.","Questo personaggio è STORDITO (:DAZED:) 
+ Avrà solo 1 PA e il 50% di precisione per un turno, poi tornerà allo stato normale.
+ I soldati vengono storditi quando subiscono molti DANNI DA SHOCK da attacchi in mischia o armi pesanti.","Ta postać jest OSZOŁOMIONA (:DAZED:) 
+ Będzie miała przez jedną turę tylko 1 PA i 50% celności, po czym wróci do normalnego stanu.
+ Żołnierze wpadają w oszołomienie, gdy poniosą duże OBRAŻENIA OD WSTRZĄSU wyrządzone atakami wręcz lub bronią ciężką.","Этот персонаж ОГЛУШЕН (:DAZED:).
+
+В течение одного хода у него будет только 1 ОД, а меткость уменьшится на 50%, потом все придет в норму. На солдат накладывается статус оглушения, если они получают большой ОГЛУШАЮЩИЙ УРОН во время ближнего боя или от тяжелого оружия.","El personaje está ATURDIDO (:DAZED:)
+ Tan solo dispondrá de 1 PA y un 50 % de precisión durante 1 turno. Después, regresa a la normalidad.
+Los soldados quedan aturdidos al recibir mucho DAÑO DE CHOQUE de los ataques cuerpo a cuerpo o armas pesadas.",
+KEY_TUT2_DAZED_NAME,Text,,Daze,眩晕,Étourdissement,Verwirrung,Stordimento,Oszołomienie,Оглушение,Aturdimiento,
+KEY_TUT2_ENEMYOVERWATCH_DESCRIPTION,Text,,"This bandit has set Overwatch. He will shoot at any Phoenix soldier who ENTERS HIS OVERWATCH CONE.
+
+Don't allow this to happen!","这个强盗设置了警戒。他会向所有进入自己锥形警戒区的凤凰士兵射击。
+
+ 不要让他得逞！","Cet ennemi a activé sa vigilance. Il tirera sur tout soldat Phoenix qui ENTRE DANS SA ZONE DE VIGILANCE.
+ 
+ Attention où vous mettez les pieds !","Dieser Bandit hat „Überwachung“ aktiviert und wird auf jeden Phoenix-Soldaten schießen, der in SEINEN ÜBERWACHUNGSKEGEL TRITT.
+
+Das darfst du nicht zulassen!","Questo bandito si è messo di guardia. Sparerà a ogni soldato Phoenix che ENTRA NEL SUO CONO DI GUARDIA.
+ 
+ Non permettere che accada!","Ten bandyta rozpoczął obserwację. Będzie strzelał do każdego żołnierza Phoenix, który WEJDZIE NA OBSZAR STOŻKA OBSERWACJI.
+ 
+ Nie dopuść do tego!","Этот противник активировал состояние Наблюдения за местностью. Он выстрелит в любого солдата Феникса, который ОКАЖЕТСЯ В ЗОНЕ НАБЛЮДЕНИЯ.
+
+Не позволяйте такому случиться!","El bandido ha activado Supervisión. Disparará contra cualquier soldado Fénix que ENTRE EN EL CONO DE SUPERVISIÓN.
+ 
+ ¡No lo permitas!",
+KEY_TUT2_ENEMYOVERWATCH_NAME,Text,,Overwatching Enemy,正在警戒敌人,Ennemi en vigilance,Feindliche Überwachung,Nemico di guardia,Obserwujący wróg,Враги наблюдают за местностью,Enemigos supervisando,
+KEY_TUT2_ENEMY_FLEES_DESCRIPTION,Text,,Enemies that are too injured to fight will FLEE the battlefield.,受伤严重而无法战斗的敌人会逃离战场。,Les ennemis qui sont trop blessés pour se battre FUIENT le champ de bataille.,"Gegner, die zu schwer verletzt sind, um zu kämpfen, FLIEHEN vom Schlachtfeld.",I nemici troppo feriti per combattere FUGGONO dal campo di battaglia.,"Przeciwnicy, którzy są zbyt ranni, aby walczyć, UCIEKNĄ z pola bitwy.","Если враг тяжело ранен и не может продолжать бой, он попытается УБЕЖАТЬ с поля боя.",Los enemigos que estén demasiado heridos para luchar HUIRÁN del campo de batalla.,
+KEY_TUT2_ENEMY_FLEES_NAME,Text,,Fleeing Enemies,逃跑的敌人,Ennemis en fuite,Fliehende Gegner,Nemici in fuga,Uciekający przeciwnicy,Убегающие враги,Enemigos huyendo,
+KEY_TUT2_EXITSCARAB_DESCRIPTION,Text,,"You can exit the Scarab at any point by selecting the :EXITVEHICLE: option from the ACTION BAR. 
+",你可以在任何时候通过在行动条中选择 :EXITVEHICLE: 选项来离开圣甲虫。,Sortez du scarabée quand vous le souhaitez en sélectionnant l'option :EXITVEHICLE: de la BARRE D'ACTIONS.,"Du kannst den Scarab jederzeit verlassen, indem du die Option :EXITVEHICLE: in der Aktionsleiste anwählst.",Puoi uscire dallo Scarabeo in ogni momento selezionando l'opzione :EXITVEHICLE: dalla BARRA AZIONE.,"Możesz w dowolnej chwili opuścić Skarabeusz, wybierając opcję :EXITVEHICLE: z PASKA AKCJI.","Вы можете в любой момент выйти из Скарабея, выбрав :EXITVEHICLE: на ПАНЕЛИ ДЕЙСТВИЙ.",Puedes salir del escarabajo en cualquier momento con la opción :EXITVEHICLE: en la BARRA DE ACCIONES.,
+KEY_TUT2_EXITSCARAB_NAME,Text,,Exit Scarab,离开圣甲虫,Sortir du Scarabée,Scarab verlassen,Esci dallo Scarabeo,Opuszczanie Skarabeusza,Выход из Скарабея,Salir del escarabajo,
+KEY_TUT2_FAILEDMISSION_DESCRIPTION,Text,,"One of your soldiers has been killed, failing the mission. Don't give up!
+You should restart the mission, or reload from a save, and try again.
+Protect your soldiers and be mindful of your position at all times. Use cover, overwatch, and medkits, and keep your squad together to succeed.","你的一名士兵被击杀，任务失败。别放弃！
+重新开始任务，或重新加载存档，然后再试一次。
+保护好你的士兵，时刻注意你的位置。好好利用掩体、警戒和医疗包，让小队团结一致取得成功。","L'un de vos soldats a été tué et la mission a échoué. N'abandonnez pas !
+ Vous devriez redémarrer la mission ou recharger une sauvegarde et réessayer.
+ Protégez vos soldats et faites attention à votre position à tout moment. Utilisez les couvertures, les zones de vigilance et les médikits pour que vos soldats restent groupés et réussissent.","Einer deiner Soldaten wurde getötet, und die Mission ist gescheitert. Aber gib nicht auf! Du solltest die Mission neu starten oder einen Spielstand laden und es erneut versuchen.
+Beschütze deine Soldaten und behalte ihre Position jederzeit im Auge. Nutze Deckung, Überwachung und Medkits, und halte dein Einsatzteam zusammen, um erfolgreich zu sein.","Uno dei tuoi soldati è stato ucciso e ha fallito la missione. Non arrenderti!
+Dovresti ricominciare la missione, o ricaricarla da un salvataggio e riprovare.
+Proteggi i tuoi soldati e sii consapevole della tua posizione in ogni momento. Usa copertura, guardia e kit medici e tieni insieme la tua squadra per riuscire nel tuo intento.","Jeden z Twoich żołnierzy został zabity i misja zakończyła się niepowodzeniem. Nie poddawaj się!
+ Rozpocznij misję od nowa lub wczytaj zapis gry i spróbuj jeszcze raz.
+ Chroń swoich żołnierzy i cały czas zwracaj uwagę na ich pozycję. Jeśli chcesz zwyciężyć, korzystaj z osłon, obserwacji i apteczek oraz nie rozpraszaj oddziału.","Один из ваших солдат погиб, поэтому задание провалено. Но не сдавайтесь!
+
+Вам следует начать задание заново или открыть сохраненную ранее игру. Защищайте своих солдат и всегда грамотно оценивайте свои силы. Следите, чтобы солдаты не разбредались, используйте укрытия, активируйте наблюдение за местностью и пользуйтесь аптечками, чтобы достичь успеха.","Uno de tus soldados ha muerto y la misión no se ha completado. ¡No te rindas!
+ Debes reiniciar la misión o cargar tu partida anterior y volver a intentarlo.
+ Protege a tus soldados y presta atención a tu posición. Cúbrete, vigila y usa botiquines para que tu pelotón pueda tener éxito.",
+KEY_TUT2_FAILEDMISSION_NAME,Text,,Mission Failed,任务失败,Échec de la mission,Mission gescheitert,Missione fallita,Misja zakończona niepowodzeniem,Задание провалено,Misión no completada,
+KEY_TUT2_HEL_CANNON_DESCRIPTION,Text,,"The TYR-1 AUTOCANNON is a powerful heavy weapon with HIGH DAMAGE but LOW ACCURACY.
+
+Firing it costs 3 Action Points. Use it to deal with nearby enemies!","提尔-1 机关炮是一种强大的重型武器，伤害高但精度低。
+
+ 开火需要消耗 3 点行动点数。用它来对付附近的敌人吧！","Le CANON MITRAILLEUR TYR-1 est une arme lourde puissante qui inflige des DÉGÂTS ÉLEVÉS, mais qui a une FAIBLE PRÉCISION.
+ 
+ Son utilisation coûte 3 points d'action. Utilisez-le pour éliminer les ennemis à proximité !","Die TYR-1-AUTOKANONE ist eine mächtige schwere Waffe: HOHER SCHADEN, aber GERINGE GENAUIGKEIT.
+
+Ein Schuss kostet 3 Aktionspunkte. Setze sie ein, um Gegner in der Nähe auszuschalten!","Il CANNONE AUTOMATICO TYR-1 è una potente arma pesante con DANNI ELEVATI ma BASSA PRECISIONE. 
+ 
+ Usarla costa 3 punti azione. Utilizzala contro i nemici vicini!","ARMATA AUTOMATYCZNA TYR-1 to potężna broń ciężka o NISKIEJ CELNOŚCI i DUŻEJ SILE RAŻENIA. 
+ 
+ Strzał z armaty kosztuje 3 punkty akcji. Użyj jej, aby rozprawić się z pobliskimi przeciwnikami!","АВТОМАТИЧЕСКАЯ ПУШКА ТЮР-1 — мощное оружие с НИЗКОЙ ТОЧНОСТЬЮ и ВЫСОКИМ УРОНОМ. 
+ 
+Выстрел из нее требует 3 очка действия. Используйте ее, чтобы разделаться с врагами неподалеку!","El CAÑÓN AUTOMÁTICO TYR-1 es una poderosa arma pesada con MUCHO DAÑO, pero BAJA PRECISIÓN.
+ 
+ Usarlo cuesta 3 puntos de acción. ¡Deshazte de los enemigos cercanos con él!",
+KEY_TUT2_HEL_CANNON_NAME,Text,,Tactical Tip: Tyr-1 Autocannon,战术提示：提尔-1 机关炮,Astuce tactique : canon mitrailleur Tyr-1,Taktischer Tipp: Tyr-1-Autokanone,Consiglio tattico: Cannone automatico Tyr-1,Wskazówka taktyczna: Armata automatyczna Tyr-1,Тактический совет: автоматическая пушка Тюр-1,Consejo táctico: cañón automático Tyr-1,
+KEY_TUT2_HIGH_COVER_DESCRIPTION,Text,,"Soldiers will stand behind walls and other tall obstacles to assume a HIGH COVER position.
+A soldier in HIGH COVER may SIDE STEP to shoot and then go back into cover. Sidestepping does not cost Action Points.","士兵会躲在墙壁和其他较高障碍物后面来倚靠高掩体。
+躲藏在高掩体后面的士兵在射击时会侧步探出，然后再返回掩体。侧步不会消耗行动点数。","Les soldats se tiendront debout derrière des murs et autres obstacles élevés pour se mettre en position de COUVERTURE HAUTE.
+ Un soldat en position de COUVERTURE HAUTE peut faire un PAS DE CÔTÉ pour tirer avant de se remettre à couvert. Les pas de côté ne coûtent pas de points d'action.","Soldaten stellen sich hinter Mauern oder andere hohe Hindernisse, um HOHE DECKUNG einzunehmen.
+Ein Soldat in HOHER DECKUNG kann einen SEITENSCHRITT ausführen, um zu schießen und wieder in Deckung zu gehen. Seitenschritte kosten keine Aktionspunkte.","I soldati staranno dietro ai muri e altri ostacoli alti per assumere una posizione di COPERTURA ALTA.
+ Un soldato in COPERTURA ALTA può MUOVERSI DI FIANCO per sparare, poi potrà tornare al riparo. Lo spostamento di fianco non costa punti azione.","Operatorzy kryją się za WYSOKĄ OSŁONĄ, czyli murami i innymi przeszkodami.
+ Aby oddać strzał, żołnierz stojący za WYSOKĄ OSŁONĄ zrobi KROK W BOK i wróci za osłonę.
+Zrobienie kroku w bok nie zużywa punktów akcji.","Оказавшись рядом с ВЫСОКИМ УКРЫТИЕМ, агент прислонится к нему. Это скроет солдата от врагов и позволит уклониться от некоторых вражеских выстрелов.
+
+Чтобы открыть огонь из высокого укрытия, солдат должен будет ВЫЙТИ ИЗ УКРЫТИЯ, а затем вернуться обратно.","Los soldados se esconderán detrás de muros y otros obstáculos altos para recibir una posición de COBERTURA ALTA.
+ Los soldados con COBERTURA ALTA se ASOMARÁN para disparar y después se volverán a esconder. Asomarse no cuesta puntos de acción.",
+KEY_TUT2_HIGH_COVER_NAME,Text,,High Cover,高掩体,Couverture haute,Hohe Deckung,Copertura alta,Wysoka osłona,Высокое укрытие,Cobertura alta,
+KEY_TUT2_JETPACKJUMP_DESCRIPTION_C,Text,,"Heavy torso armor comes equipped with jetpacks allowing soldiers to FLY OVER OBSTACLES and reach very high points.  
+Use <size=60>:DUP:</size> and <size=60>:DDOWN:</size> to move the camera to reveal the HIGHEST LEVEL of the tower.
+The Jet Jump ability uses 3 APs.","重装兵盔甲自带喷气背包，使得士兵可以飞越障碍物或抵达高处。
+使用 :DUP: 和 :DDOWN: 来移动视角，查看塔的最高层。
+喷射跳跃技能消耗 3 点行动点数。","Les torses de Mastodonte sont équipés de jetpacks permettant aux soldats de VOLER AU-DESSUS DES OBSTACLES et d'atteindre des points en hauteur.
+Utilisez :DUP: et :DDOWN: pour déplacer la caméra et révéler le POINT LE PLUS ÉLEVÉ de la tour.
+ La capacité Propulsion coûte 3 PA.","Schwere Torsorüstungen sind mit Raketenrucksäcken ausgerüstet, mit denen Soldaten ÜBER HINDERNISSE FLIEGEN und sehr hoch gelegene Stellen erreichen können.
+Verwende <size=60>:DUP:</size> und <size=60>:DDOWN:</size>, um die Kamera zu bewegen und die HÖCHSTE EBENE des Turms anzuzeigen.
+Die Fähigkeit „Raketensprung“ verbraucht 3 AP.","L'armatura pesante per il busto è equipaggiata con jetpack che consentono ai soldati di VOLARE OLTRE GLI OSTACOLI e di raggiungere punti molto elevati. 
+ Usa :DUP: and :DDOWN: per spostare la telecamera e rivelare il LIVELLO PIÙ ALTO della torre.
+ L'abilità Salto jet usa 3 PA.","Ciężki napierśnik jest wyposażony w plecak odrzutowy, który pozwala żołnierzom LATAĆ NAD PRZESZKODAMI i dotrzeć w bardzo wysoko położone miejsca.
+ Użyj :DUP: i :DDOWN:, aby ruszyć kamerą i odsłonić NAJWYŻSZY POZIOM wieży. Umiejętność Skok odrzutowy zużywa 3 PA.","Солдат класса «Тяжелый штурмовик» оснащен реактивным ранцем, который позволяет ему ПРОЛЕТАТЬ НАД ПРЕПЯТСТВИЯМИ и с легкостью добираться до высоких мест.
+
+Используйте :DUP: и :DDOWN:, чтобы поднять камеру и увидеть крышу башни.
+
+Реактивный прыжок требует 3 ОД.","La armadura de torso pesada incluye una mochila propulsora que permite a los soldados SUPERAR OBSTÁCULOS y llegar a zonas muy elevadas.
+ Usa :DUP: y :DDOWN: para mover la cámara y revelar el NIVEL MÁS ALTO de la torre.
+El Salto propulsado cuesta 3 PA.",
+KEY_TUT2_JETPACKJUMP_DESCRIPTION_К,Text,,"Heavy torso armor comes equipped with jetpacks allowing soldiers to FLY OVER OBSTACLES and reach very high points. 
+SCROLL :MW: UP to move the camera to reveal the HIGHEST LEVEL of the tower.
+The Jet Jump ability uses 3 APs.","重装兵盔甲自带喷气背包，使得士兵可以飞越障碍物或抵达高处。
+向上滚动 :MW: 来移动视角，查看塔的最高层。
+喷射跳跃技能消耗 3 点行动点数。","Les torses de Mastodonte sont équipés de jetpacks permettant aux soldats de VOLER AU-DESSUS DES OBSTACLES et d'atteindre des points en hauteur.
+FAITES DÉFILER :MW: VERS LE HAUT pour déplacer la caméra et révéler le POINT LE PLUS ÉLEVÉ de la tour.
+ La capacité Propulsion coûte 3 PA.","Schwere Torsorüstung kommt mit ausgerüstetem Raketenrucksack, mit dem Soldaten ÜBER HINDERNISSE FLIEGEN und sehr hoch gelegene Stellen erreichen können.
+Scrolle das :MW: NACH OBEN, um die Kamera zu bewegen und die HÖCHSTE EBENE des Turms anzuzeigen. Die „RAKETENSPRUNG“-Fähigkeit verbraucht 3 AP.","L'armatura pesante per il busto è equipaggiata con jetpack che consentono ai soldati di VOLARE OLTRE GLI OSTACOLI e di raggiungere punti molto elevati. 
+ SCORRI IN ALTO CON :MW: per spostare la telecamera e rivelare il LIVELLO PIÙ ALTO della torre.
+ L'abilità Salto jet usa 3 PA.","Ciężki napierśnik jest wyposażony w plecak odrzutowy, który pozwala żołnierzom LATAĆ NAD PRZESZKODAMI i dotrzeć w bardzo wysoko położone miejsca.
+ PRZEWIŃ :MW: W GÓRĘ, aby ruszyć kamerą i odsłonić NAJWYŻSZY POZIOM wieży. Umiejętność Skok odrzutowy zużywa 3 PA.","Солдат класса «Тяжелый штурмовик» оснащен реактивным ранцем, который позволяет ему ПРОЛЕТАТЬ НАД ПРЕПЯТСТВИЯМИ и с легкостью добираться до высоких мест.
+
+ПРОКРУТИТЕ :MW: ВВЕРХ, чтобы поднять камеру и увидеть крышу башни.
+
+Реактивный прыжок требует 3 ОД.","La armadura de torso pesada incluye una mochila propulsora que permite a los soldados SUPERAR OBSTÁCULOS y llegar a zonas muy elevadas.
+ MUEVE :MW: HACIA ARRIBA para mover la cámara y revelar el NIVEL MÁS ALTO de la torre.
+ El Salto propulsado cuesta 3 PA.",
+KEY_TUT2_JETPACKJUMP_NAME,Text,,Tactical Tip: Jet Jump ,战术提示：喷射跳跃,Astuce tactique : propulsion,Taktischer Tipp: Raketensprung,Consiglio tattico: Salto jet,Wskazówka taktyczna: Skok odrzutowy,Тактический совет: Реактивный прыжок,Consejo táctico: salto propulsado,
+KEY_TUT2_LOW_COVER_DESCRIPTION,Text,,"Your operatives will always kneel next to low terrain to assume a LOW COVER position, potentially blocking some incoming fire.",你的特工在较低的地形后面总会采取跪姿来倚靠低矮掩体，这可能可以阻挡一些敌方火力。,"Vos agents s'agenouilleront toujours derrière un obstacle bas pour se mettre en position de COUVERTURE BASSE, en bloquant potentiellement certains tirs ennemis.","Deine Soldaten knien neben niedrigem Gelände, um FLACHE DECKUNG einzunehmen und potenziell einen Teil des Beschusses abzuwehren.","I tuoi agenti si inginocchieranno sempre vicino a un terreno basso per assumere una posizione di COPERTURA BASSA, bloccando potenziali spari in arrivo.","Operatorzy zawsze kucają przy NISKIEJ OSŁONIE, czyli niskim elemencie terenu, który może zablokować nadchodzące strzały.","Оказавшись рядом с НИЗКИМ УКРЫТИЕМ, агент спрячется за ним. Это частично скроет солдата от врагов и позволит уклониться от некоторых вражеских выстрелов.","Los operativos siempre se arrodillarán detrás del terreno bajo para recibir una COBERTURA BAJA, lo que puede llegar a bloquear parte del fuego enemigo.",
+KEY_TUT2_LOW_COVER_NAME,Text,,Low Cover,低矮掩体,Couverture basse,Flache Deckung,Copertura bassa,Niska osłona,Низкое укрытие,Cobertura baja,
+KEY_TUT2_MEDKIT_DESCRIPTION,Text,,"MEDKITS are powerful tools that can RESTORE HIT POINTS and remove status effects like Bleeding and Poison. 
+
+1. Move next to a friendly soldier
+2. Select the USE MEDKIT (:MEDKIT:) action
+3. Select a target to heal","医疗包是一种很有用的工具，可以恢复生命值并移除流血和中毒之类的状态效果。
+
+ 1. 移动至友方士兵身旁
+ 2. 选择使用医疗包 (:MEDKIT:) 行动
+ 3. 选择目标进行治疗
+","Les MÉDIKITS sont des outils très utiles qui peuvent RESTAURER DES POINTS DE VIE et retirer des états comme le saignement et le poison.
+
+ 1. Allez à côté d'un soldat allié
+ 2. Sélectionnez l'action UTILISER MÉDIKIT (:MEDKIT:)
+ 3. Sélectionnez une cible à soigner
+","MEDKITS sind leistungsstarke Werkzeuge, die TREFFERPUNKTE WIEDERHERSTELLEN und Statuseffekte wie BLUTUNG und GIFT entfernen.
+ 
+1. Bewege dich neben einen verbündeten Soldaten
+2. Wähle die Aktion MEDKIT VERWENDEN (:MEDKIT:)
+3. Wähle das Ziel, das du heilen möchtest","I KIT MEDICI sono strumenti potenti che possono RIPRISTINARE PUNTI FERITA e rimuovere effetti di stato come Sanguinamento e Veleno. 
+ 
+ 1. Spostati accanto a un soldato amichevole
+ 2. Seleziona l'azione USA KIT MEDICO (:MEDKIT:)
+3. Seleziona un bersaglio da curare
+","APTECZKI to potężne narzędzia, które PRZYWRACAJĄ PUNKTY ŻYCIA i usuwają efekty stanu takie jak krwawienie czy trucizna.
+
+ 1. Ustaw się obok sojuszniczego żołnierza
+ 2. Wybierz akcję UŻYJ APTECZKI (:MEDKIT:)
+ 3. Wybierz cel do leczenia
+","АПТЕЧКА — мощное средство, которое может ВОССТАНОВИТЬ ОЧКИ ЗДОРОВЬЯ, исцелить поврежденные части тела и убрать такие статусы, как кровотечение. 
+ 
+1. Подойдите к союзнику.
+2. Выберите действие ИСПОЛЬЗОВАТЬ АПТЕЧКУ (:MEDKIT:).
+3. Выберите того, кого нужно вылечить.","Los botiquines son herramientas útiles que pueden restaurar puntos de salud y eliminar efectos de estado como el sangrado y el envenenamiento.
+
+1. Acércate a un soldado amigo
+2. Selecciona la acción «Usar botiquín» (:MEDKIT:)
+3. Selecciona el objetivo que quieres curar
+",
+KEY_TUT2_MEDKIT_NAME,Text,,Medkit,医疗包,Médikit,Medkit,Kit medico,Apteczka,Аптечка,Botiquín,
+KEY_TUT2_MISSIONEND,Text,,Rescue Omar Ashour,拯救奥马尔·阿舒尔,Sauvez Omar Ashour,Rette Omar Ashour,Salva Omar Ashour,Uratuj Omara Ashoura,Спасите Омара Ашура,Rescata a Omar Ashour,
+KEY_TUT2_MOVEMENTZONES_DESCRIPTION,Text,,"A soldier can spend 1 AP to move a number of tiles based on their SPEED.
+
+The FOUR HIGHLIGHTED ZONES show you how far a soldier could go for each AP spent on movement.","士兵可使用 1 点行动点数来移动若干数量的方格，具体数量取决于其速度属性。
+
+ 四种高亮显示的区域表示士兵每使用 1 点行动点数可以移动的范围。","Un soldat peut utiliser 1 PA pour se déplacer sur un certain nombre de cases en fonction de sa VITESSE.
+ 
+ Les QUATRE ZONES EN ÉVIDENCE indiquent jusqu'où un soldat peut aller avec chaque PA utilisé pour le déplacement.","Ein Soldat kann 1 AP investieren, um sich, abhängig von seiner GESCHWINDIGKEIT, über eine Anzahl an Feldern zu bewegen.
+ 
+Die VIER HERVORGEHOBENEN BEREICHE zeigen an, wie weit ein Soldat für jeden in „Bewegung“ investierten AP gehen kann.","Un soldato può spendere 1 PA per spostarsi di un numero di caselle in base alla propria VELOCITÀ.
+ 
+ Le QUATTRO ZONE EVIDENZIATE ti mostrano di quanto può spostarsi un soldato per ciascun PA speso per lo spostamento.","Żołnierz może wydać 1 PA, aby przemieścić się o liczbę pól uzależnioną od jego PRĘDKOŚCI.
+
+ CZTERY PODŚWIETLONE STREFY pokazują, jak daleko żołnierz może się przemieścić na każdy wydany PA.","Солдат может потрать 1 ОД, чтобы переместиться на несколько клеток, количество которых зависит от его СКОРОСТИ.
+ 
+ЧЕТЫРЕ ПОДСВЕЧЕННЫЕ ЗОНЫ показывают, как далеко солдат может продвинуться при каждом потраченном ОД.","Los soldados pueden gastas 1 PA para moverse una cantidad de casillas igual a su VELOCIDAD.
+ 
+ Las CUATRO ZONAS RESALTADAS muestran lo lejos que se puede desplazar un soldado por cada PA que use en moverse.",
+KEY_TUT2_MOVEMENTZONES_NAME,Text,,Movement аnd Action Points,移动与行动点数,Déplacement et points d'action,Bewegung und Aktionspunkte,Movimento e punti azione,Punkty akcji i ruch,Очки Действия и движение,Movimiento y puntos de acción,
+KEY_TUT2_OMARRESCUED_DESCRIPTION,Text,,"Your squad has a new member.
+
+Omar is a HEAVY CLASS (:HEAVY:) soldier proficient in heavy weapons and armor. 
+He can deal massive damage from short ranges and withstand attacks, making him the ideal front line operative.","你的小队有了一名新成员。
+奥马尔是一名精通重型武器和护甲的重装型 (:HEAVY:) 士兵。
+ 他能在近距离造成巨大伤害，并能承受攻击，是一位理想的前线作战特工。","Votre escouade compte un nouveau membre.
+ Omar est un MASTODONTE (:HEAVY:) qui maîtrise les armes et les armures lourdes.
+ Il peut infliger des dégâts énormes à courte distance et résister aux attaques, ce qui en fait un soldat idéal sur le front.","Dein Einsatzteam hat ein neues Mitglied.
+
+Omar ist ein Soldat der BRECHERKLASSE (:HEAVY:), geübt im Umgang mit schweren Waffen und Rüstungen.
+Er richtet auf kurze Entfernung massiven Schaden an und hält Angriffen stand – ideal für die Frontlinie.","La tua squadra ha un nuovo membro.
+ Omar è un soldato di CLASSE PESANTE (:HEAVY:) esperto di armi e armatura pesanti. 
+ Può infliggere danni ingenti da brevi distanze e resistere agli attacchi: ciò lo rende l'agente ideale per la prima linea.","Twój oddział ma nowego członka.
+ Omar jest ŻOŁNIERZEM CIĘŻKOZBROJNYM (:HEAVY:), który specjalizuje się w broni ciężkiej i ciężkim pancerzu. Zadaje ogromne obrażenia na niewielkiej odległości i jest wytrzymały na ataki, co czyni go idealnym operatorem do walki na linii frontu.","В вашем отряде новый участник.
+Омар — солдат КЛАССА «ТЯЖЕЛЫЙ ШТУРМОВИК» (:HEAVY:). Он мастерски владеет тяжелым оружием и броней. 
+Тяжелые штурмовики могут наносить огромный урон с короткой дистанции и противостоять вражеским атакам, поэтому их следует использовать на передовой.","El pelotón cuenta con un nuevo miembro.
+ Omar es un soldado de CLASE PESADA (:HEAVY:) que domina las armas y armaduras pesadas.
+ Inflige muchísimo daño a corto alcance y es capaz de resistir los ataques, lo que lo convierte en un operativo ideal para estar en primera fila.",
+KEY_TUT2_OMARRESCUED_NAME,Text,,Omar Ashour Recruited,已招募奥马尔·阿舒尔,Omar Ashour recruté,Omar Ashour rekrutiert,Omar Ashour reclutato,Rekrutowano Omara Ashoura,Омар Ашур завербован,Omar Ashour reclutado,
+KEY_TUT2_OMARSELECTED_DESCRIPTION,Text,,"Omar has heavy armor, but NO WEAPON.
+The crate on top of the NEARBY TOWER might contain useful items.
+
+Move out of the building and USE THE JET JUMP
+(:JETJUMP:) ABILITY to get to the crate!","奥马尔装备有重型护甲，但没有武器。
+附近塔顶的箱子中可能有用得上的物品。
+
+ 离开建筑并使用喷射跳跃
+ (:JETJUMP:) 技能跳至箱子旁边！","Omar est équipé d'une armure lourde, mais il n'a AUCUNE ARME.
+ La caisse en haut de la TOUR À PROXIMITÉ pourrait contenir des objets utiles.
+ 
+ Sortez du bâtiment et UTILISEZ LA CAPACITÉ
+ DE PROPULSION (:JETJUMP:) pour accéder à la caisse !","Omar besitzt eine schwere Rüstung, aber KEINE WAFFE.
+Die Kiste oben im NAHGELEGENEN TURM könnte nützliche Gegenstände enthalten.
+ 
+Bewege dich aus dem Gebäude und VERWENDE DIE FÄHIGKEIT „RAKETENSPRUNG“ (:JETJUMP:), um an die Kiste zu gelangen.","Omar ha un'armatura pesante, ma è SENZA ARMI.
+ La cassa in cima alla TORRE VICINA potrebbe contenere oggetti utili.
+ 
+ Esci dall'edificio e USA L'ABILITÀ SALTO JET
+ (:JETJUMP:) per arrivare alla cassa!","Omar nosi ciężki pancerz, ale NIE MA BRONI.
+ Skrzynia na szczycie POBLISKIEJ WIEŻY może zawierać przydatne przedmioty.
+ 
+Wyjdź z budynku i UŻYJ UMIEJĘTNOŚCI SKOKU ODRZUTOWEGO
+(:JETJUMP:), aby dotrzeć do skrzyni!","У Омара тяжелая броня, но НЕТ ОРУЖИЯ.
+В ящике на БЛИЖАЙШЕЙ БАШНЕ могут быть полезные вещи.
+
+Выйдите из здания и ИСПОЛЬЗУЙТЕ РЕАКТИВНЫЙ ПРЫЖОК
+(:JETJUMP:), чтобы добраться до ящика!","Omar tiene armadura pesada, pero NO TIENE ARMA.
+ La caja en lo alto de la TORRE CERCANA puede que contenga objetos útiles.
+ 
+ Sal del edificio y ¡USA LA HABILIDAD DE 
+ SALTO PROPULSADO (:JETJUMP:) para llegar a la caja!",
+KEY_TUT2_OMARSELECTED_NAME,Text,,No Weapon,无武器,Aucune arme,Keine Waffe,Senza armi,Brak broni,Нет оружия,Sin arma,
+KEY_TUT2_OPENCRATE_DESCRIPTION_C,Text,,"You now have enough Action Points to OPEN THE CRATE.
+Select Inventory from the action bar or press <size=60>:DLEFT:</size>","你现在有足够的行动点数来打开箱子了。
+从行动条选择物品栏或按 <size=60>:DLEFT:</size>","Vous avez maintenant suffisamment de points d'action pour OUVRIR LA CAISSE.
+Sélectionnez l'inventaire dans la barre d'actions ou appuyez sur <size=60>:DLEFT:</size>.","Du hast jetzt genügend Aktionspunkte, um die KISTE zu ÖFFNEN!
+ Wähle „Inventar“ in der Aktionsleiste oder drücke <size=60>:DLEFT:</size>","Ora hai sufficienti punti azione per APRIRE LA CASSA.
+ Seleziona Inventario dalla barra azione o premi <size=60>:DLEFT:</size>","Masz już wystarczająco punktów akcji, aby OTWORZYĆ SKRZYNIĘ.
+Wybierz Ekwipunek z paska akcji lub naciśnij <size=60>:DLEFT:</size>","Теперь у вас достаточно Очков Действия, чтобы ВЗЯТЬ ПРЕДМЕТЫ ИЗ ЯЩИКА. Находясь рядом с ящиком, выберите Инвентарь на панели действий или нажмите <size=60>:DLEFT:</size>.","Ya tienes suficientes puntos de acción para ABRIR LA CAJA.
+ Selecciona el inventario en la barra de acciones o pulsa <size=60>:DLEFT:</size>",
+KEY_TUT2_OPENCRATE_DESCRIPTION_K,Text,,"You now have enough Action Points to TAKE ITEMS FROM THE CRATE.
+While standing next to it, select Inventory from the action bar or press [<color=#ECBA62>{[SetInventoryAbility]}</color>].","你现在有足够的行动点数从箱子中拾取物品了。
+站在箱子旁边时，从行动条选择物品栏或按 [<color=#ECBA62>{[SetInventoryAbility]}</color>]。","Vous avez maintenant suffisamment de points d'action pour RÉCUPÉRER DES OBJETS DE LA CAISSE.
+ Lorsque vous êtes à côté, sélectionnez l'inventaire dans la barre d'actions ou appuyez sur [<color=#ECBA62>{[SetInventoryAbility]}</color>].","Du hast jetzt genügend Aktionspunkte, um GEGENSTÄNDE AUS DER KISTE zu NEHMEN.
+ Wähle, während du daneben stehst, „Inventar“ in der Aktionsleiste oder drücke [<color=#ECBA62>{[SetInventoryAbility]}</color>].","Ora hai sufficienti punti azione per PRENDERE OGGETTI DALLA CASSA.
+ Mentre sei di fianco alla cassa, seleziona Inventario dalla barra azione o premi [<color=#ECBA62>{[SetInventoryAbility]}</color>].","Masz już wystarczająco punktów akcji, aby ZABRAĆ PRZEDMIOTY ZE SKRZYNI.
+ Stojąc obok niej, wybierz Ekwipunek z paska akcji lub naciśnij [<color=#ECBA62>{[SetInventoryAbility]}</color>].","Теперь у вас достаточно Очков Действия, чтобы ВЗЯТЬ ПРЕДМЕТЫ ИЗ ЯЩИКА. Находясь рядом с ящиком, выберите Инвентарь на панели действий или нажмите [<color=#ECBA62>{[SetInventoryAbility]}</color>].","Ya tienes suficientes puntos de acción para COGER OBJETOS DE LA CAJA.
+Colócate al lado y selecciona el inventario en la barra de acciones o pulsa [<color=#ECBA62>{[SetInventoryAbility]}</color>].",
+KEY_TUT2_OPENCRATE_NAME,Text,,Action Points Restored,行动点数已恢复,Points d'action restaurés,Aktionspunkte wiederhergestellt,Punti azione ripristinati,Odzyskano punkty akcji,Очки Действия восстановлены,Puntos de acción recuperados,
+KEY_TUT2_OVERWATCH_DESCRIPTION_C,Text,,"The Overwatch ability (:OVERWATCH:) allows you to fire within an area during the enemy’s turn. If an enemy enters the OVERWATCH CONE, your soldier automatically shoots.
+
+OVERWATCH CONTROLS
+Select target position: <size=60>:LTS:</size>
+Change width of overwatch zone:  <size=60>:LB:</size> and <size=60>:RB:</size>
+Confirm Overwatch: <size=60>:A:</size>","警戒技能 (:OVERWATCH:) 可以让士兵在敌人的回合中向某片区域开火。如果敌人进入了锥形警戒区，你的士兵将自动射击。
+
+ 警戒控制
+ 选择目标位置：<size=60>:LTS:</size>
+变更警戒区范围：<size=60>:LB:</size> 和 <size=60>:RB:</size>
+ 确认警戒：<size=60>:A:</size>","La capacité Vigilance (:OVERWATCH:) vous permet de garder une zone pendant le tour de l'ennemi. Si un ennemi entre dans la ZONE DE VIGILANCE, votre soldat tire automatiquement.
+ 
+ COMMANDES DE VIGILANCE
+ Sélectionner la position cible : <size=60>:LTS:</size>
+ Modifier la largeur de la zone : <size=60>:LB:</size> et <size=60>:RB:</size>
+ Confirmer Vigilance : <size=60>:A:</size>","Die Fähigkeit „Überwachung“ (:OVERWATCH:) ermöglicht es dir, während des gegnerischen Zuges innerhalb eines Bereichs zu feuern. Wenn ein Gegner den ÜBERWACHUNGSKEGEL betritt, schießt dein Soldat automatisch.
+
+ÜBERWACHUNG – STEUERUNG
+Zielposition auswählen: <size=60>:LTS:</size> bewegen
+Kegels ändern: <size=60>:LB:</size> und <size=60>:RB:</size>
+Überwachung bestätigen: <size=60>:A:</size>","L'abilità Guardia (:OVERWATCH:) ti permette di sparare in una certa area durante il turno del nemico. Se un nemico entra nel CONO DI GUARDIA, il tuo soldato spara automaticamente.
+ 
+ COMANDI DI GUARDIA
+ Seleziona la posizione d'arrivo: <size=60>:LTS:</size>
+ Cambia il raggio della zona di guardia: <size=60>:LB:</size> e <size=60>:RB:</size>
+ Conferma guardia: <size=60>:A:</size>","Umiejętność Obserwacja (:OVERWATCH:) umożliwia żołnierzom ostrzeliwanie obszaru w trakcie tury przeciwnika. Jeżeli wróg wejdzie w STOŻKOWATY OBSZAR OBJĘTY OBSERWACJĄ, twój żołnierz automatycznie strzeli.
+ 
+ STEROWANIE OBSERWACJĄ
+ Wybór pozycji docelowej: <size=60>:LTS:</size>
+ Zmiana szerokości obserwowanej strefy: <size=60>:LB:</size> i <size=60>:RB:</size>
+ Potwierdzenie ustawienia obserwacji: <size=60>:A:</size>","Способность Наблюдение (:OVERWATCH:) позволяет солдатам охранять территорию во время хода противника. Если враг окажется в ЗОНЕ НАБЛЮДЕНИЯ, солдат автоматически откроет огонь.
+
+УПРАВЛЕНИЕ НАБЛЮДЕНИЕМ
+Выбрать направление:: <size=60>:LTS:</size>
+Изменить ширину зоны наблюдения: <size=60>:LB:</size> и <size=60>:RB:</size>
+Подтвердить наблюдение: <size=60>:A:</size>","La habilidad de Supervisión (:OVERWATCH:) te permite disparar en una zona durante el turno del enemigo. Si un enemigo entra en el CONO DE SUPERVISIÓN, el soldado ataca automáticamente
+ 
+ CONTROLES DE LA SUPERVISIÓN
+Seleccionar la zona: <size=60>:LTS:</size>
+ Cambiar el grosor de la zona de Supervisión: <size=60>:LB:</size> y <size=60>:RB:</size>
+ Confirmar Supervisión: <size=60>:A:</size>",
+KEY_TUT2_OVERWATCH_DESCRIPTION_K,Text,,"The Overwatch ability (:OVERWATCH:) allows you to fire within an area during the enemy’s turn. If an enemy enters the OVERWATCH CONE, your soldier automatically shoots.
+
+OVERWATCH CONTROLS
+Select target position: Move Mouse
+Change width of overwatch zone: CTRL + :MW:
+Confirm Overwatch: :LMB:","警戒技能 (:OVERWATCH:) 可以让士兵在敌人的回合中向某片区域开火。如果敌人进入了锥形警戒区，你的士兵将自动射击。
+
+ 警戒控制
+ 选择目标位置：移动鼠标
+变更警戒区范围：Ctrl + :MW: 
+ 确认警戒：:LMB:","La capacité Vigilance (:OVERWATCH:) vous permet de tirer dans une zone pendant le tour de l'ennemi. Si un ennemi entre dans la ZONE DE VIGILANCE, votre soldat tire automatiquement.
+ 
+ COMMANDES DE VIGILANCE
+ Sélectionner la position cible : déplacez la souris
+ Modifier la largeur de la zone : CTRL + :MW:
+ Confirmer Vigilance : :LMB:","Die Fähigkeit „Überwachung“ (:OVERWATCH:) ermöglicht es dir, während des gegnerischen Zuges innerhalb eines Bereichs zu feuern. Wenn ein Gegner den ÜBERWACHUNGSKEGEL betritt, schießt dein Soldat automatisch.
+
+ÜBERWACHUNG – STEUERUNG
+Zielposition auswählen: Maus bewegen
+Kegels ändern: STRG + :MW:
+Überwachung bestätigen: :LMB:","L'abilità Guardia (:OVERWATCH:) ti permette di sparare in una certa area durante il turno del nemico. Se un nemico entra nel CONO DI GUARDIA, il tuo soldato spara automaticamente.
+ 
+ COMANDI DI GUARDIA
+ Seleziona la posizione d'arrivo: sposta il mouse
+ Cambia il raggio della zona di guardia: CTRL + :MW:
+ Conferma guardia: :LMB:","Umiejętność Obserwacja (:OVERWATCH:) umożliwia żołnierzom ostrzeliwanie obszaru w trakcie tury przeciwnika. Jeżeli wróg wejdzie w STOŻKOWATY OBSZAR OBJĘTY OBSERWACJĄ, twój żołnierz automatycznie strzeli.
+ 
+ STEROWANIE OBSERWACJĄ
+ Wybór pozycji docelowej: przesuń myszkę.
+ Zmiana szerokości obserwowanej strefy: CTRL + :MW:.
+ Potwierdzenie ustawienia obserwacji: :LMB:.","Способность Наблюдение (:OVERWATCH:) позволяет солдатам охранять территорию во время хода противника. Если враг окажется в ЗОНЕ НАБЛЮДЕНИЯ, солдат автоматически откроет огонь.
+
+УПРАВЛЕНИЕ НАБЛЮДЕНИЕМ
+Выбрать направление: двигайте мышку
+Изменить ширину зоны наблюдения: CTRL + :MW:
+Подтвердить наблюдение: :LMB:
+
+
+","La habilidad de Supervisión (:OVERWATCH:) te permite disparar en una zona durante el turno del enemigo. Si un enemigo entra en el CONO DE SUPERVISIÓN, el soldado ataca automáticamente
+ 
+ CONTROLES DE LA SUPERVISIÓN
+Seleccionar la zona: Mover el ratón
+ Cambiar el grosor de la zona de Supervisión: CTRL + :MW:
+ Confirmar Supervisión: :LMB:",
+KEY_TUT2_OVERWATCH_NAME,Text,,Overwatch,警戒,Vigilance,Überwachung,Guardia,Obserwacja,Наблюдение за местностью,Supervisión,
+KEY_TUT2_PANIC_DESCRIPTION,Text,,"When a character's Will Points drop to 0, they become PANICKED (:PANIC:). 
+Panicked characters will automatically move to find cover and end their turn.","角色的意志力点数降为 0 时，就会陷入恐慌 (:PANIC:)。
+ 恐慌角色会自动移动寻找掩体，并结束自己的回合。","Lorsque les points de volonté d'un personnage tombent à 0, il entre en état de PANIQUE (:PANIC:).
+  Les personnages paniqués se déplacent automatiquement pour se mettre à l'abri et terminent leur tour.","Wenn die Willenspunkte eines Charakters auf 0 fallen, verfällt er in PANIK (:PANIC:).
+Charaktere in Panik bewegen sich automatisch, um Deckung zu suchen, und beenden ihren Zug.","Quando i punti volontà di un personaggio arrivano a 0, il personaggio va IN PANICO (:PANIC:). 
+ I personaggi in panico si muoveranno automaticamente per trovare copertura e terminare il loro turno.","Gdy postać straci wszystkie punkty woli, zacznie PANIKOWAĆ (:PANIC:). Spanikowane postacie automatycznie szukają osłony i kończą turę.","Когда значение Воли солдата опускается до 0, он ПАНИКУЕТ (:PANIC:). Паникующие солдаты самостоятельно перемещаются в поисках укрытия.","Los personajes quedan ATERRORIZADOS (:PANIC:) cuando sus puntos de voluntad se reducen a 0.
+ Se moverán automáticamente en busca de cobertura y finalizarán su turno.",
+KEY_TUT2_PANIC_NAME,Text,,Tactical Tip: Panic,战术提示：恐慌,Astuce tactique : panique,Taktischer Tipp: Panik,Consiglio tattico: Panico,Wskazówka taktyczna: Panika,Тактический совет: Паника,Consejo táctico: pánico,
+KEY_TUT2_REALISTICBALLISTICS_DESCRIPTION,Text,,"Firefights in Phoenix Point use REALISTIC BULLET PHYSICS.
+Taking cover behind terrain will obscure parts of your soldiers, making them less exposed to enemy gunfire. 
+
+Plan your positioning carefully, taking into account the size and shape of cover elements.","Phoenix Point 中的交火采用写实的子弹物理引擎。
+在地形后倚靠掩体可以隐藏士兵的部分身体部位，减少他们暴露在敌方火力下的几率。
+
+ 一定要仔细规划战斗的走位，同时还要考虑掩体的大小和形状。","Dans Phoenix Point, les échanges de coups de feu sont basés sur la PHYSIQUE RÉELLE DES BALLES.
+ Se mettre à couvert derrière des éléments du terrain dissimule certaines parties du corps de vos soldats, réduisant leur exposition aux tirs ennemis.
+ 
+ Planifiez bien vos positions en prenant en compte la taille et la forme des éléments de couverture.","Feuergefechte in „Phoenix Point“ bieten REALISTISCHE PHYSIK BEI GESCHOSSEN.
+Im Gelände in Deckung gehen verdeckt Teile deiner Soldaten, sodass sie feindlichem Beschuss weniger ausgesetzt sind.
+ 
+Plane deine Stellung sorgfältig und berücksichtige dabei Form und Größe der schützenden Elemente.","Gli scontri a fuoco di Phoenix Point si basano sulla FISICA REALISTICA DEI PROIETTILI
+ Ripararsi dietro al terreno, oscurerà parti dei tuoi soldati, rendendoli meno esposti al fuoco nemico. 
+ 
+ Pianifica dove ti posizionerai in modo accurato, tenendo conto della forma e dimensione degli elementi di copertura.","Phoenix Point posiada REALISTYCZNY SYSTEM FIZYKI POCISKÓW.
+ Krycie się za elementami terenu osłania części żołnierza, czyniąc go mniej podatnym na ostrzał wroga.
+ 
+ Uważnie planuj rozmieszczenie żołnierzy, uwzględniając rozmiar i kształt osłon.","В Phoenix Point используется реалистичная физика для расчета траекторий выстрелов.
+
+Скрываясь за укрытиями, солдат будет менее уязвим для выстрелов врага. 
+ 
+Тщательно планируйте перемещения своих солдат, принимая во внимание размеры и форму укрытий.","Los combates en Phoenix Point usan la FÍSICA REALISTA DE BALAS.
+ Cubrirse detrás de terreno ocultará partes del cuerpo de los soldados, lo que reduce la exposición al fuego enemigo.
+ 
+ Ten en cuenta el tamaño y la forma de los elementos que aportan cobertura al posicionarte.",
+KEY_TUT2_REALISTICBALLISTICS_NAME,Text,,Realistic Ballistics,写实弹道,Balistique réaliste,Realistische Ballistik,Balistica realistica,Realistyczny system balistyki,Реалистичная баллистика,Balísticas realistas,
+KEY_TUT2_RECOVER_DESCRIPTION,Text,,"Your Will Points are critically low. You can recover half of your maximum WPs by using the RECOVER (:RECOVER:) ability. This requires all 4 Action Points, so make sure your soldier is in a safe place when you use it.",你的意志力点数很低。你可以使用恢复 (:recover:) 技能来恢复一半的最大意志力点数。此技能会消耗全部 4 点行动点数，因此在使用的时候请确保士兵位于安全地带。,"Vos points de volonté sont extrêmement bas. Vous pouvez récupérer la moitié de vos PVo maximum en utilisant la capacité RÉCUPÉRER (:RECOVER:). Celle-ci nécessite 4 points d'action, alors veillez à ce que votre soldat soit en lieu sûr pour l'utiliser.","Deine Willenspunkte haben einen kritischen Stand erreicht. Du kannst die Hälfte deiner maximalen WP mithilfe der Fähigkeit WIEDERHERSTELLEN (:RECOVER:) wiederherstellen. Dazu sind alle 4 Aktionspunkte erforderlich, sorge also dafür, dass sich dein Soldat an einem sicheren Ort befindet, wenn du diese Fähigkeit einsetzt.","I tuoi punti volontà sono a un livello critico. Puoi recuperare la metà dei tuoi PV massimi utilizzando l'abilità RECUPERA (:RECOVER:). Ciò richiede tutti e 4 i punti azione, quindi assicurati che il tuo soldato sia in un luogo sicuro quando la usi.","Masz bardzo mało punktów woli. Możesz odzyskać połowę maksymalnych PW, używając umiejętności ODZYSKANIE (:RECOVER:). Wyczerpuje ona wszystkie 4 punkty akcji, więc przed jej użyciem upewnij się, że żołnierz jest w bezpiecznym miejscu.","Очки Воли вашего солдата - на критическом уровне. Вы можете восстановить половину очков Воли, используя способность ВОССТАНОВЛЕНИЯ. Это потребует все 4 Очка Действия, поэтому удостоверьтесь, что ваш солдат в безопасности, прежде чем инициировать восстановление.","Los puntos de voluntad están en niveles críticos. Puedes recuperar la mitad de los PV usando la habilidad RECUPERACIÓN (:RECUPERACIÓN:). Requiere 4 puntos de acción, así que asegúrate de que el soldado está a salvo antes de usarla.",
+KEY_TUT2_RECOVER_NAME,Text,,Tactical Tip: Recover,战术提示：恢复,Astuce tactique : récupérer,Taktischer Tipp: Wiederherstellen,Consiglio tattico: Recupero,Wskazówka taktyczna: Odzyskanie,Тактический совет: Восстановление,Consejo táctico: recuperación,
+KEY_TUT2_RECRUITMENT_DESCRIPTION,Text,,"You've found the operative who sent the distress call.
+
+Friendly characters are marked with a WHITE CIRCLE.
+Move a soldier inside this circle to RECRUIT the character and take control over him.","你找到了发出求救信号的特工。
+
+ 友方角色以白圈标记。
+ 将一位士兵移动至此圈即可招募该角色，将其纳入你的控制。","Vous avez trouvé l'agent qui a envoyé l'appel de détresse.
+ 
+Les personnages alliés sont indiqués par un CERCLE BLANC.
+ Déployez un soldat dans ce cercle pour RECRUTER le personnage et en prendre le contrôle.","Du hast den Soldaten gefunden, der den Notruf gesendet hat.
+ 
+Verbündete Charaktere sind durch einen WEISSEN KREIS markiert.
+Bewege einen Soldaten in diesen Kreis, um den Charakter zu REKRUTIEREN und seine Kontrolle zu übernehmen.","Hai trovato l'agente che ha inviato la richiesta di aiuto.
+ 
+ I personaggi amichevoli sono marcati con un CERCHIO BIANCO.
+ Sposta un soldato dentro a questo cerchio per RECLUTARE il personaggio e assumerne il controllo.","Udało ci się namierzyć operatora, który wysłał wezwanie o pomoc.
+ 
+ Sojusznicze postacie są oznaczone BIAŁYM KOŁEM.
+ Przemieść żołnierza w koło, aby REKRUTOWAĆ postać i przejąć nad nią kontrolę.","Вы нашли агента, пославшего сигнал бедствия.
+ 
+Персонажи-союзники подсвечиваются БЕЛЫМ КРУГОМ.
+
+Переместите солдата внутрь этого круга, чтобы ЗАВЕРБОВАТЬ союзника и управлять им.","Has encontrado al operativo que ha enviado la llamada de socorro.
+ 
+ Los personajes amistosos se marcan con un CÍRCULO BLANCO.
+ Mueve al soldado al interior del círculo para RECLUTAR al personaje y controlarlo.",
+KEY_TUT2_RECRUITMENT_NAME,Text,,Ally Located,已定位盟友,Allié repéré,Verbündeten ausfindig gemacht,Alleato localizzato,Znaleziono sojusznika,Обнаружен союзник,Aliado localizado,
+KEY_TUT2_REINFORCEMENT_DESCRIPTION,Text,,"Some battlefields feature REINFORCEMENT POINTS (:REINFORCEMENTS:). 
+New enemies will be arriving from them, so don't leave your soldiers exposed.","某些战场具有增援点 (:REINFORCEMENTS:)。
+新的敌人将从这些区域抵达战场，因此不要让你的士兵暴露在那些地点。","Certains champs de bataille indiquent des POINTS DE RENFORTS (:REINFORCEMENTS:).
+De nouveaux ennemis arriveront à ces points, alors ne laissez pas vos soldats exposés.","Manche Schlachtfelder verfügen über VERSTÄRKUNGSPUNKTE (:REINFORCEMENTS:).
+Aus ihnen schlüpfen neue Gegner, also lass deine Soldaten nicht ungeschützt.","Alcuni campi di battaglia presentano PUNTI DI RINFORZO (:REINFORCEMENTS:). 
+ I nuovi nemici arriveranno da lì, quindi non lasciare esposti i tuoi soldati.","Niektóre pola bitwy zawierają PUNKTY POSIŁKÓW (:REINFORCEMENTS:). Będą z nich nadchodzić nowi wrogowie, więc nie zostawiaj w pobliżu nieosłoniętych żołnierzy.","На некоторых локациях есть ЗОНЫ ПОДКРЕПЛЕНИЯ (:REINFORCEMENTS:). 
+
+Туда будут прибывать новые враги, поэтому не оставляйте своих солдат без прикрытия.","Ciertos campos de batalla tienen PUNTOS DE REFUERZO (:REINFORCEMENTS:). Ahí aparecerán nuevos enemigos, así que no expongas a los soldados.",
+KEY_TUT2_REINFORCEMENT_NAME,Text,,Reinforcement Zones,增援区域,Zones de renfort,Verstärkungszonen,Zone di rinforzo,Strefy posiłków,Зоны подкрепления,Zonas de refuerzo,
+KEY_TUT2_SCARABBLAST_DESCRIPTION_C,Text,,"Select a target point for the Scarab's missile strike, then press <size=60>:A:</size> to LAUNCH.
+
+Targeting is not precise - missile trajectories may vary, causing them to land near the target, miss it entirely, or even detonate early if they hit obstacles along the way. The outer blue circle indicates the possible impact area, while the targeting cone shows the range of possible trajectories. The red sphere represents the blast radius if the missile lands exactly on target.","选择一个目标点作为圣甲虫导弹打击的落点，然后按<size=60>:A:</size> 发射。
+ 
+目标定位并不精确--导弹的飞行轨迹可能发生偏差，导致其落在目标附近、完全偏离目标，甚至在途中撞击障碍物而提前爆炸。外侧的蓝色圆圈表示可能的落点范围，锥形区域表示可能的飞行轨迹范围。红色球体表示导弹若精确命中目标时的爆炸半径。","Sélectionnez un point cible pour la frappe de missiles du Scarabée, puis appuyez sur <size=60>:A:</size> pour LANCER.
+ 
+Le ciblage n’est pas précis - les trajectoires des missiles peuvent varier, ce qui peut les faire tomber près de la cible, la manquer complètement ou même exploser prématurément s’ils heurtent des obstacles en chemin. Le cercle bleu extérieur indique la zone d’impact possible, tandis que le cône de ciblage montre l’éventail des trajectoires possibles. La sphère rouge représente le rayon d’explosion si le missile atteint précisément la cible.","Wähle einen Zielpunkt für den Raketenschlag des Scarab und drücke <size=60>:A:</size> zum Abfeuern.
+ 
+ Alle Charaktere, die sich im orangefarbenen Explosionsbereich befinden, werden verletzt, außer sie befinden sich im Gelände in Deckung. Das Anvisieren ist jedoch nicht sonderlich präzise - Raketen KÖNNTEN ENTFERNT von deinem gewünschten Zielpunkt landen, besonders auf große Entfernung.","Seleziona un punto bersaglio per l’attacco missilistico dello Scarab e premi <size=60>:A:</size> per LANCIARE.
+ 
+Il puntamento non è preciso - le traiettorie dei missili possono variare, causando atterraggi vicino al bersaglio, mancate totali o persino detonazioni premature se colpiscono ostacoli lungo il percorso. Il cerchio blu esterno indica l’area di impatto possibile, mentre il cono di puntamento mostra le possibili traiettorie. La sfera rossa rappresenta il raggio dell’esplosione se il missile colpisce esattamente il bersaglio.","Wybierz punkt docelowy dla ataku rakietowego Scaraba, a następnie naciśnij <size=60>:A:</size>, aby WYSTRZELIĆ.
+ 
+Celowanie nie jest precyzyjne - trajektorie pocisków mogą się różnić, co może spowodować trafienie w pobliżu celu, całkowite chybienie lub nawet przedwczesną detonację po uderzeniu w przeszkody. Zewnętrzny niebieski okrąg wskazuje możliwy obszar trafienia, natomiast stożek celowania przedstawia możliwe trajektorie. Czerwona kula oznacza promień wybuchu, jeśli pocisk trafi dokładnie w cel.","Выберите точку цели для ракетного удара «Скараба», затем нажмите <size=60>:A:</size>, чтобы ЗАПУСТИТЬ.
+Наведение не является точным - траектории ракет могут различаться, из-за чего они могут упасть рядом с целью, полностью промахнуться или даже взорваться раньше времени при столкновении с препятствиями. Внешний синий круг показывает возможную область попадания, а конус прицеливания - возможные траектории. Красная сфера обозначает радиус взрыва, если ракета попадёт точно в цель.","Selecciona un punto objetivo para el ataque de misiles del Scarab y pulsa <size=60>:A:</size> para LANZAR.
+ 
+La puntería no es precisa - las trayectorias de los misiles pueden variar, lo que puede hacer que caigan cerca del objetivo, lo fallen por completo o incluso detonen antes de tiempo si impactan con obstáculos en el camino. El círculo azul exterior indica el área de impacto posible, mientras que el cono de apuntado muestra las posibles trayectorias. La esfera roja representa el radio de explosión si el misil impacta exactamente en el objetivo.",
+KEY_TUT2_SCARABBLAST_DESCRIPTION_K,Text,,"Select a target point for the Scarab's missile strike, then press :LMB: to LAUNCH.
+
+Targeting is not precise - missile trajectories may vary, causing them to land near the target, miss it entirely, or even detonate early if they hit obstacles along the way. The outer blue circle indicates the possible impact area, while the targeting cone shows the range of possible trajectories. The red sphere represents the blast radius if the missile lands exactly on target.","选择一个目标点作为圣甲虫导弹打击的落点，然后按 :LMB: 发射。
+
+目标定位并不精确--导弹的飞行轨迹可能发生偏差，导致其落在目标附近、完全偏离目标，甚至在途中撞击障碍物而提前爆炸。外侧的蓝色圆圈表示可能的落点范围，锥形区域表示可能的飞行轨迹范围。红色球体表示导弹若精确命中目标时的爆炸半径。","Sélectionnez un point cible pour la frappe de missiles du Scarabée, puis appuyez sur :LMB: pour LANCER.
+ 
+Le ciblage n’est pas précis - les trajectoires des missiles peuvent varier, ce qui peut les faire tomber près de la cible, la manquer complètement ou même exploser prématurément s’ils heurtent des obstacles en chemin. Le cercle bleu extérieur indique la zone d’impact possible, tandis que le cône de ciblage montre l’éventail des trajectoires possibles. La sphère rouge représente le rayon d’explosion si le missile atteint précisément la cible.","Wähle einen Zielpunkt für den Raketenschlag des Scarab und drücke :LMB: zum ABFEUERN.
+ 
+Alle Charaktere, die sich im orangefarbenen Einschlagsbereich befinden, werden verletzt, außer sie befinden sich im Gelände in Deckung. Das Anvisieren ist nicht sonderlich präzise - Raketen landen MÖGLICHERWEISE ABSEITS deines gewünschten Zielpunkts, besonders auf große Entfernung.","Seleziona un punto bersaglio per l’attacco missilistico dello Scarab e premi :LMB: per LANCIARE.
+ 
+Il puntamento non è preciso - le traiettorie dei missili possono variare, causando atterraggi vicino al bersaglio, mancate totali o persino detonazioni premature se colpiscono ostacoli lungo il percorso. Il cerchio blu esterno indica l’area di impatto possibile, mentre il cono di puntamento mostra le possibili traiettorie. La sfera rossa rappresenta il raggio dell’esplosione se il missile colpisce esattamente il bersaglio.","Wybierz punkt docelowy dla ataku rakietowego Scaraba, a następnie naciśnij :LMB:, aby WYSTRZELIĆ.
+ 
+Celowanie nie jest precyzyjne - trajektorie pocisków mogą się różnić, co może spowodować trafienie w pobliżu celu, całkowite chybienie lub nawet przedwczesną detonację po uderzeniu w przeszkody. Zewnętrzny niebieski okrąg wskazuje możliwy obszar trafienia, natomiast stożek celowania przedstawia możliwe trajektorie. Czerwona kula oznacza promień wybuchu, jeśli pocisk trafi dokładnie w cel.","Выберите точку цели для ракетного удара «Скараба», затем нажмите :LMB:, чтобы ЗАПУСТИТЬ.
+
+Наведение не является точным - траектории ракет могут различаться, из-за чего они могут упасть рядом с целью, полностью промахнуться или даже взорваться раньше времени при столкновении с препятствиями. Внешний синий круг показывает возможную область попадания, а конус прицеливания - возможные траектории. Красная сфера обозначает радиус взрыва, если ракета попадёт точно в цель.","Selecciona un punto objetivo para el ataque de misiles del Scarab y pulsa :LMB: para LANZAR.
+ 
+La puntería no es precisa - las trayectorias de los misiles pueden variar, lo que puede hacer que caigan cerca del objetivo, lo fallen por completo o incluso detonen antes de tiempo si impactan con obstáculos en el camino. El círculo azul exterior indica el área de impacto posible, mientras que el cono de apuntado muestra las posibles trayectorias. La esfera roja representa el radio de explosión si el misil impacta exactamente en el objetivo.",
+KEY_TUT2_SCARABBLAST_NAME,Text,,Scarab Blast,圣甲虫轰炸,Explosion de Scarabée,Scarab-Doppelraketenwerfer,Esplosione dello Scarabeo,Skarabeuszowa eksplozja,Ракетный удар Скарабея,Estallido de escarabajo,
+KEY_TUT2_SCARABSELECTED_DESCRIPTION,Text,,"The Scarab (:SCARAB:) is a heavily armored VEHICLE that can TRANSPORT YOUR SOLDIERS.
+
+It is equipped with a powerful missile launcher. 
+
+Select LAUNCH MISSILES (:SCARABMISSILE:) from the Action Bar to learn about it. 
+","圣甲虫 (:SCARAB:) 是一种重型装甲载具，可以运送你的士兵。
+
+ 圣甲虫装备有强大的导弹发射器。
+
+ 从行动条选择发射导弹 (:SCARABMISSILE:) 进行了解。","Le Scarabée (:SCARAB:) est un VÉHICULE lourdement blindé qui peut TRANSPORTER VOS SOLDATS.
+ 
+ Il est équipé d'un lance-missiles puissant.
+
+ Sélectionnez LANCER MISSILES (:SCARABMISSILE:) dans la barre d'actions pour en savoir plus.","Der Scarab (:SCARAB:) ist ein schwer gepanzertes FAHRZEUG, das DEINE SOLDATEN TRANSPORTIEREN kann.
+ 
+Er ist mit einem mächtigen Raketenwerfer ausgestattet.
+
+Wähle RAKETEN ABFEUERN (:SCARABMISSILE:) in der Aktionsleiste aus, um mehr darüber zu erfahren.","Lo Scarabeo (:SCARAB:) è un VEICOLO altamente corazzato che può TRASPORTARE I TUOI SOLDATI.
+ 
+ È equipaggiato con un potente lanciamissili. 
+ 
+Seleziona LANCIA MISSILI (:SCARABMISSILE:) dalla barra azione per saperne di più.","Skarabeusz (:SCARAB:) to ciężko opancerzony POJAZD, którym możesz PRZEWOZIĆ ŻOŁNIERZY.
+ 
+Jest wyposażony w potężną wyrzutnię rakiet.
+ 
+Wybierz opcję WYSTRZEL POCISKI RAKIETOWE (:SCARABMISSILE:) z paska akcji, aby dowiedzieć się więcej na ten temat.","Скарабей (:SCARAB:) —  бронированная МАШИНА, которая может использоваться для ТРАНСПОРТИРОВКИ ВАШИХ СОЛДАТ.
+ 
+У нее имеется мощная ракетная установка. 
+ 
+Выберите РАКЕТНЫЙ УДАР (:SCARABMISSILE:) на панели действий, чтобы узнать подробности.","El escarabajo (:SCARAB:) es un vehículo blindado que puede transportar a tus soldados.
+ 
+ Está equipado con un potente lanzamisiles.
+ 
+ Selecciona el lanzamisiles (:SCARABMISSILE:) en la barra de acciones para saber más al respecto.",
+KEY_TUT2_SCARABSELECTED_NAME,Text,,Tactical Tip: PX Scarab,战术提示：凤凰圣甲虫,Astuce tactique : Scarabée PX,Taktischer Tipp: PX Scarab,Consiglio tattico: Scarabeo PX,Wskazówka taktyczna: Skarabeusz PX,Тактический совет: Скарабей ФС,Consejo táctico: escarabajo Fénix,
+KEY_TUT2_SPOTTEDENEMIES_DESCRIPTION_C,Text,,"All allies and spotted enemies will appear as icons above the action bar. 
+
+When you have activated shooting, bashing or healing, you can select a CHARACTER ICON with :LB: and :RB: to target a specific character.","所有盟友和已发现敌人的图标都会显示在物品栏上方。
+
+ 当你激活过射击、猛击或治疗时，可以用 :LB: 和 :RB: 选择角色图标来选定特定的角色。","Tous les alliés et les ennemis détectés apparaissent en tant qu'icônes sous la barre d'actions.
+ 
+ Une fois que vous avez activé le tir, les coups ou les soins, sélectionnez L'ICÔNE D'UN PERSONNAGE avec :LB: et :RB: pour cibler un personnage particulier.","Alle Verbündeten und gesichteten Gegner erscheinen als Symbole über der Aktionsleiste.
+ 
+Wenn du Schießen, Wuchtschlag oder Heilen aktiviert hast, kannst du mit :LB: und :RB: ein CHARAKTERSYMBOL anwählen, um einen bestimmten Charakter auszuwählen.","Tutti gli alleati e i nemici individuati appariranno come icone sopra la barra azione. 
+ 
+ Una volta attivati sparatoria, colpo contundente o cura, puoi selezionare un'ICONA PERSONAGGIO con :LB: e :RB: per puntare un personaggio specifico.","Wszyscy sojusznicy i wykryci wrogowie są oznaczeni ikonami nad paskiem akcji.
+ 
+ Po aktywowaniu czynności strzelania, uderzenia przedmiotem lub leczenia możesz wybrać IKONĘ POSTACI, klikając :LB: i :RB:, aby objąć postać na cel.","Все союзники и обнаруженные враги отображаются в виде значков над Панелью действий.
+
+После активации действия «Стрельба», «Удар» или «Лечение», с помощью :LB: и :RB: вы можете выбрать ЗНАЧОК ПЕРСОНАЖА, в отношении которого вы хотите применить активированное действие.","Los aliados y los enemigos avistados aparecerán como iconos encima de la barra de acciones.
+ 
+ Cuando vas a disparar, golpear o sanar, puedes seleccionar el ICONO DEL PERSONAJE con :LB: y :RB: para elegir a un personaje en concreto.",
+KEY_TUT2_SPOTTEDENEMIES_DESCRIPTION_K,Text,,All allies and spotted enemies will appear as icons above the action bar. You can HOVER OR CLICK THOSE ICONS to target a specific character.,所有盟友和已发现敌人的图标都会显示在物品栏上方。你可以将鼠标悬停在图标上或点击图标，来选定特定的角色。,Tous les alliés et les ennemis détectés apparaissent en tant qu'icônes au-dessus de la barre d'actions. PASSEZ LE CURSEUR OU CLIQUEZ SUR CES ICÔNES pour cibler un personnage particulier.,"Verbündete und entdeckte Gegner werden als Symbole über der Aktionsleiste angezeigt.
+ÜBER SYMBOLE FAHREN ODER SIE ANKLICKEN, um einen bestimmten Charakter als Ziel festzulegen.",Tutti gli alleati e i nemici individuati appariranno come icone sopra la barra azione. Puoi PASSARE SOPRA O CLICCARE SU QUELLE ICONE per puntare un personaggio specifico.,"Wszyscy sojusznicy i wykryci wrogowie są oznaczeni ikonami nad paskiem akcji. Możesz UMIEŚCIĆ KURSOR NAD IKONAMI LUB KLIKNĄĆ JE, aby obrać postać na cel.","Все союзники и обнаруженные враги отображаются в виде значков над Панелью действий. Вы можете НАВЕСТИ КУРСОР ИЛИ КЛИКНУТЬ ПО ТАКОМУ ЗНАЧКУ, чтобы выбрать соответствующего персонажа.",Los aliados y los enemigos avistados aparecerán como iconos encima de la barra de acciones. Puedes COLOCAR EL RATÓN ENCIMA DE LOS ICONOS O HACER CLIC EN ELLOS para seleccionar a un personaje en concreto.,
+KEY_TUT2_SPOTTEDENEMIES_NAME,Text,,Spotted Enemies,已发现敌人,Ennemis détectés,Gesichtete Gegner,Nemici individuati,Wykryci wrogowie,Обнаруженные враги,Enemigos avistados,
+KEY_TUT2_STORY1_DECRIPTION,Text,,"""We've got visual on the building. The Phoenix operative should be close by. There are hostiles up ahead, so stay vigilant!""",我们看到建筑物了。凤凰特工应该就在附近。前方有敌人，保持警惕！,"Nous avons une image du bâtiment. L'agent Phoenix ne devrait pas être loin. Il y a des ennemis plus loin, restez vigilants !","Wir haben Sichtkontakt zum Gebäude. Der Phoenix-Soldat müsste in der Nähe sein. Der Feind ist voraus, also wachsam bleiben.","Abbiamo la visuale sull'edificio. L'agente Phoenix dovrebbe essere vicino. Ci sono nemici più avanti, quindi restare all'erta!",Widzimy budynek. Operator Phoenix powinien być blisko. Przed nami wrogowie – zachować czujność!,Мы рядом с объектом. Агент Феникса должен быть неподалеку. Но сохраняйте бдительность - опасность за каждым углом!,"Tenemos el edificio a la vista. Los operativos Fénix deberían estar cerca. ¡Hay enemigos más adelante, manteneos alerta!",
+KEY_TUT2_STORY1_NAME,Text,,Sophia Brown,索菲娅·布朗,Sophia Brown,Sophia Brown,Sophia Brown,Sophia Brown,София Браун,Sophia Brown,
+KEY_TUT2_STORY2_DESCRIPTION,Text,,"""Omar, is it? Glad you found some gear, 'cause you're gonna need it. Now you're part of my squad.""",奥马尔，是你吗？很高兴你找到了装备，你肯定会用上它们的。现在，你是我们小队的一员了。,"Omar, c'est bien ça ? Ravie que vous ayez trouvé des équipements, vous allez en avoir besoin. Vous faites partie de mon escouade, maintenant.","Omar, nicht wahr? Gut, dass du ein wenig Ausrüstung gefunden hast. Du wirst sie brauchen. Du bist jetzt Teil meines Einsatzteams.","Omar, giusto? Per fortuna hai trovato dell'equipaggiamento: ne avrai bisogno. Ora fai parte della mia squadra.","Omar, tak? Dobrze, że znalazłeś broń – będziesz jej potrzebował. Teraz należysz do mojego oddziału.","Омар, верно? Рада, что ты нашел оружие, тебе оно понадобится. Добро пожаловать в мою команду!","Te llamabas Omar, ¿verdad? Menos mal que has encontrado algo de equipo porque lo vas a necesitar. Bienvenido al pelotón.",
+KEY_TUT2_STORY2_NAME,Text,,Sophia Brown,索菲娅·布朗,Sophia Brown,Sophia Brown,Sophia Brown,Sophia Brown,София Браун,Sophia Brown,
+KEY_TUT2_VEHICLE_AMMO_DESCRIPTION,Text,,"Your Scarab is OUT OF AMMO. Unlike firearms, vehicles don't have a Reload action. Your vehicle's weapon will be reloaded AFTER THE MISSION.",你的圣甲虫弹药已耗尽。载具与枪炮不同，不需要重新装填。任务结束后，你的载具武器将重新补充弹药。,"Votre Scarabée N'A PLUS DE MUNITIONS. Contrairement aux armes à feu, les véhicules ne bénéficient pas d'action Recharger. L'arme du véhicule sera rechargée APRÈS LA MISSION.",Dein Scarab ist OHNE MUNITION. Im Gegensatz zu Schusswaffen besitzen Fahrzeuge keine Nachladeaktion. Die Waffe deines Fahrzeugs wird NACH DER MISSION wieder aufgeladen.,"Il tuo Scarabeo è SENZA MUNIZIONI. A differenza delle armi da fuoco, i veicoli non hanno l'azione Ricarica. L'arma del tuo veicolo sarà ricaricata DOPO LA MISSIONE.",NIE MASZ AMUNICJI w Skarabeuszu. W przeciwieństwie do broni palnej pojazdy nie mają czynności Przeładowanie. Broń pojazdu zostanie przeładowana PO MISJI.,"У вашего Скарабея КОНЧИЛИСЬ БОЕПРИПАСЫ. В отличие от огнестрельного оружия, оружие транспортного средства нельзя перезарядить. Оружие на вашей машине будет перезаряжено ПОСЛЕ ЗАВЕРШЕНИЯ ЗАДАНИЯ.","El escarabajo NO TIENE MUNICIÓN. A diferencia de las armas, los vehículos no tienen la acción de recarga. El arma del vehículo se recarga DESPUÉS DE LA MISIÓN.",
+KEY_TUT2_VEHICLE_AMMO_NAME,Text,,Scarab Out of Ammo,圣甲虫弹药耗尽,Munitions du Scarabée épuisées,Scarab ohne Munition,Scarabeo senza munizioni,Brak amunicji w Skarabeuszu,У Скарабея кончились боеприпасы,Escarabajo sin munición,
+KEY_TUT3_BASH_DESCRIPTION,Text,,"When your soldier is next to an enemy, you can perform the BASH (:BASH:) melee attack. 
+
+It only costs 1 Action Point, so you can usually Bash an enemy multiple times in the same turn.","当你的士兵位于敌人旁边时，可以发动猛击 (:BASH:) 近战攻击。
+ 
+ 猛击只需花费 1 点行动点数，因此你通常可以多次向敌人发起猛击。","Lorsque votre soldat est à côté d'un ennemi, vous pouvez effectuer l'attaque de contact COGNER (:BASH:).
+ 
+Elle ne coûte que 1 point d'action, vous pouvez donc l'utiliser plusieurs fois sur un ennemi dans un même tour.","Wenn dein Soldat neben einem Gegner steht, kannst du den Nahkampfangriff „WUCHTSCHLAG“ (:BASH:) ausführen.
+ 
+Er kostet nur 1 Aktionspunkt, sodass du in der Regel mehrmals pro Zug zuschlagen kannst.","Quando il tuo soldato è vicino a un nemico, puoi eseguire l'attacco in mischia COLPO CONTUNDENTE (:BASH:). 
+ 
+Costa solo 1 punto azione, quindi, di norma, puoi usare il colpo contundente su un nemico più volte nello stesso turno.","Gdy twój żołnierz znajduje się przy przeciwniku, może UDERZYĆ (:BASH:) go przedmiotem.
+ 
+Taki atak wręcz kosztuje tylko 1 punkt akcji, więc zazwyczaj uderzenie można wykonać wielokrotnie w jednej turze.","Когда ваш солдат находится рядом с врагом, он может УДАРИТЬ (:BASH:) противника. 
+ 
+Это стоит только 1 Очко Действия, поэтому врезать врагу можно несколько раз за один ход.","Cuando un soldado está al lado de un enemigo, puedes usar GOLPE (:BASH:), un ataque cuerpo a cuerpo.
+ 
+Solo cuesta 1 punto de acción, así que podrás usarlo contra el enemigo varias veces en el mismo turno.",
+KEY_TUT3_BASH_NAME,Text,,Tactical Tip: Bash,战术提示：猛击,Astuce tactique : cogner,Taktischer Tipp: Wuchtschlag,Consiglio tattico: Colpo contundente,Wskazówka taktyczna: Uderzenie przedmiotem,Тактический совет: Удар,Consejo táctico: golpe,
+KEY_TUT3_BEACON_DESCRIPTION,Text,,"Hostiles detected! The SOUND OF GUNSHOTS suggest that an ally is under attack.
+
+Location Beacons show the location of an unknown entity - enemy, neutral or allied - in parts of the battlefield which can be heard, but not seen. 
+
+You should investigate!","侦测到敌人！枪声表明盟友正受到攻击。
+
+ 位置信标可以显示一个未知的敌方、中立或盟友实体的位置。他们在战场的某些区域可以被听到，但看不见。
+
+ 你应该去调查一下！","Ennemis détectés ! Les COUPS DE FEU suggèrent qu'un allié se fait attaquer.
+ 
+ Les balises d'emplacement indiquent l'emplacement d'une entité inconnue – ennemie, neutre ou alliée – dans des parties du champ de bataille qui peuvent s'entendre, mais pas se voir.
+ 
+ Vous devriez y jeter un œil !","Feind gesichtet! SCHUSSGERÄUSCHE deuten darauf hin, dass ein Verbündeter angegriffen wird.
+ 
+Standortsignale zeigen die Position einer unbekannten Einheit - Feind, neutral, oder Verbündeter - auf Teilen des Schlachtfelds an, die einhör-, aber nicht einsehbar sind.
+ 
+Das solltest du dir mal ansehen!","Nemici rilevati! Il SUONO DI SPARI suggerisce che un alleato è sotto attacco.
+ 
+ I segnalatori luminosi di posizione mostrano la posizione di un'entità sconosciuta (nemica, neutrale o alleata), che si può sentire ma non vedre, in alcune parti del campo di battaglia. 
+ 
+ Dovresti indagare!","Wykryto wrogów! ODGŁOS STRZAŁÓW wskazuje sojusznika pod atakiem.
+ 
+ Sygnały lokalizacyjne na polu bitwy pokazują lokalizację niezidentyfikowanej jednostki – wrogiej, neutralnej lub sojuszniczej – którą słychać, ale która jest poza polem widzenia.
+
+ Lepiej to zbadaj!","Обнаружены враги! Судя по ЗВУКАМ ВЫСТРЕЛОВ, на нашего союзника напали.
+
+Указатели местоположения указывают на неопознанное существо, которое может оказаться врагом, нейтральным персонажем или союзником — в тех частях поля боя, которые не видны в текущий момент, но из которых доносятся звуки. 
+ 
+Давайте узнаем, что там происходит!","¡Enemigos detectados! El SONIDO DE LOS DISPAROS sugiere que están atacando a un aliado.
+ 
+ Las balizas de ubicación muestran la posición de entidades desconocidas, ya sean hostiles, neutrales o amistosos, en partes del campo de batalla que se pueden oír, pero no ver.
+ 
+ ¡Deberías investigar!",
+KEY_TUT3_BEACON_NAME,Text,,Tactical Tip: Location Beacons,战术提示：位置信标,Astuce tactique : balises d'emplacement,Taktischer Tipp: Standortsignale,Consiglio tattico: Segnalatori luminosi di posizione,Wskazówka taktyczna: Sygnały lokalizacyjne,Тактический совет: Указатели местоположения,Consejo táctico: balizas de ubicación,
+KEY_TUT3_BLUESHOOTINGLINES_DESCRIPTION,Text,,"Lines drawn from the selected tile to a hostile unit indicate your soldier CAN SHOOT THE ENEMY from there.
+
+<color=#32C9C9>BLUE LINES</color> indicate the operative has enough APs to move and shoot IN THE SAME TURN.
+
+<color=#C98632>YELLOW LINES</color> indicate the soldier has line of sight, but not enough APs to attack this turn.","所选方格与敌方单位之间会显示一条直线，表明你的士兵可以从那里射击敌人。
+
+ 蓝线表示特工拥有足够的行动点数，可在同一回合进行移动和射击。
+
+ 黄线表示士兵可以看到目标，但没有足够的行动点数在这个回合发动攻击。","Les lignes de la case sélectionnée à l'unité ennemie indiquent que votre soldat PEUT TIRER SUR L'ENNEMI depuis cette position.
+ 
+ Les LIGNES BLEUES indiquent que l'agent a suffisamment de PA pour se déplacer et tirer DANS UN MÊME TOUR.
+ 
+ Les LIGNES JAUNES indiquent que le soldat a une ligne de mire, mais pas suffisamment de PA pour attaquer pendant ce tour.","Vom ausgewählten Feld zu einer feindlichen Einheit gezeichnete Linien bedeuten, dass dein Soldat DEN FEIND von dort aus UNTER BESCHUSS nehmen kann.
+
+<color=#32C9C9>BLAUE LINIEN</color> bedeuten, dass der Soldat über genügend AP verfügt, um sich IM SELBEN ZUG zu bewegen und zu schießen.
+ 
+<color=#C98632>GELBE LINIEN</color> bedeuten, dass der Soldat eine Sichtlinie hat, aber zu wenig AP, um bei diesem Zug anzugreifen.","Le linee che vanno dalla casella selezionata fino a un'unità nemica indicano che il tuo soldato PUÒ SPARARE AL NEMICO da lì.
+ 
+ LE LINEE BLU indicano che l'agente ha PA sufficienti per spostarsi e sparare NELLO STESSO TURNO.
+
+ LE LINEE GIALLE indicano che il soldato ha una linea di visuale, ma non PA sufficienti per attaccare in questo turno.","Linie biegnące z wybranego pola do wrogiej jednostki oznaczają, że twój żołnierz może STRZELIĆ stamtąd do WROGA.
+ 
+ NIEBIESKIE LINIE oznaczają, że operator ma wystarczająco PA, aby przemieścić się i strzelić W TEJ SAMEJ TURZE. 
+ 
+ ŻÓŁTE LINIE oznaczają, że żołnierz ma kontakt wzrokowy, ale za mało PA, aby zaatakować w danej turze.","Линии, ведущие от выбранной клетки к противнику указывают на возможность ВЫСТРЕЛИТЬ ВО ВРАГА.
+ 
+СИНИЕ ТРАЕКТОРИИ указывают, что у агента достаточно ОД, чтобы переместиться и выстрелить В ТЕЧЕНИЕ ОДНОГО И ТОГО ЖЕ ХОДА.
+
+ЖЕЛТЫЕ ТРАЕКТОРИИ указывают, что солдат видит врага, но у него недостаточно ОД для атаки во время текущего хода.","Las líneas que surgen desde la casilla seleccionada y van hasta la unidad enemiga indican que el soldado PUEDE DISPARAR AL ENEMIGO desde ahí.
+
+ Las LÍNEAS AZULES indican que el operativo tiene suficientes PA para moverse y disparar EN EL MISMO TURNO.
+ 
+ Las LÍNEAS AMARILLAS indican que el operativo tiene visión, pero no suficientes PA para atacar ese mismo turno.",
+KEY_TUT3_BLUESHOOTINGLINES_NAME,Text,,Tactical Tip: Shooting Lines,战术提示：射击线,Astuce tactique : lignes de tir,Taktischer Tipp: Schusslinien,Consiglio tattico: Linee di sparo,Wskazówka taktyczna: Linie strzału,Тактический совет: Траектории выстрела,Consejos tácticos: líneas de disparo,
+KEY_TUT3_CYPHERHG_DESCRIPTION,Text,,"You've looted a CYPHER HANDGUN - an effective BACKUP WEAPON in case your main gun or one of your arms gets disabled.
+
+Sniper Class soldiers like Irina are PROFICIENT WITH HANDGUNS, firing them with enhanced accuracy.","你缴获了一把暗语手枪。这是一把非常高效的备用武器，可用来预防主武器或一只手臂损坏。
+
+ 像伊琳娜这样的狙击手都能够熟练使用手枪，他们的射击准度更高。","Vous avez obtenu un PISTOLET CYPHER – une ARME DE SECOURS efficace en cas de désactivation de votre arme principale ou de l'un de vos bras.
+
+ Les soldats de la classe Tireur d'élite, comme Irina, ont la MAÎTRISE DES PISTOLETS, et les utilisent avec une plus grande précision.","Du hast eine CYPHER-HANDFEUERWAFFE erbeutet – eine effektive ERSATZWAFFE, falls deine Hauptwaffe ausfällt oder einer deiner Arme VERSEHRT wird.
+
+Soldaten der Scharfschützenklasse wie Irina sind GEÜBT IM UMGANG MIT HANDFEUERWAFFEN und feuern sie mit erhöhter Genauigkeit ab.","Hai raccolto, come bottino, una PISTOLA CYPHER, un'ARMA DI RISERVA efficace nel caso in cui la tua pistola principale o una delle tua braccia sia fuori uso.
+ 
+ I soldati di Classe Cecchino come Irina PADRONEGGIANO LE PISTOLE e le utilizzano con maggior precisione.","Zdobywasz PISTOLET SZYFR – skuteczną BROŃ ZAPASOWĄ na wypadek, gdy stracisz główną broń lub doznasz kontuzji ramienia.
+ 
+ Snajperzy tacy jak Irina są WYSPECJALIZOWANI W OBSŁUDZE PISTOLETÓW, dzięki czemu celniej nimi strzelają.","Вы подобрали ПИСТОЛЕТ «ШИФР» — эффективное ЗАПАСНОЕ ОРУЖИЕ на случай, если ваше остновное оружие выйдет из строя или солдат потеряет одну руку.
+ 
+Ирина и другие солдаты класса «Снайпер» ИСКУСНО ВЛАДЕЮТ ПИСТОЛЕТАМИ, стреляя из них с повышенной точностью.","Has conseguido una PISTOLA CYPHER, una ARMA DE REPUESTO efectiva en caso de que el arma principal o uno de tus brazos quede inhabilitado.
+ 
+ Los soldados de clase francotirador, como Irina, DOMINAN LAS PISTOLAS, por lo que tienen más precisión al usarlas.",
+KEY_TUT3_CYPHERHG_NAME,Text,,Tactical Tip: Cypher HG,战术提示：暗语手枪,Astuce tactique : Cypher HG,Taktischer Tipp: Cypher HG,Consiglio tattico: Pistola Cypher,Wskazówka taktyczna: Szyfr HG,Тактический совет: пистолет «Шифр»,Consejo táctico: Cypher HG,
+KEY_TUT3_FRIENDLYFIRE_DESCRIPTION,Text,,"You accidentally hurt the Phoenix operative instead of the Mindfragger!
+AIM FOR THE CREATURE on the head to free your comrade before he gets killed!","你不小心伤到了凤凰特工，没有打中心控虫！
+瞄准特工头上的那个生物，在你的同伴被杀死前解救他！","Vous avez accidentellement blessé l'agent Phoenix au lieu du Corrupteur !
+ VISEZ LA TÊTE DE LA CRÉATURE pour libérer votre camarade avant qu'il ne se fasse tuer !","Du hast versehentlich den Phoenix-Soldaten anstelle des Gedankenfressers getroffen!
+ZIELE AUF DIE KREATUR auf dem Kopf, um deinen Kameraden zu befreien, bevor er getötet wird.","Hai ferito accidentalmente l'agente Phoenix invece dello Strappamente!
+MIRA ALLA CREATURA sulla testa per liberare il tuo compagno prima che muoia!","Przypadkowo raniono operatora Phoenix zamiast mózgopluskwy!
+ CELUJ W STWORA na głowie, aby uwolnić towarzysza, zanim zginie!","Вы случайно нанесли урон агенту Феникса, пытаясь попасть в промывателя!
+
+ЦЕЛЬТЕСЬ В СУЩЕСТВО на голове, чтобы освободить товарища до того, как он погибнет!","¡Has herido al operativo Fénix sin querer en vez de al rompementes!
+¡APUNTA A LA CRIATURA en la cabeza para liberar a tu compañero antes de que muera!",
+KEY_TUT3_FRIENDLYFIRE_NAME,Text,,Caution!,注意！,Prudence !,Achtung!,Attenzione!,Uwaga!,Осторожно!,¡Cuidado!,
+KEY_TUT3_HANDGRENADE_DESCRIPTION,Text,,"Hand Grenades (:HANDGRENADE:) can be equipped in a Ready slot and used like any other weapon to DEAL DAMAGE IN AN AREA. 
+
+They require 1 arm to hold and 2APs to throw.
+The distance a soldier can throw a grenade depends on their Strength.
+","手雷 (:HANDGRENADE:) 可以装备至就绪槽位，用法和其他所有武器一样，能够对一片区域造成范围伤害。
+
+ 拿住手雷需要 1 只手臂，投掷手雷需要消耗 2 点行动点数。
+ 士兵投掷手雷的距离取决于他们的力量属性。","Les grenades à main (:HANDGRENADE:) peuvent être équipées dans un emplacement PRÊT et utilisées comme toute autre arme pour INFLIGER DES DÉGÂTS DANS UNE ZONE.
+ 
+ Elles nécessitent 1 bras pour les tenir et 2 PA pour les lancer.
+ La distance de lancer d'une grenade dépend de la force du soldat.","Handgranaten (:HANDGRENADE:) können in einem Platz für bereite Gegenstände ausgerüstet und wie jede andere Waffe einsetzt werden, um IN EINEM BEREICH SCHADEN ANZURICHTEN.
+ 
+Sie erfordern 1 Arm zum Festhalten und 2 AP zum Werfen.
+Die Entfernung, auf die ein Soldat eine Granate werfen kann, hängt von seiner Stärke ab.","Le granate (:HANDGRENADE:) possono essere equipaggiate in uno slot Pronto e utilizzate come qualsiasi altra arma per INFLIGGERE DANNI IN UN'AREA. 
+
+ Servono 1 braccio per sorreggerle e 2 PA per lanciarle.
+ Quanto lontano un soldato può lanciare una granata dipende dalla sua forza.","Granaty (:HANDGRENADE:) można umieścić w miejscu gotowego przedmiotu i używać jak każdej innej broni. Po wybuchu granat zadaje ZNISZCZENIA OBSZAROWE.
+ 
+ Wymaga 1 ramienia do trzymania i 2 PA do rzucenia.
+ Zasięg rzucania granatów zależy od siły żołnierza.","Ручные гранаты (:HANDGRENADE:) можно добавлять в Быстрые ячейки и использовать, чтобы НАНЕСТИ УРОН ПО ОБЛАСТИ.
+
+Для броска гранаты нужны 2 очка действия (ОД). Расстояние, на которое может быть брошена граната, зависит от силы и способностей солдата.","Las granadas de mano (:HANDGRENADE:) se pueden equipar en los huecos de objetos listos y usarse como cualquier otra arma para INFLIGIR DAÑO EN UNA ZONA.
+ 
+ Hacen falta 1 brazo y 2 PA para lanzarse.
+ La distancia que recorren las granadas depende de la fuerza de los soldados.",
+KEY_TUT3_HANDGRENADE_NAME,Text,,Tactical Tip: Hand Grenades ,战术提示：手雷,Astuce tactique : grenades à main,Taktischer Tipp: Handgranaten,Consiglio tattico: Granate,Wskazówka taktyczna: Granaty,Тактический совет: Ручные гранаты,Consejos tácticos: granadas de mano,
+KEY_TUT3_IRINASPOTTED_DESCRIPTION,Text,,"You've spotted another Phoenix operative.
+Move a soldier inside the white circle to RECRUIT Irina to your squad.","你又发现了一位凤凰特工。
+将一名士兵移动至白圈，将伊琳娜招募至你的小队。","Vous avez repéré un autre agent Phoenix.
+ Déployez un soldat dans le cercle blanc pour RECRUTER Irina dans votre escouade.","Du hast eine weitere Phoenix-Soldatin entdeckt.
+Bewege einen Soldaten in den weißen Kreis, um IRINA für dein Einsatzteam zu rekrutieren.","Hai individuato un altro agente Phoenix.
+ Porta un soldato nel cerchio bianco per RECLUTARE Irina nella tua squadra.","Wykryto kolejnego operatora Phoenix.
+ Przemieść żołnierza do białego koła, aby REKRUTOWWAĆ Irinę do oddziału.","Вы обнаружили еще одного агента Феникса.
+
+Переместите солдата внутрь белого круга, чтобы ЗАВЕРБОВАТЬ Ирину в свой отряд.","Has encontrado a otro operativo Fénix.
+ Mueve a un soldado al interior del círculo blanco para RECLUTAR a Irina y que se una al pelotón.",
+KEY_TUT3_IRINASPOTTED_NAME,Text,,Ally Located,已定位盟友,Allié repéré,Verbündeten ausfindig gemacht,Alleato localizzato,Znaleziono sojusznika,Обнаружен союзник,Aliado localizado,
+KEY_TUT3_LADDERBANTER_DESCRIPTION,Text,,"""The door is shut, so we'll have to use those ladders. Go, go, go!""",门是关着的，我们必须爬梯子过去。动作快！,"La porte est fermée, nous devons utiliser ces échelles. Allez !","Die Tür ist verschlossen, wir müssen also diese Leitern benutzen. Los, los, los!","La porta è chiusa quindi dovremo usare le scale. Via, via, via!",Drzwi są zamknięte. Musimy użyć tych drabin. Ruchy!,"Дверь закрыта, поэтому придется использовать эти лестницы. Вперед, вперед!","La puerta está cerrada; tendremos que usar las escaleras. ¡Vamos, vamos, vamos!",
+KEY_TUT3_LADDERBANTER_NAME,Text,,Sophia Brown,索菲娅·布朗,Sophia Brown,Sophia Brown,Sophia Brown,Sophia Brown,София Браун,Sophia Brown,
+KEY_TUT3_MINDFRAGGEDSOLDIER_DESCRIPTION,Text,,"Your soldier is MIND CONTROLLED by a Mindfragger and will be forced to attack your other operatives.
+
+It's best to TARGET THE CREATURE (:MINDFRAGGER:) with a single-shot weapon, or kill it in melee with a BASH (:BASH:).
+
+Make sure you don't hurt your own soldier through accidental targeting, or getting them caught in the burst of an Assault Rifle!","你的士兵被心控虫控制，他们将被迫攻击你的其他特工。
+
+ 最好用单次射击武器瞄准该生物 (:MINDFRAGGER:)，或用猛击 (:BASH:) 近战攻击将其击杀。
+
+ 确保不要因为瞄准失误而伤害到自己的士兵，也不要让他们被突击步枪的连发火力命中！","Votre soldat est sous le CONTRÔLE MENTAL d'un Corrupteur et va être forcé d'attaquer vos autres agents.
+ 
+ Il est préférable de CIBLER LA CRÉATURE (:MINDFRAGGER:) avec une arme à un coup ou de la tuer au corps à corps avec l'action COGNER (:BASH:).
+ 
+ Veillez à ne pas blesser votre soldat en le visant accidentellement ou à ce qu'il ne subisse pas de dégâts en tirant avec un fusil d'assaut !","Dein Soldat befindet sich unter GEDANKENKONTROLLE eines Gedankenfressers und ist gezwungen, deine anderen Einheiten anzugreifen.
+ 
+Am besten nimmst du DIE KREATUR (:MINDFRAGGER:) mit einer Einzelschusswaffe INS VISIER oder du tötest sie im Nahkampf per „WUCHTSCHLAG“ (:BASH:).
+ 
+Achte darauf, dass du nicht aus Versehen deinen eigenen Soldat anvisierst oder er durch das Abschießen eines Sturmgewehrs in Mitleidenschaft gezogen wird!","Uno Strappamente assume il CONTROLLO DELLA MENTE del tuo soldato e lo costringerà ad attaccare gli altri tuoi agenti.
+ 
+ È meglio MIRARE ALLA CREATURA (:MINDFRAGGER:) con un'arma a colpo singolo o ucciderla in mischia con un COLPO CONTUNDENTE (:BASH:).
+ 
+ Assicurati di non ferire il tuo soldato, prendendo male la mira o facendolo entrare nel raggio di un fucile d'assalto!","Mózgopluskwa przejęła kontrolę nad umysłem twojego żołnierza i zmusi go do atakowania innych operatorów.
+ 
+ Najlepiej WYCELOWAĆ W STWORZENIE (:MINDFRAGGER:) bronią strzelającą pojedynczymi pociskami lub zabić je w walce wręcz, używając zdolności UDERZENIE PRZEDMIOTWEM (:BASH:).
+ 
+ Uważaj, aby nie zranić własnego żołnierza, przypadkowo w niego celując lub trafiając go serią z karabinu szturmowego!","Разум вашего солдата КОНТРОЛИРУЕТСЯ Промывателем, который будет заставлять солдата атаковать своих союзников.
+ 
+Лучше всего ВЫСТРЕЛИТЬ В СУЩЕСТВО (:MINDFRAGGER:) из оружия с одиночными выстрелами, или УДАРИТЬ (:BASH:) его в ближнем бою.
+ 
+Убедитесь, что не нанесете вреда собственному солдату, выстрелив недостаточно метко или задев его очередью из штурмовой винтовки!","El soldado está CONTROLADO MENTALMENTE por un rompementes, lo que lo obligará a atacar a otros operativos.
+ 
+ Lo mejor es ATACAR A LA CRIATURA (:MINDFRAGGER:) con armas de un solo disparo o matarla con un GOLPE (:BASH:) cuerpo a cuerpo.
+ 
+ ¡Asegúrate de no herir al soldado accidentalmente y de que no sea víctima de una ráfaga de disparos de rifles de asalto!",
+KEY_TUT3_MINDFRAGGEDSOLDIER_NAME,Text,,Mindfragged Soldier,心控士兵,Soldat sous contrôle mental,Soldat unter Gedankenkontrolle,Soldato colpito da uno Strappamente,Żołnierz opanowany przez mózgopluskwę,Солдат под контролем промывателя,Soldados con rompementes,
+KEY_TUT3_MINDFRAGGER_DESCRIPTION,Text,,"Mindfraggers (:MINDFRAGGER:) are dangerous creatures that will latch onto a soldier's head, MIND CONTROLLING them.
+
+The best way to deal with a Mindfragger is to set a short range OVERWATCH (:OVERWATCH:) cone and shoot it down as it approaches.","心控虫 (:MINDFRAGGER:) 是一种危险的生物，它们会黏附在士兵的头部来控制他们的思维。
+
+ 对付心控虫的最佳方法是设置一片短距离警戒 (:OVERWATCH:) 锥形区，在心控虫接近时将其击杀。","Les Corrupteurs (:MINDFRAGGER:) sont des créatures dangereuses qui s'attachent à la tête du soldat, et le CONTRÔLENT MENTALEMENT.
+ 
+ Le meilleur moyen d'éliminer un Corrupteur est d'activer une zone de VIGILANCE (:OVERWATCH:) à courte portée et de tirer dessus quand il s'approche.","Gedankenfresser (:MINDFRAGGER:) sind gefährliche Kreaturen, die sich an den Kopf eines Soldaten klammern und seine GEDANKEN KONTROLLIEREN.
+ 
+Am besten wird man mit Gedankenfressern fertig, indem man einen ÜBERWACHUNGSKEGEL (:OVERWATCH:) auf kurze Distanz einsetzt und sie abschießt, sobald sie sich nähern.","Gli Strappamente (:MINDFRAGGER:) sono creature pericolose che si attaccano alla testa di un soldato per CONTROLLARNE LA MENTE.
+ 
+ Il modo migliore di trattare uno Strappamente è predisporre un cono di GUARDIA (:OVERWATCH:) a corto raggio e sparargli quando si avvicina.","Mózgopluskwy (:MINDFRAGGER:) to niebezpieczne stworzenia, które przyczepiają się do głowy żołnierza, przejmując KONTROLĘ NAD JEGO UMYSŁEM..
+ 
+ Najlepszym sposobem na mózgopluskwy jest wyznaczenie krótkodystansowego stożka OBSERWACJI (:OVERWATCH:) i ostrzelanie stwora, gdy tylko się zbliży.","Промыватели (:MINDFRAGGER:) — опасные создания, которые могут присосаться к голове солдата и ПОДЧИНИТЬ ЕГО СЕБЕ.
+ 
+Лучший способ защититься от промывателей — активировать НАБЛЮДЕНИЕ (:OVERWATCH:) с малым радиусом, и отстреливать промывателей, когда те приближаются.","Los rompementes (:MINDFRAGGER:) son criaturas peligrosas que se aferran a las cabezas de los soldados y los controlan mentalmente.
+ 
+ Para lidiar con ellos, lo ideal es establecer un cono de SUPERVISIÓN (:OVERWATCH:) de corto alcance y abatirlos mientras avanzan.",
+KEY_TUT3_MINDFRAGGER_NAME,Text,,Tactical Tip: Mindfraggers,战术提示：心控虫,Astuce tactique : Corrupteurs,Taktischer Tipp: Gedankenfresser,Consiglio tattico: Strappamente,Wskazówka taktyczna: Mózgopluskwy,Тактический совет: Промыватели,Consejo táctico: rompementes,
+KEY_TUT3_MISSIONEND,Text,,Reclaim Phoenix Point,夺回凤凰点,Récupérez Phoenix Point,Erobere Phoenix Point zurück,Rivendica Phoenix Point,Odzyskaj Phoenix Point,Восстановите контроль над Точкой Феникс,Recupera Punto Fénix,
+KEY_TUT3_OVERWATCHBANTER_DESCRIPTION,Text,,"""Steady! Take Overwatch positions and wait for them to come.""",稳住！守住警戒位置，等他们过来。,Doucement ! Prenez des positions de vigilance et attendez-les.,Immer mit der Ruhe! Überwachungspositionen einnehmen und kommen lassen!,Calma! Assumete posizioni di guardia e aspettate che arrivino.,"Uwaga! Zajmijcie pozycję do obserwacji i czekajcie, aż stwory nadejdą.","Спокойно! Встаем на позиции наблюдения, наблюдаем за местностью и ждем, когда они появятся в прицеле.",¡Con cuidado! Tomad posiciones de Supervisión y esperad a que se acerquen.,
+KEY_TUT3_OVERWATCHBANTER_NAME,Text,,Sophia Brown,索菲娅·布朗,Sophia Brown,Sophia Brown,Sophia Brown,Sophia Brown,София Браун,Sophia Brown,
+KEY_TUT3_OVERWATCHFRIENDLYFIRE_DESCRIPTION,Text,,Be careful not to place YOUR SOLDIERS inside the Overwatch cone - they may get injured by friendly fire!,注意不要将你的士兵放在警戒锥形区内——他们可能会被队友误伤！,Prenez garde à ne pas placer VOS SOLDATS dans la zone de vigilance – ils pourraient être blessés par des tirs alliés !,"Achte darauf, DEINE SOLDATEN nicht im Überwachungskegel zu platzieren - sie könnten durch Eigenbeschuss verletzt werden.","Fai attenzione a non posizionare I TUOI SOLDATI all'interno del cono di Guardia, potrebbero restare feriti dal fuoco amico!",Nie umieszczaj SWOICH ŻOŁNIERZY na obszarze stożka obserwacji – mogą ponieść obrażenia w wyniku ognia sojuszniczego.,Будьте осторожны! Не оставляйте своих солдат в зоне наблюдения — они могут попасть под огонь!,Ten cuidado con poner a tus soldados dentro del cono de supervisión. ¡Podrían resultar heridos con el fuego amigo!,
+KEY_TUT3_OVERWATCHFRIENDLYFIRE_NAME,Text,,Caution!,注意！,Prudence !,Achtung!,Attenzione!,Uwaga!,Осторожно!,¡Cuidado!,
+KEY_TUT3_POISONEFFECT_DESCRIPTION,Text,,"This operative is Poisoned (:POISON:). They will lose Hit Points equal to the POISON VALUE each turn. 
+The poison value will reduce by 10 each turn.
+
+Heavily armored soldiers such as Omar are better protected against poison attacks.","这名特工中毒 (:POISON:) 了，每回合都会失去等于毒性数值的生命值。
+每回合，毒性数值将减少 10 点。
+
+ 像奥马尔这样的重装士兵能够更好地抵御毒性攻击。","Cet agent est empoisonné (:POISON:). Il continuera à perdre des points de vie équivalents à la VALEUR DU POISON à chaque tour.
+ La force du poison (valeur des dégâts) baisse de 10 points par tour.
+ 
+ Les soldats en armure lourde tels qu'Omar sont mieux protégés contre les attaques toxiques.","Dieser Soldat ist vergiftet (:POISON:). Er verliert mit jedem Zug Trefferpunkte in Höhe des GIFTWERTS.
+Der Giftwert verringert sich pro Zug um 10.
+
+Schwer gepanzerte Soldaten wie Omar sind besser gegen Giftangriffen gewappnet.","Questo agente è stato avvelenato (:POISON:). Perderà i suoi punti ferita in quantità pari al VALORE DEL VELENO a ogni turno. 
+ Il valore del veleno si ridurrà di 10 a ogni turno.
+ 
+ I soldati con armatura pesante come Omar sono protetti meglio dagli attacchi velenosi.","Ten operator jest zatruty (:POISON:). Będzie co turę tracił punkty życia w liczbie odpowiadającej WARTOŚCI TRUCIZNY. 
+Z każdą turą wartość trucizny spada o 10 pkt.
+
+ Ciężko opancerzeni żołnierze, tacy jak Omar, są lepiej chronieni przed trującymi atakami.","Этот агент отравлен (:POISON:). Он будет терять очки здоровья с каждым ходом согласно ПАРАМЕТРАМ ЯДА. 
+
+Количество урона от яда будет уменьшаться на 10 пунктов с каждым ходом.
+ 
+Омар и другие тяжелые штурмовики лучше остальных защищены от яда.","El operativo está envenenado (:POISON:). Perderá tantos puntos de salud igual al VALOR DEL VENENO por turno.
+ El valor del veneno se reduce en 10 cada turno.
+ 
+ Los soldados con armadura pesada, como Omar, están mejor protegidos contra los ataques venenosos.",
+KEY_TUT3_POISONEFFECT_NAME,Text,,Poison,中毒,Poison,Gift,Veleno,Trucizna,Яд,Veneno,
+KEY_TUT3_POISONSTATUS_DESCRIPTION,Text,,"Characters with a POISON (:POISON:) status effect will keep losing Hit Points every turn equal to the Poison value. 
+The poison's strength (damage value) will reduce by 10 each turn.","陷入中毒 (:POISON:) 状态效果的角色每回合都会失去等于毒性数值的生命值。
+每回合，毒性数值（伤害数值）将减少 10 点。","Les unités empoisonnées (:POISON:) continuent à perdre des points de vie équivalents à la valeur du poison à chaque tour.
+ La force du poison (valeur des dégâts) baisse de 10 points par tour.","Charaktere mit dem Statuseffekt GIFT (:POISON:) verlieren mit jedem Zug Trefferpunkte in Höhe des Giftwerts.
+ Die Stärke des Gifts (Schadenswert) verringert sich pro Zug um 10.","I personaggi con effetto di stato VELENO (:POISON:) continueranno a perdere punti ferita a ogni turno in quantità pari al valore del Veleno. 
+ La potenza del veleno (valore dei danni) si ridurrà di 10 a ogni turno.","Postacie z efektem stanu TRUCIZNA (:POISON:) będą tracić co turę punkty życia w liczbie równej wartości trucizny. 
+ Z każdą turą siła trucizny (wartość obrażeń) spada o 10 pkt.","Персонажи со статусом ""ЯД"" (:POISON:) будут терять очки здоровья с каждым ходом согласно параметрам яда. 
+
+Сила яда (количество урона) будет уменьшаться на 10 пунктов с каждым ходом.","Los personajes con el efecto de estado VENENO (:POISON:) perderán tantos puntos de salud por turno igual al valor del veneno.
+ La fuerza del veneno (valor del daño) se reduce en 10 cada turno.",
+KEY_TUT3_POISONSTATUS_NAME,Text,,Status Effect: Poison,状态效果：中毒,État : poison,Statuseffekt: Gift,Effetto di stato: Veleno,Efekt stanu: Trucizna,Статус: Яд,Efecto de estado: veneno,
+KEY_TUT3_POISONWORM_DESCRIPTION,Text,,"Poisonworms (:POISONWORM:) are small, but don't let their size deceive you! When close enough, they burst in a POISON EXPLOSION, affecting nearby soldiers. 
+
+It's best to deal with them from a distance, or set a short range OVERWATCH cone and gun them down as they approach.","虽然毒虫 (:POISONWORM:) 的体型不大，但千万不要被它的外形迷惑！当距离够近的时候，毒虫就会爆炸，影响附近的士兵。
+
+ 最好从远处对付毒虫，或者设置一片短距离警戒锥形区，在毒虫接近时将其干掉。","Les Vers toxiques (:POISONWORM:) sont petits, mais ne vous laissez pas duper par leur taille ! Quand ils sont assez proches, ils éclatent en UNE EXPLOSION TOXIQUE qui affecte les soldats à proximité.
+ 
+ Il est préférable de les éliminer à distance ou de placer une zone de VIGILANCE à courte portée pour les abattre quand ils s'approchent.","Giftwürmer (:POISONWORM:) sind zwar klein, aber lass dich von ihrer Größe nicht täuschen! Wenn nah genug, zerbersten sie mit einer GIFTEXPLOSION und ziehen Soldaten in ihrer Nähe in Mitleidenschaft.
+ 
+Am besten kümmert man sich aus der Ferne um sie oder aktiviert einen ÜBERWACHUNGSKEGEL auf kurze Distanz, um sie abzuknallen, wenn sie sich nähern.","I vermi velenosi (:POISONWORM:) sono piccoli, ma non farti ingannare dalle loro dimensioni! Quando sono abbastanza vicini, causano un'ESPLOSIONE VELENOSA che colpisce i soldati vicini. 
+ 
+ È meglio colpirli a distanza o predisporre un cono di GUARDIA a corto raggio e sparargli quando si avvicinano.","Z uwagi na niewielki rozmiar trujglizdy (:POISONWORM:) wyglądają dość niegroźnie, ale pozory mylą! Po zbliżeniu wybuchają, ROZBRYZGUJĄC TRUCIZNĘ na pobliskich żołnierzy. 
+ 
+Najlepiej niszczyć je z odległości lub wyznaczyć krótkodystansowy stożek OBSERWACJI i ostrzeliwać stwory, gdy tylko się zbliżą.","Отравляющие черви (:POISONWORM:) — маленькие, но пусть их размер вас не обманывает. Когда черви оказываются рядом, то активируют способность ЯДОВИТЫЙ ВЗРЫВ, нанося урон находящимся рядом солдатам. 
+ 
+С червями лучше всего расправиться на расстоянии, или активировать НАБЛЮДЕНИЕ с небольшим радиусом, чтобы расстрелять червей при приближении.","Los gusanos venenosos (:POISONWORM:) son pequeños, pero ¡no dejes que eso te engañe! Si se acercan lo suficiente, provocarán una EXPLOSIÓN VENENOSA que afecta a los soldados cercanos.
+ 
+ Lo mejor es encargarse de ellos desde la distancia o establecer un cono de SUPERVISIÓN de corto alcance y abatirlos mientras avanzan.",
+KEY_TUT3_POISONWORM_NAME,Text,,Tactical Tip: Poisonworms,战术提示：毒虫,Astuce tactique : Vers toxiques,Taktischer Tipp: Giftwürmer,Consiglio tattico: Vermi velenosi,Wskazówka taktyczna: Trujglizdy,Тактический совет: Отравляющие черви,Consejo táctico: gusanos venenosos,
+KEY_TUT3_PROFICIENCIES_DESCRIPTION,Text,,"Operatives are PROFICIENT in different weapons, based on their SOLDIER CLASS or personal perks.
+
+Without proficiency a soldier would suffer a 50% ACCURACY PENALTY.","特工精通不同的武器，取决于他们的兵种或个人习性。
+
+ 未精通武器的士兵在使用相应武器时将受到 50% 的准度惩罚。","Les agents ont la MAÎTRISE de différentes armes, en fonction de leur CLASSE DE SOLDAT ou de bonus personnels.
+ 
+ Sans maîtrise, un soldat subit UNE PÉNALITÉ DE 50 % DE LA PRÉCISION.","Soldaten BEHERRSCHEN im Umgang mit unterschiedlichen Waffen, abhängig von ihrer SOLDATENKLASSE oder persönlichen Vorteilen.
+
+Ohne entsprechende Übung würde ein Soldat einen GENAUIGKEITSABZUG von 50% erhalten.","Gli agenti PADRONEGGIANO diverse armi in base alla loro CLASSE DI SOLDATO o vantaggi personali.
+ 
+ Senza padronanza, un soldato soffrirebbe una PENALITÀ DI PRECISIONE del 50%.","Operatorzy są BIEGLI w walce z różnymi typami broni, zależnie od KLASY ŻOŁNEIRZA lub osobistych premii.
+ 
+ Bez biegłości żołnierz ma KARĘ 50% DO CELNOŚCI.","Агенты СПЕЦИАЛИЗИРУЮТСЯ на том или ином оружии в зависимости от своего КЛАССА или личных способностей.
+
+В отсутствие специализации на данном оружии МЕТКОСТЬ СОЛДАТА УМЕНЬШАЕТСЯ на 50%.","Los operativos DOMINAN diferentes armas, según la CLASE DE SOLDADO o ventajas personales.
+ 
+ Si no dominan el arma, sufren una PENALIZACIÓN A LA PRECISIÓN DEL 50 %.",
+KEY_TUT3_PROFICIENCIES_NAME,Text,,Weapon Proficiencies,武器精通,Maîtrise des armes,Waffenbeherrschung,Padronanza delle armi,Biegłość w walce bronią,Мастерство владения оружием,Dominio de armas,
+KEY_TUT3_ROTATECAMERA_DESCRIPTION_C,Text,,"Enemies will take advantage of the tight corridors to ambush the Phoenix operatives.
+ROTATE THE CAMERA using <size=60>:RTSLEFT:</size> and <size=60>:RTSRIGHT:</size> to get a better view of the battlefield. ","敌人会利用狭窄走廊的优势来伏击凤凰特工。
+用 <size=60>:RTSLEFT:</size> 和 <size=60>:RTSRIGHT:</size> 旋转视角，来获取更好的战场视野。","Les ennemis utiliseront les couloirs étroits pour prendre les agents Phoenix en embuscade.
+ PIVOTEZ LA CAMÉRA avec <size=60>:RTSLEFT:</size> et <size=60>:RTSRIGHT:</size> pour mieux voir le champ de bataille.","Der Feind wird enge Korridore zu seinem Vorteil nutzen, um Phoenix-Soldaten in einen Hinterhalt zu locken.
+
+DREHE DIE KAMERA mit <size=60>:RTSLEFT:</size> und <size=60>:RTSRIGHT:</size>, um einen besseren Überblick über das Schlachtfeld zu erhalten.","I nemici approfitteranno dei corridoi stretti per tendere un'imboscata agli agenti Phoenix.
+ RUOTA LA TELECAMERA utilizzando <size=60>:RTSLEFT:</size> e <size=60>:RTSRIGHT:</size> per avere una visuale migliore del campo di battaglia.","Wrogowie lubią zaskakiwać operatorów Phoenix w ciasnych korytarzach.
+OBRÓĆ KAMERĘ, używając <size=60>:RTSLEFT:</size> i <size=60>:RTSRIGHT:</size>, aby zyskać lepszy widok na pole bitwy.","Враги будут использовать узкие коридоры, чтобы устроить засаду на агентов Феникса.
+
+ПОВОРАЧИВАЙТЕ КАМЕРУ, используя <size=60>:RTSLEFT:</size> и <size=60>:RTSRIGHT:</size>, чтобы лучше видеть поле боя.","Los enemigos aprovecharán los pasillos estrechos para tender emboscadas a los operativos Fénix.
+ MUEVE LA CÁMARA usando <size=60>:RTSLEFT:</size> y <size=60>:RTSRIGHT:</size> para tener una mejor visión del campo de batalla.",
+KEY_TUT3_ROTATECAMERA_DESCRIPTION_K,Text,,"Enemies will take advantage of the tight corridors to ambush the Phoenix operatives.
+
+ROTATE THE CAMERA using [<color=#ECBA62>{[Rotate Left]}</color>] and [<color=#ECBA62>{[Rotate Right]}</color>] to get a better view of the battlefield. ","敌人会利用狭窄走廊的优势来伏击凤凰特工。
+用 [<color=#ECBA62>{[Rotate Left]}</color>] 和 [<color=#ECBA62>{[Rotate Right]}</color>] 旋转视角，来获取更好的战场视野。","Les ennemis utiliseront les couloirs étroits pour prendre les agents Phoenix en embuscade.
+ PIVOTEZ LA CAMÉRA avec [<color=#ECBA62>{[Rotate Left]}</color>] et [<color=#ECBA62>{[Rotate Right]}</color>] pour mieux voir le champ de bataille.","Der Feind wird enge Korridore zu seinem Vorteil nutzen, um Phoenix-Soldaten in einen Hinterhalt zu locken.
+
+DREHE DIE KAMERA mit [<color=#ECBA62>{[Rotate Left]}</color>] und [<color=#ECBA62>{[Rotate Right]}</color>], um einen besseren Überblick über das Schlachtfeld zu erhalten.","I nemici approfitteranno dei corridoi stretti per tendere un'imboscata agli agenti Phoenix.
+ RUOTA LA TELECAMERA utilizzando [<color=#ECBA62>{[Rotate Left]}</color>] e [<color=#ECBA62>{[Rotate Right]}</color>] per avere una visuale migliore del campo di battaglia.","Wrogowie lubią zaskakiwać operatorów Phoenix w ciasnych korytarzach.
+OBRÓĆ KAMERĘ, używając [<color=#ECBA62>{[Rotate Left]}</color>] i [<color=#ECBA62>{[Rotate Right]}</color>], aby zyskać lepszy widok na pole bitwy.","Враги будут использовать узкие коридоры, чтобы устроить засаду на агентов Феникса.
+
+ПОВОРАЧИВАЙТЕ КАМЕРУ, используя [<color=#ECBA62>{[Rotate Left]}</color>] и [<color=#ECBA62>{[Rotate Right]}</color>], чтобы лучше видеть поле боя.","Los enemigos aprovecharán los pasillos estrechos para tender emboscadas a los operativos Fénix.
+ MUEVE LA CÁMARA usando [<color=#ECBA62>{[Rotate Left]}</color>] y [<color=#ECBA62>{[Rotate Right]}</color>] para tener una mejor visión del campo de batalla.",
+KEY_TUT3_ROTATECAMERA_NAME,Text,,Tactical Tip: Rotate The Camera,战术提示：旋转视角,Astuce tactique : pivoter la caméra,Taktischer Tipp: Kamera rotieren,Consiglio tattico: Ruota la telecamera,Wskazówka taktyczna: Obracanie kamery,Тактический совет: Поворачивайте камеру,Consejo táctico: rotación de la cámara,
+KEY_TUT3_SAVEASSAULT_DESCRIPTION,Text,,"This fellow Phoenix operative is CONTROLLED BY A MINDFRAGGER. 
+Kill the creature with a single-shot weapon or Bash to save him!","这位凤凰特工被心控虫控制。
+用单次射击武器或猛击干掉该生物，救下这名特工！","Cet agent Phoenix est sous CONTRÔLE MENTAL D'UN CORRUPTEUR.
+ Tuez la créature avec une arme à un coup ou l'action Cogner pour le sauver !","Dieser Soldat befindet sich unter KONTROLLE eines GEDANKENFRESSERS.
+Töte die Kreatur mit einer Einzelschusswaffe oder erschlage diese, um ihn zu retten!","Questo agente Phoenix, tuo compagno, è CONTROLLATO DA UNO STRAPPAMENTE. 
+ Uccidi la creatura con un'arma a colpo singolo o con un colpo contundente per salvarlo!","Ten operator Phoenix jest KONTROLOWANY PRZEZ MÓZGOPLUSKWĘ.
+ Uratuj go, zabijając stwora bronią strzelającą pojedynczymi pociskami lub uderzeniem przedmiotem!","Этот агент Феникса КОНТРОЛИРУЕТСЯ ПРОМЫВАТЕЛЕМ. 
+
+Чтобы спасти агента, убейте существо ударом или одиночным выстрелом из оружия!","Al operativo Fénix lo está CONTROLANDO EL ROMPEMENTES.
+ ¡Mata a la criatura con una arma de un solo disparo o con Golpe y rescátalo!",
+KEY_TUT3_SAVEASSAULT_NAME,Text,,Ally Located,已定位盟友,Allié repéré,Verbündeten ausfindig gemacht,Alleato localizzato,Znaleziono sojusznika,Обнаружен союзник,Aliado localizado,
+KEY_TUT3_SAVE_DESCRIPTION,Text,,"If you're facing a difficult situation, remember you can save your game. Some risky moves will pay off, but others will be deadly. ",如果你遇到了棘手的情况，一定要记得保存游戏。一些冒险的举动可能会有回报，但也可能致命。,"Si vous êtes dans une situation difficile, n'oubliez pas que vous pouvez sauvegarder la partie. Certaines actions risquées fonctionneront, mais d'autres seront mortelles.","Denk in einer schwierigen Situation daran, dass du dein Spiel speichern kannst. Manch ein riskanter Zug zahlt sich womöglich aus, andere sind tödlich.","Se sei in una situazione complicata, ricorda che puoi salvare la partita. Alcune mosse azzardate ti ripagheranno, ma altre saranno fatali.","W trudnej sytuacji warto zapisać grę. Niektóre ryzykowne ruchy przyniosą rezultaty, ale inne mogą okazać się fatalne w skutkach.","Если впереди трудная ситуация, помните, что можно сохранить игру. Какие-то рискованные маневры оправдают себя, но другие могут быть смертельны.","Si te encuentras ante una situación difícil, recuerda que puedes guardar el juego. Hay estrategias arriesgadas que ofrecen buenos resultados, mientras que hay otras que no.",
+KEY_TUT3_SAVE_NAME,Text,,Tactical Tip: Save Game,战术提示：保存游戏,Astuce tactique : sauvegarder,Taktischer Tipp: Spiel speichern,Consiglio tattico: Salva la partita,Wskazówka taktyczna: Zapis gry,Тактический совет: Сохраните игру,Consejo táctico: guardar la partida,
+KEY_TUT3_SNIPERCLASS_DESCRIPTION,Text,,"Irina is a Sniper Class operative (:SNIPER:) proficient with both SNIPER RIFLES and HANDGUNS.
+
+Snipers are excellent for disabling specific Pandoran body parts at long range.","伊琳娜是一位精通狙击步枪和手枪的狙击型特工 (:SNIPER:)。
+ 
+ 狙击手在远距离致残潘多拉体的特定身体部位方面非常出色。","Irina est un agent de la classe Tireur d'élite (:SNIPER:) qui maîtrise les FUSILS DE PRÉCISION et les PISTOLETS.
+ 
+ Les Tireurs d'élite sont excellents pour désactiver des parties du corps spécifiques de Pandoriens à distance.","Irina ist Scharfschützin (:SNIPER:) und vertraut mit SCHARFSCHÜTZENGEWEHREN und HANDFEUERWAFFEN.
+
+Scharfschützen eignen sich hervorragend, um aus großer Entfernung gezielt pandoranische Körperteile lahmzulegen.","Irina è un agente di Classe Cecchino (:SNIPER:) esperta sia di FUCILI DI PRECISIONE che di PISTOLE.
+ 
+ I Cecchini sono perfetti per mettere fuori uso parti del corpo specifiche dei Pandora a lungo raggio.","Irina jest żołnierzem klasy Snajper (:SNIPER:), który specjalizuje się w obsłudze zarówno KARABINÓW SNAJPERSKICH, jak i PISTOLETÓW.
+
+ Snajperzy potrafią unieszkodliwić określone części ciała Pandoran z dużej odległości.","Ирина — солдат класса «Снайпер» (:SNIPER:), она отлично владеет СНАЙПЕРСКИМИ ВИНТОВКАМИ и ПИСТОЛЕТАМИ.
+
+Снайперы отлично справляются с задачей вывода из строя определенных частей тела пандоранцев с большой дистанции.","Irina es una operativa de clase francotirador (:SNIPER:) que domina tanto los RIFLES DE FRANCOTIRADOR como las PISTOLAS.
+ 
+ Los francotiradores son expertos en inhabilitar partes específicas del cuerpo de los pandorianos desde largas distancias.",
+KEY_TUT3_SNIPERCLASS_NAME,Text,,Sniper Class,狙击型,Tireur d'élite,Scharfschützenklasse,Classe Cecchino,Klasa snajpera,Класс «Снайпер»,Clase francotirador,
+KEY_TUT3_STORY1_DESCRIPTION,Text,,"""Tread lightly! There are hostiles up ahead. Let's get rid of them and clean up this mess!""",小心行事！前方有敌人。我们得消灭他们，把这片烂摊子收拾干净！,Faites attention ! Il y a des ennemis plus loin. Débarrassons-nous d'eux avant de nettoyer ce bazar !,Schön leise! Vor uns ist der Feind. Beseitigen wir ihn und dieses Chaos gleich mit!,Cammina senza far rumore! Ci sono nemici più avanti. Sbarazziamocene e diamo una ripulita!,Uwaga! Przed nami wrogowie. Pozbądźmy się ich i posprzątajmy ten bałagan!,Нужно соблюдать осторожность - впереди враги! Давайте разделаемся с ними и наведем здесь порядок!,¡Avanzad con pies de plomo! Hay enemigos más adelante. ¡Liquidémoslos y encarguémonos del desorden!,
+KEY_TUT3_STORY1_NAME,Text,,Sophia Brown,索菲娅·布朗,Sophia Brown,Sophia Brown,Sophia Brown,Sophia Brown,София Браун,Sophia Brown,
+KEY_TUT3_STORY2_DESCRIPTION,Text,,"""Kill confirmed. Phoenix, welcome home!""",确认击杀。凤凰特工，欢迎回家！,"Élimination confirmée. Phoenix, bienvenue à la maison !","Abschuss bestätigt. Phoenix, willkommen zu Hause!","Uccisione confermata. Phoenix, bentornati a casa!","Zabójstwo potwierdzone. Witajcie w domu, Phoenix.","Зачистку базы подтверждаю. Феникс, добро пожаловать домой!","Abatido con éxito. ¡Fénix, estás en casa!",
+KEY_TUT3_STORY2_NAME,Text,,Sophia Brown,索菲娅·布朗,Sophia Brown,Sophia Brown,Sophia Brown,Sophia Brown,София Браун,Sophia Brown,
+KEY_TUT4_BODYPART_DESCRIPTION,Text,,"This character's body part took damage and is now DISABLED.
+Disabled body parts negatively affect the units' ability to use WEAPONS AND ABILITIES.
+Disabled body parts can't be restored, but the BLEEDING status effect they cause, and lost Hit Points can be healed with a MEDKIT.","这个角色的身体部位因受到伤害而损坏。
+损坏的身体部位会对单位使用武器和技能产生负面影响。
+损坏的身体部位不能恢复，但由此造成的流血状态效果和失去的生命值可以用医疗包治疗。","Cette partie du corps du personnage a subi des dégâts et est maintenant DÉSACTIVÉE.
+ Les membres désactivés nuisent à la capacité de l'unité d'utiliser des ARMES ET CAPACITÉS.
+ Les membres désactivés ne peuvent pas être restaurés, mais l'état de SAIGNEMENT qu'ils provoquent et les points de vies perdus peuvent être soignés avec un MÉDIKIT.","Das Körperteil dieses Charakters hat Schaden genommen und ist jetzt VERSEHRT.
+Versehrte Körperteile beeinträchtigen den Einsatz von WAFFEN UND FÄHIGKEITEN.
+Versehrte Körperteile können nicht wiederhergestellt werden, aber den dadurch verursachten Statuseffekt BLUTUNG sowie verlorene Trefferpunkte kannst du mit einem MEDKIT heilen.","La parte del corpo di questo personaggio ha subito danni ed è ora FUORI USO.
+ Le parti del corpo fuori uso hanno effetto negativo sull'abilità delle unità di usare ARMI E ABILITÀ.
+ Le parti del corpo fuori uso non possono essere ripristinate, ma l'effetto di stato SANGUINAMENTO che causano e i punti ferita persi possono essere curati con un KIT MEDICO.","Część ciała tej postaci poniosła obrażenia i jest teraz KONTUZJOWANA.
+ Kontuzjowane części ciała utrudniają jednostkom korzystanie z BRONI I UMIEJĘTNOŚCI.
+ Kontuzjowane części ciała nie można przywrócić, ale można wyleczyć spowodowane przez nie KRWAWIENIE i odzyskać utracone punkty życia, używając APTECZKI.","Одной из конечностей этого персонажа был нанесен урон, и теперь она РАЗРУШЕНА.
+Разрушенение частей тела может приводить к невозможности пользоваться ОРУЖИЕМ И СПОСОБНОСТЯМИ.
+Разрушенные части тела нельзя восстановить в бою, но статус КРОВОТЕЧЕНИЕ можно остановить, а потерянные очки здоровья можно вылечить, используя АПТЕЧКИ.","La parte del cuerpo de este personaje ha recibido tantos daños que ha quedado inhabilitada.
+ Las partes del cuerpo inhabilitadas afectan a la capacidad de dicha unidad para usar armas y habilidades.
+ No es posible restaurar las partes del cuerpo inhabilitadas, pero el efecto de sangrado y los puntos de salud perdidos pueden sanarse con un botiquín.",
+KEY_TUT4_BODYPART_NAME,Text,,Body Part Disabled,身体部位已损坏,Partie du corps désactivée,Körperteil versehrt,Parti del corpo fuori uso,Część ciała wyłączona,Часть тела разрушена,Parte del cuerpo inhabilitada,
+KEY_TUT4_DAMAGEPREDICTION_DESCRIPTION,Text,,"Phoenix Point uses a damage prediction system.
+
+100% of your shots will land within the OUTER CIRCLE.
+
+50% of the shots will land within the INNER CIRCLE.
+The closer the enemy and the more accurate the weapon, the more shots will land in the desired targeted area. ","Phoenix Point 采用伤害预测系统。
+ 
+你射出所有子弹都会落在外圈之内。
+
+ 50% 的子弹会落在内圈之内。
+敌人距离越近，武器的准度就越高，就会有更多子弹落在目标区域。","Phoenix Point utilise un système d'estimation des dégâts.
+ 
+100 % de vos tirs atteindront le CERCLE EXTERNE.
+ 
+ 50 % de vos tirs atteindront le CERCLE INTERNE.
+ Plus l'ennemi est proche et plus l'arme est précise, plus le nombre de tirs qui atteignent la zone ciblée sera élevé.","Phoenix Point verwendet ein System zur Schadensvorhersage.
+ 
+100% deiner Schüsse landen im ÄUSSEREN KREIS.
+ 
+50% der Schüsse landen im INNEREN KREIS.
+Je näher der Gegner und je genauer die Waffe, desto mehr Schüsse landen im gewünschten Zielbereich.","Phoenix Point usa un sistema di previsione dei danni.
+ 
+ Il 100% dei tuoi spari finirà nel CERCHIO ESTERNO.
+ 
+ Il 50% degli spari finirà nel CERCHIO INTERNO.
+ Più vicino è il nemico e più precisa è l'arma, maggiori saranno gli spari che finiranno nell'area desiderata.","W grze Phoenix Point występuje system przewidywania obrażeń.
+
+ 100% strzałów będzie trafiać w ZEWNĘTRZNE KOŁO.
+
+ 50% strzałów będzie trafiać w WEWNĘTRZNE KOŁO.
+Im bliżej znajduje się wróg i im celniejsza jest broń, tym więcej strzałów będzie trafiać we wskazany obszar celu.","В Phoenix Point используется система прогноза урона. 
+ 
+100% ваши выстрелов попадут внутрь ВНЕШНЕГО КРУГА. 
+ 
+50% выстрелов окажутся во ВНУТРЕННЕМ КРУГЕ.
+
+Чем ближе враг и точнее оружие, тем больше выстрелов попадут в целевую зону.","Punto Fénix usa un sistema de predicción de daño.
+ 
+ El 100 % de los disparos acertarán en el círculo exterior.
+ 
+ El 50 % de los disparos acertarán en el círculo interior.
+ Cuanto más cerca esté el enemigo y más precisa sea la arma. más disparos acertarán en la zona objetivo.",
+KEY_TUT4_DAMAGEPREDICTION_NAME,Text,,Damage Prediction,伤害预测,Estimation des dégâts,Schadensvorhersage,Previsione dei danni,Przewidywane obrażenia,Прогноз урона,Predicción de daño,
+KEY_TUT4_DEADSOLDIER_DESCRIPTION,Text,,"One of your operatives has died, but the fight must continue.
+You will recruit new soldiers to aid the Phoenix Project as you progress.
+Fallen comrades will be honored in the Memorial.","你的一名特工阵亡了，但战斗必须继续。
+在你继续游戏的过程中，你将招募新的士兵协助凤凰计划。
+你可以在纪念碑处致敬阵亡的战友。","L'un de vos agents est mort, mais le combat doit continuer.
+ Vous recruterez de nouveaux soldats pour aider le Projet Phoenix en progressant.
+ On rendra hommage aux soldats morts au combat dans le mémorial.","Einer deiner Soldaten ist gefallen, aber der Kampf muss weitergehen.
+Im Laufe deines Fortschritts wirst du neue Soldaten rekrutieren, um das Phoenix-Projekt zu unterstützen.
+Gefallene Kameraden werden in der Gedenkstätte geehrt.","Uno dei tuoi agenti è morto, ma la battaglia deve continuare.
+ Recluterai nuovi soldati per aiutare il Progetto Phoenix man mano che vai avanti.
+I compagni caduti verranno onorati nel Memoriale.","Jeden z twoich operatorów zginął, ale walka trwa dalej.
+ W miarę postępów będziesz werbować do Projektu Phoenix nowych żołnierzy.
+ Polegli towarzysze zostaną upamiętnieni w miejscu pamięci.","Один из ваших агентов погиб, но бой должен продолжаться. В будущем вы сможете завербовать новых солдат для помощи проекту Феникс.
+
+Память о павших солдат будет сохранена в Мемориале.","Uno de tus operativos ha muerto, pero la lucha debe continuar.
+ Reclutarás a más soldados para ayudar al Proyecto Fénix mientras progresas.
+Los camaradas caídos serán honrados con un homenaje.",
+KEY_TUT4_DEADSOLDIER_NAME,Text,,A soldier has fallen,一名士兵倒下,Un soldat est mort,Ein Soldat ist gefallen,Un soldato è caduto,Poległ żołnierz.,Солдат погиб,Ha caído un soldado,
+KEY_TUT4_ENCUMBRANCE_DESCRIPTION,Text,,"If weight of the armor and equipment soldiers are carrying is greater than their Strength, they will suffer a MOVEMENT PENALTY.",如果士兵携带的护甲和装备的重量之和大于其力量数量，士兵将受到移动惩罚。,"Si le poids des objets transportés et de l'armure dépasse la puissance du soldat, il subit alors une PÉNALITÉ DE MOUVEMENT.","Wenn das Gewicht aller mitgeführten Rüstungen und Ausrüstungsgegenstände größer ist als die Kraft des Soldaten, erhält der Soldat eine BEWEGUNGSSTRAFE.","Se il peso dell'armatura e l'equipaggiamento che i soldati trasportano è maggiore della loro forza, soffriranno una PENALITÀ DI MOVIMENTO.","Gdy ciężar pancerza i sprzętu niesionego przez żołnierza jest większy niż jego siła, żołnierz otrzymuje KARNE PUNKTY RUCHU.","Если вес брони или оборудования солдата выше, чем его сила, у солдата будет активирован ШТРАФ К СПОСОБНОСТИ ПЕРЕДВИЖЕНИЯ.","Si el peso de la armadura y el equipo de los soldados es mayor que su fuerza, sufrirán una penalización en su movimiento.",
+KEY_TUT4_ENCUMBRANCE_NAME,Text,,Tactical Tip: Encumbrance,战术提示：负重,Astuce tactique : charge,Taktischer Tipp: Belastung,Consiglio tattico: Ingombro,Wskazówka taktyczna: Obciążenie,Тактический совет: Перегрузка,Consejo táctico: impedimento,
+KEY_TUT4_ENDLESSREINFORCEMENTS_DESCRIPTION,Text,,"These Reinforcement Points (:REINFORCEMENTS:) will keep spawning enemies INDEFINITELY. 
+
+You don't need to collect all the resources to complete your objective - grab what you can and evacuate your soldiers before you get overrun!","这些增援点 (:REINFORCEMENTS:) 会无限期地生成敌人。
+
+ 你不需要收集所有的资源也能完成目标——趁着敌人还未多到不可控制之前，拿走所有能拿的东西，尽快撤离你的士兵！","Ces points de renfort (:REINFORCEMENTS:) vont faire apparaître des ennemis INDÉFINIMENT.
+ 
+ Vous n'avez pas besoin de récupérer toutes les ressources pour atteindre votre objectif – prenez ce que vous pouvez et évacuez vos soldats avant de vous faire envahir !","An diesen Verstärkungspunkte (:REINFORCEMENTS:) erscheinen UNBEGRENZT Gegner.
+ 
+Du musst nicht alle Ressourcen einsammeln, um dein Ziel abzuschließen - nimm mit, was du kriegen kannst, und evakuiere deine Soldaten, bevor ihr überrannt werdet!","Questi punti di rinforzo (:REINFORCEMENTS:) continueranno a generare nemici ALL'INFINITO. 
+ 
+ Non devi raccogliere tutte le risorse per completare il tuo obiettivo: prendi ciò che puoi ed evacua i tuoi soldati prima che veniate travolti!","W tych punktach posiłkowych (:POSIŁKI:) będą W NIESKOŃCZONOŚĆ pojawiać się nowi wrogowie.
+ 
+ Nie musisz zbierać wszystkich zasobów, aby osiągnąć cel — weź to, co zdołasz, i ewakuuj żołnierzy, zanim zaleją Cię siły wroga!","Эти зоны подкрепления (:REINFORCEMENTS:) будут ДО БЕСКОНЕЧНОСТИ генерировать новых врагов. 
+ 
+Вам необязательно собирать все ресурсы, чтобы выполнить задание — берите то, что можете, и эвакуируйте солдат, пока вас не окружили противники!","En estos puntos de refuerzo (:REINFORCEMENTS:) aparecerán enemigos sin parar.
+ 
+ No tienes que obtener todos los recursos para cumplir tu objetivo. Coge lo que puedas y evacúa a tus soldados antes de que puedan contigo.",
+KEY_TUT4_ENDLESSREINFORCEMENTS_NAME,Text,,Endless Reinforcements,无尽的增援,Renforts infinis,Endlose Verstärkungen,Rinforzi infiniti,Nieskończone posiłki,Бесконечные подкрепления,Refuerzos infinitos,
+KEY_TUT4_EVACUTATIONZONES_DESCRIPTION,Text,,"Once you have gathered all the loot you can manage, evacuate all your soldiers from the battlefield via an evacuation zone. You don't have to get everything, so don't take unnecessary risks.",收集到所有能拿到的战利品后，你可以通过撤离区域将所有士兵撤离战场。没有必要拿走一切，因此无需冒不必要的风险。,"Une fois que vous avez récupéré le plus de ressources possible, évacuez tous vos soldats du champ de bataille par la zone d'évacuation. Vous n'avez pas besoin de tout récupérer, ne prenez pas de risques inutiles.","Sobald du möglichst viel Beute gemacht hast, evakuiere all deine Soldaten über eine Evakuierungszone vom Schlachtfeld. Du musst nicht alles mitnehmen, also geh keine unnötigen Risiken ein.","Una volta raccolto tutto il bottino possibile, evacua tutti i tuoi soldati dal campo di battaglia attraverso una zona di evacuazione. Non devi prendere tutto, quindi non correre rischi inutili.","Gdy już zbierzesz wszystkie możliwe łupy, ewakuuj wszystkich żołnierzy z pola bitwy, korzystając ze strefy ewakuacyjnej. Pamiętaj, że nie musisz zbierać wszystkiego, więc nie ryzykuj bez potrzeby.","Когда вы собрали все, что смогли, эвакуируйте своих солдат с поля боя из зоны эвакуации. Вам необязательно забирать все, так что не рискуйте без нужды.","Cuando hayas reunido todo el botín que puedas, evacúa a tus soldados del campo de batalla en una zona de evacuación. No tienes por qué coger todo lo que haya, así que no corras riesgos innecesarios.",
+KEY_TUT4_EVACUTATIONZONES_NAME,Text,,Evacuation Zones,撤离区域,Zones d'évacuation,Evakuierungszonen,Zone di evacuazione,Strefy ewakuacyjne,Зоны эвакуации,Zonas de evacuación,
+KEY_TUT4_MIST_DESCRIPTION,Text,,"A Mist Sentinel (:MISTSENTINEL:) just started SPREADING VIRAL MIST around itself. 
+
+Phoenix operatives who enter the mist will lose Will Points (WPs) and enemies will be alerted to their position.
+Pandorans who enter the mist will recover WPs.
+
+The mist won't dissipate and can be removed only with fire and explosive weapons.","迷雾哨兵 (:MISTSENTINEL:) 正在自身周围散播病毒薄雾。
+
+ 进入迷雾的凤凰特工会失去意志力点数 (WP)，敌人将得知他们的位置。
+进入迷雾的潘多拉体会恢复意志力点数。
+
+ 迷雾不会主动消散，只能用火焰和爆炸武器驱散。","Une Sentinelle de brume (:MISTSENTINEL:) vient de commencer à DIFFUSER UNE BRUME VIRALE autour d'elle.
+ 
+ Les agents Phoenix qui entrent dans la brume perdront des points de volonté (PVo) et les ennemis seront alertés de leur position.
+ Les Pandoriens qui entrent dans la brume récupéreront des PVo.
+ 
+ La brume ne se dissipera pas et ne peut être retirée qu'avec des armes à feu ou explosives.","Ein Nebelwächter (:MISTSENTINEL:) hat gerade damit begonnen, VIRALNEBEL um sich herum zu VERBREITEN!
+
+Phoenix-Soldaten, die den Nebel betreten, verlieren Willenspunkte (WP), und Gegner werden auf ihre Position aufmerksam.
+Pandoraner, die den Nebel betreten, stellen ihre WP wieder her.
+
+Der Nebel verschwindet nicht von selbst und kann nur mit Feuer- und Sprengwaffen entfernt werden.","Una Sentinella della bruma (:MISTSENTINEL:) ha iniziato a SPARGERE BRUMA VIRALE attorno a sé. 
+ 
+ Gli agenti Phoenix che entrano nella bruma perderanno punti volontà (PV) e i nemici conosceranno la loro posizione.
+I Pandora che entrano nella bruma ripristinano i loro PV.
+ 
+ La bruma non si dissiperà e potrà essere rimossa solo con armi da fuoco ed esplosive.","Strażnik mgły (:MISTSENTINEL:) zaczął ROZPRZESTRZENIAĆ wokół siebie WIRUSOWĄ MGŁĘ. 
+ 
+ Po wejściu w mgłę operatorzy tracą punkty woli (PW) i zostają wykryci przez wroga.
+ Pandoranie, którzy wejdą do mgły, odzyskują PW.
+ 
+ Mgłą nie rozejdzie się – można ją usunąć tylko ogniem i ładunkami wybuchowymi.","Туманный страж (:MISTSENTINEL:) начал РАСПУСКАТЬ ВИРУСНЫЙ ТУМАН вокруг себя. 
+
+Агенты Феникса, попавшие в туман, теряют очки воли (ОВ), при этом враги обнаруживают их позицию. Пандораны, попавшие в туман, восстанавливают ОВ.
+ 
+Туман не рассеивается со временем, его можно уничтожить лишь с помощью огня или взрывных устройств.","Un centinela de la niebla (:MISTSENTINEL:) acaba de empezar a ESPARCIR NIEBLA VÍRICA a su alrededor.
+ 
+ Los operativos Fénix que entren en la niebla perderán puntos de voluntad (PV) y los enemigos sabrán su posición.
+Los pandorianos que entren en la niebla recuperan PV.
+ 
+ La niebla no se disipa. Solo se puede eliminar con armas de fuego y explosivas.",
+KEY_TUT4_MIST_NAME,Text,,Tactical Tip: Mist ,战术提示：迷雾,Astuce tactique : Brume,Taktischer Tipp: Nebel,Consiglio tattico: Bruma,Wskazówka taktyczna: Mgła,Тактический совет: Туман,Consejo táctico: niebla,
+KEY_TUT4_PANICKEDSOLDIER_DESCRIPTION,Text,,"When soldiers reach 0 WPs, they PANIC (:PANIC:).
+Protect your panicked soldiers and manage your WPs to avoid panicking again.","当士兵的意志力点数变为 0 时，就会陷入恐慌 (:PANIC:)。
+ 注意保护陷入恐慌的士兵，规划好你的意志力点数，避免再次陷入恐慌。","Lorsque les soldats atteignent 0 PVo, ils entrent en état de PANIQUE (:PANIC:).
+ Protégez vos soldats paniqués et gérez vos PVo pour éviter un nouvel état de panique.","Wenn die WP von Soldaten auf 0 sinken, verfallen sie in Panik (:PANIC:).
+Schütze deine panischen Soldaten und verwalte deine WP, um Panik zu vermeiden.","Quando i soldati arrivano a 0 PV, vanno NEL PANICO (:PANIC:).
+ Proteggi i tuoi soldati in panico e gestisci i tuoi PV per evitare che riaccada.","Gdy liczba PW żołnierzy spadnie do 0, wpadną oni w PANIKĘ (:PANIC:).
+ Staraj się chronić spanikowanych żołnierzy i zarządzać PW w taki sposób, aby nie dochodziło do wybuchów paniki.","Когда значение очков воли солдата падает до 0, он ПАНИКУЕТ (:PANIC:).
+
+Защищайте своих паникующих солдат и следите за значениями ОВ, чтобы избежать паники снова.","Cuando se agotan los PV de los soldados, estos entran en pánico (:PANIC:).
+Protege a tus soldados aterrados y gestiona tus PV para evitar que les vuelva a pasar.",
+KEY_TUT4_PANICKEDSOLDIER_NAME,Text,,Tactical Tip: Panic,战术提示：恐慌,Astuce tactique : panique,Taktischer Tipp: Panik,Consiglio tattico: Panico,Wskazówka taktyczna: Panika,Тактический совет: Паника,Consejo táctico: pánico,
+KEY_TUT4_RECOURCEPACKS_DESCRIPTION,Text,,"This crate contains a RESOURCE PACK. If it is carried out of the battlefield via an evacuation zone, the resources will be added to your general resource pool.
+
+Resources are vital to the success of the Phoenix Project, as they are used for building structures, manufacturing equipment, and recruiting new soldiers. ","这个箱子里装着一个资源包。如果通过撤离区域将其带出战场，这些资源将添加至你的整体资源库。
+
+ 资源对凤凰计划的成功至关重要，建造建筑、制造装备和招募新兵都需要使用资源。","Cette caisse contient un PACK DE RESSOURCES. Si vous le sortez du champ de bataille par une zone d'évacuation, les ressources seront ajoutées à vos ressources générales.
+ 
+ Les ressources sont cruciales pour la réussite du Projet Phoenix, car elles servent à construire des structures, à fabriquer de l'équipement et à recruter des soldats.","Diese Kiste enthält ein RESSOURCENPAKET. Wenn es über die Evakuierungszone vom Schlachtfeld getragen wird, werden die Ressourcen deinem allgemeinen Ressourcenpool hinzugefügt.
+ 
+Ressourcen sind von entscheidender Bedeutung für den Erfolg des Phoenix-Projekts. Sie dienen zum Bau von Gebäuden, der Herstellung von Ausrüstung und der Rekrutierung neuer Soldaten.","Questa cassa contiene un PACCHETTO DI RISORSE. Se viene portato fuori dal campo di battaglia tramite una zona di evacuazione, le risorse saranno aggiunte a quelle già in tuo possesso.
+ 
+ Le risorse sono essenziali per il successo del Progetto Phoenix, poiché servono per costruire strutture, fabbricare equipaggiamento e reclutare nuovi soldati.","Ta skrzynia zawiera PAKIET ZASOBÓW. Jeśli uda Ci się ją wydostać przez strefę ewakuacyjną, zasoby zostaną dodane do ogólnej puli zasobów.
+ 
+ Zasoby mają kluczowe znaczenie dla powodzenia Projektu Phoenix, ponieważ umożliwiają wznoszenie budowli, produkowanie sprzętu i rekrutowanie nowych żołnierzy.","В этом ящике хранятся ресурсы. Если вы вынесете их с поля боя через зону эвакуации, ресурсы будут добавлены к вашим общим ресурсам.
+
+Ресурсы очень важны для успеха проекта Феникс, так как они требуются для строительства, создания оборудования и вербовки новых солдат.","Esta caja contiene un paquete de recursos. Se saca del campo de batalla en las zonas de evacuación. Los recursos se añadirán a tu reserva de recursos general.
+ 
+ Los recursos son vitales para que el Proyecto Fénix tenga éxito, pues se usan para construir estructuras, fabricar equipo y reclutar nuevos soldados.",
+KEY_TUT4_RECOURCEPACKS_NAME,Text,,Resource Packs,资源包,Packs de ressources,Ressourcenpakete,Pacchetti di risorse,Pakiety zasobów,Сбор ресурсов,Paquetes de recursos,
+KEY_TUT4_STORY1_DESCRIPTION,Text,,"""Those crates contain valuable materials, so grab everything you can! This place will be crawling with mutants any minute now!""",那些箱子里装着珍贵的材料，能拿的都拿走！这个地方很快就会被变异体霸占！,"Ces caisses contiennent des matériaux utiles, prenez tout ce que vous pouvez ! Cet endroit sera infesté de mutants sous peu !","Diese Kisten enthalten wertvolles Material, also schnapp dir alles, was du kriegen kannst! Hier wird es gleich von Mutanten nur so wimmeln!","Quelle casse contengono materiali di valore, quindi arraffa tutto quello che riesci! Da un momento all'altro arriveranno mutanti a iosa.","Skrzynie zawierają cenne materiały. Bierz, co się da – lada moment to miejsce będzie roić się od mutantów!","В этих ящиках ценные материалы, так что берите все, что сможете! В любую минуту сюда нагрянут мутанты!","Esas cajas contienen materiales valiosos, ¡así que llévate lo que puedas! ¡Los mutantes infestarán la zona en cualquier momento!",
+KEY_TUT4_STORY1_NAME,Text,,Sophia Brown,索菲娅·布朗,Sophia Brown,Sophia Brown,Sophia Brown,Sophia Brown,София Браун,Sophia Brown,
+KEY_TUT4_STORY2_DESCRIPTION,Text,,"""Phoenix, retreat! Double time!""",凤凰特工，撤退！跑起来！,"Phoenix, repliez-vous ! Au pas de course !","Phoenix, Rückzug! Dalli, dalli!","Phoenix, ritirata! Svelti!","Phoenix, natychmiast się wycofać!","Феникс, отступаем! Бегом!","¡Fénix, retirada! ¡Rápido!",
+KEY_TUT4_STORY2_NAME,Text,,Sophia Brown,索菲娅·布朗,Sophia Brown,Sophia Brown,Sophia Brown,Sophia Brown,София Браун,Sophia Brown,
+KEY_TUT4_TRADE_DESCRIPTION,Text,,"If two operatives stand next to each other, they can EXCHANGE ITEMS between Inventories.",如果两名特工站在一起，他们可以交换物品栏中的物品。,"Si deux agents sont l'un à côté de l'autre, ils peuvent ÉCHANGER DES OBJETS entre leurs inventaires.","Wenn zwei Soldaten nebeneinander stehen, können sie GEGENSTÄNDE zwischen ihren Inventaren AUSTAUSCHEN.","Se due agenti sono uno accanto all'altro, possono SCAMBIARE OGGETTI tra gli Inventari.","Gdy dwóch operatorów stoi blisko siebie, mogą oni WYMIENIAĆ PRZEDMIOTY w ekwipunku.","Если два агента стоят рядом, они могут ОБМЕНЯТЬСЯ ПРЕДМЕТАМИ, находящимися в их инвентаре.","Si dos operativos están uno al lado del otro, podrán intercambiar objetos entre sus inventarios.",
+KEY_TUT4_TRADE_NAME,Text,,Tactical Tip: Exchanging Items,战术提示：交换物品,Astuce tactique : échange d'objets,Taktischer Tipp: Gegenstände austauschen,Consiglio tattico: Scambio di oggetti,Wskazówka taktyczna: Wymienianie się przedmiotami,Тактический совет: Обмен предметами,Consejo táctico: intercambio de objetos,
+KEY_TUT4_TRITON_DESCRIPTION,Text,,"You've encountered a new enemy - the Triton (:TRITON:).
+ 
+
+Be on your guard! These cunning monsters will skulk around the battlefield, seizing any opportunity to flank you.","你遇到了一个新敌人：触手鱼人 (:TRITON:)。 
+ 
+ 保持警惕！这些狡猾的怪物会躲在战场周围，一有机会就会从侧面偷袭你。","Vous avez rencontré un nouvel ennemi, le Triton (:TRITON:).
+ 
+ Restez sur vos gardes ! Ces monstres rusés rôdent sur le champ de bataille, et saisiront toute occasion de vous flanquer.","Du hast einen neuen Feind kennengelernt - den Triton (:TRITON:)
+ 
+Sei auf der Hut! Diese verschlagenen Monster streifen auf dem Schlachtfeld umher und nutzen jede Gelegenheit, dich zu flankieren.","Hai incontrato un nuovo nemico: il Tritone (:TRITON:). 
+ 
+ Stai all'erta! Questi mostri scaltri vagheranno per il campo di battaglia, cogliendo ogni opportunità per accerchiarti.","Napotkano nowego przeciwnika: Trytona (:TRITON:).
+ 
+ Miej się na baczności! Te sprytne potwory czają się na polu bitwy, czyhając na okazję do oflankowania twoich żołnierzy.","Вы встретили нового врага — тритона (:TRITON:). 
+ 
+Будьте осторожны! Эти хитрые монстры будут шастать по полю боя и стараться обойти вас с флангов.","Te has encontrado con un enemigo nuevo: el tritón (:TRITON:).
+ 
+ ¡Mantente alerta! Son monstruos astutos que merodean por el campo de batalla y que aprovecharán para flanquear.",
+KEY_TUT4_TRITON_NAME,Text,,Tactical Tip: Tritons,战术提示：触手鱼人,Astuce tactique : Tritons,Taktischer Tipp: Tritons,Consiglio tattico: Tritoni,Wskazówka taktyczna: Trytony,Тактический совет: Тритоны,Consejo táctico: tritones,
+KEY_TUT4_WILLPOINTS_DESCRIPTION,Text,,"Characters start battle with WILL POINTS (WPs) equal to their Willpower.
+
+WPs are spent on SPECIAL ABILITIES.
+Soldiers lose WPs when their allies die, and recover WPs when using the RECOVER ability, open crates, or kill enemies. 
+When a character's WPs drop below 0, they PANIC.","角色在战斗开始时拥有与其意志力属性相同的意志力点数 (WP)。
+ 
+ 使用特殊技能需要消耗意志力点数。
+士兵在盟友死亡时会失去意志力点数，使用“恢复”技能、打开箱子或击杀敌人时可恢复意志力点数。
+当单位的意志力点数变为 0 时，就会陷入恐慌。","Les personnages démarrent le combat avec des POINTS DE VOLONTÉ (PVo) équivalents à leur volonté.
+ 
+ Les PVo sont utilisés pour les CAPACITÉS SPÉCIALES.
+ Les soldats perdent des PVo quand leurs alliés meurent et en récupèrent quand ils utilisent la capacité RÉCUPÉRER, ouvrent des caisses ou tuent des ennemis.
+ Lorsque les PVo d'un personnage sont inférieurs à 0, il entre en état de PANIQUE.","Charaktere beginnen den Kampf mit WILLENSPUNKTEN (WP) entsprechend ihrer Willenskraft.
+ 
+WP werden für SPEZIALFÄHIGKEITEN ausgegeben.
+Soldaten verlieren WP, wenn Verbündete sterben, und erhalten WP zurück, wenn sie die Fähigkeit WIEDERHERSTELLEN einsetzen, Kisten öffnen oder Gegner ausschalten.
+Wenn die WP eines Charakters unter 0 fallen, gerät er in Panik.","I personaggi iniziano la battaglia con PUNTI VOLONTÀ (PV) pari alla loro volontà.
+ 
+ I PV vengono spesi per ABILITÀ SPECIALI.
+ I soldati perdono PV quando i loro alleati muoiono e recuperano PV quando usano l'abilità RECUPERA, aprono casse o uccidono nemici.
+ Quando i suoi PV scendono sotto lo 0, il personaggio va nel PANICO.","Na początku bitwy liczba PUNKTÓW WOLI (PW) postaci jest równa ich sile woli.
+ 
+ PW można wydawać na ZDOLNOŚCI SPECJALNE.
+Żołnierze tracą PW w momencie śmierci sojuszników i odzyskują, używając umiejętności ODZYSKANIE, otwierając skrzynie i zabijając wrogów. 
+ Gdy liczba PW jednostki spadnie do 0, jednostka wpada w PANIKĘ.","В начале боя каждому персонажу дается определенное число ОЧКОВ ВОЛИ (ОВ), равное значению его параметра Воли.
+ 
+ОВ тратятся на применение СПЕЦИАЛЬНЫХ СПОСОБНОСТЕЙ.
+Солдаты теряют ОВ, если их союзники погибают, и восстанавливают ОВ, когда используют ВОССТАНОВЛЕНИЕ, открывают ящики или убивают врагов.
+
+Когда значение ОВ падает до 0, начинается ПАНИКА.","Los personajes empiezan los combates con PUNTOS DE VOLUNTAD (PV) equivalentes a su fuerza de voluntad.
+ 
+ Los PV se gastan en las HABILIDADES ESPECIALES.
+Los soldados pierden PV cuando sus aliados mueren y los recuperan usando habilidades de recuperación, abriendo cajas o matando enemigos.
+ Cuando los PV de un personaje disminuyen por debajo de 0, entrará en PÁNICO.",
+KEY_TUT4_WILLPOINTS_NAME,Text,,Will Points (WPs),意志力点数 (WP),Points de volonté (PVo),Willenspunkte (WP),Punti volontà (PV),Punkty woli (PW):,Очки воли (ОВ),Puntos de voluntad (PV),
+KEY_TUT4_WILLPOINTZONE_DESCRIPTION,Text,,"Will Point Zones represent areas of the battlefield with strategic advantage. Entering a Will Point Zone with one of your operatives will RESTORE WILL POINTS TO YOUR ENTIRE SQUAD.
+
+Keep in mind that will points cannot exceed a soldier's maximum Willpower.
+
+Once activated, Will Point zones disappear and cannot be used again.","意志力点数区代表在战场上具有战略优势的区域。命令你的一名特工进入意志力点数区将恢复整支小队的意志力点数。
+
+ 请记住，意志力点数不能超过士兵的最大意志力。
+
+ 意志力点数区在激活后就会消失，不能再次使用。","Les zones de points de volonté représentent des zones du champ de bataille doté d'un avantage stratégique. Entrer dans une zone de points de volonté avec l'un de vos agents RESTAURE LES POINTS DE VOLONTÉ DE TOUTE L'ESCOUADE.
+ 
+ N'oubliez pas que le nombre de points de volonté ne peut pas être supérieur à la volonté maximale.
+ 
+ Une fois activées, les zones de points de volonté disparaissent et ne peuvent plus être utilisées.","Willenspunkte-Zonen sind Bereiche auf dem Schlachtfeld von strategischem Vorteil. Wenn du mit einem deiner Soldaten eine solche Zone betrittst, werden die WILLENSPUNKTE FÜR DEIN GESAMTES EINSATZTEAM WIEDERHERGESTELLT!
+ 
+Denk daran, dass Willenspunkte die maximale Willenskraft eines Soldaten nicht übersteigen können.
+ 
+Nach Aktivierung verschwinden Willenspunkte-Zonen und können nicht erneut verwendet werden.","Le zone di punti volontà sono aree del campo di battaglia con vantaggi strategici. Entrando in una zona di punti volontà con uno dei tuoi agenti, ti permetterà di RIPRISTINARE I PUNTI VOLONTÀ DI TUTTA LA TUA SQUADRA.
+
+ Ricorda che i punti volontà non possono superare la volontà massima di un soldato.
+ 
+ Una volta attivate, le zone di punti volontà scompariranno e non potranno essere riutilizzate.","Strefy punktów woli to obszary na polu bitwy dające strategiczną przewagę. Jeśli jeden z twoich operatorów wejdzie do takiej strefy, PRZYWRÓCI PUNKTY WOLI CAŁEGO ODDZIAŁU.
+ 
+ Pamiętaj, że punkty woli nie mogą przekroczyć maksymalnej siły woli żołnierza.
+ 
+ Po aktywacji strefy punktów woli znikają i nie można ich użyć ponownie.","Зоны очков воли — это места на поле боя со стратегическим преимуществом. Если один из ваших агентов войдет в такую зону, ВСЕ ОЧКИ ВОЛИ ОТРЯДА БУДУТ ВОССТАНОВЛЕНЫ.
+
+Не забывайте, что очки воли не могут превысить максимальное значение Воли солдата.
+ 
+После активации Зона очков воли пропадает и более не может быть использована.","Las zonas de puntos de voluntad son áreas del campo de batalla que ofrecen una ventaja estratégica.
+ Si un operativo entra en una zona de puntos de voluntad, EL PELOTÓN ENTERO RECUPERA PUNTOS DE VOLUNTAD.
+ 
+ Ten en cuenta que los puntos de voluntad no pueden superar la fuerza de voluntad máxima de los soldados.
+ 
+ Las zonas de puntos de voluntad desaparecen al activarse y no se podrán usar de nuevo.",
+KEY_TUT4_WILLPOINTZONE_NAME,Text,,Will Point Zones,意志力点数区,Zones de point de volonté,WILLENSKRAFTZONEN,Zone di punti volontà,Strefy punktów woli,Зоны очков воли,Zonas de puntos de voluntad,
+KEY_TUT_ASSAULT3_MALE,Text,,Takeshi Sato,佐藤武,Takeshi Sato,Takeshi Sato,Takeshi Sato,Takeshi Sato,Такеши Сато,Takeshi Sato,
+KEY_TUT_SNIPER_FEMALE,Text,,Irina Sokolova,伊琳娜·索科洛娃,Irina Sokolova,Irina Sokolowa,Irina Sokolova,Irina Sokolova,Ирина Соколова,Irina Sokolova,
+KEY_UI_HINTS_TOGGLE,Text,,Disable hints,禁用提示,Désactiver les indices,Hinweise deaktivieren,Disabilita suggerimenti,Wyłącz porady,Выключить подсказки,Desactivar pistas,

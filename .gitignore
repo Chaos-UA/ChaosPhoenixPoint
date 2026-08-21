@@ -1,0 +1,19 @@
+/Assembly-CSharp/
+/tftv/
+
+# Build artifacts
+**/obj/
+**/bin/
+**/.vs/
+**/.idea/
+
+# Third-party reference/output binaries (not our source)
+**/ModSDK/*.dll
+**/ModSDK/*.pdb
+**/Dist/
+
+# Dev scratch / local-only files
+CLAUDE-backup.md
+temp-todo.txt
+crush.json
+/ChaosInventory/temp/

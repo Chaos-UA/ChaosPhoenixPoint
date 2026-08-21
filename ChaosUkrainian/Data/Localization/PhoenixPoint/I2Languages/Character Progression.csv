@@ -1,0 +1,25 @@
+Key,Ukrainian
+KEY_GEOSCAPE_ABILITY_NO_LEVEL,У ВАС НЕДОСТАТНІЙ РІВЕНЬ ПЕРСОНАЖА ДЛЯ ОТРИМАННЯ ЦІЄЇ ЗДІБНОСТІ
+KEY_GEOSCAPE_ABILITY_NO_XP,У ВАС НЕДОСТАТНЬО ОЧОК УМІНЬ ДЛЯ ОТРИМАННЯ ЦІЄЇ ЗДІБНОСТІ
+KEY_GEOSCAPE_ACQUIRE,ОТРИМАТИ ЗДІБНІСТЬ
+KEY_GEOSCAPE_SPEED_TIP,"Швидкість визначає, скільки клітинок персонаж може подолати за один хід"
+KEY_GEOSCAPE_STRENGTH_TIP,"Сила визначає максимальну кількість очок здоров'я, вагу, яку можна нести, та відстань, на яку можна кидати предмети"
+KEY_GEOSCAPE_WILLPOWER_TIP,"Сила волі визначає максимальну кількість очок волі в бою, які використовуються для здібностей. Досягнення нуля очок волі спричиняє паніку"
+KEY_NEW_CLASS_DESCRIPTION,Оберіть додатковий клас для навчання.
+KEY_NEW_CLASS_HEADER,ОБРАТИ ДОДАТКОВИЙ КЛАС
+KEY_NEW_CLASS_NAME,НОВИЙ КЛАС
+KEY_PROGRESSION_ACCURACY,ТОЧНІСТЬ
+KEY_PROGRESSION_COST,ВАРТІСТЬ В ОУ
+KEY_PROGRESSION_DAMAGE,ШКОДА
+KEY_PROGRESSION_EXPERIENCE,ДОСВІД
+KEY_PROGRESSION_PERCEPTION,СПРИЙНЯТТЯ
+KEY_PROGRESSION_PHOENIX_SKILL_POINTS,ОУ ФЕНІКСА
+KEY_PROGRESSION_SKILL_POINTS,ОУ
+KEY_PROGRESSION_SOLDIER_SKILL_POINTS,ОУ СОЛДАТА
+KEY_PROGRESSION_SPEED,ШВИДКІСТЬ
+KEY_PROGRESSION_STATS_REQUIREMENTS,ВИМОГИ
+KEY_PROGRESSION_STATS_UPDATE,ПОКРАЩУЄ ТАКІ ХАРАКТЕРИСТИКИ:
+KEY_PROGRESSION_STRENGTH,СИЛА
+KEY_PROGRESSION_WILLPOWER,СИЛА ВОЛІ
+KEY_UPGRADE_CONFIRMATION_DESCRIPTION,"Ви не зможете змінити цю здібність або повернути очки вмінь, витрачені на неї."
+KEY_UPGRADE_CONFIRMATION_NAME,"Ви впевнені, що хочете навчити солдата цієї здібності?"

@@ -1,0 +1,37 @@
+[h1]Chaos Faction Wars[/h1]
+[i]Factions don't just trade favors on a diplomacy screen — they fight for you.[/i]
+
+In vanilla Phoenix Point, New Jericho, Synedrion and Anu only ever help you through research trades and resource deals. ChaosFaction puts their soldiers on the battlefield. Call in an allied squad to defend a base, clean out an infestation, or storm a Pandoran lair with you — and watch the world react back, as friendly and hostile faction squads start showing up on the map on their own.
+
+[h2]🤝 Ask a Faction for Help[/h2]
+Left-click a site (your Phoenix base under attack, your own infested base, a Pandoran Nest/Lair/Citadel/Palace you're about to assault, or an infested Haven) and you'll see up to three options — New Jericho, Anu, and Synedrion — each willing to send a squad your way, if your relationship with them is good enough.
+
+[list]
+[*] Pay with the faction's own resource (Supplies, Materials, or Tech — each faction wants something different, and prices shift over time) or with Relationship instead.
+[*] Squad size, vehicles/Mutogs, and cost all scale with the mission's actual threat level — a Low-threat skirmish costs less and sends fewer troops than an Extreme-threat siege.
+[*] On a Phoenix base defense specifically, you can ask for help friendly faction, their reinforcements will arrive in few turns to help protecting your base.
+[/list]
+
+[h2]🎁 Faction revenge[/h2]
+After Pandorans attack on Haven, faction might want to revenge and will propose to support you in your attack on Pandorans with their supporting squad.
+
+[h2]⚔️ A Living Map[/h2]
+Hostile and allied faction do sometimes activity against Pandorans on their own, you might join into the fight.
+
+[list]
+[*] Pure and Forsaken raiding parties, Scavenger bands, or squads from New Jericho/Anu/Synedrion can appear near eligible sites.
+[*] Every activity starts as an unidentified signal on the map — grey marker, no faction revealed — until you move Aircraft to the location.
+[*] Everything about how often this happens, and the odds of hostile vs. friendly, is yours to tune.
+[/list]
+
+[h2]⚙️ Fully Configurable[/h2]
+Every numbers that matters is exposed in Mod Settings. You might balance for your own difficulty:
+[list]
+[*] Per-threat-level (Low/Medium/High/Extreme) cost, squad size, and vehicle/Mutog caps.
+[*] Relationship threshold to unlock help.
+[*] Activity spawn rate, hostile/allied balance.
+[*] And more.
+[/list]
+
+[h2]Console commands[/h2]
+[*] chaos_factions_debug 0/1 - when 1 show the 'ChaosFactionsDebugOptions' context-menu button to manually spawn a hostile/allied activity, 0 = hide it

@@ -1,0 +1,105 @@
+Key,Ukrainian
+KEY_ABILITY,ЗДІБНІСТЬ
+KEY_ACCURACY_COLON,ТОЧНІСТЬ:
+KEY_ACTION_COST,ОЧКИ ДІЙ: {0}
+KEY_ACTION_LEFT,ЗАЛИШИЛОСЯ ДІЙ
+KEY_ACTION_POINTS_CLEAN,ОЧКИ ДІЙ
+KEY_ARMOR,БРОНЯ
+KEY_ARMOUR,БРОНЯ:
+KEY_ARMOUR_SHRED_CHANCE,ШАНС ЗІРВАТИ БРОНЮ: {0}%
+KEY_ATTACK_NAME,АТАКА
+KEY_CRATE_SPOTTED,ЗАМІЧЕНО ЯЩИК
+KEY_DAMAGE,УРОН
+KEY_DAMAGED_EQUIPMENT,СПОРЯДЖЕННЯ ПОШКОДЖЕНО: {0}
+KEY_DAMAGE_DEALT_ONE,Урон {0}
+KEY_DAMAGE_DEALT_TWO,Урон {0} – {1}
+KEY_DAMAGE_PARAM,УРОН: {0}
+KEY_DAMAGE_PER_SHOT,Урон за постріл:
+KEY_DESTROYED_EQUIPMENT,СПОРЯДЖЕННЯ ЗНИЩЕНО: {0}
+KEY_DISABLED_BODYPART_SUFFIX,ВІДКЛЮЧЕНО: {0}
+KEY_DISABLED_CLEAN,ВІДКЛЮЧЕНО
+KEY_DISABLE_EFFECTS,ВІДКЛЮЧИТИ ЕФЕКТИ:
+KEY_ENABLED_BODYPART_SUFFIX,ЧАСТИНА ПРАЦЮЄ: {0}
+KEY_END_TURN_PROMPT,У ваших активних солдатів закінчилися очки дій. Завершити хід?
+KEY_ENEMY_SPOTTED,ЗАМІЧЕНО ВОРОГА
+KEY_FOOD_CRATE_DESCRIPTION,"Ящик з ресурсами, що містить провіант"
+KEY_FOOD_CRATE_NAME,Ящик з провіантом
+KEY_FREE_AIM_IF_DISABLED,Якщо відключено:
+KEY_FREE_AIM_TAB_TO_SWITCH,"TAB, щоб змінити ціль"
+KEY_FREE_AIM_TAB_TO_SWITCH_REBIND,"[<color=#ECBA62>{[NextCharacter]}</color>], щоб змінити ціль"
+KEY_FUMBLED_NAME,НЕВДАЧА
+KEY_GEOSCAPE_RECRUIT_ATTACK_DESCRIPTION,"Ви не можете вербувати солдатів, поки притулок атакують"
+KEY_HIT_POINTS_CLEAN,Очки здоров'я
+KEY_INFO_DESCRIPTION,Переглянути поточний стан і всю доступну інформацію
+KEY_INFO_NAME,ІНФОРМАЦІЯ
+KEY_INTERACT_ACTIVATE_DESCRIPTION,Активувати пристрій
+KEY_INTERACT_ACTIVATE_NAME,АКТИВУВАТИ
+KEY_LEVEL_NAME,Рівень
+KEY_MATERIALS_CRATE_DESCRIPTION,"Ящик з ресурсами, що містить матеріали для будівництва бази"
+KEY_MATERIALS_CRATE_NAME,Ящик з матеріалами
+KEY_MAX_HIT_POINTS,МАКС. очків здоров'я:
+KEY_MESSAGE_ACTOR_DISABLED,Підрозділ не може виконати дію через психічну або фізичну недієздатність.
+KEY_MESSAGE_ALREADY_AT_MAXIMUM_AP,Персонаж уже має максимум очків дій
+KEY_MESSAGE_ALREADY_AT_MAXIMUM_WP,Очки волі вже на максимумі
+KEY_MESSAGE_BLOCKED_BY_STATUS,Стан не дозволяє використати цю здібність
+KEY_MESSAGE_BODY_PART_DISABLED,Частину тіла відключено: {BodyPartSourceName}
+KEY_MESSAGE_BODY_PART_UNTARGETABLE,Неможливо прицілитися в цю частину тіла
+KEY_MESSAGE_CHARACTERIS_PANICKED,Персонаж запанікував
+KEY_MESSAGE_CHARACTER_HAS_FLOOR_SUPPORT,Персонаж стоїть на твердій поверхні
+KEY_MESSAGE_CHARACTER_OFF_FIELD,Персонаж не на полі бою
+KEY_MESSAGE_EQUIPMENT_DISABLED,Предмет зламано: {TargetEquipmentName}
+KEY_MESSAGE_EQUIPMENT_FULLY_LOADED,Предмет уже повністю заряджений
+KEY_MESSAGE_EQUIPMENT_NOT_ACTIVE,Предмет неактивний: {TargetEquipmentName}
+KEY_MESSAGE_EQUIPMENT_NOT_SELECTED,Предмет не вибрано: {TargetEquipmentName}
+KEY_MESSAGE_GEO_NO_RESOURCES_ARMADILLO,"У вас недостатньо ресурсів, щоб побудувати транспорт"
+KEY_MESSAGE_GEO_NO_RESOURCES_SOLDIER,"У вас недостатньо ресурсів, щоб найняти солдата"
+KEY_MESSAGE_NEEDS_MOVEMENT_LEFT,У персонажа закінчилися очки дій
+KEY_MESSAGE_NOT_DISABLED,Не відключено
+KEY_MESSAGE_NOT_ENOUGH_AP,Недостатньо очків дій
+KEY_MESSAGE_NOT_ENOUGH_HANDS,Недостатньо вільних рук
+KEY_MESSAGE_NOT_ENOUGH_WP,Недостатньо очків волі
+KEY_MESSAGE_NOT_MOUNTED,Персонаж не в транспорті
+KEY_MESSAGE_NOT_PROFFICIENT,Солдат не володіє цією зброєю/спорядженням
+KEY_MESSAGE_NO_AMMO_IN_INVENTORY,Немає боєприпасів в інвентарі
+KEY_MESSAGE_NO_LINE_OF_SIGHT,Немає прямої видимості
+KEY_MESSAGE_NO_MEMBERS_IN_SQUAD,У вашому загоні немає інших членів
+KEY_MESSAGE_NO_MORE_AMMO,"Закінчилися боєприпаси — перезарядіть, щоб використати"
+KEY_MESSAGE_NO_MORE_CHARGES,"Закінчилися заряди — перезарядіть, щоб використати"
+KEY_MESSAGE_NO_MORE_USES_THIS_TURN,Не можна використати повторно цього ходу
+KEY_MESSAGE_NO_SUITABLE_EQUIPMENT,Немає підходящого спорядження
+KEY_MESSAGE_NO_TURRET_IN_INVENTORY,Немає турелі в інвентарі
+KEY_MESSAGE_NO_VALID_TARGET,Немає дійсної цілі
+KEY_MESSAGE_OTHER_ABILITY_NEEDED,Потрібна інша здібність
+KEY_MESSAGE_OTHER_WEAPON_ABILITY_NEEDED,Потрібна інша здібність зброї
+KEY_MESSAGE_OUT_OF_WEAPON_ACTION_RANGE,Ціль поза радіусом дії зброї
+KEY_MESSAGE_OUT_OF_WEAPON_ATTACK_RANGE,Ціль поза радіусом атаки зброї
+KEY_MESSAGE_REQUIREMENTS_NOT_MET,Вимоги не виконано
+KEY_MESSAGE_SQUAD_AT_FULL_WP,Увесь загін уже має максимум очків волі
+KEY_MESSAGE_STUNNED,Персонаж оглушений і не має достатньо очків дій
+KEY_MESSAGE_TARGET_TOO_CLOSE,Немає місця для пострілу
+KEY_MESSAGE_TURN_ENDED,Хід завершено
+KEY_MOVEMENT,ПЕРЕМІЩЕННЯ
+KEY_MOVE_RANGE,РАДІУС ПЕРЕМІЩЕННЯ:
+KEY_MOVE_TO_SELECTED_POSITION,Перемістити у вибрану позицію
+KEY_NUMBER_OF_SHOTS,x {0} пострілів
+KEY_NUMBER_OF_SHOTS_PARAM,ПОСТРІЛИ: {0}
+KEY_OUT_OF_AMMO__RELOAD,НЕМАЄ БОЄПРИПАСІВ — ПЕРЕЗАРЯДІТЬ
+KEY_PERCEPTION_COLON,СПРИЙНЯТТЯ:
+KEY_RANGE,РАДІУС:
+KEY_REMOVE_ABILITY,ВИДАЛИТИ ЗДІБНІСТЬ:
+KEY_RETURN_FIRE,ВІДПОВІДНИЙ ВОГОНЬ
+KEY_SHOTS,ПОСТРІЛИ:
+KEY_SHOTS_BASIC,ПОСТРІЛИ
+KEY_STEALTH_COLON,СКРИТНІСТЬ:
+KEY_TECH_CRATE_DESCRIPTION,"Ящик з ресурсами, що містить високотехнологічні виробничі матеріали"
+KEY_TECH_CRATE_NAME,Ящик з технологіями
+KEY_TURNS_ALIEN_ACTIVITY,АКТИВНІСТЬ ПАНДОРАНІВ
+KEY_TURNS_PHOENIX_FORCES,СИЛИ «ФЕНІКСА»
+KEY_TURN_ENDED,ХІД ЗАВЕРШЕНО
+KEY_WARNING_FRIENDLY_UNIT,"Увага, дружній підрозділ!"
+KEY_WILL_POINTS,ОЧКИ ВОЛІ: {0}
+KEY_WILL_POINTS_CLEAN,ОЧКИ ВОЛІ
+KEY_WILL_POINTS_NO_VAR,ОЧКИ ВОЛІ:
+KEY_ZOOM,(T/G НАБЛИЗИТИ/ВІДДАЛИТИ)
+KEY_ZOOM_CONTROLLER,НАБЛИЗИТИ/ВІДДАЛИТИ
+KEY_ZOOM_REBIND,([<color=#ECBA62>{[Discrete Zoom In]}</color>]/[<color=#ECBA62>{[Discrete Zoom Out]}</color>] НАБЛИЗИТИ/ВІДДАЛИТИ)

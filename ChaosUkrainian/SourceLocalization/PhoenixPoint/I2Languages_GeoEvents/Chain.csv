@@ -1,0 +1,834 @@
+Key,Type,Desc,English,UI_Tester,Chinese,French,Spanish,Italian,German,Russian,Polish,0
+CHAIN_NJ1_CHOICE_0_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Colonel Jack Harlson (New Jericho)
+TO: Phoenix Project
+
+I look forward to receiving the results of this operation. You will be adequately compensated, of course.",,"消息
+来自：杰克·哈尔森上校（新耶利哥）
+接收：凤凰计划
+
+我期待收到此次行动的结果。当然，你将获得丰厚的酬劳。","MESSAGE
+DE : Colonel Jack Harlson (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Il me tarde de recevoir les résultats de cette opération. Vous serez rémunérés comme il se doit, évidemment.","MENSAJE
+DE: Coronel Jack Harlson (Nueva Jericó)
+PARA: Proyecto Fénix
+
+Quedo a la espera de recibir los resultados de esta operación. Por supuesto, la recompensa estará a la altura.","MESSAGGIO
+DA: Colonnello Jack Harlson (Nuova Gerico)
+A: Progetto Phoenix
+
+Sono impaziente di ricevere i risultati dell'operazione. Sarete adeguatamente ricompensati.","NACHRICHT
+ VON: Oberst Jack Harlson (Neu-Jericho)
+ AN: Phoenix-Projekt
+
+Ich freue mich darauf, die Ergebnisse dieser Operation zu erhalten. Sie werden selbstverständlich angemessen entlohnt.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Полковник Джек Харлсон (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Я с нетерпением жду результатов этой операции. Вы, конечно, получите соразмерное вознаграждение.","WIADOMOŚĆ
+OD: Pułkownik Jack Harlson (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Z niecierpliwością czekam na informacje o efektach tej operacji. Oczywiście odpowiednio Was wynagrodzimy.",
+CHAIN_NJ1_CHOICE_0_TEXT,Text,,Accept mission.,,接受任务。,Accepter la mission.,Aceptar la misión.,ACCETTA LA MISSIONE,Mission annehmen.,Принять миссию.,Przyjmij misję.,
+CHAIN_NJ1_CHOICE_1_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Colonel Jack Harlson (New Jericho)
+TO: Phoenix Project
+
+I didn't expect the Phoenix Project to be so... prissy.",,"消息
+来自：杰克·哈尔森上校（新耶利哥）
+接收：凤凰计划
+
+我没想到凤凰计划这么的…谨小慎微。","MESSAGE
+DE : Colonel Jack Harlson (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Je ne m'attendais pas à ce que le Projet Phoenix soit si... pointilleux.","MENSAJE
+DE: Coronel Jack Harlson (Nueva Jericó)
+PARA: Proyecto Fénix
+
+No esperaba que el Proyecto Fénix tuviera tantos... remilgos.","MESSAGGIO
+DA: Colonnello Jack Harlson (Nuova Gerico)
+A: Progetto Phoenix
+
+Non mi aspettavo che voi del Progetto Phoenix foste così... presuntuosi.","NACHRICHT
+ VON: Oberst Jack Harlson (Neu-Jericho)
+ AN: Phoenix-Projekt
+
+Ich hätte nicht erwartet, dass das Phoenix-Projekt so ... zimperlich ist.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Полковник Джек Харлсон (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Я не ожидал, что Проект Феникс окажется таким... чопорным.","WIADOMOŚĆ
+OD: Pułkownik Jack Harlson (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Nie spodziewałem się, że w Projekcie Phoenix pracują sami sztywniacy.",
+CHAIN_NJ1_CHOICE_1_TEXT,Text,,We're uncomfortable with the ethical nature of this project.,,我们对这项计划的道德本质感到不适。,Nous ne sommes pas à l'aise avec la nature éthique de ce projet.,No estamos cómodos con las implicaciones éticas de este proyecto.,NON SIAMO A NOSTRO AGIO CON LA NATURA ETICA DI QUESTO PROGETTO,Aus ethischen Gründen ablehnen.,Нас не устраивает этическая природа этого проекта.,Jesteśmy zaniepokojeni etycznym aspektem tego projektu.,
+CHAIN_NJ1_CHOICE_2_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Colonel Jack Harlson (New Jericho)
+TO: Phoenix Project
+
+Ah, I see. Perhaps you're right. I should not have involved outsiders.",,"消息
+来自：杰克·哈尔森上校（新耶利哥）
+接收：凤凰计划
+
+啊，好吧。也许你是对的，我不应该把外人牵扯进来。","MESSAGE
+DE : Colonel Jack Harlson (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Ah, je vois. Vous avez peut-être raison. Je n'aurais pas dû impliquer des étrangers.","MENSAJE
+DE: Coronel Jack Harlson (Nueva Jericó)
+PARA: Proyecto Fénix
+
+Ah, entiendo. Puede que tengas razón. Quizá no debería haber involucrado a terceros.","MESSAGGIO
+DA: Colonnello Jack Harlson (Nuova Gerico)
+A: Progetto Phoenix
+
+Ah, capisco. Forse avete ragione. Non avrei dovuto coinvolgere degli esterni.","NACHRICHT
+ VON: Oberst Jack Harlson (Neu-Jericho)
+ AN: Phoenix-Projekt
+
+Ah, ich verstehe. Vielleicht haben Sie recht. Ich hätte keine Außenstehenden in diese Sache hineinziehen sollen.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Полковник Джек Харлсон (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Ах, ясно. Пожалуй, вы правы. Мне не следовало привлекать к этому посторонних.","WIADOMOŚĆ
+OD: Pułkownik Jack Harlson (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Rozumiem. Może i macie rację. Nie powinienem angażować w to osób z zewnątrz.",
+CHAIN_NJ1_CHOICE_2_TEXT,Text,,This is an internal matter.,,这是一项内部事务。,C'est une affaire interne.,Esto es un asunto interno.,È UN PROBLEMA INTERNO,Das ist eine interne Angelegenheit.,Не вмешиваться во внутренние дела.,To sprawa wewnętrzna.,
+CHAIN_NJ1_FAIL_CHOICE_0_TEXT,Text,,OK.,,好的。,OK.,Vale.,OK,OK.,ОК.,OK.,
+CHAIN_NJ1_FAIL_TEXT_GENERAL_0,Text,,Our operatives met with overwhelming resistance at the site. Another attempt will have to be made at a later date.,,我们的特工遭到了激烈的反抗。我们必须过段时间再来。,Nos agents ont rencontré une résistance écrasante sur place. Vous devrez faire une nouvelle tentative ultérieurement.,Nuestros operativos se han topado con una resistencia abrumadora. Tendremos que volver a intentarlo otro día.,"Una volta arrivati al sito, i nostri agenti hanno incontrato un'accanita resistenza. Ritenteremo in futuro.",Unsere Einsatzkräfte stießen vor Ort auf massiven Widerstand. Wir müssen es später erneut versuchen.,Наши оперативники столкнулись с ожесточенным сопротивлением. Позже следует предпринять еще одну попытку.,Nasi operatorzy napotkali na zaciekły opór w tym miejscu. W późniejszym czasie trzeba będzie podjąć kolejną próbę.,
+CHAIN_NJ1_FAIL_TITLE,Text,,Byzantium,,拜占庭,Byzance,Byzantium,Bisanzio,Byzanz,Византия,Bizancjum,
+CHAIN_NJ1_MISS_CHOICE_0_TEXT,Text,,START MISSION,,开始任务,COMMENCER LA MISSION,EMPEZAR MISIÓN,AVVIA MISSIONE,MISSION STARTEN,НАЧАТЬ МИССИЮ,ROZPOCZNIJ MISJĘ,
+CHAIN_NJ1_MISS_CHOICE_1_TEXT,Text,,CANCEL,,取消,ANNULER,CANCELAR,ANNULLA,ABBRECHEN,ОТМЕНА,ANULUJ,
+CHAIN_NJ1_MISS_SUMMARY,Text,,"Retrieve Harlson's research data from the Byzantium lab, eliminating the raiders if necessary.",,从拜占庭实验室取回哈尔森的研究数据，如果必要的话，消灭那些掠夺者。,"Récupérez les données de recherche d'Harlson dans le laboratoire Byzance, en éliminant les pillards si nécessaire.",Ir al laboratorio de Byzantium y recuperar los datos de investigación de Harlson. Eliminar a los saqueadores si es necesario.,"Recupera i dati di ricerca di Harlson dal laboratorio di Bisanzio, eliminando eventuali incursori.","Besorge Harlsons Forschungsdaten aus dem Byzanz-Labor und schalte, falls nötig, die Plünderer aus.","Получите исследовательские данные Харлсона из лаборатории Византия, устранив налетчиков при необходимости.",Odzyskaj dane badawcze Harlsona z laboratorium Bizancjum i w razie potrzeby pozbądź się intruzów.,
+CHAIN_NJ1_MISS_TEXT_GENERAL_0,Text,,"MISSION BRIEFING
+
+The Byzantium laboratory was part of Colonel Harlson's top-secret research project. He needs us to retrieve the data stored in its systems, but the facility is currently occupied by a group of raiders.",,"任务概要
+
+拜占庭实验室是哈尔森上校绝密研究项目的一部分。他需要我们取回存储在系统中的数据，不过一群掠夺者占领了这座设施。","RÉSUMÉ DE LA MISSION
+
+Le laboratoire Byzance faisait partie du projet de recherche top secret du colonel Harlson. Il nous demande de récupérer les données stockées dans ses systèmes, mais l'établissement est actuellement occupé par un groupe de pillards.","INSTRUCCIONES DE LA MISIÓN
+
+El laboratorio de Byzantium formaba parte del proyecto de investigación supersecreto del coronel Harlson. Necesita que recuperemos los datos almacenados en sus sistemas, pero las instalaciones están ocupadas por un grupo de saqueadores.","RIEPILOGO MISSIONE
+
+Il laboratorio di Bisanzio faceva parte del progetto di ricerca segreto del Colonnello Harlson. Ci ha incaricati di recuperare i dati archiviati sul sistema del laboratorio, ma la struttura è attualmente occupata da un gruppo di predoni.","MISSIONSBRIEFING
+
+Das Byzanz-Labor war Teil von Oberst Harlsons streng geheimem Forschungsprojekt. Er braucht uns, um die in seinen Systemen gespeicherten Daten abzurufen, aber die Einrichtung ist derzeit von einer Gruppe von Plünderern besetzt.","СВОДКА МИССИИ
+
+Лаборатория Византия была частью сверхсекретного исследовательского проекта полковника Харлсона. Ему нужно, чтобы мы извлекли данные, хранящиеся в ее системах, но в настоящее время в объекте орудует отряд налетчиков.","ODPRAWA
+
+Laboratorium Bizancjum było częścią ściśle tajnego projektu badawczego pułkownika Harlsona. Pułkownik chce, żebyśmy odzyskali dane zapisane w systemach laboratorium, ale obiekt ten obecnie zajmuje szajka bandytów.",
+CHAIN_NJ1_MISS_TITLE,Text,,Byzantium,,拜占庭,Byzance,Byzantium,Bisanzio,Byzanz,Византия,Bizancjum,
+CHAIN_NJ1_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Colonel Jack Harlson (New Jericho)
+TO: Phoenix Project
+
+I have a small task that needs taking care of... outside formal channels. Not everyone really understands the war we're in. Some people think it's just about killing as many Pandorans as possible, but the war goes a lot deeper than that. This is a war for control over our DNA, and we're still almost entirely unarmed.
+
+Some time ago, one of my attempts to give us a fighting chance in that war went wrong. You may have heard of it - the fall of Fort Freiheit? I regret what happened, but not the fact that we tried. We had to try. We have to keep trying. ",,"消息
+来自：杰克·哈尔森上校（新耶利哥）
+接收：凤凰计划
+
+我有个小任务需要处理…并且需要使用非正式手段。不是所有人都了解我们身处的战争，有些人认为我们只需要杀死可能多的潘多拉体，但这场战争其实远不止于此。这是一场争夺控制我们 DNA 的战争，而我们几乎是赤手空拳在战斗。
+
+不久之前，我曾经试过为我们争取一次战斗的机会，但事情出了岔子。你也许已经有所耳闻，弗莱海特堡垒的沦陷？我对发生的事情感到十分懊悔，但至少我们努力过。我们不得不努力。我们必须继续努力下去。","MESSAGE
+DE : Colonel Jack Harlson (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+J'ai une petite mission à déléguer... en dehors des canaux habituels. Tout le monde ne comprend pas la guerre que nous menons. Certains pensent qu'il s'agit simplement de tuer autant de Pandoriens que possible, mais ça va bien plus loin que ça. C'est une guerre pour le contrôle de notre ADN et nous sommes toujours pratiquement désarmés.
+
+Il y a quelque temps, l'une de mes tentatives visant à nous donner une chance de nous en sortir s'est mal finie. Vous en avez peut-être entendu parler, la chute du fort Freiheit ? Je regrette ce qui s'est passé, mais pas d'avoir essayé. Nous devions essayer. Nous devons continuer d'essayer.","MENSAJE
+DE: Coronel Jack Harlson (Nueva Jericó)
+PARA: Proyecto Fénix
+
+Tengo una pequeña tarea de la que alguien debería encargarse, pero... al margen de los canales oficiales. No todo el mundo comprende la naturaleza de la guerra en la que estamos envueltos. Hay quien cree que la cosa va de matar pandorianos, pero esta guerra tiene muchos más matices. Es una lucha por el control de nuestro propio ADN y, en realidad, seguimos estando prácticamente indefensos.
+
+Hace un tiempo, fracasé en uno de mis intentos por procurarnos una oportunidad de plantar cara. Puede que hayas oído hablar de esa historia; ¿te suena la caída de Fuerte Freiheit? Me arrepiento mucho de lo que ocurrió entonces, pero no de haberlo intentado. Teníamos que hacerlo. Debemos seguir intentándolo.","MESSAGGIO
+DA: Colonnello Jack Harlson (Nuova Gerico)
+A: Progetto Phoenix
+
+Ho un piccolo problema da risolvere... per vie non ufficiali. Non tutti sono in grado di comprendere la guerra in cui siamo coinvolti. Alcuni credono che si tratti unicamente di uccidere i Pandora, ma la questione è molto più sfaccettata. Siamo in guerra per il controllo del nostro DNA e siamo praticamente disarmati.
+
+In passato uno dei miei tentativi di creare una possibilità di vittoria è andato storto. La chiamano ""la caduta di Forte Freiheit"", potreste averne sentito parlare. Rimpiango ciò che è accaduto, ma non di averci provato. Dovevamo provarci. Dobbiamo continuare a provarci. ","NACHRICHT
+ VON: Oberst Jack Harlson (Neu-Jericho)
+ AN: Phoenix-Projekt
+
+Ich habe eine kleine Angelegenheit, die ... außerhalb offizieller Kanäle erledigt werden muss. Nicht jeder versteht wirklich, welchen Krieg wir führen. Manche glauben, es ginge nur darum, möglichst viele Pandoraner zu töten. Aber dieser Krieg reicht tiefer. Es ist ein Krieg um die Kontrolle über unsere DNA – und wir sind darin noch immer fast völlig unbewaffnet.
+
+Vor einiger Zeit ist einer meiner Versuche, uns in diesem Krieg eine echte Chance zu verschaffen, schiefgegangen. Sie haben vielleicht davon gehört – der Fall von Fort Freiheit. Ich bedaure, was geschehen ist, aber nicht, dass wir es versucht haben. Wir mussten es versuchen. Und wir müssen es weiter versuchen.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Полковник Джек Харлсон (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+У меня есть задачка, о которой нужно позаботиться... вне официальных каналов. Не все по-настоящему понимают войну, которую мы ведем. Некоторые думают, что наша цель — убить как можно больше пандоранов. Но война намного серьезнее. Это война за контроль над нашей ДНК, и мы по-прежнему почти полностью безоружны.
+
+Какое-то время назад одна из моих попыток обрести шанс на победу в этой войне потерпела неудачу. Возможно, вы слышали о падении Форта Фрайхайт? Я сожалею о том, что случилось, но у меня нет сожалений относительно того, что мы пытались. Мы должны были попытаться. Мы всегда должны пытаться.","WIADOMOŚĆ
+OD: Pułkownik Jack Harlson (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Mam małe zadanie, którym trzeba się zająć, powiedzmy poza oficjalnymi kanałami. Nie każdy rozumie wojnę, którą prowadzimy. Niektórzy sądzą, że chodzi o zabicie jak największej liczby Pandoran, ale ta wojna ma o wiele większe znaczenie. To walka o kontrolę nad naszym DNA, a my wciąż jesteśmy praktycznie nieuzbrojeni.
+
+Jakiś czas temu jedna z moich prób zwiększenia naszych szans w tej wojnie zakończyła się porażką. Pewnie o tym słyszeliście — upadek Fortu Freiheit coś Wam mówi? Żałuję tego, co się wydarzyło, ale nie tego, że próbowaliśmy. Musieliśmy spróbować. Nadal musimy próbować.",
+CHAIN_NJ1_TEXT_GENERAL_1,Text,,"MESSAGE
+FROM: Colonel Jack Harlson (New Jericho)
+TO: Phoenix Project
+
+Anyway, Freiheit's little more than a ruin now, but we had a secondary facility, codenamed Byzantium. It had to be abandoned, and we've never been able to allocate enough resources to retrieve the data we left behind. To make things more complicated, a group of raiders has settled there - without any knowledge of the treasure they're sitting on.
+
+As you can understand, it's a delicate matter, and I'd appreciate your help.",,"消息
+来自：杰克·哈尔森上校（新耶利哥）
+接收：凤凰计划
+
+总之，弗莱海特堡垒几乎成了一片废墟，但我们也已经拥有了第二座设施，代号“拜占庭”。我们不得不抛弃弗莱海特堡垒，并且一直以来我们都没能收集足够的资源来取回我们留下的数据。更糟糕的是，一群掠夺者竟在这里安营扎寨，他们对自己占据土地上的财富竟然浑然不知。
+
+你知道的，这是一件很微妙的事情，我希望你能帮忙。","MESSAGE
+DE : Colonel Jack Harlson (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Bref, Freiheit est à peine plus que des ruines maintenant, mais nous avions une deuxième installation, sous le nom de code Byzance. Elle a été abandonnée et nous n'avons jamais pu récupérer les données que nous avions laissées. Pour compliquer encore les choses, un groupe de pillard s'y est installé, sans avoir conscience du trésor à leur portée.
+
+Comme vous pouvez le comprendre, c'est une affaire délicate pour laquelle j'apprécierais votre aide.","MENSAJE
+DE: Coronel Jack Harlson (Nueva Jericó)
+PARA: Proyecto Fénix
+
+Sea como sea, hoy en día Freiheit está en ruinas, pero conseguimos instalaciones nuevas. Su nombre en clave es Byzantium. El problema es que tuvimos que abandonarlas, y hasta ahora no hemos podido reunir suficientes recursos como para recuperar los datos que dejamos allí. Por si fuera poco, un grupo de saqueadores se ha afincado en las instalaciones. Ni siquiera son conscientes del tesoro que les rodea.
+
+Como comprenderás, nos encontramos en una situación delicada, y me gustaría contar con tu ayuda.","MESSAGGIO
+DA: Colonnello Jack Harlson (Nuova Gerico)
+A: Progetto Phoenix
+
+Ora Freiheit è poco più che una rovina, ma avevamo una seconda struttura, il cui nome in codice era Bisanzio. Siamo stati costretti ad abbandonarla e non siamo mai stati in grado di stanziare abbastanza risorse per recuperare i dati. Come se non bastasse, un gruppo di predoni si è insediato nella zona, ignaro del tesoro che giace sotto i loro piedi.
+
+Si tratta di una questione delicata e apprezzerei il vostro aiuto.","NACHRICHT
+ VON: Oberst Jack Harlson (Neu-Jericho)
+ AN: Phoenix-Projekt
+
+Fort Freiheit ist nur noch eine Ruine, aber wir hatten eine zweite Anlage mit dem Codenamen Byzanz. Sie musste aufgegeben werden, und wir konnten nie genug Ressourcen aufbringen, um die zurückgelassenen Daten zu bergen. Erschwerend kommt hinzu, dass sich dort eine Gruppe Plünderer niedergelassen hat – ohne zu ahnen, auf welchem Schatz sie sitzt.
+
+Wie Sie sicher verstehen, ist das eine heikle Angelegenheit, und ich wäre Ihnen für Ihre Hilfe dankbar.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Полковник Джек Харлсон (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+В любом случае, Форт Фрайхайт сейчас представляет лишь руины, но у нас был вспомогательный объект под кодовым названием Византия. От него пришлось отказаться, после этого нам так и не удалось выделить достаточно ресурсов, чтобы восстановить данные, которые мы оставили. Что еще хуже, там обосновался отряд налетчиков, которые понятия не имеют, на каком сокровище стоят.
+
+Как вы понимаете, это очень деликатный вопрос, и я буду признателен за вашу помощь.","WIADOMOŚĆ
+OD: Pułkownik Jack Harlson (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Tak czy inaczej, Fort Freiheit to teraz tylko ruiny, ale mieliśmy też zapasową placówkę, której nadano kryptonim Bizancjum. Musieliśmy ją opuścić i jak do tej pory nie udało nam się przeznaczyć dość funduszy na odzyskanie porzuconych danych. Żeby jeszcze bardziej skomplikować sprawy, zagnieździła się tam szajka bandytów, która nie ma nawet pojęcia, na jakim skarbie siedzi.
+
+Jak zapewne rozumiecie, to delikatna sprawa, a mnie przydałaby się Wasza pomoc.",
+CHAIN_NJ1_TITLE,Text,,Hecate's Children,,赫卡特的孩子,Enfants d'Hécate,Hijos de Hecate,Figli di Ecate,Hekates Kinder,Чада Гекаты,Dzieci Hekate,
+CHAIN_NJ1_WIN_CHOICE_0_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Colonel Jack Harlson (New Jericho)
+TO: Phoenix Project
+
+I hope you will continue working with New Jericho. We can achieve a great deal together. Maybe even win this damn war one day.",,"消息
+来自：杰克·哈尔森上校（新耶利哥）
+接收：凤凰计划
+
+希望你继续与新耶利哥合作，我们可以一起成就大业。也许有一天能够赢下这场该死的战争。","MESSAGE
+DE : Colonel Jack Harlson (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+J'espère que vous continuerez à travailler avec la Nouvelle-Jéricho. Nous pouvons accomplir beaucoup de choses ensemble. Peut-être même, remporter cette guerre un jour.","MENSAJE
+DE: Coronel Jack Harlson (Nueva Jericó)
+PARA: Proyecto Fénix
+
+Espero que sigas colaborando con Nueva Jericó. Podemos lograr grandes cosas juntos. Quizá algún día podamos incluso ganar esta maldita guerra.","MESSAGGIO
+DA: Colonnello Jack Harlson (Nuova Gerico)
+A: Progetto Phoenix
+
+Spero che continuerete a collaborare con Nuova Gerico. Uniti potremo ottenere grandi risultati. Forse persino vincere questa maledetta guerra.","NACHRICHT
+ VON: Oberst Jack Harlson (Neu-Jericho)
+ AN: Phoenix-Projekt
+
+Ich hoffe, Sie arbeiten auch weiterhin mit Neu-Jericho zusammen. Gemeinsam können wir viel erreichen. Vielleicht gewinnen wir eines Tages sogar diesen Krieg.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Полковник Джек Харлсон (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Надеюсь, вы продолжите сотрудничать с Новым Иерихоном. Вместе мы многого достигнем. Может быть, даже выиграем эту проклятую войну.","WIADOMOŚĆ
+OD: Pułkownik Jack Harlson (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Mam nadzieję, że nadal będziecie współpracować z Nowym Jerychem. Razem możemy naprawdę wiele osiągnąć. Może nawet któregoś dnia wygramy tę przeklętą wojnę.",
+CHAIN_NJ1_WIN_CHOICE_0_TEXT,Text,,Accept.,,接受。,Accepter.,Aceptar.,ACCETTA,Annehmen.,Принять.,Akceptuj.,
+CHAIN_NJ1_WIN_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Colonel Jack Harlson (New Jericho)
+TO: Phoenix Project
+
+Excellent. I'm glad you understand the importance of fighting the Pandoravirus with more than just guns. It may be ugly at times, but what's the point of morality if no-one's left to appreciate it? Survival of the species has to be our first priority.
+
+I hope you'll accept this small gift as a reward for your help.",,"消息
+来自：杰克·哈尔森上校（新耶利哥）
+接收：凤凰计划
+
+很好。与潘多拉病毒的战斗不仅仅是依靠枪炮的战斗，很高兴你能够理解这一点。这场战斗有时会很丑陋，但如果没人重视，那伦理道德又有什么意义呢？物种的生存是我们的首要目标。
+
+感谢你的帮助，请收下这份小礼物。","MESSAGE
+DE : Colonel Jack Harlson (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Parfait. Je suis content de voir que vous comprenez l'importance de combattre le Pandoravirus avec plus que des armes. Ça peut être sinistre parfois, mais à quoi sert la moralité s'il ne reste personne pour l'apprécier ? La survie de l'espèce doit être notre priorité.
+
+J'espère que vous accepterez ce petit cadeau en guise de récompense pour votre aide.","MENSAJE
+DE: Coronel Jack Harlson (Nueva Jericó)
+PARA: Proyecto Fénix
+
+Excelente. Me alegro de que hayas comprendido la importancia de que nos enfrentemos al Pandoravirus con algo más que armas. Puede que no sea lo más ético, pero ¿qué sentido tiene la ética si no queda nadie para apreciar sus consecuencias? La supervivencia de la especie debe ser nuestra prioridad absoluta. 
+
+Espero que aceptes de buen grado este regalo como recompensa por tu ayuda.","MESSAGGIO
+DA: Colonnello Jack Harlson (Nuova Gerico)
+A: Progetto Phoenix
+
+Eccellente. Sono lieto che comprendiate come le armi non siano sufficienti per combattere il Pandoravirus. A volte potrebbe essere sgradevole, ma qual è il senso della morale se nessuno è rimasto ad apprezzarla? La sopravvivenza della specie deve essere la nostra priorità assoluta.
+
+Spero che possiate accettare questo piccolo dono come ricompensa per il vostro aiuto.","NACHRICHT
+ VON: Oberst Jack Harlson (Neu-Jericho)
+ AN: Phoenix-Projekt
+
+Ausgezeichnet. Ich bin froh, dass Sie verstehen, wie wichtig es ist, das Pandoravirus mit mehr als nur Waffen zu bekämpfen. Es mag manchmal hässlich werden, aber wozu taugt Moral, wenn niemand mehr übrig ist, um sie zu schätzen? Das Überleben der Spezies muss unsere oberste Priorität sein.
+
+Ich hoffe, Sie nehmen dieses kleine Geschenk als Belohnung für Ihre Hilfe an.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Полковник Джек Харлсон (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Отлично. Я рад, что вы понимаете важность борьбы с пандоравирусом не только оружием. Иногда такой подход нам может казаться низким. Но какой смысл в морали, если не останется никого, кто бы нас осудил? Выживание вида должно быть нашим главным приоритетом.
+
+Я надеюсь, вы примете этот небольшой дар в качестве награды за помощь.","WIADOMOŚĆ
+OD: Pułkownik Jack Harlson (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Doskonale. Cieszę się, że rozumiecie znaczenie walki z Pandorawirusem nie tylko bronią palną. Niekiedy może się to wiązać z brudną robotą, ale na co nam moralność, jeżeli nie Ziemi nie zostanie nikt, kto by ją docenił? Przetrwanie naszego gatunku musi być naszym podstawowym priorytetem.
+
+Mam nadzieję, że przyjmiecie ten mały podarek w ramach podziękowań za Waszą pomoc.",
+CHAIN_NJ1_WIN_TITLE,Text,,The Needs of the Species,,物种的需求,Les besoins de l'espèce,Las necesidades de la especie,Le esigenze della specie,Die Bedürfnisse der Spezies,Потребности вида,Potrzeby gatunku,
+CHAIN_NJ2_CHOICE_0_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Captain J.P. Richter (New Jericho)
+TO: Phoenix Project
+
+Good. Transmitting coordinates. Don't worry - this is a black site, so even if Harlson finds out who did this, what is he gonna do? Tell Tobias West about his secret project?",,"消息
+来自：J.P. 李希特上尉（新耶利哥）
+接收：凤凰计划
+
+很好。正在传送坐标。别担心，这里属于非法地点，即使哈尔森发现是谁干的，他又能怎样？难道向托拜厄斯·韦斯特曝光他自己的秘密项目吗？","MESSAGE
+DE : Capitaine J.P. Richter (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Bien. Je vous transmets les coordonnées. Ne vous inquiétez pas, c'est un site noir, donc même si Harlson découvre les responsables, que peut-il faire ? Parler à Tobias West de son projet secret ?","MENSAJE
+DE: Capitán J. P. Richter (Nueva Jericó)
+PARA: Proyecto Fénix
+
+De acuerdo. Transmitiendo coordenadas. No te preocupes, esto es un centro clandestino. Aunque Harlson averigüe quién está detrás, ¿qué va a hacer? ¿Contarle a Tobias West que tiene un proyecto secreto?","MESSAGGIO
+DA: Capitano J.P. Richter (Nuova Gerico)
+A: Progetto Phoenix
+
+Bene. Sto trasmettendo le coordinate. Non preoccupatevi, la base è segreta: se anche Harlson scoprisse il responsabile, cosa potrebbe fare? Rivelare il suo progetto a Tobias West?","NACHRICHT
+ VON: Hauptmann J. P. Richter (Neu-Jericho)
+ AN: Phoenix-Projekt
+
+Gut. Ich übermittle die Koordinaten. Keine Sorge – das ist ein Geheimstandort. Selbst wenn Harlson herausfinden sollte, wer das getan hat: Was will er tun? Tobias West von seinem Geheimprojekt erzählen?","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Капитан Дж. П. Рихтер (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Хорошо. Передаю координаты. Бояться нечего, это ведь секретный объект. Даже если Харлсон узнает, кто за этим стоит, что он сделает? Расскажет Тобиасу Весту о своем секретном проекте?","WIADOMOŚĆ
+OD: Kapitan J.P. Richter (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Świetnie. Przesyłam współrzędne. Nie martwcie się — to tajna placówka, więc nawet jeśli Harlson dowie się, kto to zrobił, to co? Powie Tobiasowi Westowi o swoim tajnym projekcie?",
+CHAIN_NJ2_CHOICE_0_TEXT,Text,,Project Vulture will be destroyed.,,“秃鹰计划”将被摧毁。,Le projet Vautour sera détruit.,El Proyecto Vulture será destruido.,IL PROGETTO AVVOLTOIO VERRÀ DISTRUTTO,Projekt Geier vernichten.,Проект Стервятник будет уничтожен.,Projekt Sęp zostanie zniszczony.,
+CHAIN_NJ2_CHOICE_1_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Captain J.P. Richter (New Jericho)
+TO: Phoenix Project
+
+Really? Huh. What a shame.",,"消息
+来自：J.P. 李希特上尉（新耶利哥）
+接收：凤凰计划
+
+真的吗？嗯。真可惜。","MESSAGE
+DE : Capitaine J.P. Richter (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Vraiment ? Ha. C'est dommage.","MENSAJE
+DE: Capitán J. P. Richter (Nueva Jericó)
+PARA: Proyecto Fénix
+
+¿En serio? Vaya. Qué pena.","MESSAGGIO
+DA: Capitano J.P. Richter (Nuova Gerico)
+A: Progetto Phoenix
+
+Davvero? Ah. Che peccato.","NACHRICHT
+ VON: Hauptmann J. P. Richter (Neu-Jericho)
+ AN: Phoenix-Projekt
+
+Wirklich? Hmm. Welch eine Schande.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Капитан Дж. П. Рихтер (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Серьезно? Что ж. Какая досада.","WIADOMOŚĆ
+OD: Kapitan J.P. Richter (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Serio? Heh. Jaka szkoda.",
+CHAIN_NJ2_CHOICE_1_TEXT,Text,,Harlson is right.,,哈尔森是对的。,Harlson a raison.,Harlson tiene razón.,HARLSON HA RAGIONE,Harlson recht geben.,Харлсон прав.,Harlson ma rację.,
+CHAIN_NJ2_CHOICE_2_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Captain J.P. Richter (New Jericho)
+TO: Phoenix Project
+
+What a shame. Well, can't blame a guy for trying.",,"消息
+来自：J.P. 李希特上尉（新耶利哥）
+接收：凤凰计划
+
+真可惜。嗯，不能因为努力而责怪一个人。","MESSAGE
+DE : Capitaine J.P. Richter (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Dommage. Enfin, on ne peut pas m'en vouloir d'avoir essayé.","MENSAJE
+DE: Capitán J. P. Richter (Nueva Jericó)
+PARA: Proyecto Fénix
+
+Qué lástima. Bueno, había que intentarlo.","MESSAGGIO
+DA: Capitano J.P. Richter (Nuova Gerico)
+A: Progetto Phoenix
+
+Che peccato. Ebbene, non potete biasimarmi per averci provato.","NACHRICHT
+ VON: Hauptmann J. P. Richter (Neu-Jericho)
+ AN: Phoenix-Projekt
+
+Welch eine Schande. Na ja – versuchen konnte ich’s ja.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Капитан Дж. П. Рихтер (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Какая досада. Мы не вправе винить кого-то за попытку.","WIADOMOŚĆ
+OD: Kapitan J.P. Richter (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Szkoda. Cóż, nie można go winić za to, że próbuje.",
+CHAIN_NJ2_CHOICE_2_TEXT,Text,,This is an internal matter.,,这是一项内部事务。,C'est une affaire interne.,Esto es un asunto interno.,È UN PROBLEMA INTERNO,Das ist eine interne Angelegenheit.,Не вмешиваться во внутренние дела.,To sprawa wewnętrzna.,
+CHAIN_NJ2_FAIL_CHOICE_0_TEXT,Text,,OK.,,好的。,OK.,Vale.,OK,OK.,ОК.,OK.,
+CHAIN_NJ2_FAIL_TEXT_GENERAL_0,Text,,Our operatives met with overwhelming resistance at the site. Another attempt will have to be made at a later date.,,我们的特工遭到了激烈的反抗。我们必须过段时间再来。,Nos agents ont rencontré une résistance écrasante sur place. Vous devrez faire une nouvelle tentative ultérieurement.,Nuestros operativos se han topado con una resistencia abrumadora. Tendremos que volver a intentarlo otro día.,"Una volta arrivati al sito, i nostri agenti hanno incontrato un'accanita resistenza. Ritenteremo in futuro.",Unsere Einsatzkräfte stießen vor Ort auf massiven Widerstand. Wir müssen es später erneut versuchen.,Наши оперативники столкнулись с ожесточенным сопротивлением. Позже следует предпринять еще одну попытку.,Nasi operatorzy napotkali na zaciekły opór w tym miejscu. W późniejszym czasie trzeba będzie podjąć kolejną próbę.,
+CHAIN_NJ2_FAIL_TITLE,Text,,Project Vulture,,秃鹰计划,Projet Vautour,Proyecto Vulture,Progetto Avvoltoio,Projekt Geier,Проект Стервятник,Projekt Sęp,
+CHAIN_NJ2_MISS_CHOICE_0_TEXT,Text,,START MISSION,,开始任务,COMMENCER LA MISSION,EMPEZAR MISIÓN,AVVIA MISSIONE,MISSION STARTEN,НАЧАТЬ МИССИЮ,ROZPOCZNIJ MISJĘ,
+CHAIN_NJ2_MISS_CHOICE_1_TEXT,Text,,CANCEL,,取消,ANNULER,CANCELAR,ANNULLA,ABBRECHEN,ОТМЕНА,ANULUJ,
+CHAIN_NJ2_MISS_SUMMARY,Text,,Destroy the Project Vulture black site.,,摧毁“秃鹰计划”非法据点。,Détruisez le site noir du projet Vautour.,Destruir el centro clandestino del Proyecto Vulture.,Distruggi la base segreta del Progetto Avvoltoio.,Zerstöre die geheime Anlage von Projekt Geier.,Уничтожьте секретный объект Проекта Стервятник.,Zniszcz tajną placówkę projektu Sęp.,
+CHAIN_NJ2_MISS_TEXT_GENERAL_0,Text,,"MISSION BRIEFING
+
+Project Vulture is a series of secret experiments with no ethical boundaries, conducted without Tobias West's knowledge or approval. Our task is simple: destroy it.",,"任务概要
+
+“秃鹰计划”是一系列不受任何伦理道德约束的秘密实验，托拜厄斯·韦斯特对此并不知情，也从未批准。我们的任务很简单：摧毁它。","RÉSUMÉ DE LA MISSION
+
+Le projet Vautour est une série d'expériences secrètes sans aucune limite éthique, menée sans que Tobias West ne le sache ou l'approuve. Notre tâche est simple : le détruire.","INSTRUCCIONES DE LA MISÓN
+
+El Proyecto Vulture consta de una serie de experimentos sin barreras éticas. Se han llevado a cabo sin que Tobias West los autorizara o tuviera siquiera constancia de su existencia. Nuestra tarea es sencilla: debemos destruirlo.","RIEPILOGO MISSIONE
+
+Il Progetto Avvoltoio consiste in una serie di esperimenti segreti privi di qualsiasi limite etico, condotti senza alcuna autorizzazione da parte di Tobias West, che ne è all'oscuro. La nostra missione è semplice: distruggerlo.","MISSIONSBRIEFING
+
+Projekt Geier bestand aus einer Reihe von geheimen Experimenten ohne moralische Beschränkungen, durchgeführt ohne Wissen oder Genehmigung von Tobias West. Unsere Aufgabe ist einfach: es zu vernichten.","СВОДКА МИССИИ
+
+Проект Стервятник — серия секретных, не ограниченных этическими нормами экспериментов, которые проводятся без ведома и согласия Тобиаса Веста. Наша задачи проста — уничтожить его.","ODPRAWA
+
+Projekt Sęp to seria tajnych eksperymentów, w których lekceważy się kwestie etyczne i które są prowadzone bez wiedzy i zgody Tobiasa Westa. Nasze zadanie jest proste: zniszczyć tę placówkę.",
+CHAIN_NJ2_MISS_TITLE,Text,,Project Vulture,,秃鹰计划,Projet Vautour,Proyecto Vulture,Progetto Avvoltoio,Projekt Geier,Проект Стервятник,Projekt Sęp,
+CHAIN_NJ2_SUMMARY,Text,,Richter proposes destroying project Vulture,,李希特提议摧毁“秃鹰计划”,Richter propose de détruire le projet Vautour.,Richter propone destruir el Proyecto Vulture,Richter propone di distruggere il progetto Avvoltoio,Richter schlägt die Vernichtung von Projekt Geier vor.,Рихтер предлагает уничтожить Проект Стервятник,Richter proponuje zniszczenie projektu Sęp.,
+CHAIN_NJ2_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Captain J.P. Richter (New Jericho)
+TO: Phoenix Project
+
+Looks like you really are on our side - the Phoenix Project and New Jericho, putting bullets in monsters together. Nice!
+
+But you know what's less nice? There are some folks here in New Jericho who, well, how shall I put it? They have some minor ethical issues. And by minor I mean absolutely goddamn massive. Like my old friend Colonel Harlson, who tried to convince me I was infected so he could run his little tests on me.",,"消息
+来自：J.P. 李希特上尉（新耶利哥）
+接收：凤凰计划
+
+看来你确实站在我们这边 - 凤凰计划和新耶利哥，齐心协力消灭怪物。很好！
+
+但你知道不那么好的是什么吗？新耶利哥的有些人…嗯，我该怎么形容呢？他们的道德观念有点问题，我说的“有点”是指超级严重。比如我的老朋友哈尔森上校，他试图说服我相信自己遭到了感染，因为这样一来他就能对我进行他的那些小测试了。","MESSAGE
+DE : Capitaine J.P. Richter (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Il semble que vous soyez vraiment de notre côté : le Projet Phoenix et la Nouvelle-Jéricho criblant les monstres de balles ensemble. Cool !
+
+Mais vous savez ce qui est moins cool ? Il y a des individus ici à la Nouvelle-Jéricho qui, euh, comment dire ? Ils ont des petits soucis d'éthique. Et par petits, je veux dire, énormes. Comme mon vieil ami, le colonel Harlson, qui a essayé de me convaincre que j'étais infecté pour pouvoir faire ses petits tests sur moi.","MENSAJE
+DE: Capitán J. P. Richter (Nueva Jericó)
+PARA: Proyecto Fénix
+
+Veo que, efectivamente, estás de nuestra parte. Vaya, el Proyecto Fénix y Nueva Jericó, codo con codo, cosiendo a balazos a los monstruos. ¡Me gusta!
+
+Pero ¿sabes lo que no me gusta tanto? Que hay gente aquí, en Nueva Jericó que tienen una ética... digamos que dudosa. Por no decir que no tienen ninguna. Como mi viejo amigo, el coronel Harlson, que intentó convencerme de que me había infectado solo para poder hacerme experimentos de los suyos.","MESSAGGIO
+DA: Capitano J.P. Richter (Nuova Gerico)
+A: Progetto Phoenix
+
+Sembra che siate davvero dalla nostra parte: Progetto Phoenix e Nuova Gerico, fianco a fianco crivellando mostri. Fantastico!
+
+Sapete cosa non lo è? Alcuni membri di Nuova Gerico hanno... come posso dire? Piccoli problemi etici. E per piccoli intendo davvero giganteschi. Proprio come il mio vecchio amico Harlson ha tentato di convincermi che fossi infetto per poter condurre i suoi test su di me.","NACHRICHT
+ VON: Hauptmann J. P. Richter (Neu-Jericho)
+ AN: Phoenix-Projekt
+
+Sieht so aus, als stünden Sie wirklich auf unserer Seite – Phoenix-Projekt und Neu-Jericho: gemeinsam Monster mit Kugeln stopfen. Schön!
+
+Aber wissen Sie, was weniger schön ist? Es gibt hier in Neu-Jericho ein paar Leute, die ... wie soll ich es sagen? ... ein paar „kleine“ ethische Probleme haben. Und mit „klein“ meine ich: verdammt gigantische. Wie mein alter Freund Oberst Harlson, der mir einreden wollte, ich sei infiziert – nur damit er seine netten kleinen Tests an mir durchführen kann.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Капитан Дж. П. Рихтер (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Похоже, вы правда на нашей стороне: Проект Феникс и Новый Иерихон вместе нашпиговывают чудовищ пулями. Прекрасно!
+
+Но знаете, что не так радужно? В Новом Иерихоне появились люди, которые... как бы выразиться? Которых мало волнуют этические нормы. И под малым я имею в виду ни черта. Как мой приятель, старина полковник Харлсон, пытавшийся убедить меня, что я заражен, чтобы провести на мне несколько маленьких экспериментов.","WIADOMOŚĆ
+OD: Kapitan J.P. Richter (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Wygląda na to, że naprawdę jesteście po naszej stronie — Projekt Phoenix i Nowe Jerycho razem przeciwko potworom. Rewelacja!
+
+Ale wiesz, co jest mniej rewelacyjne? Niektórzy ludzie tutaj, w Nowym Jerychu, mają, jakby to ująć, pewne niewielkie wątpliwości etyczne. A mówiąc niewielkie, mam na myśli absolutnie potężne wątpliwości. Weźmy na przykład mojego starego kumpla pułkownika Harlsona, który próbował mnie przekonać, że jestem zarażony po to, aby mógł przeprowadzić na mnie swoje podejrzane badania.",
+CHAIN_NJ2_TEXT_GENERAL_1,Text,,"MESSAGE
+FROM: Captain J.P. Richter (New Jericho)
+TO: Phoenix Project
+
+Now sure, maybe it's true that we need ruthless people like Harlson, who are willing to do anything to survive. But there are limits, and as far as I'm concerned, he's breached them over and over. And you know what? He's done it in secret. Tobias West has no idea about some of the shit this guy's pulled.
+
+I could just rat the old bastard out, of course, but like I said, maybe we do need him. We don't need Project Vulture, though. Experimenting on Pandorans is fine by me, but on people? I may be cynical, but that's where I draw the line. So here's the deal - I provide you with the location of the new Project Vulture lab, and you make sure no-one gets out alive.",,"消息
+来自：J.P. 李希特上尉（新耶利哥）
+接收：凤凰计划
+
+当然，也许我们真的需要像哈尔森这样冷酷无情的人。为了生存，他们什么事儿都干的出来。但凡事还是要有底线。在我看来，他一次又一次突破了底线。而且你知道吗？这些事情他都是偷偷摸摸做的，托拜厄斯·韦斯特压根不知道这家伙都闯了什么祸。
+
+当然了，我只能揭露这个老混蛋的秘密，但也许真像我说的那样，我们确实需要他这样的人。不过我们不需要“秃鹰计划”就是了。拿潘多拉体做实验我没意见，但拿人做实验？我可能有点愤世嫉俗，但我有我的底线。所以，我为你提供新“秃鹰计划”实验室的所在地，而你要确保没人能活着走出来。","MESSAGE
+DE : Capitaine J.P. Richter (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Maintenant, oui, c'est peut-être vrai que nous avons besoin de personnes impitoyables comme Harlson, qui sont prêtes à tout pour survivre. Mais il y a des limites, et à mon avis, il les a dépassées bien trop de fois. Et vous savez quoi ? Il le fait en secret. Tobias West n'a aucune idée de certains trucs que ce type a entrepris.
+
+Je pourrais juste le balancer, bien entendu, mais comme je l'ai dit, nous avons peut-être besoin de lui. Mais pas du projet Vautour, par contre. Les expériences sur des Pandoriens, ça me va, mais sur des gens ? Je suis peut-être cynique, mais c'est là que je pose les limites. Alors voilà le truc : je vous donne l'emplacement du nouveau laboratoire du projet Vautour et vous vous assurez que personne n'en sorte vivant.","MENSAJE
+DE: Capitán J. P. Richter (Nueva Jericó)
+PARA: Proyecto Fénix
+
+Vale, puede que la gente tosca y despiadada como Harlson sea necesaria. Gente que haría cualquier cosa por sobrevivir. Pero, que yo sepa, también hay unos límites, ¿no? Y los ha cruzado varias veces. Y en secreto, nada menos. Tobias West no tiene ni idea de la que tiene montada este tío.
+
+Podría dar el chivatazo y se acabó, pero, como he dicho, puede que lo necesitemos. Eso sí, lo que no necesitamos para nada es el Proyecto Vulture. Me parece bien experimentar con pandorianos, pero ¿con personas? Llámame cínico, pero ahí es donde pongo la línea. Por eso, te propongo lo siguiente: yo te digo dónde está el nuevo laboratorio del Proyecto Vulture y tú te aseguras de que nadie salga de él con vida.","MESSAGGIO
+DA: Capitano J.P. Richter (Nuova Gerico)
+A: Progetto Phoenix
+
+Certo, forse abbiamo bisogno di persone senza scrupoli come Harlson, disposti a fare qualsiasi cosa per sopravvivere. Ma per quanto mi riguarda esistono determinati limiti e lui li ha oltrepassati più volte. E oltretutto l'ha fatto in segreto. Tobias West non ha idea delle stronzate che ha fatto alle sue spalle
+
+Potrei tradire il vecchio bastardo, naturalmente, ma come ho detto, potrebbe davvero esserci utile. Ma non ci serve un progetto Avvoltoio. Sono d'accordo con le sperimentazioni sui Pandora, ma sulle persone? Potrò anche essere cinico, ma questo è il mio limite. Ecco l'accordo: io vi fornisco le coordinate del nuovo laboratorio e voi fate in modo che nessuno ne esca vivo.","NACHRICHT
+ VON: Hauptmann J. P. Richter (Neu-Jericho)
+ AN: Phoenix-Projekt
+
+Klar, vielleicht stimmt es, dass wir rücksichtslose Typen wie Harlson brauchen, die bereit sind, alles zu tun, um zu überleben. Aber es gibt Grenzen – und aus meiner Sicht hat er sie immer wieder überschritten. Und wissen Sie was? Heimlich. Tobias West hat keine Ahnung von dem Mist, den dieser Kerl abgezogen hat.
+
+Ich könnte den alten Bastard natürlich verpfeifen. Aber wie gesagt: Vielleicht brauchen wir ihn. Projekt Geier brauchen wir nicht. Mit Pandoranern zu experimentieren, meinetwegen – aber mit Menschen? Da ist Schluss. Also: Ich gebe Ihnen die Koordinaten des neuen Projekt-Geier-Labors, und Sie sorgen dafür, dass niemand lebend herauskommt.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Капитан Дж. П. Рихтер (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Может, сейчас нам и вправду нужны такие беспощадные люди, как Харлсон, которые сделают все, чтобы выжить. Однако всегда существуют границы дозволенного, которые, насколько я знаю, он нарушает снова и снова. И знаете что? Он делает все в тайне. Тобиас Вест понятия не имеет о темных делишках этого парня.
+
+Я мог бы просто настучать на старого ублюдка, но, как я уже сказал, может, он нам действительно пригодится. Несмотря на это, Проект Стервятник нам определенно не нужен. Одно дело проводить эксперименты на пандоранах... но на людях? Я, может, циник, но и у меня есть свои моральные принципы. Значит так: я сливаю вам местоположение новой лаборатории Проекта Стервятник, а вы не оставите там никого в живых.","WIADOMOŚĆ
+OD: Kapitan J.P. Richter (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Jasne, może i potrzebujemy bezwzględnych ludzi takich jak Harlson, którzy są gotowi zrobić wszystko, aby przetrwać. Ale są pewne granice, a moim zdaniem on nieraz je już przekroczył. I wiesz co? Zrobił to w tajemnicy. Tobias West nic nie wie o szambie, w które ten gość nas wpakował.
+
+Mógłbym po prostu donieść na tego skurczybyka, jasne, ale jak już wspomniałem, może rzeczywiście jest nam potrzebny. Ale na pewno nie potrzebujemy projektu Sęp. Eksperymentowanie na Pandoranach jest dla mnie w porządku, ale na ludziach? Może i jestem cyniczny, ale w tym miejscu mówię: „dość”. Umowa jest więc taka — ja wskażę Wam lokalizację laboratorium projektu Sęp, a Wy zadbacie o to, aby nikt nie wyszedł z niego żywy.",
+CHAIN_NJ2_TITLE,Text,,Putting Bullets in Monsters,,消灭怪物,Cribler les monstres de balles,Balas para los monstruos,Crivellare mostri,Kugeln in Monster jagen,Охота на чудовищ,Walka z potworami,
+CHAIN_NJ2_WIN_CHOICE_0_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Captain J.P. Richter (New Jericho)
+TO: Phoenix Project
+
+You're welcome. Oh, and if Harlson comes knocking? Tell him I ordered the attack.",,"消息
+来自：J.P. 李希特上尉（新耶利哥）
+接收：凤凰计划
+
+不用谢。噢，对了，如果哈尔森找上门来，告诉他是我下的攻击命令。","MESSAGE
+DE : Capitaine J.P. Richter (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+De rien. Oh, et si Harlson vient fourrer son nez là-dedans, dites-lui que j'ai orchestré l'attaque.","MENSAJE
+DE: Capitán J. P. Richter (Nueva Jericó)
+PARA: Proyecto Fénix
+
+De nada. Ah, y si aparece Harlson... dile que yo he ordenado el ataque.","MESSAGGIO
+DA: Capitano J.P. Richter (Nuova Gerico)
+A: Progetto Phoenix
+
+Non c'è di che. Oh, e se Harlson dovesse intromettersi, riferitegli che ho ordinato io l'attacco.","NACHRICHT
+ VON: Hauptmann J. P. Richter (Neu-Jericho)
+ AN: Phoenix-Projekt
+
+Gern geschehen. Oh, und falls Harlson vorbeischaut? Sagt ihm, ich hätte den Angriff befohlen.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Капитан Дж. П. Рихтер (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Всегда пожалуйста. А если Харлсон объявится? Скажите, что я приказал напасть.","WIADOMOŚĆ
+OD: Kapitan J.P. Richter (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Doskonale. A, jeśli Harlson będzie miał jakieś pretensje, powiedzcie, że to ja zarządziłem atak.",
+CHAIN_NJ2_WIN_CHOICE_0_TEXT,Text,,Accept.,,接受。,Accepter.,Aceptar.,ACCETTA,Annehmen.,Принять.,Akceptuj.,
+CHAIN_NJ2_WIN_SUMMARY,Text,,Vulture destroyed,,已摧毁“秃鹰计划”,Vautour détruit,"Vulture destruido, Vulture=2",Avvoltoio distrutto,Projekt Geier zerstört.,Стервятник уничтожен.,Projekt Sęp zniszczony,
+CHAIN_NJ2_WIN_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Captain J.P. Richter (New Jericho)
+TO: Phoenix Project
+
+Good work! You see, it's not just alien monsters that need the occasional bullet in the head - it's human monsters, too. New Jericho isn't good by default - hell, half of what we believe is probably nonsense. No, New Jericho will only do what we need it to do if we make sure that aberrations like Project Vulture are surgically removed before they spread, so we can get back to what matters: taking down as many Pandorans as we can before we die.
+
+Here's your reward. I did mention the reward, right? Like the old saying goes, there ain't no such thing as a free lunch. Well, here's your well-earned lunch.",,"消息
+来自：J.P. 李希特上尉（新耶利哥）
+接收：凤凰计划
+
+干得漂亮！看吧，我们不仅要时不时地消灭外星怪物，还要定期清理人类怪物。新耶利哥本来的样子并不怎么好。天呐，我们相信的事情中有一半都是在扯淡。有命如果我们能确保将“秃鹰计划”这样的越轨行为扼杀在摇篮里，新耶利哥就能完全听从我们的指挥了。这样一来，我们就可以继续干正事了：把潘多拉体赶尽杀绝，趁我们还有命这样做的时候。
+
+这是你的奖励。我有提到过奖励，对吧？俗话说得好，天下没有免费的午餐。没错，这是你赢得的午餐。","MESSAGE
+DE : Capitaine J.P. Richter (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Beau travail ! Vous voyez, ce n'est pas juste des monstres extraterrestres qui ont besoin d'une balle dans la tête de temps à autre, les monstres humains aussi. La Nouvelle-Jéricho n'est pas une faction bienveillante par défaut, bon sang, la moitié de ce que nous croyons est probablement absurde. Non, la Nouvelle-Jéricho fera seulement ce que nous voulons qu'elle fasse si nous nous assurons que les aberrations comme le projet Vautour sont retirées par voie chirurgicale avant qu'elles ne se propagent. Ceci nous permet de revenir à ce qui est vraiment important : éliminer le plus de Pandoriens possible avant de mourir.
+
+Voici votre récompense. J'avais bien mentionné une récompense, n'est-ce pas ? Comme on dit, rien n'est jamais gratuit. Voilà donc pour vous.","MENSAJE
+DE: Capitán J. P. Richter (Nueva Jericó)
+PARA: Proyecto Fénix
+
+¡Buen trabajo! Los monstruos merecen un balazo en la sien de vez en cuando..., y no solo los alienígenas, también los monstruos humanos. En Nueva Jericó no reina la bondad por defecto... Qué narices, ¡si la mitad de las cosas en las que creemos seguramente sean un montón de chorradas! No, Nueva Jericó solo será lo que queremos que sea si nos aseguramos de que las aberraciones como el Proyecto Vulture se extirpan de raíz antes de que puedan extenderse. Solo así podremos volver a centrarnos en lo importante: aniquilar a todos los pandorianos que podamos antes de morir.
+
+Aquí tienes tu recompensa. Te había dicho que había recompensa, ¿verdad? Como dicen por ahí, nadie hace nada gratis. Bueno, pues aquí tienes lo tuyo; te lo has ganado.","MESSAGGIO
+DA: Capitano J.P. Richter (Nuova Gerico)
+A: Progetto Phoenix
+
+Ben fatto! Vedete, non sono solo i mostri alieni che necessitano di un'occasionale pallottola in testa, bensì anche i mostri umani. Nuova Gerico non è buona per definizione. Diavolo, metà di ciò in cui crediamo è un'assurdità. No, Nuova Gerico farà ciò che è necessario se provvederemo a rimuovere con precisione chirurgica ogni aberrazione, come il Progetto Avvoltoio, prima che si diffonda, in modo da poterci concentrare su ciò che conta: uccidere quanti più Pandora possiamo prima di morire.
+
+Ecco la vostra ricompensa. Ho accennato alla ricompensa, vero? Come si dice, nessuno fa niente per niente. Ve la siete meritata.","NACHRICHT
+ VON: Hauptmann J. P. Richter (Neu-Jericho)
+ AN: Phoenix-Projekt
+
+Gute Arbeit! Sehen Sie: Nicht nur außerirdische Monster brauchen gelegentlich eine Kugel in den Kopf – es gibt auch menschliche. Neu-Jericho ist nicht automatisch „gut“ – zum Teufel, die Hälfte dessen, was wir glauben, ist wahrscheinlich Unsinn. Neu-Jericho tut nur das, was es tun muss, wenn wir sicherstellen, dass Auswüchse wie Projekt Geier chirurgisch entfernt werden, bevor sie sich ausbreiten. Dann können wir uns wieder um das kümmern, was zählt: so viele Pandoraner wie möglich auszuschalten, bevor wir dran sind.
+
+Hier ist Ihre Belohnung. Ich hatte die Belohnung doch erwähnt, oder? Wie man so schön sagt: Es gibt kein kostenloses Mittagessen. Nun – hier ist Ihres. Wohlverdient.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Капитан Дж. П. Рихтер (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Хорошая работа! Видите ли, это не просто какие-то инопланетяне, которые так и просят пулю в лоб, это ведь и наполовину люди. Новый Иерихон никогда не был прекрасным местом. Черт возьми, да половина того, во что мы верим, возможно, просто брехня. Нет, Новый Иерихон будет делать только то, что нам нужно. Если мы удостоверимся, что такие раковые опухоли вроде Проекта Стервятник будут вырезаны до того, как успеют распространится, это позволит нам вернутся к тому, что действительно имеет значение: уничтожить как можно больше пандоранов, прежде чем умрем.
+
+Вот ваша награда. Я ведь упоминал о ней, правда? Как гласит старая поговорка, бесплатный сыр только в мышеловке. Вот ваш честно заработанный сыр.","WIADOMOŚĆ
+OD: Kapitan J.P. Richter (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Dobra robota! Widzicie, niekiedy kula w łeb należy się nie tylko obcym — potwory są też wśród nas. Nowe Jerycho nie jest z gruntu dobre — do cholery, połowa z tego, w co wierzymy, to prawdopodobnie wierutne bzdury. Nie, w Nowym Jerychu osiągniemy to, czego chcemy, tylko jeśli z chirurgiczną precyzją wyeliminujemy takie odchylenia od normy jak projekt Sęp, zanim się rozpowszechnią. Dzięki temu możemy znowu skupić się na tym, co się liczy, czyli na eliminowaniu jak największej liczby Pandoran, zanim sami zginiemy.
+
+Oto Wasze wynagrodzenie. Wspominałem o nim, prawda? Jak to mówią, nie ma nic za darmo. A Wy naprawdę na to zapracowaliście.",
+CHAIN_NJ2_WIN_TITLE,Text,,Putting Bullets in Monsters (Reprise),,消灭怪物（重复）,Cribler les monstres de balles (reprise),Balas para los monstruos (Repetición),Crivellare mostri (continua),Kugeln in Monster jagen (Wiederholung),Охота на чудовищ (реприза),Walka z potworami (powtórka z rozrywki),
+CHAIN_NJ3_CHOICE_0_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+Interesting. But if he's right, what differentiates us from the Disciples of Anu? They believe that they're saving the species, too - by changing it so profoundly that it's hardly the same species anymore. If we reject the idea of ethical boundaries, shouldn't we be just fine with what the Disciples are doing, so long as it leads to survival?
+
+A quandary worth pondering.
+
+In any case, since you agree with Harlson, I thought I'd share some of his research data. Your scientists might find it useful, especially if they don't mind the methods by which it was gathered.",,"消息
+来自：托拜厄斯·韦斯特（新耶利哥）
+接收：凤凰计划
+
+有意思。但如果他是对的，那我们和安努门徒教会又有什么区别？他们也认为自己在拯救物种，但却是以一种彻底改变原有物种的方式来实现这一目的，这种改变几乎无异于创造新的物种。如果我们摒弃了伦理道德的约束，那我们岂不应该安然接受门徒的所作所为，只要他们能保证我们活命就行了？
+
+这是一个值得思考的两难问题。
+
+无论如何，既然你同意哈尔森的看法，我就与你分享一些他的研究数据吧。你的科学家可能会发现这些数据很有用，尤其是如果他们不介意采集这些数据所用的方法的话。","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Intéressant. Mais s'il a raison, qu'est-ce qui nous différencie des Disciples d'Anu ? Ils pensent aussi qu'ils sauvent l'espèce – en la changeant si profondément que c'est à peine la même espèce. Si nous rejetons l'idée de limites éthiques, ne devrions-nous pas accepter ce que les Disciples font, tant que cela mène à notre survie ?C'est un dilemme qui mérite réflexion.
+
+Dans tous les cas, puisque vous êtes d'accord avec Harlson, je voulais partager avec vous des données de certaines de ses recherches. Vos scientifiques pourraient les trouver utiles, surtout si les méthodes par lesquelles elles ont été obtenues leur importent peu.","MENSAJE
+DE: Tobias West (Nueva Jericó)
+PARA: Proyecto Fénix
+
+Interesante, pero... si tiene razón, ¿qué nos diferencia de los Discípulos de Anu? Ellos también creen que están salvando la especie... cambiándola completamente hasta que prácticamente sea otra. Si renunciamos a los límites éticos, ¿no debería parecernos bien lo que hacen los Discípulos también? Siempre que sea con el objetivo de garantizar la supervivencia, claro.
+
+Es un dilema digno de reflexión.
+
+Sea como sea, ya que estás de acuerdo con Harlson, me ha parecido oportuno compartir contigo parte de los datos de su investigación. Tus científicos seguramente los encuentren útiles, sobre todo si pasan por alto los métodos que se han usado para recopilarlos.","MESSAGGIO
+DA: Tobias West (Nuova Gerico)
+A: Progetto Phoenix
+
+Interessante. Ma se avesse ragione, cosa ci distinguerebbe dai Discepoli di Anu? Anch'essi sono convinti di salvare la specie, cambiandola a tal punto da renderla quasi irriconoscibile. Se rifiutiamo l'idea di porre limiti etici, non dovremmo semplicemente approvare l'operato dei Discepoli, purché volto alla sopravvivenza?
+
+Un dilemma su cui vale la pena meditare.
+
+Comunque, dato che concordate con le idee di Harlson, ho deciso di condividere alcuni dati relativi alla sua ricerca. Potrebbero essere utili ai vostri scienziati, in particolare se non badano ai metodi con cui sono stati raccolti.","NACHRICHT
+ VON: Tobias West (Neu-Jericho)
+ AN: Phoenix-Projekt
+
+Interessant. Aber wenn er recht hat: Was unterscheidet uns dann von den Jüngern von Anu? Auch sie glauben, die Spezies zu retten – indem sie sie so tiefgreifend verändern, dass sie kaum noch dieselbe ist. Wenn wir die Idee ethischer Grenzen verwerfen, müssten wir dann nicht auch mit dem einverstanden sein, was die Jünger tun, solange es dem Überleben dient?
+
+Eine Zwickmühle, über die nachzudenken sich lohnt.
+
+Da Sie mit Harlson übereinstimmen, teile ich einige seiner Forschungsdaten mit Ihnen. Ihre Wissenschaftler dürften sie nützlich finden – vorausgesetzt, sie stören sich nicht daran, auf welche Weise sie gewonnen wurden.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Интересно. Если он прав, то чем мы лучше Последователей Ану? Они верят, что занимаются спасением вида, но после таких радикальных изменений особь вряд ли можно причислить к тому же виду. Если мы отринем этические нормы, разве деяния Последователей Ану не станут привычными для нас, при условии что это поможет нам выжить?
+
+Дилемма, над решением которой стоит поломать голову.
+
+В любом случае, пока вы согласны с Харлсоном, думаю, я поделюсь с вами некоторыми его исследованиями. Ваши ученые, наверняка, заинтересуются этой информацией, особенно если их не волнуют методы, которыми она была получена.","WIADOMOŚĆ
+OD: Tobias West (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Interesujące. Jednak jeżeli ma rację, to co odróżnia nas od Akolitów Anu? Oni również wierzą, że ratują gatunek, ale zmieniają go przy tym tak dogłębnie, że trudno to jeszcze nazwać tym samym gatunkiem. Jeżeli odrzucimy kwestię granic etycznych, czy nie powinniśmy wtedy akceptować tego, co robią Akolici, o ile umożliwi nam to przetrwanie?
+
+Warto się nad tym zastanowić.
+
+W każdym razie, skoro zgadzacie się z Harlsonem, pomyślałem, że udostępnię Wam część jego danych badawczych. Wasi naukowcy mogą zrobić z nich dobry użytek, zwłaszcza jeżeli nie przeszkadzają im metody, jakimi zostały one zgromadzone.",
+CHAIN_NJ3_CHOICE_0_TEXT,Text,,Harlson is right. Whatever it takes.,,哈尔森是对的。无论代价如何都是如此。,Harlson a raison. Coûte que coûte.,Harlson tiene razón. Cueste lo que cueste.,HARLSON HA RAGIONE. A QUALSIASI COSTO,Harlson recht geben – um jeden Preis.,"Харлсон прав. И не важно, чего это стоит.",Harlson ma rację. Cel uświęca środki.,
+CHAIN_NJ3_CHOICE_1_OUTCOME_GENERAL,Text,,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+Interesting. But if he's right, what do we do if we come up against the material limits imposed by our morality? What if the war can't be won - do we choose to die for our principles? Can principles even be said to have any value at all in a world without sentient beings?
+
+A quandary worth pondering.
+
+In any case, since you agree with Richter, I thought I'd share some of the data we've collected from his new training program. Your operatives might find it useful in fighting that good fight.",,"消息
+来自：托拜厄斯·韦斯特（新耶利哥）
+接收：凤凰计划
+
+有意思。但如果他是对的，那我们在伦理道德的约束下遭遇材料的极限时该怎么办？如果无法打赢这场战争又该怎么办？我们要为原则而牺牲吗？在一个没有感知生命的世界里，原则是否可以被定义为毫无价值的东西？
+
+这是一个值得思考的两难问题。
+
+无论如何，既然你同意李希特的看法，我就与你分享一些从他新训练项目中获取的数据吧。你的特工可能会觉得这些数据在战斗中十分有用。","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Intéressant. Mais s'il a raison, que faire lorsque nous faisons face aux limites matérielles imposées par notre moralité ? Et si la guerre ne peut pas être remportée, choisissons-nous de mourir pour nos principes ? Peut-il se dire de principes qu'ils ont une valeur dans un monde dépourvu d'êtres doués de conscience ?
+
+C'est un dilemme qui mérite réflexion.
+
+Dans tous les cas, puisque vous êtes d'accord avec Richter, je voulais partager avec vous des données que nous avons recueillies avec son nouveau programme d'entraînement. Vos agents pourraient les trouver utiles dans leur combat pour défendre la bonne cause.","MENSAJE
+DE: Tobias West (Nueva Jericó)
+PARA: Proyecto Fénix
+
+Interesante, pero... si tiene razón, ¿qué haremos cuando nos topemos con los límites materiales impuestos por nuestra propia moralidad? ¿Y si la guerra no se puede ganar? ¿Elegiremos morir por nuestros principios? ¿Acaso los principios tienen algún sentido en un mundo sin seres sintientes?
+
+Es un dilema digno de reflexión.
+
+Sea como sea, ya que estás de acuerdo con Richter, me he tomado la molestia de compartir contigo algunos datos que hemos recogido de su nuevo programa de entrenamiento. Puede que tus operativos lo encuentren útil en su lucha por el bien.","MESSAGGIO
+DA: Tobias West (Nuova Gerico)
+A: Progetto Phoenix
+
+Interessante. Ma se avesse ragione, cosa faremmo se ci scontrassimo con i limiti materiali imposti dai nostri valori morali? E se la guerra non potesse essere vinta, saremmo pronti a morire per i nostri principi? E questi principi avrebbero valore in un mondo privo di esseri senzienti?
+
+Un dilemma su cui vale la pena meditare.
+
+Comunque, dato che concordate con le idee di Harlson, ho deciso di condividere alcuni dati relativi al suo nuovo programma di addestramento. Potrebbero essere utili ai vostri agenti nella lotta per una buona causa.","NACHRICHT
+ VON: Tobias West (Neu-Jericho)
+ AN: Phoenix-Projekt
+
+Interessant. Aber wenn er recht hat, was tun wir dann, wenn wir an die materiellen Grenzen stoßen, die unsere Moral uns auferlegt? Was ist, wenn der Krieg nicht gewonnen werden kann – sterben wir für unsere Prinzipien? Und haben Prinzipien überhaupt einen Wert in einer Welt ohne fühlende Wesen?
+
+Eine Zwickmühle, über die nachzudenken sich lohnt.
+
+Da Sie mit Richter übereinstimmen, teile ich einige der Daten, die wir aus seinem neuen Ausbildungsprogramm gesammelt haben, mit Ihnen. Ihre Einsatzkräfte könnten davon in diesem Kampf profitieren.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Интересно. Но, если он прав, что нам делать, когда столкнемся с материальными границами, основанными на наших моральных устоях? Что если эту войну не выиграть — умрем ли мы за свои принципы? Можно ли сказать, что принципы вообще имеют какую-то ценность в мире без разумных существ?
+
+Дилемма, над решением которой стоит поломать голову.
+
+В любом случае, пока вы согласны с Рихтером, думаю, я поделюсь с вами некоторой информацией о его новой программе подготовки. Ваши оперативники, наверняка, найдут ей применение в бою.","WIADOMOŚĆ
+OD: Tobias West (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Ciekawe. Ale jeżeli to on ma rację, co zrobimy, jeżeli nasza moralność doprowadzi nas do granic naszych możliwości? A jeśli tej wojny nie można wygrać — czy będziemy ginąć w imię naszych zasad? Czy zasady będą miały jeszcze jakąkolwiek wartość w świecie pozbawionym istot czujących?
+
+Warto się nad tym zastanowić.
+
+W każdym razie, skoro zgadzacie się z Richterem, pomyślałem, że podzielę się z Wami danymi zgromadzonymi w ramach jego nowego programu treningowego. Wasi operatorzy mogą zrobić z nich dobry użytek w tej wojnie.",
+CHAIN_NJ3_CHOICE_1_TEXT,Text,,Richter is right. We must not lose sight of our principles.,,李希特是对的。我们不能忘记我们的原则。,Richter a raison. Nous ne devons pas oublier nos principes.,Richter tiene razón. No debemos perder de vista nuestros principios.,RICHTER HA RAGIONE. NON DOBBIAMO PERDERE DI VISTA I NOSTRI PRINCIPI,Richter recht geben – Menschlichkeit bewahren.,Рихтер прав. Мы не должны забывать свои моральные устои.,Richter ma rację. Nie możemy zapominać o naszych zasadach.,
+CHAIN_NJ3_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+So, I see you've been contacted by Colonel Harlson and Captain Richter. Fascinating individuals, aren't they? Smart, dedicated, and quite stubborn. And both of them laboring under the illusion that I don't know what they're up to.
+
+I've tolerated their little games so far, but enough is enough - there are more serious issues I need them to focus on.",,"消息
+来自：托拜厄斯·韦斯特（新耶利哥）
+接收：凤凰计划
+
+我发现哈尔森上校和李希特上尉都与你联络过。他们都很有人格魅力，不是吗？聪明，忠诚，还相当倔强。他们的动静越搞越大，还天真地以为我对他们的事情一无所知。
+
+对他们的小把戏，我已经忍了很久了，我需要他们把注意力集中到更重要的事情上来。","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Bien, je vois que vous avez été contactés par le colonel Harlson et le capitaine Richter. Ce sont des individus fascinants, n'est-ce pas ? Intelligents, dévoués et assez têtus. Et ils travaillent tous les deux dans l'illusion que je ne sais pas ce qu'ils manigancent.
+
+J'ai toléré leurs petits jeux jusqu'à présent, mais ça suffit. Il y a des problèmes plus sérieux auxquels je veux qu'ils donnent la priorité.","MENSAJE
+DE: Tobias West (Nueva Jericó)
+PARA: Proyecto Fénix
+
+He visto que el coronel Harlson y el capitán Richter se han puesto en contacto contigo. Unas personas fascinantes, desde luego: inteligentes, comprometidas y, por qué no, también algo cabezotas. Es curioso; ambos siguen convencidos de que no estoy al corriente de sus andaduras clandestinas.
+
+Hasta ahora he hecho la vista gorda ante sus jueguecitos, pero ya me he hartado. Tengo asuntos más serios que atender.","MESSAGGIO
+DA: Tobias West (Nuova Gerico)
+A: Progetto Phoenix
+
+Ebbene, vedo che siete stati contattati dal Colonnello Harlson e dal Capitano Richter. Individui affascinanti, non trovate? Intelligenti, dediti alla causa e alquanto testardi. Ed entrambi convinti che io non sappia cosa stanno tramando.
+
+Finora ho tollerato i loro giochetti, ma ora ho bisogno che si concentrino su questioni più importanti.","NACHRICHT
+ VON: Tobias West (Neu-Jericho)
+ AN: Phoenix-Projekt
+
+Ich sehe, Sie wurden von Oberst Harlson und Hauptmann Richter kontaktiert. Faszinierende Persönlichkeiten, nicht wahr? Klug, engagiert und ziemlich hartnäckig. Und beide in dem Irrtum, ich wüsste nicht, was sie vorhaben.
+
+Ich habe ihre kleinen Spiele bisher toleriert, aber genug ist genug – es gibt ernstere Probleme, auf die sie sich konzentrieren sollen.","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Как я слышал, с вами связывались полковник Харлсон и капитаном Рихтер. Весьма незаурядные личности, правда? Умные, преданные своему делу и довольно упрямые. И оба питают иллюзии относительно своей работы, так что я не знаю, что они замышляют.
+
+Я достаточно закрывал глаза на их игры, но хватит значит хватит: есть гораздо более серьезные дела, на которых они должны сосредоточиться.","WIADOMOŚĆ
+OD: Tobias West (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Widzę, że kontaktowali się z Wami pułkownik Harlson i kapitan Richter. Fascynujący ludzie, nieprawdaż? Inteligentni, zaangażowani i całkiem uparci. I obaj łudzą się, że nic nie wiem o ich poczynaniach.
+
+Na razie toleruje te ich gierki, ale w końcu trzeba będzie z tym skończyć. Są poważniejsze sprawy, na których powinni się koncentrować.",
+CHAIN_NJ3_TEXT_GENERAL_1,Text,,"MESSAGE
+FROM: Tobias West (New Jericho)
+TO: Phoenix Project
+
+Still, I'm curious. What do you make of their philosophical arguments? Is Harlson right, and we have to put the needs of the species first? Or do you prefer Richter's belief that there are certain lines that must not be crossed?",,"消息
+来自：托拜厄斯·韦斯特（新耶利哥）
+接收：凤凰计划
+
+我还是很好奇，你怎么看待他们的哲学论点？你觉得是哈尔森正确，我们应该把物种的需求放在首位？还是更偏向于李希特的观点，认为有一些界限我们不应该逾越？","MESSAGE
+DE : Tobias West (Nouvelle-Jéricho)
+À : Projet Phoenix
+
+Enfin, je suis quand même curieux. Que pensez-vous de leurs arguments philosophiques ? Est-ce qu'Harlson a raison et devons-nous considérer en priorité les besoins de l'espèce ? Ou préférez-vous l'opinion de Richter, selon laquelle il y a certaines limites à ne pas dépasser ?","MENSAJE
+DE: Tobias West (Nueva Jericó)
+PARA: Proyecto Fénix
+
+Aun así, me pica la curiosidad. ¿Qué conclusiones extraes de sus argumentos filosóficos? ¿Crees que Harlson tiene razón y debemos poner las necesidades de la especie por encima de todo? ¿O prefieres el punto de vista de Richter, que cree que hay ciertas líneas que no se deben cruzar?","MESSAGGIO
+DA: Tobias West (Nuova Gerico)
+A: Progetto Phoenix
+
+Eppure sono curioso. Cosa ne pensate delle loro argomentazioni filosofiche? Ha ragione Harlson e dobbiamo porre al primo posto le necessità della specie? Oppure preferite le convinzioni di Richter sull'esistenza di determinati limiti che non devono essere superati?","NACHRICHT
+ VON: Tobias West (Neu-Jericho)
+ AN: Phoenix-Projekt
+
+Dennoch bin ich neugierig. Was halten Sie von ihren philosophischen Argumenten? Hat Harlson recht, und wir müssen die Bedürfnisse der Spezies an erste Stelle setzen? Oder teilen Sie Richters Überzeugung, dass es Grenzen gibt, die nicht überschritten werden dürfen?","СООБЩЕНИЕ
+ОТПРАВИТЕЛЬ: Тобиас Вест (Новый Иерихон)
+ПОЛУЧАТЕЛЬ: Проект Феникс
+
+Тем не менее, мне любопытно. Что вы будете делать с их философскими доводами? Прав ли Харлсон, должны ли мы поставить нужды вида на первое место? Или вы предпочитаете доводы Рихтера о границах дозволенного, которые нельзя пересекать?","WIADOMOŚĆ
+OD: Tobias West (Nowe Jerycho)
+DO: Projekt Phoenix
+
+Jednak ciekawi mnie jedna rzecz. Co sądzicie o ich argumentach filozoficznych? Czy według członków projektu rację ma Harlson i powinniśmy na pierwszym miejscu stawiać potrzeby gatunku? Czy wolicie stanowisko Richtera, który uważa, że są granice, których nie wolno nam przekraczać?",
+CHAIN_NJ3_TITLE,Text,,The Philosopher King,,哲学王,Le roi philosophe,El rey filósofo,Il re filosofo,Der Philosophenkönig,Король-философ,Król filozofów,

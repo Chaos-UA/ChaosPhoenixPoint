@@ -1,0 +1,25 @@
+[h1]Chaos Haven Under Attack Timer[/h1]
+
+Ever watched a "[Haven] is under attack" objective sit on the Geoscape with no clue how long you actually have before it's over? This mod adds a live estimated time remaining directly onto that objective's text.
+
+[h2]The Problem[/h2]
+Vanilla gives you zero indication of how much time is left in a haven defense battle. You either watch it nervously or ignore it and hope. There's no in-game way to know if you have 20 hours or 2 days to send squad to help.
+
+[h2]What It Does[/h2]
+[list]
+[*] Appends a time estimate straight onto the "[Haven] is under attack" objective, e.g. [b]"[Haven] is under attack (4-6h)"[/b]
+[*] The range updates automatically every time the battle actually ticks forward — always current, never stale
+[*] Shown as a [b]best case — worst case[/b] range rather than a single misleading number, since the real battle rolls its own randomness every hour
+[*] Uses the game's own time-formatting and phrasing, so it looks and reads like every other timed objective and matches your game's language
+[/list]
+
+[h2]How the Estimate Works[/h2]
+Haven defense battles don't have a fixed end time — they're simulated hour by hour with random damage rolls on both sides. This mod runs the same battle math the game uses, twice: once assuming the best possible rolls, once assuming the worst, giving you a soonest-case and latest-case resolution time. It never changes how the battle actually plays out — it only reads the current state to estimate it.
+
+[h2]Configuration[/h2]
+[list]
+[*][b]Debug Log[/b] — verbose logging to the Unity log file for troubleshooting (default: off)
+[/list]
+
+[h2]Compatibility[/h2]
+Purely additive — only changes objective panel display text, does not touch mission logic, balance, or save data. Safe to add or remove at any time.

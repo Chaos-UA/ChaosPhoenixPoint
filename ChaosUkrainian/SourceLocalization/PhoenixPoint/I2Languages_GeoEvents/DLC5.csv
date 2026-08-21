@@ -1,0 +1,455 @@
+Key,Type,Desc,English,UI_Tester,Chinese,French,Spanish,Italian,German,Russian,Polish,0
+KE_MARKETPLACE_TEXT_GENERAL_0,Text,,tmp,,tmp,tmp,tmp,tmp,tmp,tmp,tmp,
+KE_MARKETPLACE_TITLE,Text,,Marketplace,,市场,Marché,Mercado,Mercato,Marktplatz,Рынок,Rynek,
+PROG_KE1_CHOICE_0_TEXT,Text,,START MISSION,,开始任务,COMMENCER LA MISSION,EMPEZAR MISIÓN,AVVIA MISSIONE,MISSION STARTEN,НАЧАТЬ МИССИЮ,ROZPOCZNIJ MISJĘ,
+PROG_KE1_CHOICE_1_TEXT,Text,,CANCEL,,取消,ANNULER,CANCELAR,ANNULLA,ABBRECHEN,ОТМЕНА,ANULUJ,
+PROG_KE1_FAIL_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_KE1_FAIL_TEXT_GENERAL_0,Text,,We have failed to secure The Scarab. We should regroup and try again.,,我们没能保住圣甲虫。我们应该重整旗鼓，再做尝试。,Nous n'avons pas réussi à sécuriser le Scarabée. Regroupons-nous et réessayons.,No hemos logrado asegurar el escarabajo. Deberíamos reagruparnos y volver a intentarlo.,Non siamo riusciti a mettere le mani sullo Scarabeo. Dobbiamo riorganizzarci e riprovare.,Wir konnten den Scarab nicht sichern. Wir sollten uns neu formieren und es noch einmal versuchen.,Нам не удалось достать «Скарабея». Нужно перегруппироваться и попробовать снова.,Nie udało się zabezpieczyć Skarabeusza. Musimy się przegrupować i spróbować ponownie.,
+PROG_KE1_FAIL_TITLE,Text,,Mission Failed,,任务失败,Échec de la mission,Misión no completada,Missione fallita,Mission gescheitert,Задание провалено,Misja zakończona niepowodzeniem,
+PROG_KE1_TEXT_GENERAL_0,Text,,"MISSION BRIEFING
+
+Preliminary scouting of the area confirmed that the Scarab is there. However, it seems to be inactive. We must deploy our troops and find a way to get it running before extraction.",,"任务概要
+
+
+
+
+对该地区的初步侦察证实，圣甲虫就在那里。然而，它似乎并不活跃。我们必须合理部署部队，在撤出之前想办法让它运转起来。","RÉSUMÉ DE LA MISSION
+
+
+
+
+L'exploration préliminaire de la zone a confirmé que le Scarabée s'y trouve. Il semble cependant inactif. Nous devons déployer nos troupes pour trouver un moyen de le faire fonctionner avant l'évacuation.","INSTRUCCIONES DE LA MISIÓN
+
+
+
+
+La exploración preliminar de la zona ha confirmado que el escarabajo está aquí. Sin embargo, parece estar inactivo. Debemos desplegar a las tropas y encontrar el modo de hacerlo funcionar antes de su extracción.","RIEPILOGO MISSIONE
+
+
+
+
+Le esplorazioni preliminari dell'area hanno confermato che lo Scarabeo è là dentro. Tuttavia, sembra sia inattivo. Dobbiamo schierare le truppe e trovare un modo di avviarlo prima dell'estrazione.","MISSIONSBRIEFING
+
+Die vorläufige Erkundung des Gebiets hat bestätigt, dass der Scarab sich dort befindet. Er scheint allerdings inaktiv zu sein. Wir müssen unser Einsatzteam entsenden und einen Weg finden, ihn vor der Extraktion wieder in Gang zu bringen.","СВОДКА МИССИИ
+
+
+
+
+Предварительная разведка местности подтвердила, что «Скарабей» здесь. Похоже, он не работает. Мы должны развернуть отряды и отыскать способ, как запустить его прежде, чем вывозить его.","ODPRAWA PRZED MISJĄ
+
+
+
+
+Wstępny zwiad przeprowadzony na tym obszarze potwierdził obecność Skarabeusza. Pojazd wydaje się jednak nieaktywny. Musimy rozmieścić nasze oddziały i spróbować uruchomić go przed ewakuacją.",
+PROG_KE1_TITLE,Text,,Secure the Scarab,,保卫圣甲虫,Sécuriser le Scarabée,Asegura el escarabajo,Metti in sicurezza lo Scarabeo,Sichere den Scarab,Заполучите «Скарабея»,Zabezpiecz Skarabeusza,
+PROG_KE1_WIN_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_KE1_WIN_TEXT_GENERAL_0,Text,,"Good job, Phoenix! I will be taking that Scarab if you don’t mind.
+
+What will I do with it? Improve it, of course! It is so dull and boring right now! It needs a bit more flair.
+
+Next time you’re at the Marketplace, keep your eyes open for the improvements.",,"干得好，凤凰部队！如果你们不介意的话，我要带走圣甲虫。
+
+
+
+
+我要用它干什么？当然是改进它！它现在的功能太无聊了，需要更多天赋技能。
+
+
+
+
+下次你们去市场的时候，眼睛一定要睁大，看看它都得到了哪些改进。","Bien joué, Phoenix ! Je vais prendre ce Scarabée si ça ne vous dérange pas.
+
+
+
+
+Ce que je vais en faire ? L'améliorer, bien entendu ! Il est si basique et ennuyeux dans cet état ! Il lui faut un peu plus de style.
+
+
+
+
+Venez voir les améliorations quand vous reviendrez au marché.","¡Buen trabajo, Fénix! Ahora, son vuestro permiso, me llevaré el escarabajo.
+
+
+
+
+¿Que qué voy a hacer con él? ¡Mejorarlo, claro! Ahora mismo es tan soso como aburrido. Necesita algo más de estilo.
+
+
+
+
+La próxima vez que vayas al mercado, presta atención a las mejoras.","Ottimo lavoro, Phoenix! Lo Scarabeo lo prendo io, se non vi dispiace.
+
+
+
+
+Che cosa voglio farne? Migliorarlo, ovviamente! È così noioso e standard, ora! Ha bisogno di più carattere.
+
+
+
+
+La prossima volta che sarete al Mercato, tenete gli occhi aperti per i miglioramenti.","Gute Arbeit, Phoenix! Ich nehme den Scarab mit, wenn du nichts dagegen hast.
+
+Was ich damit vorhabe? Ihn aufmotzen, natürlich! So wie er jetzt ist, ist er todlangweilig. Dem fehlt Stil.
+
+Wenn du das nächste Mal am Marktplatz bist, halte Ausschau nach den Verbesserungen.","Отличная работа, Феникс! Я заберу этого «Скарабея», если вы не против.
+
+
+
+
+Что я буду с ним делать? Улучшу его, конечно же! Он сейчас такой простой и скучный, нужно его немного приукрасить.
+
+
+
+
+В следующий раз, когда будете на рынке, поищите улучшения.","Dobra robota, Phoenix! Przejmę tego Skarabeusza, jeśli nie masz nic przeciwko.
+
+
+
+
+Co z nim zrobię? Oczywiście ulepszę! Teraz jest taki zwykły i nudny! To musi być maszyna z polotem.
+
+
+
+
+Gdy następnym razem odwiedzisz Rynek, zwróć uwagę na ulepszenia.",
+PROG_KE1_WIN_TITLE,Text,,The Scarab,,圣甲虫,Le Scarabée,El escarabajo,Lo Scarabeo,Der Scarab,Скарабей,Skarabeusz,
+PROG_KE2_CHOICE_0_TEXT,Text,,START MISSION,,开始任务,COMMENCER LA MISSION,EMPEZAR MISIÓN,AVVIA MISSIONE,MISSION STARTEN,НАЧАТЬ МИССИЮ,ROZPOCZNIJ MISJĘ,
+PROG_KE2_CHOICE_1_TEXT,Text,,CANCEL,,取消,ANNULER,CANCELAR,ANNULLA,ABBRECHEN,ОТМЕНА,ANULUJ,
+PROG_KE2_FAIL_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_KE2_FAIL_TEXT_GENERAL_0,Text,,Returning to The Maker without obtaining the Armadillo is not a good look. We should try again once we are ready.,,没获得犰狳就返回造物者那里并非是件好事。我们准备好了就应该再试一次。,Retourner parler au Créateur sans le Priodonte ne ferait pas bon effet. On devrait réessayer quand on sera prêts.,Volver con el fabricante sin conseguir antes el armadillo no parece buena idea. Deberíamos volver a intentarlo cuando estemos listos.,Tornare dal Creatore senza aver ottenuto l'Armadillo non ci metterà in buona luce. Dovremmo riprovare una volta che saremo pronti.,"Ohne den Armadillo zum Konstrukteur zurückzubringen, stehen wir schlecht da. Wir sollten es erneut versuchen, sobald wir bereit sind.","Если вернемся к Создателю без «Броненосца», это подмочит нашу репутацию. Постараемся еще раз, когда будем готовы.","Nie warto wracać do Konstruktora bez Pancernika. Powinniśmy spróbować jeszcze raz, gdy będziemy gotowi.",
+PROG_KE2_FAIL_TITLE,Text,,Mission Failed,,任务失败,Échec de la mission,Misión no completada,Missione fallita,Mission gescheitert,Задание провалено,Misja zakończona niepowodzeniem,
+PROG_KE2_TEXT_GENERAL_0,Text,,"MISSION BRIEFING
+
+Kaos intel says that the Armadillo's engine locks are engaged. We must find a way to override them or it is not going anywhere.",,"任务概要
+
+
+
+
+卡奥斯集团的情报说犰狳的引擎锁坏了。我们必须想方法解锁，否则它哪儿都去不了。","RÉSUMÉ DE LA MISSION
+
+
+
+
+Les renseignements du Kaos affirment que le système de verrouillage du moteur du Priodonte est activé. Nous devons trouver un moyen de le forcer si nous voulons le déplacer.","INSTRUCCIONES DE LA MISIÓN
+
+
+
+
+La información de Kaos dice que los bloqueos del motor del armadillo están activados. Tenemos que averiguar cómo desactivarlos o no habrá quien lo mueva.","RIEPILOGO MISSIONE
+
+
+
+
+Le informazioni di Kaos dicono che i blocchi del motore dell'Armadillo sono attivati. Dobbiamo trovare un modo per disattivarli o non andrà da nessuna parte.","MISSIONSBRIEFING
+
+Laut Informationen von Kaos sind die Antriebssperren des Armadillo aktiviert. Wir müssen einen Weg finden, sie zu lösen, sonst bewegt er sich keinen Meter.","СВОДКА МИССИИ
+
+
+
+
+Разведка «Каоса» сообщила, что двигатель «Броненосца» закрыт на замки. Нужно найти способ взломать их, иначе машина не двинется с места.","ODPRAWA PRZED MISJĄ
+
+
+
+
+Wywiad frakcji Kaos twierdzi, że blokady silnika Pancernika zostały aktywowane. Musimy znaleźć sposób, by je obejść, w przeciwnym razie nigdzie nie pojedziemy.",
+PROG_KE2_TITLE,Text,,Secure the Armadillo,,保卫犰狳,Sécuriser le Priodonte,Asegura el armadillo,Metti in sicurezza l'Armadillo,Sichere den Armadillo,Заполучите «Броненосца»,Zabezpiecz Pancernika,
+PROG_KE2_WIN_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_KE2_WIN_TEXT_GENERAL_0,Text,,"Tobias West sure knows how to make death machines. And once I break this apart, we will know too!
+
+
+<Maniacal Laughter>
+
+
+Oh, am I going to have fun with this! I will probably have some pretty interesting tech ready next time you visit.",,"托拜厄斯·韦斯特当然知道如何制造死亡机器。一旦我把这东西拆开，我们也会知道的！
+
+
+
+
+<疯狂大笑>
+
+
+
+
+哦，我应该会玩得不亦乐乎！下次你们来时，我可能会给你们展示一些非常有意思的技术。","Tobias West a un don pour fabriquer des machines mortelles. Et quand on aura démonté ça, je saurai aussi comment faire !
+
+
+
+
+<Rire hystérique>
+
+
+
+
+Oh, qu'est-ce que je vais m'amuser ! J'aurai sûrement des technologies intéressantes pour vous quand vous reviendrez.","Tobias West sabe muy bien cómo hacer máquinas muertas. Y, cuando desmonte esto, ¡yo también sabré cómo hacerlo!
+
+
+
+
+<Risa maníaca>
+
+
+
+
+¡Qué bien me lo voy a pasar con esto! Seguramente tenga lista tecnología de lo más interesante cuando vuelvas a visitarme.","Tobias West sa davvero come costruire delle macchine letali. Una volta che avrò aperto questa bellezza come una scatoletta, lo saprò fare anche io.
+
+
+
+
+<Risata folle>
+
+
+
+
+Oh, mi divertirò un sacco! La prossima volta che mi farete visita, potrei avere delle tecnologie interessanti da offrirvi.","Tobias West weiß genau, wie man Todesmaschinen baut. Und wenn ich das Ding auseinandernehme, wissen wir das auch!
+
+<Manisches Gelächter>
+
+Oh, das wird ein Spaß! Wenn du das nächste Mal vorbeischaust, habe ich bestimmt ein paar ziemlich interessante Spielzeuge parat.","Тобиас Вест точно знает, как создавать машины смерти. И когда я разделаю эту малышку на части, мы тоже узнаем!
+
+
+
+
+<Смех маньяка>
+
+
+
+
+Ох, хорошенько повеселюсь с ней. Скорее всего к вашему следующему визиту я подготовлю что-нибудь интересное.","Tobias West doskonale wie, jak budować maszyny śmierci. A gdy rozłożę ten pojazd na czynniki pierwsze, my także będziemy to wiedzieć!
+
+
+
+
+<Maniakalny śmiech>
+
+
+
+
+Och, czeka mnie niezła zabawa! Gdy odwiedzisz mnie następnym razem, pewnie będę miał dla ciebie trochę ciekawych gadżetów.",
+PROG_KE2_WIN_TITLE,Text,,The Armadillo,,犰狳,Le Priodonte,El armadillo,L'Armadillo,Der Armadillo,Броненосец,Pancernik,
+PROG_KE3_CHOICE_0_TEXT,Text,,START MISSION,,开始任务,COMMENCER LA MISSION,EMPEZAR MISIÓN,AVVIA MISSIONE,MISSION STARTEN,НАЧАТЬ МИССИЮ,ROZPOCZNIJ MISJĘ,
+PROG_KE3_CHOICE_1_TEXT,Text,,CANCEL,,取消,ANNULER,CANCELAR,ANNULLA,ABBRECHEN,ОТМЕНА,ANULUJ,
+PROG_KE3_FAIL_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_KE3_FAIL_TEXT_GENERAL_0,Text,,"Securing this Aspida will benefit both us and the Kaos Syndicate. Despite suffering a temporary setback, we should return and try again.",,保护这辆悬浮车对我们和卡奥斯集团都有好处。尽管我们暂时遭遇挫折，还是应该回来再试一次。,"Sécuriser cet Aspida nous sera aussi utile qu'au Syndicat du Kaos. Malgré ce contretemps, nous devrions y retourner et réessayer.","Asegurar este aspida nos beneficiará tanto a nosotros como al Sindicato Kaos. A pesar de sufrir un contratiempo temporal, debemos volver e intentarlo de nuevo.","Mettere in sicurezza l'Aspida sarà positivo sia per noi che per l'Unione del Kaos. Nonostante questa temporaria sconfitta, dovremmo tornare e riprovare.","Wenn wir den Aspida sichern, profitieren wir beide: das Phoenix-Projekt und das Kaos-Syndikat. Das war nur ein Rückschlag – wir sollten zurückkehren und es noch einmal versuchen.","Если мы получим эту «Аспиду», и нам, и «Каосу» пойдет это на пользу. Несмотря на заминку, мы должны вернуться и попытаться еще раз.","Zabezpieczenie tej Aspidy przyniesie korzyści zarówno nam, jak i syndykatowi Kaos. Powinniśmy wrócić i spróbować ponownie, nie zważając na chwilowe niepowodzenia.",
+PROG_KE3_FAIL_TITLE,Text,,Mission Failed,,任务失败,Échec de la mission,Misión no completada,Missione fallita,Mission gescheitert,Задание провалено,Misja zakończona niepowodzeniem,
+PROG_KE3_TEXT_GENERAL_0,Text,,"MISSION BRIEFING
+
+The Aspida on the ground seems to be stuck in some kind of a software loop. Presumably, this is why it was abandoned. If we manage to reboot it successfully, it should be in good enough shape to reach the extraction point.",,"任务概要
+
+
+
+
+地上的那辆悬浮车似乎卡在某种程序死循环里了。这大概就是它被遗弃的原因。如果我们能成功重启，应该可以让它到达撤退点。","RÉSUMÉ DE LA MISSION
+
+
+
+
+L'Aspida à terre semble bloquer dans une boucle logicielle. Ça doit être à cause de ça qu'il a été abandonné. Si nous parvenons à le redémarrer, il devrait être en bon état pour atteindre le point d'évacuation.","INSTRUCCIONES DE LA MISIÓN
+
+
+
+
+El aspida del suelo parece estar atascado en una especie de bucle informático. Seguramente por eso acabó abandonado. Si logramos reiniciarlo con éxito, debería funcionar lo bastante bien como para llegar al punto de extracción.","RIEPILOGO MISSIONE
+
+
+
+
+L'Aspida a terra sembra essere bloccato in una sorta di loop del software. Presumibilmente, è per questo che è stato abbandonato. Se riusciremo a riavviarlo con successo, dovrebbe essere in condizioni sufficienti per raggiungere il punto di estrazione.","MISSIONSBRIEFING
+
+Der Aspida am Boden scheint in einer Art Software-Schleife festzustecken – vermutlich wurde er deshalb aufgegeben. Wenn es uns gelingt, ihn erfolgreich neu zu starten, sollte er noch in gut genugem Zustand sein, um den Extraktionspunkt zu erreichen.","СВОДКА МИССИИ
+
+
+
+
+Кажется, «Аспида» зависла в каком-то сбое. Вероятно, по этой причине машину и оставили. Если мы успешно перезагрузим ее, она будет в достаточно хорошей форме, чтобы ее можно было вывезти.","ODPRAWA PRZED MISJĄ
+
+
+
+
+Wydaje się, że oprogramowanie tej uziemionej Aspidy utknęło w jakiejś pętli. Prawdopodobnie dlatego ją porzucono. Jeśli zdołamy ją zrestartować, powinna bez problemu dotrzeć do punktu ewakuacyjnego.",
+PROG_KE3_TITLE,Text,,Secure the Aspida,,保卫悬浮车,Sécuriser l'Aspida,Asegura el aspida,Metti in sicurezza l'Aspida,Sichere den Aspida,Заполучите «Аспиду»,Zabezpiecz Aspidę,
+PROG_KE3_WIN_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_KE3_WIN_TEXT_GENERAL_0,Text,,"I have a problem with the Aspida… it is too pacifistic. All this “knock out and heal” business is definitely not in my style.
+
+Once I am done with this little thing, it will be much more entertaining to operate. I am definitely thinking lasers would fit it better.
+
+Well, off to work, then!",,"我对悬浮车有点儿意见……它太和平主义了。所有这些“打倒并治愈”的事绝不是我的风格。
+
+
+
+
+一旦我搞定了这个小东西，它操作起来就会有趣得多。我觉得激光肯定更适合它。
+
+
+
+
+好吧，那就开始干活吧！","J'ai un problème avec l'Aspida... il est trop pacifiste. Cette logique d'assommer et de guérir n'est vraiment pas mon style.
+
+
+
+
+Quand j'en aurai fini avec cette petite chose, ce sera bien plus intéressant. Je pense que des lasers lui iraient mieux.
+
+
+
+
+Bon, au travail !","Tengo un problema con el aspida... Es demasiado pacífico. Todo este tema de «noquear y sanar» es del todo menos mi estilo.
+
+
+
+
+Cuando acabe con este pequeñajo, será mucho más divertido operar con él. Tengo bien claro que unos láseres le quedarían de lujo.
+
+
+
+
+Bueno, ¡vamos a trabajar!","Ho un problema con l'Aspida... è troppo pacifista. Tutta questa cosa dello stordire e guarire non è affatto il mio stile.
+
+
+
+
+Una volta che avrò finito, sarà molto più divertente da utilizzare. Sto pensando che i laser potrebbero essere molto più adatti.
+
+
+
+
+Beh, al lavoro, dunque!","Ich habe ein Problem mit dem Aspida... Er ist zu pazifistisch. Dieses ganze „k.o. setzen und heilen“ ist definitiv nicht mein Stil.
+
+Wenn ich mit dem kleinen Ding fertig bin, macht es deutlich mehr Spaß, ihn zu steuern. Ich denke da ganz klar an Laser.
+
+Na dann – ran an die Arbeit!","У меня проблема с «Аспидой»... она слишком пацифисткая. Все эти «ударь и вылечи» не моем стиле.
+
+
+
+
+Когда я закончу с одной маленькой деталью, машиной будет гораздо интереснее управлять. Я убежден, что лазеры подойдут ей гораздо лучше.
+
+
+
+
+Ну, за работу тогда!","Nie podoba mi się ta Aspida… Jest zbyt pacyfistyczna. Całe to obezwładnianie i leczenie to zupełnie nie mój styl.
+
+
+
+
+Gdy popracuję nad tym maleństwem, będzie znacznie zabawniejsza w obsłudze. Myślę, że laser sprawdzi się tu doskonale.
+
+
+
+
+Zatem do pracy!",
+PROG_KE3_WIN_TITLE,Text,,The Aspida,,悬浮车,L'Aspida,El aspida,L'Aspida,Der Aspida,Аспида,Aspida,
+PROG_KE4_CHOICE_0_TEXT,Text,,START MISSION,,开始任务,COMMENCER LA MISSION,EMPEZAR MISIÓN,AVVIA MISSIONE,MISSION STARTEN,НАЧАТЬ МИССИЮ,ROZPOCZNIJ MISJĘ,
+PROG_KE4_CHOICE_1_TEXT,Text,,CANCEL,,取消,ANNULER,CANCELAR,ANNULLA,ABBRECHEN,ОТМЕНА,ANULUJ,
+PROG_KE4_FAIL_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_KE4_FAIL_TEXT_GENERAL_0,Text,,The Kaos Buggy belongs to The Maker and he will be more than happy to have it back. It is crucial to try again if we want to be on his good side.,,这辆卡奥斯越野战车属于造物者。帮他寻回战车定会让他十分高兴。如果我们想和他搞好关系，关键就是要再试一次。,Le Buggy du Kaos appartient au Créateur et il sera plus que ravi de le récupérer. C'est crucial de réessayer si on veut faire bon effet.,"El buggy Kaos pertenece al fabricante, seguro que estará encantado de recuperarlo. Es crucial que lo volvamos a intentar si queremos ganarnos su favor.","La Buggy Kaos appartiene al Creatore, e sarà ben felice di riaverla indietro. È importante riprovarci se vogliamo farci un buon nome con lui.","Der Kaos-Buggy gehört dem Konstrukteur, und er wird sich mehr als freuen, ihn zurückzubekommen. Wenn wir in seiner Gunst bleiben wollen, müssen wir es noch einmal versuchen.","Багги «Каос» принадлежит Создателю, он будет просто в восторге, если вернет его себе. Критически важно попытаться еще раз, если мы хотим, чтобы отношения между нами были хорошими.","Konstruktor z pewnością ucieszy się z odzyskania tego Buggy Kaos, bo to przecież jego własność. Jeśli chcemy zyskać jego przychylność, musimy podjąć kolejną próbę. To niezwykle ważne!",
+PROG_KE4_FAIL_TITLE,Text,,Mission Failed,,任务失败,Échec de la mission,Misión no completada,Missione fallita,Mission gescheitert,Задание провалено,Misja zakończona niepowodzeniem,
+PROG_KE4_TEXT_GENERAL_0,Text,,"MISSION BRIEFING
+
+The Maker said that this is the location of his lost Kaos Buggy. He also warned us that it is crawling with Pandorans. We should try and extract it as quickly and quietly as possible.",,"任务概要
+
+
+
+
+造物者说，这里就是他丢失卡奥斯越野战车的位置。他还警告我们，这里到处都是潘多拉体。我们应该悄悄地，尽快把它找回，然后撤离。","RÉSUMÉ DE LA MISSION
+
+
+
+
+Le Créateur a dit que c'était la position de son Buggy du Kaos perdu. Il nous a aussi prévenus que ça grouille de Pandoriens. Nous devrions essayer de l'évacuer le plus vite et le plus discrètement possible.","INSTRUCCIONES DE LA MISIÓN
+
+
+
+
+El fabricante dijo que perdió su buggy Kaos en esta ubicación. También nos advirtió de que este sitio está infestado de pandorianos. Deberíamos intentar extraerlo lo más rápido y sigilosamente posible.","RIEPILOGO MISSIONE
+
+
+
+
+Il Creatore ha detto che la Buggy Kaos dovrebbe trovarsi qui. Ci ha anche avvertiti che sarà pieno di Pandora. Dovremmo cercare di estrarla più rapidamente e silenziosamente possibile.","MISSIONSBRIEFING
+
+Der Konstrukteur meinte, hier sei der Standort seines verlorenen Kaos-Buggys. Er hat uns außerdem gewarnt: Es wimmelt dort von Pandoranern. Wir sollten versuchen, ihn so schnell und so unauffällig wie möglich zu bergen.","СВОДКА МИССИИ
+
+
+
+
+Создатель сказал, что в этой местности был утерян багги «Каос». Также он предупредил, что место кишит пандоранами. Мы должны попытаться вывезти его отсюда быстро и тихо, насколько это возможно.","ODPRAWA PRZED MISJĄ
+
+
+
+
+Konstruktor wskazał to miejsce jako lokalizację swojego zaginionego Buggy Kaos. Ostrzegł również, że roi się tam od Pandoran. Powinniśmy spróbować wydostać go tak szybko i niepostrzeżenie, jak to tylko możliwe.",
+PROG_KE4_TITLE,Text,,Secure the Kaos Buggy,,保卫卡奥斯越野战车,Sécuriser le Buggy du Kaos,Asegura el buggy Kaos,Metti in sicurezza la Buggy Kaos,Sichere den Kaos-Buggy,Заполучите багги «Каос»,Zabezpiecz Buggy Kaos,
+PROG_KE4_WIN_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_KE4_WIN_TEXT_GENERAL_0,Text,,"Yes! Finally, my baby returns to me. Thanks for bringing her home, Phoenix.
+
+
+I have planned many improvements for her. Oh, yes. She will be a devastating machine yet!
+
+
+Go away now and let me work. There might be some new toys to play with next time you come around.",,"好啊！我的宝贝终于回到我身边了。谢谢你们把她带回家，凤凰部队。
+
+
+
+
+我为她计划了很多改良方案。噢，没错。她将会成为一台毁灭机器！
+
+
+
+
+现在你们走吧，让我好好工作。下次来时可能就会有些新玩具，可以好好玩玩。","Génial ! J'ai enfin retrouvé mon bébé. Merci de me l'avoir rapporté, Phoenix.
+
+
+
+
+J'avais prévu pas mal d'améliorations. Oh, oui, je vais en faire une vraie machine de destruction !
+
+
+
+
+Allez-vous-en maintenant, je dois travailler. Vous aurez peut-être de nouveaux jouets à découvrir quand vous reviendrez.","¡Sí! Al fin recupero a mi bebé. Gracias por traerla a casa, Fénix.
+
+
+
+
+Tengo muchas mejoras planeados para ella, vaya que sí. ¡Será más devastadora que nunca!
+
+
+
+
+Necesito estar solo para trabajar. Puede que haya algún que otro juguete nuevo para ti la próxima vez que vengas.","Sì! Finalmente, la mia bellezza torna tra le mie mani. Grazie per averla riportata a casa, Phoenix.
+
+
+
+
+Ho pianificato molti miglioramenti per lei. Oh, sì, diventerà presto una macchina devastante!
+
+
+
+
+Andate pure e lasciatemi lavorare. La prossima volta che tornerete potrebbero esserci alcuni nuovi giocattoli con cui divertirvi.","Ja! Endlich ist mein Baby wieder da! Danke, dass du meinen Schatz nach Hause gebracht hast, Phoenix.
+
+Ich habe schon jede Menge Verbesserungen für sie geplant. Oh ja. Sie wird noch zur verheerenden Maschine.
+
+Und jetzt raus hier – lass mich arbeiten. Wenn du das nächste Mal vorbeischaust, habe ich vielleicht schon ein paar neue Spielzeuge für dich.","Да! Наконец мой дружочек вернулся ко мне. Спасибо, что вернули ее домой, Феникс.
+
+
+
+
+Я запланировал для нее много улучшений. О да. Она будет просто сногсшибательной!
+
+
+
+
+А теперь уходите, дайте мне поработать. Когда будете здесь в следующий раз, на прилавках могут появиться новые игрушки.","Tak! Moja kruszyna nareszcie do mnie wróciła. Dzięki za sprowadzenie jej do domu, Phoenix.
+
+
+
+
+Zaplanowałem dla niej wiele ulepszeń. Och tak, będzie jeszcze niszczycielską maszyną!
+
+
+
+
+A teraz odejdź i daj mi popracować. Gdy zjawisz się ponownie, może czekać na ciebie trochę nowych zabawek.",
+PROG_KE4_WIN_TITLE,Text,,The Kaos Buggy,,卡奥斯越野战车,Le Buggy du Kaos,El buggy Kaos,La Buggy Kaos,Der Kaos-Buggy,Багги «Каос»,Buggy Kaos,

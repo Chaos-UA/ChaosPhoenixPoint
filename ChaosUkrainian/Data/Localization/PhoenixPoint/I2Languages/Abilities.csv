@@ -1,0 +1,463 @@
+Key,Ukrainian
+KEY_ACID_IMMUNITY_DESCRIPTION,Несприйнятливість до впливу кислоти
+KEY_ACID_IMMUNITY_NAME,ІМУНІТЕТ ДО КИСЛОТИ
+KEY_ACID_RESISTANCE_DESCRIPTION,Зменшує шкоду від кислоти вдвічі
+KEY_ACID_RESISTANCE_NAME,СТІЙКІСТЬ ДО КИСЛОТИ
+KEY_ADRENALINE_RUSH_DESCRIPTION,"Усі здібності коштують не більше 1 ОД до кінця ходу. Наступного ходу ви будете приголомшені. До кінця вашого ходу не можна використовувати здібності, що потребують очок волі."
+KEY_ADRENALINE_RUSH_NAME,ВИКИД АДРЕНАЛІНУ
+KEY_ARMOUR_BREAK_DESCRIPTION,Наступна атака завдає додатково 30 очок шкоди розривання
+KEY_ARMOUR_BREAK_NAME,ПРОБИТТЯ БРОНІ
+KEY_ASSAULT_PROFICIENCY_DESCRIPTION,Володіння автоматами та дробовиками.
+KEY_ASSAULT_PROFICIENCY_NAME,ШТУРМОВА ПІДГОТОВКА
+KEY_ASSAULT_RIFLES_TALENT_DESCRIPTION,Володіння автоматами. +10% до точності.
+KEY_ASSAULT_RIFLES_TALENT_NAME,ВОЛОДІННЯ АВТОМАТОМ
+KEY_BASH_DESCRIPTION,"Вдарити ворога предметом, який тримає солдат"
+KEY_BASH_NAME,УДАР
+KEY_BERSERKER_TRAINING_DESCRIPTION,Володіння зброєю ближнього бою та пістолетами
+KEY_BERSERKER_TRAINING_NAME,ПІДГОТОВКА БЕРСЕРКА
+KEY_BIOCHEMIST_PERSONALTRACK_DESC,"Усі атаки, що завдають шкоди цілі, також завдають 1 очко вірусної шкоди (за кожну кулю)"
+KEY_BIOCHEMIST_PERSONALTRACK_NAME,БІОХІМІК
+KEY_BLOODLUST_DESCRIPTION,Шкода та швидкість зростають пропорційно втраченим очкам здоров'я (до +50%)
+KEY_BLOODLUST_NAME,СПРАГА КРОВІ
+KEY_BODY_SLAM_DESCRIPTION,"Кинутися на ворога, завдаючи шкоди залежно від перенесеної ваги. Вартість дії зростає залежно від відстані до цілі."
+KEY_BODY_SLAM_NAME,КИДОК ТІЛОМ
+KEY_BRAINIAC_PERSONALTRACK_DESC,Додатково +2 до Сили волі та +10 до радіуса сприйняття
+KEY_BRAINIAC_PERSONALTRACK_NAME,ДАЛЕКОГЛЯДНИЙ
+KEY_CAUTIOUS_PERSONALTRACK_DESC,+20% до точності та -10% до завданої шкоди
+KEY_CAUTIOUS_PERSONALTRACK_NAME,ОБАЧНІСТЬ
+KEY_CHIRON_JUMP_DESCRIPTION,Стрибнути у вказане місце
+KEY_CHIRON_JUMP_NAME,СТРИБОК
+KEY_CHIRON_LAUNCH_ACIDWORM_DESCRIPTION,Запустити {NumberOfProjectilesFired} кислотних черв'яків у вказану область
+KEY_CHIRON_LAUNCH_ACIDWORM_NAME,ЗАПУСК КИСЛОТНИХ ЧЕРВ'ЯКІВ
+KEY_CHIRON_LAUNCH_FIREWORM_DESCRIPTION,Запустити {NumberOfProjectilesFired} вогняних черв'яків у вказану область
+KEY_CHIRON_LAUNCH_FIREWORM_NAME,ЗАПУСК ВОГНЯНИХ ЧЕРВ'ЯКІВ
+KEY_CHIRON_LAUNCH_GOO_DESCRIPTION,Запустити {NumberOfProjectilesFired} слизових бомб у вказану область
+KEY_CHIRON_LAUNCH_GOO_NAME,ЗАПУСК СЛИЗОВИХ БОМБ
+KEY_CHIRON_LAUNCH_MORTAR_DESCRIPTION,Запустити {NumberOfProjectilesFired} вибухових бомб у вказану область
+KEY_CHIRON_LAUNCH_MORTAR_NAME,ЗАПУСК ВИБУХІВКИ
+KEY_CHIRON_LAUNCH_POISONWORM_DESCRIPTION,Запустити {NumberOfProjectilesFired} отруйних черв'яків у вказану область
+KEY_CHIRON_LAUNCH_POISONWORM_NAME,ЗАПУСК ОТРУЙНИХ ЧЕРВ'ЯКІВ
+KEY_CHIRON_STABILITY_STANCE_DESCRIPTION,"Перейти в стійку стабільності. Рух неможливий, а точність запуску та кількість снарядів збільшуються."
+KEY_CHIRON_STABILITY_STANCE_NAME,СТІЙКА СТАБІЛЬНОСТІ
+KEY_CHIRON_STANDARD_STANCE_DESCRIPTION,"Перейти в стандартну стійку. Рух можливий, а точність запуску та кількість снарядів повертаються до стандартних значень."
+KEY_CHIRON_STANDARD_STANCE_NAME,СТАНДАРТНА СТІЙКА
+KEY_CHIRON_STOMP_DESCRIPTION,Виконати атаку тупотінням у радіусі 10 клітинок із шансом приголомшення. Шкода зменшується з відстанню.
+KEY_CHIRON_STOMP_NAME,УДАРНА АТАКА ТУПОТІННЯМ
+KEY_CHIRON_STRIKE_DESCRIPTION,Виконати атаку ближнього бою передніми лапами
+KEY_CHIRON_STRIKE_NAME,СОКРУШЛИВИЙ УДАР
+KEY_CLOSEQUARTERSSPECIALIST_PERSONALTRACK_DISC,Отримати володіння дробовиками з +20% до точності та володіння зброєю ближнього бою з +20% до шкоди
+KEY_CLOSEQUARTERSSPECIALIST_PERSONALTRACK_NAME,СПЕЦІАЛІСТ БЛИЖНЬОГО БОЮ
+KEY_CLOSE_QUARTERS_DESCRIPTION,Атаки ворогів у радіусі 10 клітинок завдають на 25% менше шкоди.
+KEY_CLOSE_QUARTERS_NAME,УХИЛЕННЯ В БЛИЖНЬОМУ БОЮ
+KEY_CRAFTY_PERSONALTRACK_DESC,Отримати володіння станковою зброєю з +20% до дальності та +10% до шкоди
+KEY_CRAFTY_PERSONALTRACK_NAME,БОМБАРДИР
+KEY_DEADLY_DUO_DESCRIPTION,Зробити два постріли з подвійною точністю
+KEY_DEADLY_DUO_NAME,СМЕРТОНОСНИЙ ДУЕТ
+KEY_DEATH_BELCH_DESCRIPTION,Створити кілька дрібних істот після смерті
+KEY_DEATH_BELCH_NAME,ПЕРЕДСМЕРТНА ВІДРИЖКА
+KEY_DECOY_DESCRIPTION,Розмістити голографічну приманку у вибраному місці. Усі вороги сприймають приманку як справжню ціль.
+KEY_DECOY_NAME,РОЗМІСТИТИ ПРИМАНКУ
+KEY_DEPLOY_SHIELD_DESCRIPTION,Розмістити щит у заданому напрямку
+KEY_DEPLOY_SHIELD_NAME,РОЗМІСТИТИ ЩИТ
+KEY_DEPLOY_SPIDER_DESCRIPTION,"Розмістити дрона-павука під власним керуванням. Якщо у вашому загоні немає розвідника, дрони перейдуть під керування штучного інтелекту."
+KEY_DEPLOY_SPIDER_NAME,РОЗМІСТИТИ ДРОНА-ПАВУКА
+KEY_DEPLOY_SPIDER_PACK_DESCRIPTION,Розмістити 3 дрони-павуки однією дією
+KEY_DEPLOY_SPIDER_PACK_NAME,ЗГРАЯ ДРОНІВ-ПАВУКІВ
+KEY_DEPLOY_TURRET_DESCRIPTION,Розмістити нерухому турель у сусідній клітинці
+KEY_DEPLOY_TURRET_NAME,РОЗМІСТИТИ ТУРЕЛЬ
+KEY_DEVOTED_DESCRIPTION,Додатково +2 до Сили волі
+KEY_DEVOTED_NAME,ВІДДАНІСТЬ
+KEY_DROP_ITEM_DESCRIPTION,Кинути цей предмет на землю
+KEY_DROP_ITEM_NAME,КИНУТИ
+KEY_EAGLE_EYED_DESCRIPTION,Додатково +25% до сприйняття
+KEY_EAGLE_EYED_NAME,ГОСТРООКИЙ
+KEY_EAGLE_EYE_DESCRIPTION,Радіус сприйняття подвоюється
+KEY_EAGLE_EYE_NAME,ОРЛИНЕ ОКО
+KEY_ELECTRIC_STRIKE_DESCRIPTION,"Ціль паралізується, якщо значення оглушення перевищує поточні очки здоров'я цілі"
+KEY_ELECTRIC_STRIKE_NAME,ЕЛЕКТРИЧНИЙ УДАР
+KEY_END_TURN,ЗАВЕРШИТИ ХІД
+KEY_END_TURN_DESCRIPTION,Завершити хід лише для цього персонажа
+KEY_END_TURN_NAME,ЗАВЕРШИТИ ХІД
+KEY_ENTER_VEHICLE_DESCRIPTION,Сісти в машину
+KEY_ENTER_VEHICLE_NAME,СІСТИ В МАШИНУ
+KEY_EVACUATE_DESCRIPTION,Безпечно евакуювати персонажа або машину з поля бою
+KEY_EVACUATE_NAME,ЕВАКУАЦІЯ
+KEY_EXERTION_DESCRIPTION,Переміститися на відстань до половини вашого радіуса руху. Можна використати до 2 разів за хід.
+KEY_EXERTION_NAME,РИВОК
+KEY_EXIT_VEHICLE_DESCRIPTION,Вийти з машини
+KEY_EXIT_VEHICLE_NAME,ВИЙТИ З МАШИНИ
+KEY_EXPERT_HEALER_DESCRIPTION,Відновлює на 50% більше очок здоров'я під час лікування
+KEY_EXPERT_HEALER_NAME,ЕКСПЕРТ-ЛІКАР
+KEY_EXPERT_HEAVY_WEAPONS_DESCRIPTION,Додатково +20% до шкоди при використанні важкої зброї
+KEY_EXPERT_HEAVY_WEAPONS_NAME,ЕКСПЕРТ У ВАЖКІЙ ЗБРОЇ
+KEY_EXPERT_LIGHT_WEAPONS_DESCRIPTION,Додатково +20% до шкоди при використанні гвинтівок і пістолетів
+KEY_EXPERT_LIGHT_WEAPONS_NAME,ЕКСПЕРТ У ГВИНТІВКАХ І ПІСТОЛЕТАХ
+KEY_EXPERT_MELEE_DESCRIPTION,Додатково +25% до шкоди при використанні зброї ближнього бою
+KEY_EXPERT_MELEE_NAME,ЕКСПЕРТ БЛИЖНЬОГО БОЮ
+KEY_EXPERT_MOUNTED_WEAPONS_DESCRIPTION,Додатково +20% до дальності при використанні станкової зброї
+KEY_EXPERT_MOUNTED_WEAPONS_NAME,ЕКСПЕРТ У СТАНКОВІЙ ЗБРОЇ
+KEY_EXPERT_PACKER_DESCRIPTION,+25% до максимальної вантажопідйомності
+KEY_EXPERT_PACKER_NAME,ЕКСПЕРТ ІЗ ПАКУВАННЯ
+KEY_EXPERT_RUNNER_DESCRIPTION,Додатково +2 до швидкості
+KEY_EXPERT_RUNNER_NAME,ЕКСПЕРТ-БІГУН
+KEY_EXPERT_SHOOTER_DESCRIPTION,Стрільба з +20% до точності
+KEY_EXPERT_SHOOTER_NAME,ЕКСПЕРТ-СТРІЛЕЦЬ
+KEY_EXPERT_THROWER_DESCRIPTION,Кидок на +50% більшу відстань
+KEY_EXPERT_THROWER_NAME,ЕКСПЕРТ-МЕТАЛЬНИК
+KEY_FIRE_FLAME_DESCRIPTION,Вистрілити потоком вогню в конусоподібну область
+KEY_FIRE_FLAME_NAME,ВОГНЯНИЙ ПОТІК
+KEY_FIRE_IMMUNITY_DESCRIPTION,Несприйнятливість до будь-якої вогняної шкоди
+KEY_FIRE_IMMUNITY_NAME,ІМУНІТЕТ ДО ВОГНЮ
+KEY_FIRE_RESISTANCE_DESCRIPTION,Зменшує вогняну шкоду вдвічі
+KEY_FIRE_RESISTANCE_NAME,ВОГНЕСТІЙКІСТЬ
+KEY_FIRE_VULNERABILITY_DESCRIPTION,Подвоює вогняну шкоду
+KEY_FIRE_VULNERABILITY_NAME,ВРАЗЛИВІСТЬ ДО ВОГНЮ
+KEY_FIRE_WEAPON_DESCRIPTION,Вистрілити по вибраному ворогу чи точці
+KEY_FIRE_WEAPON_NAME,ПОСТРІЛ ЗІ ЗБРОЇ
+KEY_FISHMAN_CLASS_ABILITY_DESCRIPTION,Клас тритона
+KEY_FISHMAN_CLASS_ABILITY_NAME,КЛАС ТРИТОНА
+KEY_FISHMAN_DOUBLEBLADESTRIKE_ABILITY_DESCRIPTION,Удар ближнього бою верхніми руками
+KEY_FISHMAN_DOUBLEBLADESTRIKE_ABILITY_NAME,УДАР ВЕРХНЬОЮ РУКОЮ
+KEY_FISHMAN_DOUBLEPARALYSE_ABILITY_DESCRIPTION,"Виконати атаку ближнього бою, яка завдає цілі паралітичної шкоди."
+KEY_FISHMAN_DOUBLEPARALYSE_ABILITY_NAME,ПАРАЛІЗУЮЧИЙ УДАР
+KEY_FISHMAN_DOUBLEPERCEPTION_DESCRIPTION,Радіус сприйняття персонажа подвоюється
+KEY_FISHMAN_DOUBLEPERCEPTION_NAME,ПОДВІЙНЕ СПРИЙНЯТТЯ
+KEY_FISHMAN_PAINCHAMELEON_ABILITY_DESCRIPTION,Стати невидимим після отримання шкоди та сховатися поблизу
+KEY_FISHMAN_PAINCHAMELEON_ABILITY_NAME,ХАМЕЛЕОН БОЛЮ
+KEY_FISHMAN_PARALYSE_ABILITY_DESCRIPTION,"Виконати атаку ближнього бою, яка завдає цілі паралітичної шкоди."
+KEY_FISHMAN_PARALYSE_ABILITY_NAME,ПАРАЛІЗУЮЧИЙ УДАР
+KEY_FISHMAN_REGENERATION_ABILITY_DESCRIPTION,Щохода відновлює 10 очок здоров'я всім частинам тіла
+KEY_FISHMAN_REGENERATION_ABILITY_NAME,РЕГЕНЕРАЦІЯ
+KEY_FISHMAN_SENSE_LOCATE_ABILITY_DESCRIPTION,Виявляє ворогів у радіусі 12 клітинок
+KEY_FISHMAN_SENSE_LOCATE_ABILITY_NAME,ЧУТТЄВЕ ВИЯВЛЕННЯ
+KEY_FISHMAN_SILENTECHO_ABILITY_DESCRIPTION,Усі атаки зброєю безшумні
+KEY_FISHMAN_SILENTECHO_ABILITY_NAME,ТИХА ЛУНА
+KEY_FISHMAN_SPAWNMIST_ABILITY_DESCRIPTION,"Випускає туман, що огортає істоту"
+KEY_FISHMAN_SPAWNMIST_ABILITY_NAME,ВИКИД ТУМАНУ
+KEY_FISHMAN_WEAPONPROFICIENCY_ABILITY_DESCRIPTION,Володіння штурмовою та снайперською зброєю
+KEY_FISHMAN_WEAPONPROFICIENCY_ABILITY_NAME,ВОЛОДІННЯ ЗБРОЄЮ ТРИТОНА
+KEY_FOCUSED_PERSONALTRACK_DESC,Отримати володіння снайперськими гвинтівками з +25% до шкоди та -4 до Сили волі
+KEY_FOCUSED_PERSONALTRACK_NAME,СНАЙПЕРИСТ
+KEY_GOODSHOT_PERSONALTRACK_DESC,Отримати володіння автоматами з +10% до шкоди та +20% до точності
+KEY_GOODSHOT_PERSONALTRACK_NAME,ПІХОТИНЕЦЬ
+KEY_GOO_IMMUNITY_DESCRIPTION,Слиз не затримує і не обмежує рух
+KEY_GOO_IMMUNITY_NAME,ІМУНІТЕТ ДО СЛИЗУ
+KEY_GRENADES_TALENT_DESCRIPTION,Володіння гранатами. +10% до дальності кидка.
+KEY_GRENADES_TALENT_NAME,ВОЛОДІННЯ ГРАНАТАМИ
+KEY_GRENADE_SPAM_DESCRIPTION,Кидати гранати на 50% далі й без витрат ОД до кінця ходу
+KEY_GRENADE_SPAM_NAME,ГРАНАТОМЕТАННЯ
+KEY_GUNSLINGER_DESCRIPTION,"Використати зброю, якою володієте, без витрат ОД"
+KEY_GUNSLINGER_NAME,СТРІЛОК
+KEY_GYM_RAT_DESCRIPTION,Додатково +2 до Сили
+KEY_GYM_RAT_NAME,АТЛЕТ
+KEY_HANDGUNS_TALENT_DESCRIPTION,Володіння пістолетами. +10% до точності.
+KEY_HANDGUNS_TALENT_NAME,ВОЛОДІННЯ ПІСТОЛЕТОМ
+KEY_HEAVY_BOOM_BLAST_DESCRIPTION,"Вартість гранат та іншої вибухової зброї в ОД зменшується на 1, а їхня дальність збільшується на 50% до кінця ходу."
+KEY_HEAVY_BOOM_BLAST_NAME,ВИБУХОВИЙ УДАР
+KEY_HEAVY_BRAWLER_DESCRIPTION,Отримати володіння зброєю ближнього бою та завдавати на 50% більше шкоди атаками «Удар» і ближнього бою.
+KEY_HEAVY_BRAWLER_NAME,БІЙЦЮГА
+KEY_HEAVY_INSPIRE_DESCRIPTION,Убивство ворога дає союзникам додаткове очко волі
+KEY_HEAVY_INSPIRE_NAME,НАТХНЕННЯ
+KEY_HEAVY_LIFTER_DESCRIPTION,"Подвоює вагу, яку можна нести без штрафу до руху"
+KEY_HEAVY_LIFTER_NAME,ВАНТАЖНИК
+KEY_HEAVY_PROFICIENCY_DESCRIPTION,"Володіння важкою зброєю, станковою зброєю та реактивним ранцем."
+KEY_HEAVY_PROFICIENCY_NAME,ВАЖКА ПІДГОТОВКА
+KEY_HEAVY_WARCRY_DESCRIPTION,У всіх ворогів у радіусі 10 клітинок наступного ходу буде лише 2 ОД
+KEY_HEAVY_WARCRY_NAME,БОЙОВИЙ КЛИЧ
+KEY_HEAVY_WEAPONS_TALENT_DESCRIPTION,Володіння важкою зброєю. +10% до точності.
+KEY_HEAVY_WEAPONS_TALENT_NAME,ВОЛОДІННЯ ВАЖКОЮ ЗБРОЄЮ
+KEY_HELPFUL_PERSONALTRACK_DESC,+30% до лікування та +2 до Сили волі
+KEY_HELPFUL_PERSONALTRACK_NAME,ЦІЛИТЕЛЬ
+KEY_HIDE_DESCRIPTION,"Зникнути з поля зору на наступний хід, знайшовши укриття в радіусі 5 клітинок"
+KEY_HIDE_NAME,СХОВАТИСЯ
+KEY_IGNORE_PAIN_DESCRIPTION,Пошкоджені частини тіла залишаються функціональними. Персонаж не панікує і не піддається контролю розуму.
+KEY_IGNORE_PAIN_NAME,ІГНОРУВАННЯ БОЛЮ
+KEY_INDUCE_PANIC_DESCRIPTION,"Викликати паніку в цілі, якщо її поточні очки волі менші за очки волі Жерця"
+KEY_INDUCE_PANIC_NAME,ВИКЛИКАТИ ПАНІКУ
+KEY_INFECTED_BLOOD_DESCRIPTION,"Додає 1 очко вірусної шкоди за кожне очко шкоди здоров'ю, завданої в ближньому бою"
+KEY_INFECTED_BLOOD_NAME,ЗАРАЖЕНА КРОВ
+KEY_INFILTRATOR_PROFICIENCY_DESCRIPTION,"Володіння арбалетами та розміщенням дронів-павуків. Базовий показник скритності становить 25%, доки персонажа не викрито."
+KEY_INFILTRATOR_PROFICIENCY_NAME,ПІДГОТОВКА РОЗВІДНИКА
+KEY_INFILTRATOR_STEALTH_DESCRIPTION,"Базовий показник скритності становить 25%, доки персонажа не викрито."
+KEY_INFILTRATOR_STEALTH_NAME,СКРИТНІСТЬ
+KEY_INSTIL_FRENZY_DESCRPITION,"Викликає сказ у дружніх персонажів у радіусі 20 клітинок на два ходи, збільшуючи їхню швидкість на 50% та роблячи їх несприйнятливими до паніки"
+KEY_INSTIL_FRENZY_NAME,ВИКЛИКАТИ СКАЗ
+KEY_INTERACT_DESCRIPTION,Виконати завдання в цьому місці
+KEY_INTERACT_NAME,ЗАВДАННЯ
+KEY_INVENTORY_DESCRIPTION,"Обміняти, підняти або викинути предмети"
+KEY_INVENTORY_NAME,ІНВЕНТАР
+KEY_JET_JUMP_DESCRIPTION,Реактивний стрибок у місце в радіусі 20 клітинок
+KEY_JET_JUMP_NAME,РЕАКТИВНИЙ СТРИБОК
+KEY_LAUNCH_GRENADE_DESCRIPTION,Запустити гранату у вказане місце
+KEY_LAUNCH_GRENADE_NAME,ЗАПУСК ГРАНАТИ
+KEY_LAUNCH_MISSILES_DESCRIPTION,Запустити дві ракети у вказане місце
+KEY_LAUNCH_MISSILES_NAME,ЗАПУСК РАКЕТ
+KEY_LAUNCH_MISSILE_DESCRIPTION,Запустити ракету у вказане місце
+KEY_LAUNCH_MISSILE_NAME,ЗАПУСК РАКЕТИ
+KEY_LAUNCH_MIST_BOMB_DESCRIPTION,"Запустити бомбу, яка вибухає хмарою туману під час удару"
+KEY_LAUNCH_MIST_BOMB_NAME,ЗАПУСК ТУМАННОЇ БОМБИ
+KEY_MACHINE_ENTITY_DESCRIPTION,"Машини не мають Сили волі, тому несприйнятливі до біологічних ефектів"
+KEY_MACHINE_ENTITY_NAME,МЕХАНІЧНА СУТНІСТЬ
+KEY_MASS_HATCH_DESCRIPTION,Вилупити всі яйця в радіусі 20 клітинок.
+KEY_MASS_HATCH_NAME,МАСОВЕ ВИЛУПЛЕННЯ
+KEY_MASTER_MARKSMAN_DESCRIPTION,"Точність зброї, якою володієте, зростає на 30%, поки в радіусі 10 клітинок немає виявлених ворогів"
+KEY_MASTER_MARKSMAN_NAME,МАЙСТЕР-СТРІЛЕЦЬ
+KEY_MELEE_RIPOSTE_DESCRIPTION,"Атакувати ворогів, які заходять у радіус ближнього бою або атакують із нього"
+KEY_MELEE_RIPOSTE_NAME,КОНТРУДАР У БЛИЖНЬОМУ БОЮ
+KEY_MELEE_WEAPONS_TALENT_DESCRIPTION,Володіння зброєю ближнього бою. +10% до шкоди.
+KEY_MELEE_WEAPONS_TALENT_NAME,ВОЛОДІННЯ ЗБРОЄЮ БЛИЖНЬОГО БОЮ
+KEY_MIND_CONTROL_DESCRIPTION,"Отримати контроль над ворогом за ціну в очки волі, що дорівнює поточним очкам волі ворога. Утримання контролю коштує 1-10 очок волі за хід залежно від типу цілі."
+KEY_MIND_CONTROL_MINDFRAGGER_DESCRIPTION,Отримати контроль над ворогом
+KEY_MIND_CONTROL_MINDFRAGGER_NAME,КОНТРОЛЬ РОЗУМУ
+KEY_MIND_CONTROL_NAME,КОНТРОЛЬ РОЗУМУ
+KEY_MIND_CONTROL_RELEASE_DESCRIPTION,Звільнити ціль від контролю розуму
+KEY_MIND_CONTROL_RELEASE_NAME,ЗВІЛЬНИТИ
+KEY_MIST_BREATHER_DESCRIPTION,Поглинути весь туман у радіусі 3 клітинок. Кожні 2 поглинуті клітинки туману відновлюють 1 очко волі.
+KEY_MIST_BREATHER_NAME,ВДИХАННЯ ТУМАНУ
+KEY_MOTION_DETECTION_DESCRIPTION,"Виявити всіх ворогів поблизу, навіть за перешкодами"
+KEY_MOTION_DETECTION_NAME,ВИЯВЛЕННЯ РУХУ
+KEY_MOUNTED_WEAPONS_TALENT_DESCRIPTION,Володіння станковою зброєю. +10% до точності.
+KEY_MOUNTED_WEAPONS_TALENT_NAME,ВОЛОДІННЯ СТАНКОВОЮ ЗБРОЄЮ
+KEY_MOVE_NAME,РУХ
+KEY_MUTATION_ELECTROKICK_DESCRIPTION,"Виконати удар ногою в ближньому бою; ціль буде приголомшена, якщо значення оглушення перевищує її очки здоров'я"
+KEY_MUTATION_ELECTROKICK_NAME,ЕЛЕКТРИЧНИЙ УДАР НОГОЮ
+KEY_MUTATION_ELECTROTENTACLE_DESCRIPTION,Виконати атаку ближнього бою та завдати паралітичної шкоди
+KEY_MUTATION_ELECTROTENTACLE_NAME,АТАКА ЩУПАЛЬЦЕМ
+KEY_MUTATION_ENTER_STANCE_DESCRIPTION,"Перейти в стійку стабільності. Рух неможливий, а точність збільшується на 20%."
+KEY_MUTATION_ENTER_STANCE_NAME,СТІЙКА СТАБІЛЬНОСТІ
+KEY_MUTATION_EXIT_STANCE_DESCRIPTION,"Перейти в стандартну стійку. Рух можливий, а точність повертається до звичайного значення."
+KEY_MUTATION_EXIT_STANCE_NAME,СТАНДАРТНА СТІЙКА
+KEY_MUTATION_JUMP_DESCRIPTION,Стрибнути на один поверх будівлі вгору або вниз
+KEY_MUTATION_JUMP_NAME,СТРИБОК
+KEY_MUTATION_MELEERETALIATION_DESCRIPTION,Контрудар щупальцями у відповідь на атаки ворогів поблизу.
+KEY_MUTATION_MELEERETALIATION_NAME,ВІДПЛАТА ЩУПАЛЬЦЕМ
+KEY_MUTATION_REGENERATE_DESCRIPTION,Відновлює 10 очок здоров'я рукам і тулубу наприкінці кожного ходу
+KEY_MUTATION_REGENERATE_NAME,РЕГЕНЕРАЦІЯ ТКАНИНИ
+KEY_MUTATION_STOMPERING_DESCRIPTION,"Виконати оглушливу атаку в радіусі 5 клітинок; цілі будуть приголомшені, якщо значення оглушення перевищує їхні очки здоров'я. Оглушлива шкода зменшується з відстанню."
+KEY_MUTATION_STOMPERING_NAME,ТУПІТ
+KEY_MUTOG_DEVOUR_DESCRIPTION,Після вбивства ворога відновлює очки здоров'я в розмірі 50% від максимальних очок здоров'я цілі
+KEY_MUTOG_DEVOUR_NAME,ПОЖИРАННЯ
+KEY_MUTOG_HEAD_ATTACK_DESCRIPTION,Виконати атаку ближнього бою головою
+KEY_MUTOG_HEAD_ATTACK_NAME,УДАР ГОЛОВОЮ
+KEY_MUTOG_LEAP_DESCRIPTION,Стрибнути у вказане місце в радіусі 10 клітинок.
+KEY_MUTOG_LEAP_NAME,СТРИБОК
+KEY_MUTOG_MASTER_DESCRIPTION,Керувати мутогом у бою
+KEY_MUTOG_MASTER_NAME,ГОСПОДАР МУТОГА
+KEY_MUTOG_MIND_SENSE_DESCRIPTION,Усі органічні вороги в радіусі 15 клітинок автоматично виявляються
+KEY_MUTOG_MIND_SENSE_NAME,ЧУТТЯ РОЗУМУ
+KEY_MUTOG_PAW_BASH_DESCRIPTION,Виконати атаку ближнього бою лапою
+KEY_MUTOG_PAW_BASH_NAME,УДАР ЛАПОЮ
+KEY_MUTOG_PRIMAL_INSTINCT_DESCRIPTION,Отримати 2 ОД після вбивства ворога
+KEY_MUTOG_PRIMAL_INSTINCT_NAME,ПЕРВІСНИЙ ІНСТИНКТ
+KEY_MUTOG_RAM_DESCRIPTION,"Кинутися вперед, таранячи все на своєму шляху"
+KEY_MUTOG_RAM_NAME,ТАРАН
+KEY_MUTOG_REGEENRATION_NAME,РЕГЕНЕРАЦІЯ
+KEY_MUTOG_REGENERATION_DESCRIPTION,Кожна лапа відновлює 10 очок здоров'я пораненій частині тіла
+KEY_MUTOG_TONGUELASH_DESCRIPTION,Виконати отруйну атаку язиком
+KEY_MUTOG_TONGUELASH_NAME,ОТРУЙНИЙ ЯЗИК
+KEY_MUTOG_TRAILBASH_DESCRIPTION,"Виконати атаку ближнього бою хвостом; ціль буде приголомшена, якщо значення оглушення перевищує її очки здоров'я"
+KEY_MUTOG_TRAILBASH_NAME,УДАР ХВОСТОМ
+KEY_MUTOG_TRAILSLICE_DESCRIPTION,Виконати ріжучу атаку ближнього бою хвостом із високим шансом викликати кровотечу
+KEY_MUTOG_TRAILSLICE_NAME,РІЗАНИНА ХВОСТОМ
+KEY_NIGHT_VISION_ABILITY_DESCRIPTION,Немає штрафів у темному середовищі
+KEY_NIGHT_VISION_ABILITY_NAME,НІЧНИЙ ЗІР
+KEY_ONSLAUGHT_DESCRIPTION,Союзник у радіусі 10 клітинок відновлює 2 ОД. Можна використати лише раз за хід.
+KEY_ONSLAUGHT_NAME,НАТИСК
+KEY_OVERWATCH_CONEWIDTH,ШИРИНА КОНУСА
+KEY_OVERWATCH_DESCRIPTION,"Вибрати позицію для спрямування атак спостереження на ворогів, які увійдуть у конус активації під час ходу ворога"
+KEY_OVERWATCH_FOCUS_DESCRIPTION,Точність атак спостереження збільшується на 50%
+KEY_OVERWATCH_FOCUS_NAME,ФОКУС СПОСТЕРЕЖЕННЯ
+KEY_OVERWATCH_NAME,СПОСТЕРЕЖЕННЯ
+KEY_PDWS_TALENT_DESCRIPTION,Володіння особистою зброєю самооборони. +10% до точності.
+KEY_PDWS_TALENT_NAME,ВОЛОДІННЯ ЗБРОЄЮ САМООБОРОНИ
+KEY_PITCHER_PERSONALTRACK_DESC,+25% до дальності кидка гранат та +2 до швидкості
+KEY_PITCHER_PERSONALTRACK_NAME,ГРАНАТОМЕТНИК
+KEY_POISON_IMMUNITY_DESCRIPTION,Несприйнятливість до отруйної шкоди
+KEY_POISON_IMMUNITY_NAME,ІМУНІТЕТ ДО ОТРУТИ
+KEY_POISON_RESISTANCE_DESCRIPTION,Отруйна шкода зменшується вдвічі
+KEY_POISON_RESISTANCE_NAME,СТІЙКІСТЬ ДО ОТРУТИ
+KEY_POWER_SURGE_DESCRIPTION,"Потужна електрична атака ближнього бою, яка завдає 30 очок шкоди всім частинам тіла ворога"
+KEY_POWER_SURGE_NAME,СПЛЕСК ЕНЕРГІЇ
+KEY_PRIEST_RADIANT_HOPE_DESCRIPTION,Живі союзні одиниці в радіусі 7 клітинок відновлюють 2 очки волі на початку ходу
+KEY_PRIEST_RADIANT_HOPE_NAME,ПРОМІННЯ НАДІЇ
+KEY_PRIEST_TRAINING_DESCRIPTION,Володіння вірусною зброєю
+KEY_PRIEST_TRAINING_NAME,ПІДГОТОВКА ЖЕРЦЯ
+KEY_PSYCHIC_BLAST_DESCRIPTION,Завдає 100 очок шкоди всім ворожим сутностям у радіусі 10 клітинок
+KEY_PSYCHIC_BLAST_NAME,РОЗЧАВЛЕННЯ РОЗУМУ
+KEY_PSYCHIC_IMMUNITY_DESCRIPTION,Несприйнятливість до психічних атак і впливів
+KEY_PSYCHIC_IMMUNITY_NAME,ПСИХІЧНИЙ ІМУНІТЕТ
+KEY_PSYCHIC_RESISTANCE_DESCRIPTION,Психічна шкода зменшується вдвічі
+KEY_PSYCHIC_RESISTANCE_NAME,ПСИХІЧНА СТІЙКІСТЬ
+KEY_PSYCHIC_SCREAM_DESCRIPTION,Зменшує очки волі всіх ворожих одиниць в обмеженому радіусі
+KEY_PSYCHIC_SCREAM_NAME,ПСИХІЧНИЙ ВЕРЕСК
+KEY_PSYCHIC_SCREAM_PRIEST_DESCRIPTION,"Крик, що зменшує очки волі всіх ворожих одиниць у радіусі 8 клітинок."
+KEY_PSYCHIC_WARD_DESCRIPTION,Союзники в радіусі 10 клітинок несприйнятливі до паніки та атак із психічною шкодою
+KEY_PSYCHIC_WARD_NAME,ПСИХІЧНИЙ ЗАХИСТ
+KEY_QUEEN_FIRE_CANNONS_DESCRIPTION,Вистрілити з гармат у напрямку вперед
+KEY_QUEEN_FIRE_CANNONS_NAME,ЗАЛП ІЗ БЛАСТЕРНИХ ГАРМАТ
+KEY_QUEEN_GOOSPITTER_DESCRIPTION,Виплюнути потік слизу в конусоподібну область
+KEY_QUEEN_GOOSPITTER_NAME,ПОТІК СЛИЗУ
+KEY_QUEEN_LEAP_DESCRIPTION,"Стрибнути у вказане місце, знищуючи все на шляху"
+KEY_QUEEN_LEAP_NAME,СТРИБОК ЧУДОВИСЬКА
+KEY_QUEEN_PREPARE_CANNON_DESCRIPTION,Підготуватися до пострілу з гармат у напрямку вперед
+KEY_QUEEN_PREPARE_CANNON_NAME,ПІДГОТОВКА ГАРМАТ
+KEY_RAGE_BURST_DESCRIPTION,Зробити 5 пострілів по дузі зброєю прямої наводки
+KEY_RAGE_BURST_NAME,ЛЮТИЙ ЗАЛП
+KEY_RALLY_DESCRIPTION,Кожен союзник у радіусі 10 клітинок відновлює 1 ОД. Можна використати лише раз за хід.
+KEY_RALLY_NAME,ЗІБРАТИ ВІЙСЬКА
+KEY_RAPID_CLEARANCE_DESCRIPTION,Відновлює 2 ОД за кожного вбитого ворога до кінця ходу
+KEY_RAPID_CLEARANCE_NAME,ШВИДКА ЗАЧИСТКА
+KEY_READY_FOR_ACTION_DESCRIPTION,Перезарядка та дії з інвентарем не витрачають ОД
+KEY_READY_FOR_ACTION_NAME,ГОТОВНІСТЬ ДО ДІЇ
+KEY_RECKLESS_PERSONALTRACK_DESC,+10% до завданої шкоди та -10% до точності
+KEY_RECKLESS_PERSONALTRACK_NAME,НЕОБАЧНІСТЬ
+KEY_RECOVER_DESCRIPTION,Відновлює очки волі в розмірі половини Сили волі та дає імунітет до паніки на один хід. Завершує поточний хід персонажа.
+KEY_RECOVER_NAME,ВІДНОВЛЕННЯ
+KEY_REGENERATION_TORSO_DESCRIPTION,Щохода відновлює 10 очок здоров'я всім пораненим частинам тіла та загальним очкам здоров'я
+KEY_REGENERATION_TORSO_NAME,РЕГЕНЕРАЦІЯ
+KEY_RELOAD,ПЕРЕЗАРЯДКА
+KEY_RELOAD_DESCRIPTION,Перезарядити зброю або поповнити заряд спорядження. Поточні набої зброї буде втрачено.
+KEY_RELOAD_NAME,ПЕРЕЗАРЯДКА
+KEY_REMOVE_LARVA_DESCRIPTION,Зняти промивача із союзника
+KEY_REMOVE_LARVA_NAME,ЗНЯТИ ПРОМИВАЧА
+KEY_RESISTED,Опір
+KEY_RESOURCEFULL_PERSONALTRACK_DESC,+25% до вантажопідйомності та +2 до Сили
+KEY_RESOURCEFULL_PERSONALTRACK_NAME,ЗАПАСЛИВИЙ
+KEY_RESTRICTED_MOVEMENT_DESCRIPTION,Не може підніматися драбинами чи трубами
+KEY_RESTRICTED_MOVEMENT_NAME,НЕ МОЖЕ ПІДНІМАТИСЯ
+KEY_RETIREVE_TURRET_DESCRIPTION,Забрати турель із сусідньої клітинки
+KEY_RETIREVE_TURRET_NAME,ЗАБРАТИ ТУРЕЛЬ
+KEY_RETURNFIRE_DESCRIPTION,"Вести вогонь у відповідь по ворогу під час його атаки, якщо солдат використовує зброю прямої наводки, якою володіє, а ворог перебуває в межах половини радіуса сприйняття."
+KEY_RETURNFIRE_NAME,ВІДПОВІДНИЙ ВОГОНЬ
+KEY_SCYLLA_LEAP_DESC,"Стрибнути у вказане місце, знищуючи все на шляху"
+KEY_SCYLLA_LEAP_NAME,СТРИБОК ЧУДОВИСЬКА
+KEY_SELFDEFENSESPECIALIST_PERSONALTRACK_DESC,"Отримати володіння зброєю самооборони та пістолетами з +10% до шкоди, +10% до точності та +10 клітинок радіуса слуху"
+KEY_SELFDEFENSESPECIALIST_PERSONALTRACK_NAME,СПЕЦІАЛІСТ ІЗ САМООБОРОНИ
+KEY_SHOOT_SPIKE_DESCRIPTION,Випустити отруйний шип у ціль
+KEY_SHOOT_SPIKE_NAME,ПОСТРІЛ ШИПОМ
+KEY_SHOTGUNS_TALENT_DESCRIPTION,Володіння дробовиками. +10% до точності.
+KEY_SHOTGUNS_TALENT_NAME,ВОЛОДІННЯ ДРОБОВИКОМ
+KEY_SILENCED_WEAPONS_TALENT_DESCRIPTION,Володіння зброєю з глушником. Бонус +10% до точності.
+KEY_SILENCED_WEAPONS_TALENT_NAME,ВОЛОДІННЯ ЗБРОЄЮ З ГЛУШНИКОМ
+KEY_SIREN_INJECTING_STRIKE_DESCRIPTION,"Завдає вірусної шкоди, зменшуючи очки волі протягом кількох ходів"
+KEY_SIREN_INJECTING_STRIKE_NAME,УДАР-ІН'ЄКЦІЯ
+KEY_SIREN_SLASHING_STRIKE_DESCRIPTION,"Виконати атаку ближнього бою, яка викликає кровотечу в разі завдання шкоди"
+KEY_SIREN_SLASHING_STRIKE_NAME,РІЗУЧИЙ УДАР
+KEY_SIREN_VOMIT_ACID_DESCRIPTION,Викидає кислоту в конусоподібну область
+KEY_SIREN_VOMIT_ACID_NAME,РОЗПИЛЕННЯ КИСЛОТИ
+KEY_SNEAK_ATTACK_DESCRIPTION,"Шкода, завдана в непоміченому стані, збільшується на 50%"
+KEY_SNEAK_ATTACK_NAME,ПОТАЙНА АТАКА
+KEY_SNEAK_DESCRIPTION,Подвоює показник скритності броні
+KEY_SNEAK_NAME,ПОТАЙНІСТЬ
+KEY_SNIPERS_RIFLES_TALENT_DESCRIPTION,Володіння снайперськими гвинтівками. +10% до точності.
+KEY_SNIPER_EXTREME_FOCUS_DESCRIPTION,Вартість спостереження зменшується на 1 ОД
+KEY_SNIPER_EXTREME_FOCUS_NAME,ГРАНИЧНА КОНЦЕНТРАЦІЯ
+KEY_SNIPER_MARK_FOR_DEATH_DESCRIPTION,Позначити ворожу ціль. До кінця ходу кожне влучання атаки чи окремого пострілу отримує +10 до шкоди. Ефект не підсумовується.
+KEY_SNIPER_MARK_FOR_DEATH_NAME,ПОЗНАЧЕНИЙ НА СМЕРТЬ
+KEY_SNIPER_PROFICIENCY_DESCRIPTION,Володіння снайперськими гвинтівками та пістолетами.
+KEY_SNIPER_PROFICIENCY_NAME,ПІДГОТОВКА СНАЙПЕРА
+KEY_SNIPER_QUICK_AIM_DESCRIPTION,"Вартість наступного пострілу зі зброї, якою володієте, зменшується на 1 ОД."
+KEY_SNIPER_QUICK_AIM_NAME,ШВИДКЕ ПРИЦІЛЮВАННЯ
+KEY_SNIPER_RIFLES_TALENT_NAME,ВОЛОДІННЯ СНАЙПЕРСЬКОЮ ГВИНТІВКОЮ
+KEY_SNIPER_WEAK_SPOT_DESCRIPTION,Виведення з ладу частини тіла також знімає з неї броню.
+KEY_SNIPER_WEAK_SPOT_NAME,СЛАБКЕ МІСЦЕ
+KEY_SONIC_BLAST_DESCRIPTION,"Випустити звукову хвилю в конусоподібну область, яка приголомшує цілі, якщо значення хвилі перевищує їхні очки волі"
+KEY_SONIC_BLAST_NAME,ЗВУКОВИЙ ВИБУХ
+KEY_SONIC_IMMUNITY_DESCRIPTION,Несприйнятливість до ефектів приголомшення
+KEY_SONIC_IMMUNITY_NAME,ІМУНІТЕТ ДО ПРИГОЛОМШЕННЯ
+KEY_SONIC_RESISTANCE_DESCRIPTION,Шкода від оглушення чи звуку зменшується вдвічі
+KEY_SONIC_RESISTANCE_NAME,СТІЙКІСТЬ ДО ПРИГОЛОМШЕННЯ
+KEY_SPAWN_ACIDWORM_DESCRIPTION,Народити кислотного черв'яка
+KEY_SPAWN_ACIDWORM_NAME,СТВОРЕННЯ КИСЛОТНОГО ЧЕРВ'ЯКА
+KEY_SPAWN_FIREWORM_DESCRIPTION,Народити вогняного черв'яка
+KEY_SPAWN_FIREWORM_NAME,СТВОРЕННЯ ВОГНЯНОГО ЧЕРВ'ЯКА
+KEY_SPAWN_MINDFRAGGER_DESCRIPTION,Народити промивача
+KEY_SPAWN_MINDFRAGGER_NAME,СТВОРЕННЯ ПРОМИВАЧА
+KEY_SPAWN_MIST_ABILITY_DESCRIPTION,Створити хмару туману навколо істоти
+KEY_SPAWN_MIST_ABILITY_NAME,СТВОРЕННЯ ТУМАНУ
+KEY_SPAWN_POISONWORM_DESCRIPTION,Народити отруйного черв'яка
+KEY_SPAWN_POISONWORM_NAME,СТВОРЕННЯ ОТРУЙНОГО ЧЕРВ'ЯКА
+KEY_SPECIAL_SOW_DESCRIPTION,Посадити модифіковане насіння в землю.
+KEY_SPECIAL_SOW_NAME,ПОСІВ НАСІННЯ
+KEY_SPIDER_EXPLODE_DESCRIPTION,Вибух самознищення
+KEY_SPIDER_EXPLODE_NAME,ПІДРИВ
+KEY_SPIT_POISON_DESCRIPTION,Виплюнути отруту у ворога чи ціль
+KEY_SPIT_POISON_NAME,ОТРУЙНИЙ ПЛЮВОК
+KEY_STANDBY_ABILITY_DESCRIPTION,Перейти в режим очікування до подальших вказівок
+KEY_STANDBY_ABILITY_NAME,ОЧІКУВАННЯ
+KEY_STEALTH_SPECIALIST_DESCRIPTION,Додатково +25% до показника скритності броні
+KEY_STEALTH_SPECIALIST_NAME,МАЙСТЕР СКРИТНОСТІ
+KEY_STRIKE_DESCRIPTION,Виконати атаку ближнього бою проти сусіднього ворога
+KEY_STRIKE_NAME,УДАР
+KEY_STRONGMAN_PERSONALTRACK_DESC,"Отримати володіння важкою зброєю з +20% до точності, +2 до Сили та -15 до сприйняття"
+KEY_STRONGMAN_PERSONALTRACK_NAME,СИЛАЧ
+KEY_STRUCTURE_ABILITY_DESCRIPTION,Ключова структурна ціль
+KEY_STRUCTURE_ABILITY_NAME,КЛЮЧОВА СПОРУДА
+KEY_SURPRISE_ATTACK_DESCRIPTION,"Атаки ззаду отримують значення оглушення, що дорівнює потрійній завданій шкоді"
+KEY_SURPRISE_ATTACK_NAME,РАПТОВА АТАКА
+KEY_SURVEILLANCE_DESCRIPTION,"Активувати особливу здібність, якщо вороги перебувають у радіусі виявлення"
+KEY_SURVEILLANCE_NAME,ВИЯВЛЕННЯ НАБЛИЖЕННЯ
+KEY_SY_VEHICLE_FULL_RESTORE_DESCRIPTION,"Повністю вилікувати та відремонтувати ціль, зняти 50% паралічу"
+KEY_SY_VEHICLE_FULL_RESTORE_NAME,ПОВНЕ ВІДНОВЛЕННЯ
+KEY_TAKE_TWO_SHOTS_WITH_DOUBLE_ACCURACY,Зробити два постріли з подвійною точністю
+KEY_TAKE_UP_TO_3_BURSTS_AT_ONE_OR_MORE_T,Зробити до 3 черг по одній або кількох цілях без витрат ОД.
+KEY_TECHNICIAN_ELECTRICAL_REINFORCEMENT_DESCRIPTION,Надати собі та союзникам у радіусі 20 клітинок бонус +20 до броні на 1 хід. Ефект не підсумовується.
+KEY_TECHNICIAN_ELECTRICAL_REINFORCEMENT_NAME,ЕЛЕКТРИЧНЕ ЗМІЦНЕННЯ
+KEY_TECHNICIAN_FAST_USE_DESCRIPTION,"Вартість медичних наборів, стимуляторів і здібностей механічної руки зменшується на 1 ОД"
+KEY_TECHNICIAN_FAST_USE_NAME,ШВИДКЕ ВИКОРИСТАННЯ
+KEY_TECHNICIAN_FIELD_MEDIC_DESCRIPTION,Відновлює 10 очок здоров'я та 10 очок броні всім частинам тіла обраної цілі. Пошкоджені частини тіла відновлюються.
+KEY_TECHNICIAN_FIELD_MEDIC_NAME,ПОЛЬОВИЙ МЕДИК
+KEY_TECHNICIAN_MANUAL_CONTROL_DESCRIPTION,Взяти на себе керування турелллю або зброєю машини та вистрілити по цілі.
+KEY_TECHNICIAN_MANUAL_CONTROL_NAME,ДИСТАНЦІЙНЕ КЕРУВАННЯ
+KEY_TECHNICIAN_PROFICIENCY_DESCRIPTION,"Володіння зброєю самооборони, механічними руками та розміщенням турелей."
+KEY_TECHNICIAN_PROFICIENCY_NAME,ПІДГОТОВКА ТЕХНІКА
+KEY_TECHNICIAN_RELOAD_TURRET_DESCRIPTION,Перезарядити турель. Поточні набої турелі буде втрачено.
+KEY_TECHNICIAN_RELOAD_TURRET_NAME,ПЕРЕЗАРЯДКА ТУРЕЛІ
+KEY_TECHNICIAN_REMOTE_DEPLOYMENT_DESCRIPTION,Турелі можна кидати й розміщувати за 1 ОД
+KEY_TECHNICIAN_REMOTE_DEPLOYMENT_NAME,ДИСТАНЦІЙНЕ РОЗМІЩЕННЯ
+KEY_TECHNICIAN_REPAIR_DESCRIPTION,Відновлює {GeneralHealAmount} очок здоров'я механічним пристроям
+KEY_TECHNICIAN_REPAIR_NAME,РЕМОНТ ТЕХНІКА
+KEY_TECHNICIAN_RESTORE_DESCRIPTION,"Відновлює {GeneralHealAmount} загальних очок здоров'я та знімає 50% паралічу союзної одиниці, витрачаючи 1 заряд"
+KEY_TECHNICIAN_RESTORE_NAME,ЛІКУВАННЯ ТЕХНІКА
+KEY_TELEPATHIC_ATTACK_DESCRIPTION,Зменшує очки волі всіх ворожих одиниць у радіусі 20 клітинок
+KEY_TELEPATHIC_ATTACK_NAME,ПСИХІЧНИЙ ВЕРЕСК
+KEY_THIEF_PERSONALTRACK_DESC,+25% до скритності та +1 до швидкості
+KEY_THIEF_PERSONALTRACK_NAME,ЗЛОДІЙ
+KEY_THROW_GRENADE_DESCRIPTION,Кинути гранату у вказану позицію
+KEY_THROW_GRENADE_NAME,КИНУТИ ГРАНАТУ
+KEY_TURRET_COMBO_DESCRIPTION,"Вистрілити по цілі, після чого всі турелі відкриють вогонь по тій самій цілі."
+KEY_TURRET_COMBO_NAME,КОМБО ТУРЕЛЕЙ
+KEY_USE_ADVANCED_MEDKIT_DESCRIPTION,"Відновлює {GeneralHealAmount} очок здоров'я, зупиняє кровотечу, знімає отруєння та 50% паралічу"
+KEY_USE_ADVANCED_MEDKIT_NAME,ВИКОРИСТАТИ МЕДИЧНИЙ НАБІР
+KEY_USE_ADVANCED_VIROPHAGE_KIT_DESCRIPTION,"Відновлює {GeneralHealAmount} очок здоров'я, знімає 50% паралічу та всі вірусні інфекції"
+KEY_USE_ADVANCED_VIROPHAGE_KIT_NAME,ВІРОФАГОВИЙ МЕДИЧНИЙ НАБІР
+KEY_USE_ATTACHED_EQUIPMENT_DESCRIPTION,Використати здібність «Реактивний стрибок» без ризику невдачі
+KEY_USE_ATTACHED_EQUIPMENT_NAME,ВОЛОДІННЯ РЕАКТИВНИМ РАНЦЕМ
+KEY_USE_MEDKIT_DESCRIPTION,"Відновлює {GeneralHealAmount} очок здоров'я, зупиняє кровотечу та знімає отруєння"
+KEY_USE_MEDKIT_NAME,ВИКОРИСТАТИ МЕДИЧНИЙ НАБІР
+KEY_USE_STIMPACK_DESCRIPTION,"Викликати сказ у цілі, збільшуючи радіус руху на 50% протягом 2 ходів та надаючи імунітет до паніки"
+KEY_USE_STIMPACK_NAME,ВИКОРИСТАТИ СТИМУЛЯТОР
+KEY_USE_THROW_TURRET_DESCRIPTION,Кинути турель у вибрану точку на землі. Турель розміститься автоматично.
+KEY_USE_THROW_TURRET_NAME,КИНУТИ ТУРЕЛЬ
+KEY_USE_VIROPHAGE_KIT_DESCRIPTION,Відновлює {GeneralHealAmount} очок здоров'я та знімає всі вірусні інфекції
+KEY_USE_VIROPHAGE_KIT_NAME,ВІРОФАГОВИЙ МЕДИЧНИЙ НАБІР
+KEY_VANISH_DESCRIPTION,Переміститися в радіусі 5 клітинок і зникнути з поля зору на наступний хід (або до виявлення)
+KEY_VANISH_NAME,ЗНИКНЕННЯ
+KEY_VCEHICLE_RAM_DESCRIPTION,"Протаранити по прямій у вибраному напрямку, знищуючи або пошкоджуючи все на шляху."
+KEY_VCEHICLE_RAM_NAME,ТАРАН
+KEY_VIRUS_IMMUNITY_DESCRIPTION,Несприйнятливість до ефектів вірусних атак
+KEY_VIRUS_IMMUNITY_NAME,ІМУНІТЕТ ДО ВІРУСУ
+KEY_VIRUS_RESISTANCE_DESCRIPTION,Зменшує вірусну шкоду вдвічі
+KEY_VIRUS_RESISTANCE_NAME,СТІЙКІСТЬ ДО ВІРУСУ
+KEY_WEAPON_BASH_DESCRIPTION,"Вдарити сусіднього ворога; значення оглушення та шкоди дорівнює Силі, помноженій на вагу предмета. Половина шкоди дістається предмету/руці."
+KEY_WEAPON_BASH_NAME,АТАКА УДАРОМ
+KEY_WORM_ACID_EXPLODE_DESCRIPTION,"Вибухнути хмарою кислоти, завдаючи кислотної шкоди в радіусі 3 клітинок"
+KEY_WORM_ACID_EXPLODE_NAME,КИСЛОТНИЙ ВИБУХ
+KEY_WORM_EXPLODE_DESCRIPTION,"Вибухнути хвилею вогню, завдаючи вогняної шкоди в радіусі 3 клітинок."
+KEY_WORM_EXPLODE_NAME,ВОГНЯНИЙ ВИБУХ
+KEY_WORM_POISON_EXPLODE_DESCRIPTION,"Вибухнути хмарою отрути, завдаючи отруйної шкоди в радіусі 3 клітинок"
+KEY_WORM_POISON_EXPLODE_NAME,ОТРУЙНИЙ ВИБУХ
+KEY_YUGGOTH_ATTACK_DESCRIPTION,"Накладає мітку на ворога, яка завдає шкоди йому та ворогам у радіусі 5 клітинок на початку кожного ходу."
+KEY_YUGGOTH_ATTACK_NAME,МІТКА ПОРОЖНЕЧІ
+KEY_YUGGOTH_DEFENCE_DESCRIPTION,"75% стійкості до кислоти, вибухів і вогню"
+KEY_YUGGOTH_DEFENCE_NAME,"СТІЙКІСТЬ ДО КИСЛОТИ, ВИБУХІВ І ВОГНЮ"

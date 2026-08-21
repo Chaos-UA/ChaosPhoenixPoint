@@ -1,0 +1,78 @@
+Key,Ukrainian
+KEY_ATTACHMENT_BODY,Кріплення для брони
+KEY_ATTACHMENT_HELMET,Кріплення для шолома
+KEY_ATTACHMENT_LEGS,Кріплення для ноги
+KEY_BACK_PACK,Рюкзак
+KEY_GEOSCAPE_ADDAMMO,+ БОЄПРИПАСИ
+KEY_GEOSCAPE_ADD_AMMO_INFO,ДОДАТИ БОЄПРИПАСИ ЦЬОГО ТИПУ ДО РЮКЗАКА
+KEY_GEOSCAPE_ALL,УСІ
+KEY_GEOSCAPE_ATTACHMENTS,КРІПЛЕННЯ
+KEY_GEOSCAPE_DESELECT,СКАСУВАТИ ВИБІР
+KEY_GEOSCAPE_DRAG_MANUFACTURE,"Перетягніть сюди, щоб виготовити"
+KEY_GEOSCAPE_DRAG_SCRAP,"Перетягніть сюди, щоб здати на брухт"
+KEY_GEOSCAPE_EQUIPMENT,СПОРЯДЖЕННЯ
+KEY_GEOSCAPE_EQUIPPED,СПОРЯДЖЕНО
+KEY_GEOSCAPE_EQUIP_FROM_STORES,Використати предмет ({item}) зі складу
+KEY_GEOSCAPE_GROUND,ЗЕМЛЯ
+KEY_GEOSCAPE_ITEM_ADDED_MANUFACTURE,Предмет ({item}) додано до черги виробництва
+KEY_GEOSCAPE_ITEM_EQUIPPED,Предмет ({item}) у солдата ({soldier})
+KEY_GEOSCAPE_ITEM_QUEUED,Предмет уже в черзі
+KEY_GEOSCAPE_ITEM_STACK,СТОС ПРЕДМЕТІВ
+KEY_GEOSCAPE_LOCATION,МІСЦЕ
+KEY_GEOSCAPE_MANUFACTURE_INFO,СТВОРИТИ ПОДІБНИЙ ПРЕДМЕТ ІЗ ДОСТУПНИХ РЕСУРСІВ
+KEY_GEOSCAPE_PRODUCE,+ ПРЕДМЕТ
+KEY_GEOSCAPE_PRODUCE_BUILD_BOTH,Створити предмет ({item}) за матеріали ({0}) і технології ({1})
+KEY_GEOSCAPE_PRODUCE_BUILD_MATERIALS,Створити предмет ({item}) за матеріали ({0})
+KEY_GEOSCAPE_PRODUCE_IMPOSSIBLE,Неможливо створити цей предмет
+KEY_GEOSCAPE_PRODUCE_MANUFACTURE,"Предмет ({item}) можна створити лише на вкладці ВИРОБНИЦТВО."
+KEY_GEOSCAPE_PRODUCE_RESEARCH,"У вас немає необхідних досліджень, щоб створити цей предмет"
+KEY_GEOSCAPE_RECYCLE_INFO,ЗНИЩИТИ Й ПЕРЕРОБИТИ НА РЕСУРСИ
+KEY_GEOSCAPE_REPLENISH_ALL,Поповнити все
+KEY_GEOSCAPE_REPLENISH_SOLDIERS,Поповнити запаси солдатів
+KEY_GEOSCAPE_STAMINA,ВИТРИВАЛІСТЬ
+KEY_GEOSCAPE_UNEQUIP,ЗНЯТИ
+KEY_GEOSCAPE_WAIT,Обробка...
+KEY_ITEM_CONTAINER,КОНТЕЙНЕР ПРЕДМЕТІВ
+KEY_ITEM_STAT_ACCURACY,ТОЧНІСТЬ
+KEY_ITEM_STAT_ACTION_COST,ОЧКИ ДІЙ
+KEY_ITEM_STAT_ACTION_POINTS,ВАРТІСТЬ ОЧКІВ ДІЙ
+KEY_ITEM_STAT_AMMO_CAPACITY,БОЄЗАПАС
+KEY_ITEM_STAT_ARMOR,БРОНЯ
+KEY_ITEM_STAT_BLAST_RADIUS,РАДІУС ВИБУХУ
+KEY_ITEM_STAT_DAMAGE,УРОН
+KEY_ITEM_STAT_DAMAGE_ROUND,УРОН ЗА РАУНД
+KEY_ITEM_STAT_HANDS_TO_USE,РУКИ ДЛЯ ВИКОРИСТАННЯ
+KEY_ITEM_STAT_HEALTH,ОЧКИ ЗДОРОВ'Я
+KEY_ITEM_STAT_LOCATION_HP,ОЧКИ ЗДОРОВ'Я ЛОКАЦІЇ
+KEY_ITEM_STAT_PERCEPTION,СПРИЙНЯТТЯ
+KEY_ITEM_STAT_RANGE,ЕФЕКТИВНА ДАЛЬНІСТЬ
+KEY_ITEM_STAT_ROUND_BURST,ЧЕРГА
+KEY_ITEM_STAT_SINGLE_SHOT,ОДИНОЧНИЙ ПОСТРІЛ
+KEY_ITEM_STAT_SINGLE_STRIKE,ОДИНОЧНИЙ УДАР
+KEY_ITEM_STAT_SPEED,ШВИДКІСТЬ
+KEY_ITEM_STAT_STEALTH,СКРИТНІСТЬ
+KEY_ITEM_STAT_WEIGHT,ВАГА
+KEY_ITEM_TYPE_AMMO,БОЄПРИПАСИ
+KEY_ITEM_TYPE_AR,ШТУРМОВА ГВИНТІВКА
+KEY_ITEM_TYPE_ARMOR,БРОНЯ
+KEY_ITEM_TYPE_CROSSBOW,АРБАЛЕТ
+KEY_ITEM_TYPE_GRENADE,ГРАНАТА
+KEY_ITEM_TYPE_HANDGUN,ПІСТОЛЕТ
+KEY_ITEM_TYPE_HEAVY,ВАЖКА
+KEY_ITEM_TYPE_MEDKIT,АПТЕЧКА
+KEY_ITEM_TYPE_MELEE,БЛИЖНІЙ БІЙ
+KEY_ITEM_TYPE_MOUNTED,СТАНКОВА ЗБРОЯ
+KEY_ITEM_TYPE_MUTATION,МУТАЦІЯ
+KEY_ITEM_TYPE_PDW,ЗБРОЯ ОСОБИСТОЇ ОБОРОНИ
+KEY_ITEM_TYPE_SHOTGUN,ДРОБОВИК
+KEY_ITEM_TYPE_SR,СНАЙПЕРСЬКА ГВИНТІВКА
+KEY_ITEM_TYPE_TURRET,ТУРЕЛЬ
+KEY_ITEM_TYPE_VW,ВІРУСНА ЗБРОЯ
+KEY_NOT_PROFICIENT_WARNING,Немає навички!
+KEY_PERCENTAGE_VALUE,{0}%
+KEY_SCRAP_ALL_NAME,ЗДАТИ ВСЕ НА БРУХТ
+KEY_SCRAP_ITEM_NAME,ЗДАТИ ПРЕДМЕТ НА БРУХТ
+KEY_STAT_ENCUMBERANCE,ОБТЯЖЕННЯ
+KEY_WARNING_STORAGE_FULL_TT,"Склад бази заповнений. Потрібно побудувати більше складів."
+KEY_WARNING_WEAPON_NOT_EQUIPPED_TT,Солдат не має спорядженої зброї!
+KEY_WARNING_WEAPON_NOT_FULL_TT,Деякі види зброї заряджені не повністю!

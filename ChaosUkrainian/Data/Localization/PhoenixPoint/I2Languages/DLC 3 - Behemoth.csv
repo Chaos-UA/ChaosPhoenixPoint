@@ -1,0 +1,416 @@
+Key,Ukrainian
+KEY_ABILITY_INTERCEPT_DESCRIPTION,Вступити в бій з ворожим повітряним судном
+KEY_ABILITY_INTERCEPT_NAME,ПЕРЕХОПИТИ ВОРОЖЕ ПОВІТРЯНЕ СУДНО
+KEY_AIRCRAFT_ITEM_STAT_CHARGES,Заряди
+KEY_AIRCRAFT_ITEM_STAT_COOLDOWN,Перезарядка
+KEY_AIRCRAFT_ITEM_STAT_DURATION,Тривалість
+KEY_AIRCRAFT_ITEM_STAT_PREPARATION,Підготовка
+KEY_AIRCRAFT_PP_2_LONG,Розвідувальне повітряне судно Проєкту «Фенікс»
+KEY_ALN_ACID_SWARMER_DESCRIPTION,Кислотний Мирмідон
+KEY_ALN_ACID_SWARMER_NAME,КИСЛОТНИЙ МИРМІДОН
+KEY_ALN_CORRUPTION_NODE_DESCRIPTION,Вузол Тління
+KEY_ALN_CORRUPTION_NODE_NAME,ВУЗОЛ ТЛІННЯ
+KEY_ALN_EXPLOSIVE_EGG_DESCRIPTION,Вибухове яйце
+KEY_ALN_EXPLOSIVE_EGG_NAME,ВИБУХОВЕ ЯЙЦЕ
+KEY_ALN_SWARMER_DESCRIPTION,Мирмідон
+KEY_ALN_SWARMER_EGG_DESCRIPTION,Яйце Мирмідона
+KEY_ALN_SWARMER_EGG_NAME,ЯЙЦЕ МИРМІДОНА
+KEY_ALN_SWARMER_NAME,МИРМІДОН
+KEY_ALN_VENOMOUS_SWARMER_DESCRIPTION,Отруйний Мирмідон
+KEY_ALN_VENOMOUS_SWARMER_NAME,ОТРУЙНИЙ МИРМІДОН
+KEY_AUTO_BATTLE_TOOLTIP,АВТОБІЙ УВІМК./ВИМК.
+KEY_BEHEMOTH_ATTACK_OBJECTIVES,ВВЕДІТЬ БЕГЕМОТУ БІОЗБРОЮ
+KEY_BEHEMOTH_ATTACK_TITLE,НЕЙТРАЛІЗУЙТЕ БЕГЕМОТА
+KEY_CORRUPTION_NODE_BODY_DESCRIPTION,Тіло Вузла Тління виглядає безформним і чужорідним
+KEY_CORRUPTION_NODE_BODY_NAME,ТІЛО ВУЗЛА ТЛІННЯ
+KEY_CORRUPTION_NODE_VIRAL_ATTACK_DESCRIPTION,"Вузол Тління поширює вірусну інфекцію, завдаючи шкоди найближчим цілям"
+KEY_CORRUPTION_NODE_VIRAL_ATTACK_NAME,ВІРУСНИЙ ІМПУЛЬС
+KEY_DEPLOYMENTSCREENOBJECTIVE_ESCAPEFROMHELL,ДІСТАНЬТЕСЯ ОЗБРОЄНОЇ «МАНТИКОРИ» ТА ВТЕЧІТЬ
+KEY_DLC3_AIRCRAFT_ROSTER_MODULE,МОДУЛЬ
+KEY_DLC3_AIRCRAFT_ROSTER_WEAPONS,ЗБРОЯ
+KEY_DLC3_AIRFORCE,ПОВІТРЯНІ СИЛИ
+KEY_DLC3_ALN_LARGE_FLYER_LONG,"Найбільший вид крилатих пандоранів, виявлений на сьогодні. Демонструє надзвичайну силу та інтелект, а його складні й непередбачувані моделі поведінки роблять його найбільшою повітряною загрозою для людства."
+KEY_DLC3_ALN_LARGE_FLYER_NAME,АВАДДОН
+KEY_DLC3_ALN_MEDIUM_FLYER_LONG,"Ця нова мутація, породжена Гнильним небом, агресивна й затята. Її добре скоординовані польотні маневри свідчать про зловісну цілеспрямованість. Атаки Беріта ретельно плануються заздалегідь і виконуються з тривожною швидкістю та точністю."
+KEY_DLC3_ALN_MEDIUM_FLYER_NAME,БЕРІТ
+KEY_DLC3_ALN_SMALL_FLYER_LONG,"Ця нещодавно виявлена мутація пандоравірусу, ймовірно, зародилася всередині Гнильного неба. Демонструє ознаки високого інтелекту, ймовірно, дистанційно кероване якимось подобою колективного розуму. Особини Харуна вкрай агресивні й, як відомо, атакують як повітряні, так і нерухомі людські цілі."
+KEY_DLC3_ALN_SMALL_FLYER_NAME,ХАРУН
+KEY_DLC3_BEHEMOTH_SPEED,Зараз рухається зі швидкістю {0} км/год
+KEY_DLC3_BEHEMOTH_STATE_COUNTER,Очки Спротиву {0}/{1}
+KEY_DLC3_BEHEMOTH_STATE_LAND,Бегемот блукає суходолом
+KEY_DLC3_BEHEMOTH_STATE_RETREATING,Бегемот прямує до океану
+KEY_DLC3_BEHEMOTH_STATE_UNDERWATER,Бегемот під водою
+KEY_DLC3_CAMERA_SHAKE,(ГНИЛЬНЕ НЕБО) ТРЕМТІННЯ КАМЕРИ
+KEY_DLC3_CANT_REDIRECT_AIRCRAFT,"Неможливо перенаправити судно, що відступає"
+KEY_DLC3_COUNTERMEASURE_ELECTRONIC,Протидіє зброї з радіолокаційним наведенням
+KEY_DLC3_COUNTERMEASURE_EVASION,Протидіє зброї з візуальним наведенням
+KEY_DLC3_COUNTERMEASURE_FIRE,Протидіє запальній зброї
+KEY_DLC3_COUNTERMEASURE_INFRARED,Протидіє зброї з тепловим наведенням
+KEY_DLC3_COUNTERMEASURE_SECURITY,Протидіє біозброї
+KEY_DLC3_DAMAGE_ACID_DESCRIPTION,Пошкоджує броню з часом
+KEY_DLC3_DAMAGE_ACID_NAME,Шкода від кислоти
+KEY_DLC3_DAMAGE_ARMOR_PENETRATION_DESCRIPTION,Ігнорує броню
+KEY_DLC3_DAMAGE_ARMOR_PENETRATION_NAME,Бронепробивність
+KEY_DLC3_DAMAGE_BIOWEAPON_DESCRIPTION,Пошкоджує повітряне судно з часом
+KEY_DLC3_DAMAGE_BIOWEAPON_NAME,Шкода від біозброї
+KEY_DLC3_DAMAGE_EMP_DESCRIPTION,Завдає додаткової шкоди неорганічним повітряним суднам
+KEY_DLC3_DAMAGE_EMP_NAME,Шкода від ЕМІ
+KEY_DLC3_DAMAGE_FIRE_DESCRIPTION,Пошкоджує повітряне судно з часом
+KEY_DLC3_DAMAGE_FIRE_NAME,Шкода від вогню
+KEY_DLC3_DAMAGE_INCENDIARY_DESCRIPTION,Може спричинити пожежу
+KEY_DLC3_DAMAGE_INCENDIARY_NAME,Шкода від запалювання
+KEY_DLC3_DAMAGE_REGULAR_DESCRIPTION,"Шкода, завдана Очкам Корпусу повітряного судна"
+KEY_DLC3_DAMAGE_REGULAR_NAME,Шкода
+KEY_DLC3_DAMAGE_SHOCK_DESCRIPTION,Тимчасово вимикає модулі
+KEY_DLC3_DAMAGE_SHOCK_NAME,Шкода від оглушення
+KEY_DLC3_DAMAGE_SHRED_DESCRIPTION,Пошкоджує броню при ударі
+KEY_DLC3_DAMAGE_SHRED_NAME,Шкода від розриву
+KEY_DLC3_DAMAGE_VIROPHAGE_DESCRIPTION,Завдає додаткової шкоди органічним повітряним суднам
+KEY_DLC3_DAMAGE_VIROPHAGE_NAME,Шкода від вірофага
+KEY_DLC3_DISENGAGING,ВІДСТУП
+KEY_DLC3_EILEEN_DESCRIPTION,Пілотка Синедріону
+KEY_DLC3_EILEEN_NAME,Громадянка Ейлін
+KEY_DLC3_ENEMY_AIRCRAFT_CONDITION,СТАН ВОРОЖОГО ПОВІТРЯНОГО СУДНА
+KEY_DLC3_FACTION_INTERCEPTION_LOSS,{0} {1} було знищено: {2} {3}
+KEY_DLC3_FACTION_INTERCEPTION_WIN,{0} {1} успішно перехопило {2} {3}
+KEY_DLC3_FILTER_ALL,Фільтр: усі
+KEY_DLC3_FILTER_MODULES,Фільтр: модулі
+KEY_DLC3_FILTER_WEAPONS,Фільтр: зброя
+KEY_DLC3_GEOBONUS_ARMOR,Надає {bonus} додаткової броні
+KEY_DLC3_GEOBONUS_HITPOINTS,Надає {bonus} додаткових Очок Корпусу
+KEY_DLC3_GEOBONUS_ORACLE,Оснащує зброю телепатичним наведенням
+KEY_DLC3_GEOBONUS_RANGE,Радіус дії на геокарті збільшено на {bonus}
+KEY_DLC3_GEOBONUS_RECUPERATION,Захищає екіпаж на борту в разі знищення повітряного судна
+KEY_DLC3_GEOBONUS_SPEED,Швидкість на геокарті збільшено на {bonus}
+KEY_DLC3_GEOBONUS_STAMINA,Екіпаж на борту відновлює Витривалість
+KEY_DLC3_GEOSCAPE_MESSAGE_VEHICLE_REPAIRED,{0} і всі модулі повністю відремонтовано
+KEY_DLC3_GEO_OBJECTIVE_ALIEN_FLYERS,Активні летючі пандорани: {0}
+KEY_DLC3_GEO_OBJECTIVE_BEHEMOTH,Бегемот блукає
+KEY_DLC3_GROUND_FORCES,СУХОПУТНІ ВІЙСЬКА
+KEY_DLC3_GUIDANCE_HEAT,ТЕПЛОНАВЕДЕННЯ
+KEY_DLC3_GUIDANCE_PHYCHIC,ТЕЛЕПАТИЧНЕ НАВЕДЕННЯ
+KEY_DLC3_GUIDANCE_RADAR,РАДІОНАВЕДЕННЯ
+KEY_DLC3_GUIDANCE_VISUAL,ВІЗУАЛЬНЕ НАВЕДЕННЯ
+KEY_DLC3_HULL_POINTS,ОЧКИ КОРПУСУ
+KEY_DLC3_INFESTED,Заражено
+KEY_DLC3_INTERCEPTION_AIRCRAFT_CONDITION,СТАН ПОВІТРЯНОГО СУДНА
+KEY_DLC3_INTERCEPTION_DISENGAGE,ВІДСТУПИТИ
+KEY_DLC3_INTERCEPTION_ENGAGE,У БІЙ
+KEY_DLC3_INTERCEPTION_FAILED,"Ваші персонажі втратили Витривалість та Очки здоров'я. Тих, хто вижив, доставлять до найближчої бази Проєкту «Фенікс»."
+KEY_DLC3_INTERCEPTION_MISSION_RESULT_DISENGAGED,ВІДСТУП ЗДІЙСНЕНО
+KEY_DLC3_INTERCEPTION_MISSION_TITLE,ЗНИЩІТЬ ВОРОЖЕ ПОВІТРЯНЕ СУДНО
+KEY_DLC3_INTERCEPTION_PXPEDIA,"Точність: відсоткова ймовірність влучити в ціль, інакше — промах. Може змінюватися залежно від погоди.
+
+Наведення: тип наведення, який використовує зброя. Від більшості типів наведення можна ухилитися за допомогою спеціальних модулів.
+
+Броня: захищає Корпус і модулі.
+
+Корпус: коли Очки Корпусу опускаються до 0, повітряне судно знищується.
+
+Модулі: більшість модулів (але не всі) втрачають функціональність, коли їхні очки опускаються до 0. Надлишкова шкода переходить на Корпус.
+
+Кислота: кожен тик кислоти пошкоджує броню, після чого запас кислоти зменшується на 10. Коли броня опускається до 0, кислота завдає шкоди Корпусу й модулям одночасно. Додаткові застосування кислоти накопичуються.
+
+Пожежа на борту: кожен тик пожежі завдає 40 шкоди Корпусу та кожному модулю. Застосування пожежі не накопичуються, а шкода від неї не зменшується з часом.
+
+Біозброя на борту: кожен тик біозброї завдає 40 шкоди Корпусу та кожному модулю. Застосування біозброї не накопичуються, а шкода від неї не зменшується з часом.
+
+ЕМІ: додаткова шкода проти суден Проєкту «Фенікс» і фракцій.
+
+Вірофаг: додаткова шкода проти пандоранських і заражених суден.
+
+Розрив: зменшує броню.
+
+Оглушення: поділіть значення на поточні очки здоров'я модуля — це кількість секунд, протягом яких модуль буде непридатний для використання.
+
+Бронепробивність: ігнорує броню.
+
+"
+KEY_DLC3_INTERCEPTION_REPAIR_AIRCRAFT,"Дістаньтеся бази Проєкту «Фенікс», щоб відремонтувати, перезарядити чи замінити зброю та модулі"
+KEY_DLC3_INT_AUTO_BATTLE,АВТОБІЙ
+KEY_DLC3_INT_BLOCKED,ЗАБЛОКОВАНО
+KEY_DLC3_INT_CHARGING_MODULE,ЗАРЯДКА МОДУЛЯ
+KEY_DLC3_INT_CHOSE_TARGET,ОБЕРІТЬ ЦІЛЬ
+KEY_DLC3_INT_COUNTER_BIOWEAPON_NEUTRALIZED,Біозброю нейтралізовано
+KEY_DLC3_INT_COUNTER_EVADED,УХИЛЕННЯ
+KEY_DLC3_INT_COUNTER_FIRE_NEUTRALIZED,Пожежу нейтралізовано
+KEY_DLC3_INT_DMG_ARMOR_PIERCED,БРОНЮ ПРОБИТО
+KEY_DLC3_INT_DMG_ARMOR_SHREDDED,БРОНЮ РОЗІРВАНО
+KEY_DLC3_INT_DMG_BIOWEAPON,ЗАСТОСОВАНО БІОЗБРОЮ
+KEY_DLC3_INT_DMG_FIRE,ЗАСТОСОВАНО ВОГОНЬ
+KEY_DLC3_INT_DMG_SHOCKED,ОГЛУШЕНО
+KEY_DLC3_INT_ENEMY_MODULE_DESTROYED,{0} ВОРОГА ЗНИЩЕНО
+KEY_DLC3_INT_ENEMY_WEAPON_IN_RANGE,{0} ВОРОГА В РАДІУСІ ДІЇ
+KEY_DLC3_INT_HIT,ПОПАДАННЯ
+KEY_DLC3_INT_MISS,ПРОМАХ
+KEY_DLC3_INT_MODULE,МОДУЛЬ
+KEY_DLC3_INT_MODULE_LOST,МОДУЛЬ ВТРАЧЕНО
+KEY_DLC3_INT_MODULE_NOT_READY,МОДУЛЬ НЕ ГОТОВИЙ
+KEY_DLC3_INT_OUT_OF_AMMO,{0}: СКІНЧИЛИСЯ БОЄПРИПАСИ
+KEY_DLC3_INT_OUT_OF_RANGE,{0}: ПОЗА РАДІУСОМ ДІЇ
+KEY_DLC3_INT_S1_P1,<color=#ECBA62>ШІ-ядро «Мантикори»:</color> ВИЯВЛЕНО ВОРОГА В ПОВІТРІ.
+KEY_DLC3_INT_S1_P2,<color=#ECBA62>Ейлін:</color> Якого біса? Оце громадина! До зброї!
+KEY_DLC3_INT_S2_P1,<color=#ECBA62>Ейлін:</color> Нас обстрілюють! 
+KEY_DLC3_INT_S2_P2,<color=#ECBA62>ШІ-ядро «Мантикори»:</color> ПРИГОТУВАТИСЯ ДО УДАРУ.
+KEY_DLC3_INT_S2_P3,"Повітряне судно знищується, коли його Очки Корпусу опускаються до 0. "
+KEY_DLC3_INT_S2_P4,"Обов'язково відступіть до того, як це станеться!"
+KEY_DLC3_INT_S3_P1,"<color=#ECBA62>ШІ-ядро «Мантикори»:</color> ПУСКОВА УСТАНОВКА «КОЧІВНИК» ГОТОВА ДО БОЮ.
+"
+KEY_DLC3_INT_S3_P2,<color=#ECBA62>Ейлін:</color> Відповісти вогнем! 
+KEY_DLC3_INT_S3_P3_C,"Щоб націлити зброю, оберіть свою зброю, а потім — значок цілі.
+"
+KEY_DLC3_INT_S3_P3_K,"Щоб націлити зброю, натисніть лівою кнопкою миші на неї, а потім — на значок цілі.
+"
+KEY_DLC3_INT_S4_P1,"Наше повітряне судно має захисний модуль. Форсаж дає змогу ухилятися від будь-якого снаряда з візуальним наведенням, зокрема від кислотного плювка цього летючого пандорана."
+KEY_DLC3_INT_S4_P2,"<color=#ECBA62>Ейлін:</color> Увімкнути форсаж!
+"
+KEY_DLC3_INT_S5_P1,"Шкода, завдана вимкненим модулям, переходить безпосередньо на Корпус."
+KEY_DLC3_INT_S5_P2,"<color=#ECBA62>Ейлін:</color> Покінчімо з цим пандоранським чудовиськом!
+"
+KEY_DLC3_INT_S5_P3,<color=#ECBA62>ШІ-ядро «Мантикори»:</color> ЗАГРОЗУ УСУНЕНО.
+KEY_DLC3_INT_S6_P1,<color=#ECBA62>ШІ-ядро «Мантикори»:</color> ЧЕРВОНИЙ КОД! АКТИВОВАНО ПРОТОКОЛ АВАРІЙНОГО ВІДСТУПУ.
+KEY_DLC3_INT_S6_P2,"<color=#ECBA62>Ейлін:</color> Дякую, що поділилися! А тепер тікаймо, тікаймо, тікаймо!"
+KEY_DLC3_INT_S6_P3_C,Оберіть «Відступити» або натисніть :BACK:. 
+KEY_DLC3_INT_S6_P3_K,Оберіть «Відступити» або натисніть {[EndTurn]}
+KEY_DLC3_INT_TARGET_ACQUIRED,ЦІЛЬ ЗАХОПЛЕНО
+KEY_DLC3_INT_TOGGLE_TIME_HOTKEY,Пауза/Відновити
+KEY_DLC3_INT_TOGGLE_TOOLTIPS_HOTKEY,Показати/приховати підказки
+KEY_DLC3_INT_USE_MODULE_HOTKEY,Використати модуль
+KEY_DLC3_INT_WARNING_BIOWEAPON,ПОПЕРЕДЖЕННЯ: біозброя на борту!
+KEY_DLC3_INT_WARNING_FIRE,ПОПЕРЕДЖЕННЯ: пожежа на борту!
+KEY_DLC3_INT_WARNING_HP_20,ПОПЕРЕДЖЕННЯ: менше 20% здоров'я
+KEY_DLC3_INT_WARNING_HP_50,ПОПЕРЕДЖЕННЯ: менше 50% здоров'я
+KEY_DLC3_INT_WEAPON,ЗБРОЯ
+KEY_DLC3_INT_WEAPON_1,ЗБРОЯ 1
+KEY_DLC3_INT_WEAPON_2,ЗБРОЯ 2
+KEY_DLC3_INT_WEAPON_3,ЗБРОЯ 3
+KEY_DLC3_INT_WEAPON_4,ЗБРОЯ 4
+KEY_DLC3_INT_WEAPON_5,ЗБРОЯ 5
+KEY_DLC3_INT_WEAPON_6,ЗБРОЯ 6
+KEY_DLC3_INT_WEAPON_LOST,{0}: ВТРАЧЕНО
+KEY_DLC3_LOSSES,ВТРАТИ
+KEY_DLC3_MOUNTEGG_NAME,МАУНТ-ЕГГ
+KEY_DLC3_MOVEMENT_PENTALY,ШВИДКІСТЬ: {0}
+KEY_DLC3_PANDORAN,Пандоран
+KEY_DLC3_REBIND_ENEMY_1,ВОРОЖА ЗБРОЯ/МОДУЛЬ 1
+KEY_DLC3_REBIND_ENEMY_2,ВОРОЖА ЗБРОЯ/МОДУЛЬ 2
+KEY_DLC3_REBIND_ENEMY_3,ВОРОЖА ЗБРОЯ/МОДУЛЬ 3
+KEY_DLC3_REBIND_ENEMY_4,ВОРОЖА ЗБРОЯ/МОДУЛЬ 4
+KEY_DLC3_REBIND_ENEMY_5,ВОРОЖА ЗБРОЯ/МОДУЛЬ 5
+KEY_DLC3_REBIND_ENEMY_6,ВОРОЖА ЗБРОЯ/МОДУЛЬ 6
+KEY_DLC3_REBIND_ENEMY_HULL,КОРПУС ВОРОГА
+KEY_DLC3_REBIND_FRIENDLY_1,СОЮЗНА ЗБРОЯ 1
+KEY_DLC3_REBIND_FRIENDLY_2,СОЮЗНА ЗБРОЯ 2
+KEY_DLC3_REBIND_FRIENDLY_3,СОЮЗНИЙ МОДУЛЬ
+KEY_DLC3_ROSTER_HOTKEY_LOCATE,Знайти
+KEY_DLC3_ROSTER_HOTKEY_RENAME,Перейменувати
+KEY_DLC3_STATUS_HIGH_WINDS_DESCRIPTION,"Дальність гранат, гранатометів і ракетних установок скорочено вдвічі"
+KEY_DLC3_STATUS_HIGH_WINDS_NAME,СИЛЬНИЙ ВІТЕР
+KEY_DLC3_STORAGE,СХОВИЩЕ
+KEY_DLC3_TAC_HINT_ACID_SWARMER_DESCRIPTION,"Тіло цієї вдосконаленої форми мутації Мирмідона виробляє небезпечні кислоти. Радимо стріляти в нього з безпечної відстані, щоб уникнути впливу небезпечних речовин."
+KEY_DLC3_TAC_HINT_ACID_SWARMER_NAME,ПАНДОРАНИ (ДОДАТОК) — КИСЛОТНИЙ МИРМІДОН
+KEY_DLC3_TAC_HINT_CORRUPTION_NODE_DESCRIPTION,"Ми виявили нейронне ядро, якому вдалося телепатично підкорити весь притулок. 
+Цей потворний пандоран не схожий на жодного з тих, з якими ми стикалися раніше. Його тіло має неприродну будову, позбавлену будь-яких людських рис. 
+Нашому загону слід виявляти вкрай високу обережність, наближаючись до такої істоти. Схоже, найкращий спосіб діяти — агресивний наступ."
+KEY_DLC3_TAC_HINT_CORRUPTION_NODE_NAME,ПАНДОРАН — ВУЗОЛ ТЛІННЯ
+KEY_DLC3_TAC_HINT_EILEEN_STORY_LOSE_DESCRIPTION,"""Феніксе, відповідай! Феніксе? Чорт...
+Якщо хтось отримає цю передачу: це говорить громадянка Ейлін. Ваш загін пропав безвісти, вважається загиблим у бою. Я вилітаю на озброєній «Мантикорі». Очікуйте на подальші повідомлення. Ейлін, кінець зв'язку."""
+KEY_DLC3_TAC_HINT_EILEEN_STORY_LOSE_NAME,ПЕРЕДАЧА
+KEY_DLC3_TAC_HINT_EILEEN_STORY_WIN_DESCRIPTION,"""Усі на борту? Боюся, ми більше не можемо тут залишатися... там, унизу, стає геть кепсько...
+Мене звуть громадянка Ейлін, і мій обов'язок — простежити, щоб ви повернулися живими та неушкодженими. Це був мій рідний притулок, але... нам треба їхати. Готуйтеся до зльоту!"""
+KEY_DLC3_TAC_HINT_EILEEN_STORY_WIN_NAME,У НЕБО
+KEY_DLC3_TAC_HINT_EXPLOSIVE_EGG_DESCRIPTION,"Це пандоранське яйце відрізняється від тих, які ми бачили раніше. Небезпечні хімічні речовини всередині роблять його схильним до вибуху, тому нашим солдатам слід наближатися до нього з обережністю."
+KEY_DLC3_TAC_HINT_EXPLOSIVE_EGG_NAME,ПАНДОРАН — ВИБУХОВЕ ЯЙЦЕ
+KEY_DLC3_TAC_HINT_GILLS_DESCRIPTION,Тупіт Бегемота наражає всю нашу команду на серйозну небезпеку. Пошкодження зябер істоти порушить її дихальний цикл і значно її сповільнить.
+KEY_DLC3_TAC_HINT_GILLS_NAME,ЗЯБРА БЕГЕМОТА
+KEY_DLC3_TAC_HINT_INJECTORS_DESCRIPTION,Наші оперативники озброєні потужною біозброєю. Нам слід скористатися вразливими місцями на шкірі Бегемота та ввести туди агент-вірофаг.
+KEY_DLC3_TAC_HINT_MANTICORE_RUN_HURRY_DESCRIPTION,"""Феніксе? Бачу, ви вже близько. З усіх боків насуваються ще краболюди, тож покваптеся! Чекаю на вас у «Мантикорі»."""
+KEY_DLC3_TAC_HINT_MANTICORE_RUN_HURRY_NAME,ПЕРЕДАЧА
+KEY_DLC3_TAC_HINT_MANTICORE_RUN_START_DESCRIPTION,"Якщо вірити Синедріону, у цьому ангарі міститься повністю справна «Мантикора», озброєна для повітряного бою. Всередині на нас чекає пілот. Нам слід дістатися туди якнайшвидше, уникаючи будь-яких зайвих сутичок з ворогом."
+KEY_DLC3_TAC_HINT_MANTICORE_RUN_START_NAME,ОЗБРОЄНЕ ПОВІТРЯНЕ СУДНО
+KEY_DLC3_TAC_HINT_MANTICORE_RUN_STORY_DESCRIPTION,"Схоже, пандорани обложили притулок з усіх боків, зокрема з неба. Потужний сейсмічний вибух перекрив головний вхід, а наш транспорт було втрачено в провалі. Нам доведеться шукати інший вихід."
+KEY_DLC3_TAC_HINT_MANTICORE_RUN_STORY_NAME,У ПАСТЦІ
+KEY_DLC3_TAC_HINT_NJECTORS_NAME,ІН'ЄКЦІЯ ВІРОФАГА
+KEY_DLC3_TAC_HINT_SWARMER_DESCRIPTION,"Мирмідони — спритні пандорани, здатні до польоту на короткі відстані. Їхня головна мета — захоплювати стратегічно важливі зони на полі бою."
+KEY_DLC3_TAC_HINT_SWARMER_EGG_DESCRIPTION,"У кожному з цих яєць спочиває Мирмідон, готовий будь-якої миті вирватися назовні.
+Нашим оперативникам радимо знищувати їх з безпечної відстані."
+KEY_DLC3_TAC_HINT_SWARMER_EGG_NAME,ПАНДОРАН — ЯЙЦЕ МИРМІДОНА
+KEY_DLC3_TAC_HINT_SWARMER_NAME,ПАНДОРАН — МИРМІДОН
+KEY_DLC3_TAC_HINT_VENOMOUS_SWARMER_DESCRIPTION,"Ця субмутація виду Мирмідонів розвинула внутрішні органи, що виробляють небезпечні гази. Будьте обережні з позиціюванням, коли збиваєте цих істот, адже вони можуть вибухнути."
+KEY_DLC3_TAC_HINT_VENOMOUS_SWARMER_NAME,ПАНДОРАНИ (ДОДАТОК) — ОТРУЙНИЙ МИРМІДОН
+KEY_DLC3_TAC_INJECTOR_OBJECTIVE_DESCRIPTION,"Скористайтеся вразливим місцем на спині Бегемота, щоб ввести нашу вірофагову зброю. Процес введення триватиме 2 ходи."
+KEY_DLC3_TAC_INJECTOR_OBJECTIVE_NAME,ВВЕДІТЬ БІОЗБРОЮ
+KEY_DLC3_TAC_INJECTOR_STATUS_DESCRIPTION,Цей оперативник вводить Бегемоту нашу вірофагову зброю. Він не зможе виконувати жодних інших дій протягом 2 ходів.
+KEY_DLC3_TAC_INJECTOR_STATUS_NAME,СТАТУС: ВВЕДЕННЯ ІН'ЄКЦІЇ
+KEY_DLC3_THE_GIFT,ДАР
+KEY_DLC3_TUT_AIR_FORCE_TAB_DESCRIPTION,"Це вкладка ПОВІТРЯНІ СИЛИ. Тут ви зможете переглядати, оснащувати та керувати всіма своїми повітряними суднами."
+KEY_DLC3_TUT_AIR_FORCE_TAB_NAME,КЕРУВАННЯ ПОВІТРЯНИМИ СУДНАМИ
+KEY_DLC3_TUT_BEHEMOTH_DESCRIPTION,"Бегемот сильніший, ніж ми побоювалися. Він здатен стерти притулки з лиця землі, а характер його пересування свідчить про зловісний інтелект. Спостереження за його поведінкою дає підстави вважати, що цілями його наступного руйнівного шаленства стануть два найближчі притулки."
+KEY_DLC3_TUT_BEHEMOTH_DISRUPTION_DESCRIPTION,"""Бегемот неодноразово виринатиме з океану і влаштовуватиме нищівне шаленство, знищуючи безліч притулків, якщо ми не завадимо його просуванню. Він відправляє малих летунів на розвідувальні місії, щоб прощупати оборону притулків — перехоплення цих летунів до їхнього повернення вбереже притулки від нападу.
+
+Різні дії приноситимуть Очки Спротиву (ОС): знищення Харуна (1 ОС), Беріта чи Зараженого повітряного судна (2 ОС), Аваддона (4 ОС) або очищення Зараженого притулку (5 ОС). Знищення наземних баз пандоранів також дає ОС: Гніздо (1 ОС), Лігво (2 ОС), Цитадель (3 ОС). Притулки під атакою генерують додаткові ОС через своїх захисників: 1 ОС, коли Бегемот атакує чи заражає безпосередньо, і 2 ОС, коли він знищує притулок.
+
+Щойно буде накопичено достатньо Очок Спротиву, Бегемот припинить своє шаленство й повернеться в океанські глибини.
+
+<i>""""Лише цього разу ми виявимо милосердя до людства й укладемо союз із нашими грішними братами у Великому Обряді Крилатої Брані. Заради Мертвого Бога і всього живого!""""  - Возвеличена</i>"""
+KEY_DLC3_TUT_BEHEMOTH_DISRUPTION_NAME,СПРОТИВ БЕГЕМОТУ
+KEY_DLC3_TUT_BEHEMOTH_NAME,БЕГЕМОТ
+KEY_DLC3_TUT_BOMBARDMENT_DESCRIPTION,"Найбільший вид крилатих пандоранів націлюватиметься на людські поселення для ТРИВАЛОГО БОМБАРДУВАННЯ. Радимо перехоплювати їх до завершення місії.
+
+<i>Новий вид пандоранів зі значно більшим розмахом крил, ніж в інших нещодавно виявлених видів, почав збиратися групами й нападати на людські поселення. Його тактика нагадує тривале бомбардування. 
+
+Стурбовані науковці припускають, що вона запозичена внаслідок вивчення поведінки, а можливо, і самого розуму людських пілотів.</i>"
+KEY_DLC3_TUT_BOMBARDMENT_NAME,ПОЛІТ-БОМБАРДУВАННЯ ПАНДОРАНІВ
+KEY_DLC3_TUT_INFESTATION_DESCRIPTION,"Пандорани, породжені Бегемотом, СІЯТИМУТЬ СПОРИ ТЛІННЯ і вилуплюватимуть Промивачів усередині людських поселень.
+
+<i>Кілька притулків повідомляють про тривожну поведінку летючих видів пандоранів. Схоже, такі нальоти націлені на певні ключові споруди, після чого зараження швидко поширюється на весь притулок. У деяких випадках поселення та його мешканці повністю підпадають під контроль пандоранського інтелекту.
+
+Ми ретельно фіксуємо дані таких нальотів під класифікаційним кодом «ПН», що означає «польоти-нашестя».</i>"
+KEY_DLC3_TUT_INFESTATION_NAME,ПОЛІТ-НАШЕСТЯ ПАНДОРАНІВ
+KEY_DLC3_TUT_RAID_DESCRIPTION,"Ворожі загони пандоранів регулярно АТАКУВАТИМУТЬ ЛЮДСЬКІ ПРИТУЛКИ. 
+
+<i>Наші дослідники не сумніваються, що поведінка летючих пандоранів продиктована якимось різновидом колективного розуму. Останнім часом істоти, озброєні біозброєю, почали завдавати ретельно спланованих ударів. 
+
+Розвідка Проєкту «Фенікс» надала пріоритет вивченню цих рейдових польотів, щоб ми могли їх ідентифікувати та перехоплювати, перш ніж постраждає більше притулків.</i>"
+KEY_DLC3_TUT_RAID_NAME,РЕЙДОВИЙ ПОЛІТ ПАНДОРАНІВ
+KEY_DLC3_TUT_RECON_DESCRIPTION,"Бегемот випускає малих летючих пандоранів, щоб РОЗВІДАТИ НАЙБЛИЖЧІ ПРИТУЛКИ на предмет будь-яких прогалин в обороні. Перехопіть їх до повернення — і притулки будуть врятовані від нападу Бегемота.
+
+<i>Фахівці з пандоранів ретельно проаналізували повітряні пересування нового виду й визначили, що ті виконують те, що за браком кращого терміна найкраще описати як «розвідувальні місії».</i>"
+KEY_DLC3_TUT_RECON_NAME,РОЗВІДПОЛІТ ПАНДОРАНІВ
+KEY_DLC3_TUT_SUPPLY_DESCRIPTION,"Бегемот посилає летючих пандоранів у нальоти на людські поселення, щоб ЗДОБУВАТИ РЕСУРСИ.
+
+<i>Науковці, які спостерігають за Бегемотом, виявили небезпечну модель поведінки — він відсилає свою зграю в набіги на ізольовані людські спільноти, щоб красти їжу та матеріали. 
+
+Ми дали цим набігам кодову назву «польоти за припасами», оскільки вони трапляються надто часто, щоб вважати їх випадковістю.</i>"
+KEY_DLC3_TUT_SUPPLY_NAME,ПОЛІТ ПАНДОРАНІВ ЗА ПРИПАСАМИ
+KEY_DLC3_VEHICLE_ROSTER_IN_TRANSIT,У дорозі
+KEY_DLC3_VEHICLE_ROSTER_NO_VEHICLES,"Немає доступних повітряних суден. 
+Ви можете виготовити нове повітряне судно на вкладці ВИРОБНИЦТВО."
+KEY_DLC3_WEATHEREFFECT_CLEAR,Без штрафів до Точності
+KEY_DLC3_WEATHEREFFECT_MIST,Зброя пандоранів має {0} Точності
+KEY_DLC3_WEATHEREFFECT_OVERCAST,Зброя з візуальним наведенням має {0} Точності
+KEY_DLC3_WEATHEREFFECT_STORM,Зброя з радіолокаційним наведенням має {0} Точності
+KEY_DLC3_WEATHER_CLEAR_NAME,ЯСНО
+KEY_DLC3_WEATHER_INTERCEPTION_NAME,ПОГОДА
+KEY_DLC3_WEATHER_MIST_NAME,ТУМАН
+KEY_DLC3_WEATHER_NAME,ПОГОДА:
+KEY_DLC3_WEATHER_OVERCAST_NAME,ХМАРНО
+KEY_DLC3_WEATHER_STORM_NAME,БУРЯ
+KEY_EGG_EXPLOSIVE_EXPLODE_DESCRIPTION,"Яйце бурхливо вибухає, завдаючи шкоди всім цілям поблизу"
+KEY_EGG_EXPLOSIVE_EXPLODE_NAME,ВИБУХ
+KEY_FS_ALN_ACID_SPIT_DESCRIPTION,Пандоранська зброя класу «повітря — повітря»
+KEY_FS_ALN_ACID_SPIT_NAME,Кислотний плювок
+KEY_FS_ALN_NAPALM_BREATH_DESCRIPTION,Пандоранська запалювальна зброя класу «повітря — повітря»
+KEY_FS_ALN_NAPALM_BREATH_NAME,Подих напалму
+KEY_FS_ALN_NAPALM_RAM_DESCRIPTION,Пандоранська зброя ближнього бою класу «повітря — повітря»
+KEY_FS_ALN_NAPALM_RAM_NAME,Таран
+KEY_FS_ALN_SPIKES_DESCRIPTION,Пандоранська зброя дальньої дії класу «повітря — повітря»
+KEY_FS_ALN_SPIKES_NAME,Шипи
+KEY_FS_ALN_TICK_DESCRIPTION,Пандоранська біозброя класу «повітря — повітря»
+KEY_FS_ALN_TICK_NAME,Кліщ
+KEY_FS_ALN_VOID_CHAMBER_DESCRIPTION,Пандоранська зброя класу «повітря — повітря»
+KEY_FS_ALN_VOID_CHAMBER_NAME,Камера порожнечі
+KEY_FS_AN_BOMBARD_MODULE_DESCRIPTION,Важка гармата Послідовників Ану
+KEY_FS_AN_BOMBARD_MODULE_NAME,Булава Нінурти
+KEY_FS_AN_ECM_JAMMER_MODULE_DESCRIPTION,Протирадіолокаційний захист
+KEY_FS_AN_ECM_JAMMER_MODULE_NAME,Глушник РЕБ
+KEY_FS_AN_MUTOG_CATAPULT_MODULE_DESCRIPTION,Катапульта з мутогом Послідовників Ану
+KEY_FS_AN_MUTOG_CATAPULT_MODULE_NAME,Бич Ішари
+KEY_FS_AN_ORACLE_MODULE_DESCRIPTION,Модуль наведення Послідовників Ану
+KEY_FS_AN_ORACLE_MODULE_NAME,Оракул
+KEY_FS_AN_RAM_MODULE_DESCRIPTION,Таранний модуль Послідовників Ану
+KEY_FS_AN_RAM_MODULE_NAME,Руйнівник
+KEY_FS_AN_REINFORCED_BULKHEADS_MODULE_DESCRIPTION,Захисний модуль Послідовників Ану
+KEY_FS_AN_REINFORCED_BULKHEADS_MODULE_NAME,Посилені перебірки
+KEY_FS_NJ_ARMOR_PLATES_MODULE_DESCRIPTION,Захисний модуль Нового Єрихона
+KEY_FS_NJ_ARMOR_PLATES_MODULE_NAME,Бронеплити
+KEY_FS_NJ_CRUISE_CONTROL_MODULE_DESCRIPTION,Навігаційний модуль Нового Єрихона
+KEY_FS_NJ_CRUISE_CONTROL_MODULE_NAME,Круїз-контроль
+KEY_FS_NJ_FUEL_TANK_MODULE_DESCRIPTION,Навігаційний модуль Нового Єрихона
+KEY_FS_NJ_FUEL_TANK_MODULE_NAME,Паливний бак
+KEY_FS_NJ_FURY_POD_MODULE_DESCRIPTION,Капсула люті Нового Єрихона
+KEY_FS_NJ_FURY_POD_MODULE_NAME,ОГ-6 «Ґедзь»
+KEY_FS_NJ_RAILGUN_MODULE_DESCRIPTION,Рейкова гармата Нового Єрихона
+KEY_FS_NJ_RAILGUN_MODULE_NAME,АГ-4 «Мародер»
+KEY_FS_NJ_TACTICAL_NUKE_MODULE_DESCRIPTION,Тактична ядерна ракета Нового Єрихона
+KEY_FS_NJ_TACTICAL_NUKE_MODULE_NAME,РПП «Армагеддон»
+KEY_FS_PX_AFTERBURNER_MODULE_DESCRIPTION,Засоби ухилення
+KEY_FS_PX_AFTERBURNER_MODULE_NAME,Форсаж
+KEY_FS_PX_AUTOCANNON_MODULE_DESCRIPTION,Автоматична гармата Проєкту «Фенікс»
+KEY_FS_PX_AUTOCANNON_MODULE_NAME,АГ-3 «Брокк»
+KEY_FS_PX_BASIC_MISSILE_MODULE_DESCRIPTION,Ракета класу «повітря — повітря» Проєкту «Фенікс»
+KEY_FS_PX_BASIC_MISSILE_MODULE_NAME,РПП «Кочівник»
+KEY_FS_PX_ELECTROLASER_MODULE_DESCRIPTION,Важка електролазерна гармата
+KEY_FS_PX_ELECTROLASER_MODULE_NAME,ВГ-9 «Удар блискавки»
+KEY_FS_PX_ESCAPE_PODS_MODULE_DESCRIPTION,Модуль безпеки Проєкту «Фенікс»
+KEY_FS_PX_ESCAPE_PODS_MODULE_NAME,Рятувальні капсули
+KEY_FS_PX_FLARES_MODULE_DESCRIPTION,Інфрачервоний захист
+KEY_FS_PX_FLARES_MODULE_NAME,Сигнальні ракети
+KEY_FS_PX_HEAVY_CANNON_MODULE_DESCRIPTION,Важка гармата Проєкту «Фенікс»
+KEY_FS_PX_HEAVY_CANNON_MODULE_NAME,ВГ-1 «Ороті»
+KEY_FS_PX_HYPERSONIC_MISSILE_MODULE_DESCRIPTION,Гіперзвукова ракета
+KEY_FS_PX_HYPERSONIC_MISSILE_MODULE_NAME,Рука Тюра
+KEY_FS_PX_VIROPHAGE_GUN_MODULE_DESCRIPTION,Вірофагова обертова гармата
+KEY_FS_PX_VIROPHAGE_GUN_MODULE_NAME,ОГ-7 «Фенрір»
+KEY_FS_SYN_EMP_MISSILE_MODULE_DESCRIPTION,ЕМІ-ракета Синедріону
+KEY_FS_SYN_EMP_MISSILE_MODULE_NAME,РПП «Медуза»
+KEY_FS_SYN_FIRE_SUPPRESSION_MODULE_DESCRIPTION,Протипожежний захист
+KEY_FS_SYN_FIRE_SUPPRESSION_MODULE_NAME,Система пожежогасіння
+KEY_FS_SYN_HYBERNATION_PODS_MODULE_DESCRIPTION,Модуль відновлення екіпажу
+KEY_FS_SYN_HYBERNATION_PODS_MODULE_NAME,Капсули гібернації
+KEY_FS_SYN_INCINERATOR_MISSILE_MODULE_DESCRIPTION,Ракета-спалювач Синедріону
+KEY_FS_SYN_INCINERATOR_MISSILE_MODULE_NAME,РПП «Прометей»
+KEY_FS_SYN_LASER_GUN_MODULE_DESCRIPTION,Лазерна гармата Синедріону
+KEY_FS_SYN_LASER_GUN_MODULE_NAME,МК. I «Артеміда»
+KEY_FS_SYN_SECURITY_STATION_MODULE_DESCRIPTION,Захист від біозброї
+KEY_FS_SYN_SECURITY_STATION_MODULE_NAME,Захисна станція
+KEY_GEOSCAPE_ALIEN_RAID_BOMB_HEVEN_FAILED,Рейдовий політ пандоранів успішно перехоплено!
+KEY_GEOSCAPE_ALIEN_RAID_BOMB_HEVEN_STARTED,Пандорани розпочали рейдовий політ!
+KEY_GEOSCAPE_ALIEN_RAID_BOMB_HEVEN_SUCCESSFUL,Пандорани завершили рейдовий політ!
+KEY_GEOSCAPE_ALIEN_RAID_BOMB_PHOENIX_FAILED,Рейдовий політ пандоранів на базу Проєкту «Фенікс» успішно перехоплено!
+KEY_GEOSCAPE_ALIEN_RAID_BOMB_PHOENIX_STARTED,Пандорани розпочали рейдовий політ на базу Проєкту «Фенікс»!
+KEY_GEOSCAPE_ALIEN_RAID_BOMB_PHOENIX_SUCCESSFUL,Пандорани завершили рейдовий політ на базу Проєкту «Фенікс»!
+KEY_GEOSCAPE_ALIEN_RAID_DESTROY_HAVEN_FAILED,Політ-бомбардування пандоранів успішно перехоплено!
+KEY_GEOSCAPE_ALIEN_RAID_DESTROY_HAVEN_STARTED,Пандорани розпочали політ-бомбардування!
+KEY_GEOSCAPE_ALIEN_RAID_DESTROY_HAVEN_SUCCESSFUL,Пандорани завершили політ-бомбардування!
+KEY_GEOSCAPE_ALIEN_RAID_INFEST_HAVEN_FAILED,Політ-нашестя пандоранів успішно перехоплено!
+KEY_GEOSCAPE_ALIEN_RAID_INFEST_HAVEN_STARTED,Пандорани розпочали політ-нашестя!
+KEY_GEOSCAPE_ALIEN_RAID_INFEST_HAVEN_SUCCESSFUL,Пандорани завершили політ-нашестя!
+KEY_GEOSCAPE_ALIEN_RAID_RECON_FAILED,Розвідполіт пандоранів успішно перехоплено!
+KEY_GEOSCAPE_ALIEN_RAID_RECON_STARTED,Пандорани розпочали розвідполіт!
+KEY_GEOSCAPE_ALIEN_RAID_RECON_SUCCESSFUL,Пандорани завершили розвідполіт!
+KEY_GEOSCAPE_ALIEN_RAID_SUPPLY_FAILED,Політ пандоранів за припасами успішно перехоплено!
+KEY_GEOSCAPE_ALIEN_RAID_SUPPLY_STARTED,Пандорани розпочали політ за припасами!
+KEY_GEOSCAPE_ALIEN_RAID_SUPPLY_SUCCESSFUL,Пандорани завершили політ за припасами!
+KEY_GEOSCAPE_BEHEMOTH_DAMAGE_HAVEN_MESSAGE,Бегемот завдав шкоди притулку!
+KEY_GEOSCAPE_BEHEMOTH_DESTROYED_HAVEN_MESSAGE,Бегемот знищив притулок!
+KEY_GEOSCAPE_BEHEMOTH_EMERGED_MESSAGE,З'явився Бегемот!
+KEY_GEOSCAPE_BEHEMOTH_INFEST_MESSAGE,Бегемот заразив притулок!
+KEY_GEOSCAPE_MANTICORE_AVAILABLE_AFTER_ACTIVATION,«Мантикора» доступна після активації
+KEY_GEOSCAPE_MESSAGE_VEHICLE_RELOADED,{0}: перезброєно
+KEY_GEOSCAPE_PX_AIRCRAFT_2,ЗАМАСКОВАНА «МАНТИКОРА» {0}
+KEY_LAUNCH_MISSION_BEHEMOTH_DESCRIPTION,Розгорніть загін проти Бегемота
+KEY_LEFT_WING_DESCRIPTION,Ці легкі крила дозволяють Мирмідону літати
+KEY_LEFT_WING_NAME,ЛІВЕ КРИЛО
+KEY_MESSAGE_NO_ENEMY_AIRCRAFTS,НЕМАЄ ВОРОЖИХ ПОВІТРЯНИХ СУДЕН У РАДІУСІ ДІЇ
+KEY_MISSION_CLEANSE_HAVEN,Знищіть Вузол Тління
+KEY_MISSION_HAVEN_INFESTED_BRIEFING_NAME,ПРИТУЛОК ЗАРАЖЕНО ПАНДОРАНАМИ
+KEY_OBJECTIVE_BEHEMOTH_GILLS,"ДОДАТКОВО: ПОШКОДЬТЕ ЗЯБРА, ЩОБ УПОВІЛЬНИТИ ТУПІТ БЕГЕМОТА"
+KEY_OBJECTIVE_BEHEMOTH_INJECTOR,ВВЕДІТЬ АГЕНТ-ВІРОФАГ [{0}/{1}]
+KEY_OBJECTIVE_B_BEHEMOTH_INJECTOR,ВВЕДІТЬ АГЕНТ-ВІРОФАГ [0/4]
+KEY_PX_AIRSHIP_2_DESCRIPTION,Повітряне судно Проєкту «Фенікс»
+KEY_PX_AIRSHIP_2_NAME,ЗАМАСКОВАНА «МАНТИКОРА»
+KEY_RADIAL_TOOLTIP,РАДІАЛЬНЕ МЕНЮ МОДУЛІВ
+KEY_RENAME_VEHICLE,Перейменувати цю машину?
+KEY_RIGHT_WING_DESCRIPTION,Ці легкі крила дозволяють Мирмідону літати
+KEY_RIGHT_WING_NAME,ПРАВЕ КРИЛО
+KEY_SECTION_TECH_CENTER,ТЕХЦЕНТР
+KEY_SPAWN_SWARMER_DESCRIPTION,Породити Мирмідона
+KEY_SPAWN_SWARMER_NAME,СТВОРИТИ МИРМІДОНА
+KEY_SWARMER_ACID_EXPLOSION_DIE_DESCRIPTION,"Помираючи, Мирмідон вибухає кислотою, завдаючи шкоди найближчим цілям"
+KEY_SWARMER_ACID_EXPLOSION_DIE_NAME,КИСЛОТНИЙ ВИБУХ
+KEY_SWARMER_JUMP_DESCRIPTION,Мирмідон перелітає в ближнє місце
+KEY_SWARMER_JUMP_NAME,ЗЛЕТІТИ
+KEY_SWARMER_POISON_EXPLOSION_DIE_DESCRIPTION,"Помираючи, Мирмідон вибухає отрутою, завдаючи шкоди найближчим цілям"
+KEY_SWARMER_POISON_EXPLOSION_DIE_NAME,ОТРУЙНИЙ ВИБУХ
+KEY_UNIT_TYPE_MASKED_MANTICORES,ЗАМАСКОВАНІ «МАНТИКОРИ»

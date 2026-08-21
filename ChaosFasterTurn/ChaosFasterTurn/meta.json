@@ -1,0 +1,24 @@
+{
+  "ID": "com.chaos.ChaosFasterTurn",
+  "AssemblyName": "ChaosFasterTurn.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "Chaos-UA-"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "ChaosFasterTurn"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "ChaosFasterTurnSpeed"
+    }
+  ],
+  "Dependencies": []
+}

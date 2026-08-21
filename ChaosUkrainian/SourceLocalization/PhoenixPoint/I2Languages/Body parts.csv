@@ -1,0 +1,112 @@
+Key,Type,Desc,English,Chinese (Simplified),French,German,Italian,Polish,Russian,Spanish,UI_Tester
+KEY_ABDOMEN_BELCHER_DESCRIPTION,Text,,Releases multiple spawnlings on death,死亡时大量产卵,Relâche plusieurs petits lors de sa mort,Setzt beim Tod zahlreiche Schlüpflinge frei.,"Quando muore, rilascia molteplici uova",Uwalnia wiele glizd po śmierci,При смерти выпускает множество созданий.,"Al morir, libera varios vástagos
+",
+KEY_ABDOMEN_BELCHER_NAME,Text,,BELCHER ABDOMEN,贝尔彻腹,ABDOMÈNE DE RENVOI,EXPLOSIVER HINTERLEIB,ADDOME ERUTTANTE,WYBUCHAJĄCY BRZUCH,ЖИВОТ-ОТРЫЖКА,ABDOMEN DE ERUCTADOR,
+KEY_ABDOMEN_NAME,Text,,ABDOMEN,腹部,ABDOMEN,HINTERLEIB,ADDOME,BRZUCH,ЖИВОТ,ABDOMEN,HINTERLEIB
+KEY_ABDOMEN_SPAWNER_DESCRIPTION,Text,,Spawns mindfraggers,孵化心控虫,Génère des Corrupteurs,Erzeugt Gedankenfresser.,Genera Strappamente,Roją się z niego mózgopluskwy,Создает промывателей,Genera rompementes.,Roją się z niego mózgopluskwy
+KEY_ABDOMEN_SPAWNER_NAME,Text,,SPAWNING ABDOMEN,孵化腔,ABDOMÈNE GÉNÉRATEUR,BRUTHINTERLEIB,ADDOME GENERATORE,BRZUCH Z MŁODYMI,ЖИВОТ-ИНКУБАТОР,GENERANDO ROMPEMENTES,FRUCHTBARER HINTERLEIB
+KEY_ARM_BLOODSUCKER_DESCRIPTION,Text,,Bloodsucking Arm,吸血手臂,Bras saigneur,Blutsauger-Arm,Braccio succhiasangue,Ramię do odsysania krwi,ВАМПИР-РУКА,Brazo chupasangre.,Ramię do odsysania krwi
+KEY_ARM_BLOODSUCKER_NAME,Text,,BLOODSUCKING ARM,吸血手臂,BRAS SAIGNEUR,BLUTSAUGER-ARM,BRACCIO SUCCHIASANGUE,RAMIĘ DO ODSYSANIA KRWI,ВАМПИР-РУКА,BRAZO CHUPASANGRE,RAMIĘ DO ODSYSANIA KRWI
+KEY_ARM_DESCRIPTION,Text,,ARM,上肢,BRAS,ARM,BRACCIO,RAMIĘ,РУКА,BRAZO.,BRACCIO
+KEY_ARM_INJECTOR_DESCRIPTION,Text,,INJECTOR ARM,喷射器臂,BRAS INJECTEUR,INJEKTORARM,BRACCIO INIETTORE,RAMIĘ Z INIEKTOREM,РУКА-ИНЖЕКТОР,BRAZO INYECTOR.,RAMIĘ Z INIEKTOREM
+KEY_ARM_INJECTOR_NAME,Text,,INJECTOR ARM,喷射器臂,BRAS INJECTEUR,INJEKTORARM,BRACCIO INIETTORE,RAMIĘ Z INIEKTOREM,РУКА-ИНЖЕКТОР,BRAZO INYECTOR.,RAMIĘ Z INIEKTOREM
+KEY_ARM_MIST_DESCRIPTION,Text,,Mist Emitter,迷雾散发器,Émetteur de brume,Nebelquelle,Emettitore di bruma,Generator mgły,Испускатель тумана,Emisor de niebla.,Emettitore di bruma
+KEY_ARM_MIST_NAME,Text,,MIST EMITTER,迷雾散发器,ÉMÉTTEUR DE BRUME,NEBELQUELLE,EMETTITORE DI BRUMA,GENERATOR MGŁY,ИСПУСКАТЕЛЬ ТУМАНА,EMISOR DE NIEBLA,EMETTITORE DI BRUMA
+KEY_ARM_NAME,Text,,ARM,上肢,BRAS,ARM,BRACCIO,RAMIĘ,РУКА,BRAZO.,BRACCIO
+KEY_ARM_PARALYZING_DESCRIPTION,Text,,Paralyzing Arm,麻痹手臂,Bras paralysant,Lähmungsarm,Braccio paralizzante,Ramię paraliżujące,Парализующая рука,Brazo paralizador.,Braccio paralizzante
+KEY_ARM_PARALYZING_NAME,Text,,PARALYZING ARM,麻痹手臂,BRAS PARALYSANT,LÄHMUNGSARM,BRACCIO PARALIZZANTE,RAMIĘ PARALIŻUJĄCE,ПАРАЛИЗУЮЩАЯ РУКА,BRAZO PARALIZADOR,BRACCIO PARALIZZANTE
+KEY_ARM_SLASHER_DESCRIPTION,Text,,SLASHER ARM,刀臂,BRAS LACÉRANT,KLINGEN-ARM,BRACCIO SQUARCIATORE,RAMIĘ TNĄCE,РУКА-РЕЗАКА,BRAZO MUTILADOR.,BRACCIO SQUARCIATORE
+KEY_ARM_SLASHER_NAME,Text,,SLASHER ARM,刀臂,BRAS LACÉRANT,KLINGEN-ARM,BRACCIO SQUARCIATORE,RAMIĘ TNĄCE,РУКА-РЕЗАКА,BRAZO MUTILADOR.,BRACCIO SQUARCIATORE
+KEY_ARTHRON_GRENADE_ARM_DESCRIPTION,Text,,Organic Grenade Launcher,有机手雷发射器,Lance-grenades organique,Organischer Granatwerfer.,Lanciagranate organico,Organiczny granatnik,Органический гранатомет,Lanzagranadas Orgánico,
+KEY_ARTHRON_GRENADE_ARM_NAME,Text,,LAUNCHER ARM,发射臂,BRAS LANCEUR,WURFARM,BRACCIO GRANATIERE,WYRZUTNIA NARAMIENNA,РУКА-УСТАНОВКА,LANZA BRAZOS,
+KEY_ASPIDA_ARMS_DESCRIPTION,Text,,Synedrion Aspida Vehicle Mech Arms,平衡议会悬浮车机械臂,Bras robotisés de l'Aspida du Synédrion,Mechanische Arme für den Synedrion-Aspida.,Braccia meccaniche veicolo Aspida di Synedrion,Mechaniczne ramiona pojazdu Aspidy Synedrionu,Манипуляторы судна «Аспида» Синедриона,Brazos mecánicos para el vehículo Aspida de Synedrion,
+KEY_ASPIDA_ARMS_NAME,Text,,Midas V Arms,迈达斯 V 手臂,Bras Midas V,Midas-V-Arme,Braccia Midas V,Ramiona Midas V,Манипуляторы Мидас V,Brazos Midas V,
+KEY_BODYPART_SCYLLA_MIST_LAUNCHER_DESC,Text,,Launchers projectiles that generate mist,发射可以释放迷雾的射弹,Des projectiles qui génèrent de la brume,"Verschießt Projektile, die Nebel erzeugen.",Lancia proiettili che generano bruma,Strzela pociskami wytwarzającymi mgłę,"Запускает снаряды, которые испускают туман",Lanza proyectiles que propagan niebla.,"Запускает снаряды, которые испускают туман"
+KEY_BODYPART_SCYLLA_MIST_LAUNCHER_NAME,Text,,MIST LAUNCHER,迷雾发射器,PROPULSEUR DE BRUME,NEBELWERFER,LANCIATORE DI BRUMA,WYRZUTNIA MGŁY,ТУМАННАЯ УСТАНОВКА,LANZANIEBLA,PROPULSEUR DE BRUME
+KEY_BODY_DESCRIPTION,Text,,Body,身体,Corps,Körper,Corpo,Ciało,Тело,Cuerpo.,Cuerpo.
+KEY_BODY_NAME,Text,,BODY,身体,CORPS,KÖRPER,CORPO,CIAŁO,ТЕЛО,CUERPO,KÖRPER
+KEY_CARAPACE_DESCRIPTION,Text,,CARAPACE,甲壳,CARAPACE,PANZER,CARAPACE,PANCERZ,ПАНЦИРЬ,CAPARAZÓN.,CAPARAZÓN.
+KEY_CARAPACE_HEAVY_DESCRIPTION,Text,,HEAVY CARAPACE,重型甲壳,CARAPACE LOURDE,SCHWERER PANZER,CARAPACE PESANTE,CIĘŻKI PANCERZ,ТЯЖЕЛЫЙ ПАНЦИРЬ,CAPARAZÓN PESADO.,CAPARAZÓN PESADO.
+KEY_CARAPACE_HEAVY_NAME,Text,,HEAVY CARAPACE,重型甲壳,CARAPACE LOURDE,SCHWERER PANZER,CARAPACE PESANTE,CIĘŻKI PANCERZ,ТЯЖЕЛЫЙ ПАНЦИРЬ,CAPARAZÓN PESADO.,CAPARAZÓN PESADO.
+KEY_CARAPACE_MIST_DESCRIPTION,Text,,MIST CARAPACE,迷雾甲壳,CARAPACE DE BRUME,NEBEL-PANZER,CARAPACE DI BRUMA,MGLISTY PANCERZ,ТУМАННЫЙ ПАНЦИРЬ,CAPARAZÓN DE NIEBLA.,CAPARAZÓN DE NIEBLA.
+KEY_CARAPACE_MIST_NAME,Text,,MIST CARAPACE,迷雾甲壳,CARAPACE DE BRUME,NEBEL-PANZER,CARAPACE DI BRUMA,MGLISTY PANCERZ,ТУМАННЫЙ ПАНЦИРЬ,CAPARAZÓN DE NIEBLA.,CAPARAZÓN DE NIEBLA.
+KEY_CARAPACE_NAME,Text,,CARAPACE,甲壳,CARAPACE,PANZER,CARAPACE,PANCERZ,ПАНЦИРЬ,CAPARAZÓN.,CAPARAZÓN.
+KEY_CHIRON_TORSO_ACIDWORM_DESCRIPTION,Text,,Launch multiple Acidworms over long range,远程发射大量酸虫,Lance plusieurs Vers caustiques sur une longue distance,Verschießt mehrere Säurewürmer über große Distanz.,Lancia molteplici vermi acidi a lunga distanza,Wystrzeliwuje wiele kwasoglizdglizd na długi dystans,Запуск нескольких кислотных червей на большое расстояние,"Disparar a larga distancia varios Gusanos de Ácido.
+",
+KEY_CHIRON_TORSO_ACIDWORM_NAME,Text,,ACIDWORM ABDOMEN,酸虫腹部,ABDOMEN DE VER DE FEU,SÄUREWURM-HINTERLEIB,ADDOME DI VERME ACIDO,BRZUCH KWASGLIZDY,ЖИВОТ КИСЛОТНОГО ЧЕРВЯ,ABDOMEN DE GUSANO ÁCIDO,ABDOMEN DE GUSANO ÁCIDO
+KEY_CHIRON_TORSO_FIREWORM_DESCRIPTION,Text,,Launch multiple Fireworms over long range,远程发射大量萤火虫,Lance plusieurs Vers incendiaires sur une longue distance,Verschießt mehrere Feuerwürmer über große Distanz.,Lancia molteplici vermi di fuoco a lunga distanza.,Wystrzeliwuje wiele ognioglizd na długi dystans,Запуск нескольких огненных червей на большое расстояние,"Disparar a larga distancia varios Gusanos de Fuego.
+",
+KEY_CHIRON_TORSO_FIREWORM_NAME,Text,,FIREWORM ABDOMEN,火虫腹部,ABDOMEN DE VER DE FEU,FEUERWURM-HINTERLEIB,ADDOME VERME DI FUOCO,BRZUCH OGNIOGLIZDY,ОГНЕННО-ЧЕРВЯЧНЫЙ ЖИВОТ,ABDOMEN DE GUSANO DE FUEGO.,ABDOMEN DE GUSANO DE FUEGO.
+KEY_CHIRON_TORSO_GOO_DESCRIPTION,Text,,GOO ABDOMEN,粘液腹部,ABDOMEN VISQUEUX,SCHLEIM-HINTERLEIB,ADDOME DI MELMA,BRZUCH Z MAZIĄ,СЛИЗИСТЫЙ ЖИВОТ,ABDOMEN VISCOSO.,SCHLEIM-HINTERLEIB
+KEY_CHIRON_TORSO_GOO_NAME,Text,,GOO ABDOMEN,粘液腹部,ABDOMEN VISQUEUX,SCHLEIM-HINTERLEIB,ADDOME DI MELMA,BRZUCH Z MAZIĄ,СЛИЗИСТЫЙ ЖИВОТ,ABDOMEN VISCOSO.,SCHLEIM-HINTERLEIB
+KEY_CHIRON_TORSO_MORTAR_DESCRIPTION,Text,,EXPLOSIVE BOMB ABDOMEN,爆炸型炸弹腹部,ABDOMEN EXPLOSIF,SPRENGBOMBEN-HINTERLEIB,ADDOME BOMBA ESPLOSIVO,BRZUCH Z BOMBĄ,БОМБО-ЖИВОТ,ABDOMEN DE BOMBA EXPLOSIVA.,ABDOMEN DE BOMBA EXPLOSIVA.
+KEY_CHIRON_TORSO_MORTAR_NAME,Text,,EXPLOSIVE BOMB ABDOMEN,爆炸型炸弹腹部,ABDOMEN EXPLOSIF,SPRENGBOMBEN-HINTERLEIB,ADDOME BOMBA ESPLOSIVO,BRZUCH Z BOMBĄ,БОМБО-ЖИВОТ,ABDOMEN DE BOMBA EXPLOSIVA.,ABDOMEN DE BOMBA EXPLOSIVA.
+KEY_CHIRON_TORSO_POISONWORM_DESCRIPTION,Text,,Launch multiple Poisonworms over long range,远程发射大量毒虫,Lance plusieurs Vers toxiques sur une longue distance,Verschießt mehrere Giftwürmer über große Distanz.,Lancia molteplici vermi velenosi a lunga distanza,Wystrzeliwuje wiele trujglizd na długi dystans,Запуск нескольких ядовитых червей на большое расстояние,"Disparar a larga distancia varios Gusanos de Veneno.
+",
+KEY_CHIRON_TORSO_POISONWORM_NAME,Text,,POISONWORM ABDOMEN,毒虫腹部,ABDOMEN DE VER TOXIQUE,GIFTWURM-HINTERLEIB,ADDOME DI VERME VELENOSO,BRZUCH TRUJGLIZDY,ЖИВОТ ЯДОВИТОГО ЧЕРВЯ,ABDOMEN DE GUSANO VENENOSO,ABDOMEN DE GUSANO VENENOSO
+KEY_EGG_SHELL_NAME,Text,,SHELL,外壳,COQUILLE,SCHALE,GUSCIO,SKORUPA,РАКОВИНА,CASCARÓN,
+KEY_ENGINE_DESCRIPTION,Text,,Engine,引擎,Moteur,Antrieb,Motore,Silnik,Двигатель,Motor.,Двигатель
+KEY_ENGINE_NAME,Text,,ENGINE,引擎,MOTEUR,ANTRIEB,MOTORE,SILNIK,ДВИГАТЕЛЬ,MOTOR,ДВИГАТЕЛЬ
+KEY_EYE_DESCRIPTION,Text,,Eye,眼睛,Œil,Auge,Occhio,Oko,Глаз,Ojo.,Occhio
+KEY_EYE_NAME,Text,,EYE,眼睛,ŒIL,AUGE,OCCHIO,OKO,ГЛАЗ,OJO,OCCHIO
+KEY_HAND_DESCRIPTION,Text,,HAND,手,MAIN,HAND,MANO,DŁOŃ,КИСТЬ,MANO.,КИСТЬ
+KEY_HAND_NAME,Text,,HAND,手,MAIN,HAND,MANO,DŁOŃ,КИСТЬ,MANO.,КИСТЬ
+KEY_HEAD,Text,,HEAD,头,TÊTE,KOPF,TESTA,GŁOWA,ГОЛОВА,CABEZA.,CABEZA.
+KEY_HEAD_BUFFER_DESCRIPTION,Text,,BUFFING HEAD,锃亮头部,TÊTE CRYPTÉE,HAMMERKOPF,TESTA ROBUSTA,GŁOWA Z WYROSTKAMI,БУФЕР-ГОЛОВА,CABEZA DE CARGA.,GŁOWA Z WYROSTKAMI
+KEY_HEAD_BUFFER_NAME,Text,,BUFFING HEAD,锃亮头部,TÊTE CRYPTÉE,HAMMERKOPF,TESTA ROBUSTA,GŁOWA Z WYROSTKAMI,БУФЕР-ГОЛОВА,CABEZA DE CARGA.,GŁOWA Z WYROSTKAMI
+KEY_HEAD_DESCRIPTION,Text,,HEAD,头,TÊTE,KOPF,TESTA,GŁOWA,ГОЛОВА,CABEZA.,CABEZA.
+KEY_HEAD_HEAVY_DESCRIPTION,Text,,HEAVY HEAD,重型头部,TÊTE LOURDE,SCHWERER KOPF,TESTA PESANTE,CIĘŻKA GŁOWA,ТЯЖЕЛАЯ ГОЛОВА,CABEZA PESADA,#SCHWERER KOPF
+KEY_HEAD_HEAVY_NAME,Text,,HEAVY HEAD,重型头部,TÊTE LOURDE,SCHWERER KOPF,TESTA PESANTE,CIĘŻKA GŁOWA,ТЯЖЕЛАЯ ГОЛОВА,CABEZA PESADA,ТЯЖЕЛАЯ ГОЛОВА
+KEY_HEAD_NAME,Text,,HEAD,头,TÊTE,KOPF,TESTA,GŁOWA,ГОЛОВА,CABEZA.,CABEZA.
+KEY_HEAD_SCREAMER_DESCRIPTION,Text,,SCREAMING HEAD,尖啸头部,TÊTE HURLANTE,SCHREI-KOPF,TESTA URLANTE,KRZYCZĄCA GŁOWA,КРИЧАЩАЯ ГОЛОВА,CABEZA ALARIDO,#SCREAMING HEAD
+KEY_HEAD_SCREAMER_NAME,Text,,SCREAMING HEAD,尖啸头部,TÊTE HURLANTE,SCHREI-KOPF,TESTA URLANTE,KRZYCZĄCA GŁOWA,КРИЧАЩАЯ ГОЛОВА,CABEZA ALARIDO,KRZYCZĄCA GŁOWA
+KEY_HEAD_SPITTER_DESCRIPTION,Text,,Spits poison at short range,近距离喷吐毒物,Crache du poison sur de courtes distances,Speit Gift auf kurze Distanz.,Sputa veleno a corto raggio,Pluje trucizną na krótki dystans,Плюется ядом с близкого расстояния,Escupe veneno en una alcance corto.,Crache du poison sur de courtes distances
+KEY_HEAD_SPITTER_NAME,Text,,SPITTER HEAD,喷吐头部,TÊTE CRACHEUSE,SPUCKERKOPF,TESTA SPUTANTE,PLUJĄCA GŁOWA,ПЛЮЮЩАЯСЯ ГОЛОВА,CABEZA ESCUPIDORA,CABEZA ESCUPIDORA
+KEY_HUMAN_TORSO_NAME,Text,,TORSO,躯干,TORSE,RUMPF,BUSTO,TUŁÓW,ТУЛОВИЩЕ,TORSO,ТУЛОВИЩЕ
+KEY_LEGS_NAME,Text,,LEGS,腿,JAMBES,BEINE,GAMBE,NOGI,НОГИ,PIERNAS,PIERNAS
+KEY_LEG_AGILE_DESCRIPTION,Text,,AGILE LEG,敏捷腿部,JAMBE AGILE,FLINKES BEIN,GAMBA AGILE,ZWINNA NOGA,ПРОВОРНАЯ НОГА,PIERNA ÁGIL,#FLINKES BEIN
+KEY_LEG_AGILE_NAME,Text,,AGILE LEG,敏捷腿部,JAMBE AGILE,FLINKES BEIN,GAMBA AGILE,ZWINNA NOGA,ПРОВОРНАЯ НОГА,PIERNA ÁGIL,ПРОВОРНАЯ НОГА
+KEY_LEG_DESCRIPTION,Text,,LEG,腿,JAMBE,BEIN,GAMBA,NOGA,НОГА,PIERNA,#BEIN
+KEY_LEG_HEAVY_DESCRIPTION,Text,,HEAVY LEG,重型腿部,JAMBE LOURDE,SCHWERES BEIN,GAMBA PESANTE,CIĘŻKA NOGA,ТЯЖЕЛАЯ НОГА,PIERNA PESADA,#SCHWERES BEIN
+KEY_LEG_HEAVY_NAME,Text,,HEAVY LEG,重型腿部,JAMBE LOURDE,SCHWERES BEIN,GAMBA PESANTE,CIĘŻKA NOGA,ТЯЖЕЛАЯ НОГА,PIERNA PESADA,SCHWERES BEIN
+KEY_LEG_NAME,Text,,LEG,腿,JAMBE,BEIN,GAMBA,NOGA,НОГА,PIERNA,PIERNA
+KEY_LEG_STEALTH_DESCRIPTION,Text,,Stealth Leg,潜行腿部,Jambe furtive,Tarnbein,Gamba furtiva,Noga umożliwiająca ciche poruszanie się,Скрытная нога,Pierna sigilosa.,Noga umożliwiająca ciche poruszanie się
+KEY_LEG_STEALTH_NAME,Text,,STEALTH LEG,潜行腿部,JAMBE FURTIVE,TARNBEIN,GAMBA FURTIVA,NOGA DO SKRADANIA SIĘ,СКРЫТНАЯ НОГА,PIERNA SIGILOSA,NOGA DO SKRADANIA SIĘ
+KEY_PINCER_DESCRIPTION,Text,,An Arthron pincer,蟹钳人爪钳,Une pince d'Arthron,Eine Arthron-Schere,Una chela Arthron,Szczypce Arthrona,Хелицера Артрона,Unas tenazas de un arthron.,Unas tenazas de un arthron.
+KEY_PINCER_NAME,Text,,PINCER,钳,PINCE,SCHERE,CHELA,SZCZYPCE,ХЕЛИЦЕРА,TENAZAS,SZCZYPCE
+KEY_QUEEN_SONIC_HEAD_DESCRIPTION,Text,,Sonic scream can daze,音波尖叫可眩晕,Le cri sonique peut étourdir,Schallschrei kann Benommenheit verursachen.,Le urla soniche possono stordire,Soniczny krzyk może oszołomić,Ультразвуковой крик может оглушить,El Grito Sónico puede aturdir,
+KEY_QUEEN_SONIC_HEAD_NAME,Text,,SONIC HEAD,音波头,TËTE SONIQUE,SCHALLKOPF,TESTA SONICA,SONICZNA GŁOWA,УЛЬТРАЗВУКОВАЯ ГОЛОВА,"CABEZA DE SÓNICO
+",
+KEY_ROOTS,Text,,ROOTS,根,RACINES,WURZELN,RADICI,KORZENIE,КОРНИ,RAÍCES,KORZENIE
+KEY_ROOTS_DESCRIPTION,Text,,ROOTS,根,RACINES,WURZELN,RADICI,KORZENIE,КОРНИ,RAÍCES,KORZENIE
+KEY_ROOTS_NAME,Text,,ROOTS,根,RACINES,WURZELN,RADICI,KORZENIE,КОРНИ,RAÍCES,KORZENIE
+KEY_SENSOR_HEAD_DESCRIPTION,Text,,Sensor Head,传感器头部,Tête de capteur,Sensorkopf,Testa sensore,Głowica czujnika,Сенсорная голова,Cabeza sensor.,Głowica czujnika
+KEY_SENSOR_HEAD_NAME,Text,,SENSOR HEAD,传感器头部,TÊTE DE CAPTEUR,SENSORKOPF,TESTA SENSORE,GŁOWICA CZUJNIKA,СЕНСОРНАЯ ГОЛОВА,CABEZA SENSOR,GŁOWICA CZUJNIKA
+KEY_SHELL,Text,,SHELL,外壳,COQUILLE,SCHALE,GUSCIO,SKORUPA,РАКОВИНА,CASCARÓN,COQUILLE
+KEY_SHELL_DESCRIPTION,Text,,SHELL,外壳,COQUILLE,SCHALE,GUSCIO,SKORUPA,РАКОВИНА,CASCARÓN,COQUILLE
+KEY_SHELL_NAME,Text,,SHELL,外壳,COQUILLE,SCHALE,GUSCIO,SKORUPA,РАКОВИНА,CASCARÓN,COQUILLE
+KEY_SPAWNERY_BODY_NAME,Text,,BODY,身体,CORPS,KÖRPER,CORPO,CIAŁO,ТЕЛО,CUERPO,
+KEY_SPAWNERY_EGG_POD_NAME,Text,,EGG POD,卵腔,OOTHÈQUE,EIERKAPSEL,CAPSULA UOVA,KAPSUŁA JAJA,ЯЙЦО,SACO DE HUEVOS,
+KEY_SPAWNERY_SHELL_NAME,Text,,SHELL,外壳,COQUILLE,SCHALE,GUSCIO,SKORUPA,РАКОВИНА,CASCARÓN,
+KEY_TAIL_DESCRIPTION,Text,,TAIL,尾部,QUEUE,SCHWANZ,CODA,OGON,ХВОСТ,COLA.,SCHWANZ
+KEY_TAIL_NAME,Text,,TAIL,尾部,QUEUE,SCHWANZ,CODA,OGON,ХВОСТ,COLA.,SCHWANZ
+KEY_TENTACLE_DESCRIPTION,Text,,Tentacle,触须,Tentacule,Tentakel,Tentacolo,Macka,Щупальце,Tentáculo.,Tentáculo.
+KEY_TENTACLE_NAME,Text,,TENTACLE,触须,TENTACULE,TENTAKEL,TENTACOLO,MACKA,ЩУПАЛЬЦЕ,TENTÁCULO,TENTACULE
+KEY_TORSO,Text,,TORSO,躯干,TORSE,RUMPF,BUSTO,TUŁÓW,ТУЛОВИЩЕ,TORSO,ТУЛОВИЩЕ
+KEY_TORSO_DESCRIPTION,Text,,TORSO,躯干,TORSE,RUMPF,BUSTO,TUŁÓW,ТУЛОВИЩЕ,TORSO,ТУЛОВИЩЕ
+KEY_TORSO_NAME,Text,,TORSO,躯干,TORSE,RUMPF,BUSTO,TUŁÓW,ТУЛОВИЩЕ,TORSO,ТУЛОВИЩЕ
+KEY_TURRET_BODY,Text,,TURRET BODY,炮台主体,STRUCTURE DE TOURELLE,GESCHÜTZKORPUS,CORPO TORRETTA,KORPUS WIEŻYCZKI,ТУРЕЛЬ-ТЕЛО,TORRETA DE CUERPO,STRUCTURE DE TOURELLE
+KEY_TURRET_GUN,Text,,TURRET GUN,炮台枪械,FUSIL DE TOURELLE,GESCHÜTZKANONE,ARMA TORRETTA,KARABIN WIEŻYCZKI,ТУРЕЛЬ-ПУШКА,TORRETA,FUSIL DE TOURELLE
+KEY_VEHICLE_FRONT_DESCRIPTION,Text,,Front,前,Avant,Front,Anteriore,Przód,Передняя часть,Delante.,Передняя часть
+KEY_VEHICLE_FRONT_NAME,Text,,FRONT,前,AVANT,FRONT,ANTERIORE,PRZÓD,ПЕРЕДНЯЯ ЧАСТЬ,DELANTE,ПЕРЕДНЯЯ ЧАСТЬ
+KEY_VEHICLE_REAR_DESCRIPTION,Text,,Rear,后,Arrière,Heck,Posteriore,Tył,Задняя часть,Detrás.,Задняя часть
+KEY_VEHICLE_REAR_NAME,Text,,REAR,后,ARRIÈRE,HECK,POSTERIORE,TYŁ,ЗАДНЯЯ ЧАСТЬ,DETRÁS,ЗАДНЯЯ ЧАСТЬ
+KEY_VEHICLE_SIDE_LEFT_DESCRIPTION,Text,,Side,侧面,Flanc,Seite,Lato,Bok,Боковая часть,Lado.,Боковая часть
+KEY_VEHICLE_SIDE_LEFT_NAME,Text,,SIDE,侧面,FLANC,SEITE,LATO,BOK,БОКОВАЯ ЧАСТЬ,LADO,БОКОВАЯ ЧАСТЬ
+KEY_VEHICLE_SIDE_RIGHT_DESCRIPTION,Text,,Side,侧面,Flanc,Seite,Lato,Bok,Боковая часть,Lado.,Боковая часть
+KEY_VEHICLE_SIDE_RIGHT_NAME,Text,,SIDE,侧面,FLANC,SEITE,LATO,BOK,БОКОВАЯ ЧАСТЬ,LADO,БОКОВАЯ ЧАСТЬ
+KEY_VEHICLE_TIRE_DESCRIPTION,Text,,New Jericho Armadillo Wheel,新耶利哥犰狳车轮,Roue de Priodonte de la Nouvelle-Jéricho,Armadillo-Rad von Neu-Jericho,Ruota dell'Armadillo Nuova Gerico,Koło Pancernika — Nowe Jerycho,Колесо «Броненосца» Нового Иерихона,Rueda armadillo de Nueva Jericó.,Roue de Priodonte de la Nouvelle-Jéricho
+KEY_VEHICLE_TIRE_NAME,Text,,WHEEL,轮胎,PNEU,RAD,PNEUMATICO,OPONA,ШИНА,NEUMÁTICO,PNEUMATICO
+KEY_VEHICLE_TOP_DESCRIPTION,Text,,Top,顶部,Dessus,Dach,Tetto,Góra,Верх,Arriba.,Arriba.
+KEY_VEHICLE_TOP_NAME,Text,,TOP,顶部,DESSUS,DACH,TETTO,GÓRA,ВЕРХ,ARRIBA,Покрив
+KEY_VEHICLE_TURRET_DESCRIPTION,Text,,Vehicle Turret,载具炮台,Tourelle de véhicule,Fahrzeuggeschütz,Torretta veicolo,Wieżyczka mocowana na pojeździe,Турель машины,Torreta de vehículo.,Wieżyczka mocowana na pojeździe

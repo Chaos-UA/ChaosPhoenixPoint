@@ -1,0 +1,153 @@
+Key,Type,Desc,English,UI_Tester,Chinese,French,Spanish,Italian,German,Russian,Polish,0
+PROG_CH0_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_CH0_FAIL_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_CH0_FAIL_TEXT_GENERAL_0,Text,,Our attempts to secure the lab and eliminate all Pandoran threats resulted with failure. We better re-evaluate our tactics before trying again.,,肃清实验室，消灭所有潘多拉体威胁的尝试失败了。在重新开始之前，最好评估一下我们的战术。,Nos tentatives visant à sécuriser le laboratoire et à éliminer toutes les menaces pandoriennes se sont soldées par un échec. Nous devons revoir nos tactiques avant de réessayer.,Nuestros intentos de asegurar el laboratorio y eliminar todas las amenazas pandorianas han acabado en fracaso. Será mejor volver a evaluar nuestras tácticas antes de intentarlo de nuevo.,I nostri tentativi di mettere in sicurezza il laboratorio e di eliminare tutte le minacce Pandora sono falliti. Dovremo ripensare le nostre tattiche prima di riprovarci.,"Der Versuch, das Labor zu sichern und die Bedrohung zu eliminieren, ist gescheitert. Wir sollten unsere Taktik überdenken, bevor wir es erneut versuchen.",Наши попытки зачистки лаборатории и уничтожения пандоранов на территории не удались. Лучше пересмотреть тактику и попробовать снова.,Nasze próby zabezpieczenia laboratorium i wyeliminowania pandorańskich zagrożeń zakończyły się niepowodzeniem. Lepiej zrewidujmy taktykę i spróbujmy ponownie.,
+PROG_CH0_FAIL_TITLE,Text,,The Verge of Disaster,,灾难边缘,Au bord de la catastrophe,Al borde del desastre,Sull'orlo del disastro,Am Rande der Katastrophe,На грани катастрофы,Na skraju katastrofy,
+PROG_CH0_MISS_CHOICE_0_TEXT,Text,,START MISSION,,开始任务,COMMENCER LA MISSION,EMPEZAR MISIÓN,AVVIA MISSIONE,MISSION STARTEN,НАЧАТЬ МИССИЮ,ROZPOCZNIJ MISJĘ,
+PROG_CH0_MISS_CHOICE_1_TEXT,Text,,CANCEL,,取消,ANNULER,CANCELAR,ANNULLA,ABBRECHEN,ОТМЕНА,ANULUJ,
+PROG_CH0_MISS_TEXT_GENERAL_0,Text,,"MISSION BRIEFING
+
+According to the distress call, unknown Pandoran specimens are attempting to escape, bringing with them an unknown virus strain. Our goal is to prevent that from happening and secure the lab to prevent the virus from spreading.",,"任务概要
+ 
+ 根据求救信号，有未知的潘多拉体样本尝试逃离，并携带了未知的病毒毒株。我们的任务是阻止样本逃离，还要占领实验室，防止病毒扩散。","RÉSUMÉ DE LA MISSION
+ 
+ Selon l'appel de détresse, des spécimens inconnus de Pandoriens tentent de s'échapper, et sont porteurs d'une nouvelle souche du virus. Notre but est de les empêcher de s'échapper et de sécuriser le laboratoire pour éviter la propagation de ce virus.","INSTRUCCIONES DE LA MISIÓN
+ 
+ Según la llamada de emergencia, hay unos especímenes pandorianos desconocidos intentando escapar junto con una cepa de virus desconocida. Nuestro objetivo es impedir su huida y asegurar el laboratorio para evitar que el virus se extienda.","RIEPILOGO MISSIONE
+ 
+ Secondo quanto contenuto nella richiesta di aiuto, degli esemplari Pandora non identificati stanno tentando la fuga, portando con sé un ceppo di virus sconosciuto. Il nostro obiettivo è fermare la fuga e mettere in sicurezza il laboratorio, per impedire che il virus si diffonda.","MISSIONSBRIEFING
+ 
+Laut dem Notruf versuchen unbekannte Pandoraner mit einem neuen Virusstamm zu entkommen. Unser Ziel ist es, sie aufzuhalten und das Labor zu sichern, um eine Ausbreitung zu verhindern.","СВОДКА МИССИИ
+
+ Согласно сигналу бедствия неизвестные образцы пандорана с неизвестным штаммом вируса пытаются сбежать из лаборатории. Наша цель — не дать им покинуть объект и провести в нем чистку, чтобы предотвратить распространение вируса.","ODPRAWA
+ 
+ Otrzymaliśmy wezwanie o pomoc, według którego nieznane odmiany Pandoran próbują uciec. Co gorsza, stwory są nosicielami nieznanego szczepu wirusa. Musimy powstrzymać ich ucieczkę i zabezpieczyć laboratorium, aby wirus nie mógł się rozprzestrzenić.",
+PROG_CH0_MISS_TITLE,Text,,An unexpected emergency,,意外的紧急情况,Une urgence inattendue,Una emergencia inesperada,Un'emergenza inaspettata,Ein unerwarteter Notfall,Неожиданное чрезвычайное происшествие,Sytuacja awaryjna,
+PROG_CH0_TEXT_GENERAL_0,Text,,"We have received an urgent distress call from an unknown location, warning of a contagion breach. We had better look into it.",,我们收到了从未知地点发来的求救信号，警告说爆发了传染。我们最好去看看。,Nous avons reçu un appel de détresse provenant d'un lieu inconnu qui nous avertit d'un risque de contagion. Nous ferions mieux d'examiner cela.,Hemos recibido una llamada de emergencia desde un lugar desconocido advirtiendo de una fuga vírica. Será mejor que lo investiguemos.,"Abbiamo ricevuto una richiesta di aiuto urgente da una posizione sconosciuta, che ci avvisava di un rischio di contagio. Dobbiamo investigare.","Wir haben einen dringenden Notruf von einem unbekannten Standort erhalten, der vor einer Kontamination warnt. Wir sollten der Sache nachgehen.",Мы получили срочный сигнал о помощи с неизвестной территории: предупреждение о распространении инфекции. Лучше проверить.,"Otrzymaliśmy wezwanie o pomoc z nieznanej placówki, w której rzekomo doszło do naruszenia kwarantanny. Lepiej zbadajmy sprawę.",
+PROG_CH0_TITLE,Text,,Call for Help,,呼救,Appel à l'aide,Llamada de emergencia,Richiesta di aiuto,Hilferuf,Призыв о помощи,Wezwanie o pomoc,
+PROG_CH0_WIN_CHOICE_0_TEXT,Text,,"OK.
+NEW RESEARCH AVAILABLE",,"好的。
+ 新研究可用","D'accord.
+ NOUVELLE RECHERCHE DISPONIBLE","VALE.
+ NUEVA INVESTIGACIÓN DISPONIBLE","OK.
+ NUOVA RICERCA DISPONIBILE","OK.
+NEUE FORSCHUNG VERFÜGBAR","ОК.
+ ДОСТУПНО НОВОЕ ИССЛЕДОВАНИЕ","OK.
+ DOSTĘPNE NOWE BADANIA",
+PROG_CH0_WIN_TEXT_GENERAL_0,Text,,"We have successfully secured the lab and killed the abomination. While details concerning its nature remain unknown, cutting edge genetic equipment has been found in the lab. All functioning equipment has been sent to Phoenix Point.
+
+While the lab will be purged, there is fear that a few Pandoran specimens have managed to escape along with the infection.",,"我们成功占领了实验室，杀死了怪物。尽管有关其本质的细节仍未可知，但我们在实验室发现了尖端基因科技设备。所有机能正常的设备都已经送回了凤凰点。
+
+ 尽管实验室会被净化，但一小部分被感染的潘多拉体成功逃脱，依然令人担忧。","Nous sommes parvenus à sécuriser le laboratoire et à tuer l'abomination. Les détails concernant sa nature restent inconnus, mais nous avons trouvé de l'équipement génétique de pointe dans le laboratoire. Tout le matériel en état de fonctionnement a été envoyé à Phoenix Point.
+ 
+ Nous craignons que quelques spécimens pandoriens porteurs de l'infection aient réussi à s'échapper pendant le nettoyage du laboratoire.","Hemos asegurado con éxito el laboratorio y eliminado la abominación. A pesar de que los detalles que rodean su naturaleza siguen siendo un misterio, hemos encontrado equipo genético de última generación en el laboratorio. Todo el equipo funcional ha sido enviado al Punto Fénix.
+ 
+ A pesar de que el laboratorio ha sido purgado, es posible que algunos especímenes pandorianos hayan logrado escapar, portando con ellos la infección.","Siamo riusciti a mettere in sicurezza il laboratorio e ucciso l'abominio. Non sono ancora chiari i dettagli, ma nel laboratorio è stata trovata attrezzatura per sperimentazione genetica estremamente avanzata. Tutta la strumentazione funzionante è stata inviata a Phoenix Point.
+ 
+ Non abbiamo dubbi sulla purificazione completa del laboratorio, ma temiamo che alcuni esemplari Pandora siano riusciti a fuggire portando con sé l'infezione.","Wir haben das Labor gesichert und das Ziel eliminiert. Details sind noch unklar, aber wir haben modernste Genausrüstung gefunden und zur Basis geschickt. Das Labor wird dekontaminiert, aber wir fürchten, dass einige infizierte Exemplare entkommen sind.","Мы успешно очистили лабораторию и убили выродков. Их природа остается загадкой. В лаборатории обнаружено высокотехнологичное оборудование, все работающие единицы были отправлены в Точку Феникс.
+
+ Лаборатория будет закрыта на карантин, но существует риск, что несколько пандоранов успели сбежать, сея повсюду заразу.","Zabezpieczyliśmy laboratorium i zabiliśmy potwora. Choć nie mamy dokładnych informacji na temat jego natury, placówka była wyposażona w nowoczesną aparaturę do badań genetycznych.
+
+ Laboratorium zostanie oczyszczone, ale istnieją obawy, że kilka Pandoran uciekło wraz z wirusem.",
+PROG_CH0_WIN_TITLE,Text,,Gene Ethics,,基因伦理,Gènes et éthique,Ética genética,Etica genetica,Genetik-Ethik,Этика генетических исследований,Etyka badań genetycznych,
+PROG_CH1_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_CH1_FAIL_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_CH1_FAIL_TEXT_GENERAL_0,Text,,"We have failed to secure the specimen. Whatever the excuses, failure is not an option. In order to succeed in our fight against the corruption, we must find another specimen and try again.",,我们没能抓捕到样本。不管找什么借口，失败都是不能接受的。为了战胜腐化，我们必须要找到足够多的其他样本，从头再来。,"Nous n'avons pas réussi à capturer le spécimen. Quelles que soient les excuses, l'échec n'est pas une option. Pour remporter notre combat contre la Corruption, nous devons trouver un spécimen adéquat et réessayer.","No hemos logrado capturar al espécimen. No importa qué excusa haya, el fracaso no es una opción. Para tener éxito en nuestra lucha contra la corrupción, debemos encontrar otro espécimen adecuado y volver a intentarlo.","Non siamo riusciti a catturare l'esemplare. A prescindere dalle motivazioni, il fallimento non è ammissibile. Per uscire vincitori dalla lotta contro la Corruzione dobbiamo trovare un altro esemplare adeguato e riprovare.","Wir konnten das Exemplar nicht sichern. Aber Aufgeben ist keine Option. Um im Kampf gegen die Verderbnis zu bestehen, müssen wir ein weiteres geeignetes Exemplar finden und einen neuen Versuch wagen.","Нам не удалось поймать образцы. Какие бы ни были отговорки, провал ничего не решит. Чтобы научиться противостоять скверне, мы должны отыскать подходящие образцы и попробовать снова.","Nie zdołaliśmy schwytać stwora. Porażka jest nie do przyjęcia. Aby wygrać walkę ze skażeniem, musimy znaleźć inny odpowiedni okaz i spróbować ponownie.",
+PROG_CH1_FAIL_TITLE,Text,,Temporary Setbacks,,暂时的挫折,Revers temporaires,Contratiempos temporales,Battute d'arresto momentanee,Vorübergehende Rückschläge,Временные препятствия,Chwilowe komplikacje,
+PROG_CH1_MISS_CHOICE_0_TEXT,Text,,START MISSION,,开始任务,COMMENCER LA MISSION,EMPEZAR MISIÓN,AVVIA MISSIONE,MISSION STARTEN,НАЧАТЬ МИССИЮ,ROZPOCZNIJ MISJĘ,
+PROG_CH1_MISS_CHOICE_1_TEXT,Text,,CANCEL,,取消,ANNULER,CANCELAR,ANNULLA,ABBRECHEN,ОТМЕНА,ANULUJ,
+PROG_CH1_MISS_TEXT_GENERAL_0,Text,,"MISSION BRIEFING
+
+We have located one of the escaped lab specimens. It is vital to capture this Achron and kill all Pandorans in the area so we can extract it safely.
+",,"任务概要
+ 
+ 我们已经定位了一个逃脱的实验室样本。我们必须要抓到这只地狱战士，这至关重要。击杀所有的潘多拉体，确保我们可以安全撤离。
+
+ 这只地狱战士必须要抓活的，不惜一切代价！","RÉSUMÉ DE LA MISSION
+ 
+ Nous avons localisé l'un des spécimens qui se sont échappés du laboratoire. Il est vital de capturer cet Acheron. Éliminez tous les Pandoriens de la zone pour que nous puissions l'extraire en toute sécurité.
+ 
+ Cet Acheron doit survivre coûte que coûte !","INSTRUCCIONES DE LA MISIÓN
+ 
+ Hemos localizado a uno de los especímenes que huyeron del laboratorio. Es crucial que capturemos a este Aqueronte. Debemos eliminar a todos los pandorianos de la zona para poder extraerlo de forma segura.
+ 
+ ¡El Aqueronte debe sobrevivir a toda costa!","RIEPILOGO MISSIONE
+ 
+ Abbiamo localizzato uno degli esemplari fuggiti dal laboratorio. È fondamentale che riusciamo a catturare questo Acheron. Uccidi tutti i Pandora nell'area così da prelevarlo in sicurezza.
+ 
+L'Acheron deve sopravvivere a ogni costo!","MISSIONSBRIEFING
+
+Wir haben eines der entflohenen Laborexemplare lokalisiert. Es ist entscheidend, diesen Acheron zu fangen. Wir müssen alle Pandoraner im Gebiet eliminieren, um eine sichere Extraktion zu ermöglichen. Der Acheron muss überleben!","СВОДКА МИССИИ
+
+ Мы обнаружили один из сбежавших образцов. Крайне важно схватить его. Убейте всех пандоранов в округе, чтобы мы могли получить его.
+ 
+Ахерон должен выжить любой ценой!","ODPRAWA
+ 
+ Znaleźliśmy jeden ze stworów, które uciekły z laboratorium. Musimy schwytać tego Acherona. Zabij wszystkich Pandoran na miejscu, abyśmy mogli bezpiecznie wydostać okaz.
+ 
+ Acheron musi przetrwać za wszelką cenę!",
+PROG_CH1_MISS_TITLE,Text,,Experiments Continue...,,实验继续…,Les expériences continuent...,Los experimentos continúan...,Gli esperimenti continuano...,Die Experimente gehen weiter...,Продолжение экспериментов...,Eksperymentów ciąg dalszy...,
+PROG_CH1_TEXT_GENERAL_0,Text,,"We have discovered one of the original Acheron specimens, referred to as ""Specimen 0"",  that escaped from the now destroyed research facility. Capturing it dead or alive is essential if we are to find a cure for the corruption virus.",,我们已经发现了一只地狱战士，它是从那座废弃实验室逃出去的原始样本。如果想要对其进行活体解剖的话，首先得要抓住它。,Nous avons découvert l'un des spécimens Acheron d'origine qui se sont échappés du centre de recherche que nous avons détruit. Le capturer est essentiel si nous voulons trouver un moyen de réaliser une vivisection réussie sur cette créature.,Hemos descubierto uno de los especímenes de Aqueronte originales que huyeron de las instalaciones de investigación destruidas. Su captura es esencial si pretendemos encontrar un modo de realizar con éxito la vivisección de la criatura.,Abbiamo scoperto uno degli esemplari Acheron originali fuggiti dalla struttura ora distrutta. Catturarlo è fondamentale per provare a eseguire con successo una vivisezione della creatura.,"Wir haben eines der ursprünglichen Acheron-Exemplare („Subjekt 0“) entdeckt, das aus der zerstörten Einrichtung entkommen ist. Der Zugriff ist essenziell, um durch eine Vivisektion ein Heilmittel gegen den Verderbnisvirus zu finden.","Мы обнаружили одного из первоначальных образцов, сбежавшего из разрушенной лаборатории. Его поимка чрезвычайно важна, так как мы должны найти способ провести успешную вивисекцию этого существа.","Odkryliśmy jeden z pierwotnych Acheronów, które uciekły ze zniszczonej placówki badawczej. Musimy go schwytać, jeśli chcemy znaleźć sposób na przeprowadzenie udanej wiwisekcji stwora.",
+PROG_CH1_TITLE,Text,,One to Go,,只差一个,Plus qu'un restant,Solo uno más,Ne serve uno,Einer noch,Первый пошел,Przygotowanie do wiwisekcji,
+PROG_CH1_WIN_CHOICE_0_TEXT,Text,,"OK.
+NEW RESEARCH AVAILABLE",,"好的。
+ 新研究可用","D'accord.
+ NOUVELLE RECHERCHE DISPONIBLE","VALE.
+ NUEVA INVESTIGACIÓN DISPONIBLE","OK.
+ NUOVA RICERCA DISPONIBILE","OK.
+NEUE FORSCHUNG VERFÜGBAR","ОК.
+ ДОСТУПНО НОВОЕ ИССЛЕДОВАНИЕ","OK.
+ DOSTĘPNE NOWE BADANIA",
+PROG_CH1_WIN_TEXT_GENERAL_0,Text,,"We have successfully secured the Acheron ""Specimen 0"" and transported it back to base. Research into the species' inner workings can finally begin.",,我们已经成功抓捕了这只地狱战士并将其转移到了基地。研究这个物种的内部工作终于可以开始了。,Nous avons capturé le spécimen Acheron et nous l'avons transporté à la base. L'examen de son fonctionnement interne peut enfin commencer.,Hemos logrado capturar el espécimen de Aqueronte con éxito y lo hemos transportado de vuelta a la base. Al fin podrá comenzar la investigación de los secretos internos de esta especie.,Siamo riusciti a catturare un esemplare di Acheron e a trasportarlo alla base. Finalmente possiamo iniziare a studiare come funziona questa creatura.,Wir haben das Acheron-Exemplar einfangen und zur Basis zurück transportieren können. Endlich können wir mit der Erforschung seines Innenlebens beginnen.,Наконец мы поймали ахерона и перевезли на базу. Исследования внутренних систем этого вида теперь пойдут полным ходом.,Schwytaliśmy Acherona i przenieśliśmy go do bazy. W końcu możemy rozpocząć badania nad organizmem tego gatunku.,
+PROG_CH1_WIN_TITLE,Text,,Crucial Success!,,重大成功！,Succès crucial !,¡Gran éxito!,Successo decisivo!,Entscheidender Erfolg!,Ключевой успех!,Ważny sukces!,
+PROG_CH2_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_CH2_FAIL_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_CH2_FAIL_TEXT_GENERAL_0,Text,,The attempt to obtain an unadulterated corruption sample has ended in failure. If we want to get rid of this plague we must double our efforts and try again.,,未能成功获取纯净的腐化样品。如果我们想要消除这场瘟疫，只能加倍努力，继续尝试。,"La tentative d'obtenir un échantillon de corruption pur a échoué. Si nous voulons purger ce fléau, nous devons redoubler nos efforts.","El intento de obtener una muestra de corrupción sin adulterar ha fracasado. Si queremos deshacernos de esta plaga, debemos multiplicar nuestros esfuerzos e intentarlo de nuevo.","Il tentativo di ottenere un campione non adulterato della corruzione è fallito. Se vogliamo liberarci di questa piaga, dobbiamo moltiplicare gli sforzi e provarci di nuovo.","Wir konnten keine reine Verderbnisprobe sichern. Wenn wir diese Bedrohung eindämmen wollen, müssen wir unsere Anstrengungen verstärken und es erneut versuchen.","Попытка добыть незрелую особь провалилась. Если хотим очистить эту скверну, мы должны удвоить наши усилия и попробовать снова.","Próba pozyskania nienaruszonej próbki skażenia zakończyła się niepowodzeniem. Jeśli chcemy zlikwidować tę zarazę, musimy podwoić starania i spróbować ponownie.",
+PROG_CH2_FAIL_TITLE,Text,,The Nightmare Continues,,噩梦继续,Le cauchemar continue,La pesadilla continúa,L'incubo continua,Der Albtraum geht weiter,Продолжение кошмара,Koszmaru ciąg dalszy,
+PROG_CH2_MISS_CHOICE_0_TEXT,Text,,START MISSION,,开始任务,COMMENCER LA MISSION,INICIAR MISIÓN,AVVIA MISSIONE,MISSION STARTEN,НАЧАТЬ МИССИЮ,ROZPOCZNIJ MISJĘ,
+PROG_CH2_MISS_CHOICE_1_TEXT,Text,,CANCEL,,取消,ANNULER,CANCELAR,ANNULLA,ABBRECHEN,ОТМЕНА,ANULUJ,
+PROG_CH2_MISS_TEXT_GENERAL_0,Text,,"MISSION BRIEFING
+
+Our scouts have found a lair that has been occupied by an Acheron. Our goal is simple - destroy the corrupted Spawnery so we can collect a pure sample of the corruption virus from it.
+
+SUPPLEMENTARY: Synedrion operatives have been sighted entering the location. They might be of assistance to our mission.",,"任务概要
+ 
+ 我们的侦查员发现了一个被地狱战士占领的巢穴。我们的目标很简单，摧毁腐化的繁殖厂，这样我们就可以从中收集病毒的纯净样本。
+
+ 补充信息：有人看到平衡议会的特工进入了那个地方。他们可能会对我们的任务有所帮助。","RÉSUMÉ DE LA MISSION
+ 
+ Nos éclaireurs ont trouvé une tanière occupée par un Acheron. Notre objectif est simple : détruire l'écloserie corrompue pour collecter un échantillon pur du virus.
+ 
+ COMPLÉMENT : les agents du Synédrion ont été vus sur le site en train de pénétrer l'enceinte. Ils pourraient être utiles à notre mission.","INFORME DE LA MISIÓN
+ 
+ Nuestros exploradores han encontrado una guarida ocupada por un Aqueronte. El objetivo es sencillo: destruir la engendradora corrupta para obtener de ella una muestra pura del virus.
+ 
+ COMPLEMENTARIO: Se ha avistado a operativos de Synedrion entrando a la ubicación. Podrían ser de ayuda para llevar a buen puerto la misión.","RIEPILOGO MISSIONE
+ 
+ I nostri ricognitori hanno trovato una tana occupata da un Acheron. Il nostro obiettivo è semplice: distruggere l'incubatrice corrotta in modo da raccogliere da essa un campione puro di virus.
+ 
+ ADDENDUM: degli agenti Synedrion sono stati avvistati mentre entravano nel sito. Potrebbero assisterci nella nostra missione.","MISSIONSBRIEFING
+
+Unsere Aufklärer haben einen Bau entdeckt, der von einem Acheron besetzt ist. Unser Ziel: Den verderbnisbefallenen Brutstock zerstören und eine reine Virusprobe sichern.
+
+ZUSATZ: Wir haben Synedrion-Einsatzkräfte vor Ort gesichtet. Sie könnten unsere Mission unterstützen.","СВОДКА МИССИИ
+
+ Наши разведчики обнаружили логово, в котором обитает Ахерон. Цель проста — уничтожить источник скверны, чтобы найти чистый образец вируса.
+ 
+ ПРИМЕЧАНИЕ! В этом месте были замечены оперативники Синедриона. Их помощь могла бы нам пригодиться.","ODPRAWA MISJI 
+ 
+ Nasi zwiadowcy znaleźli legowisko zajmowane przez Acherona. Nasz cel jest prosty – zniszczyć to miejsce, abyśmy mogli pobrać z niego czystą próbkę wirusa.
+ 
+ UZUPEŁNIAJĄCE: Wykryto agentów Synedrionu wchodzących do lokacji. Mogą być pomocni w naszej misji.",
+PROG_CH2_MISS_TITLE,Text,,Corrupted Lair,,腐化巢穴,Tanière corrompue,Guarida corrupta,Tana corrotta,Verderbnisbefallener Bau,Логово скверны,Skażone Legowisko,
+PROG_CH2_TEXT_GENERAL_0,Text,,"We have found a lair which has become the host of the primary Acheron lab specimen. In order to devise a permanent cure against the corruption strain we must infiltrate the Pandoran Lair and obtain a sample from the Spawnery - after killing it, of course.",,我们找到了精英地狱战士实验室样本的大巢穴。要想找到根治腐化毒株的办法，我们必须要击杀这些潘多拉体，进入他们的巢穴，从它们的孵化点获取样本。,"Nous avons trouvé la tanière du principal spécimen d'Acheron du laboratoire. Afin d'élaborer un remède permanent pour la souche Corruption, nous devons nous infiltrer dans le nid pandorien et obtenir un échantillon de l'écloserie de la Tanière – après l'avoir éliminé bien entendu.","Hemos encontrado la guarida principal del espécimen de Aqueronte del laboratorio. Para concebir una cura permanente para la cepa de corrupción, debemos infiltrarnos en el nido pandoriano y obtener una muestra de la incubadora de la guarida... tras su muerte, por supuesto.","Abbiamo trovato la tana dell'esemplare originale del laboratorio. Se vogliamo trovare una cura definitiva per il ceppo della corruzione dobbiamo infiltrare il nido Pandora e ottenere un campione dall'incubatrice della tana, chiaramente dopo essercene liberati.","Wir haben den Bau des primären Acheron-Exemplars gefunden. Für ein dauerhaftes Heilmittel gegen den Verderbnisstamm müssen wir in den Bau eindringen und eine Probe aus dem Brutstock sichern – natürlich erst, nachdem wir das Exemplar eliminiert haben.","Мы обнаружили логово первоначального ахерона. Чтобы разработать вакцину от штамма скверны, мы должны проникнуть в гнездо пандорана и добыть образец из инкубатора (сперва убив его, конечно же).","Znaleźliśmy leżę pierwszego Acherona z laboratorium. Aby opracować rozwiązanie, które pozwoli trwale pozbyć się zagrożenia ze strony skażenia, musimy wejść do pandorańskiego gniazda i pozyskać próbkę z wylęgarni w leżu – rzecz jasna po zabiciu potwora.",
+PROG_CH2_TITLE,Text,,The Final Push,,临门一脚,Le dernier effort,El último empujón,Un ultimo sforzo,Endspurt,Последний рывок,Ostatni krok,
+PROG_CH2_WIN_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_CH2_WIN_TEXT_GENERAL_0,Text,,Our mission was a glorious success! Now the final ingredient for devising a permanent cure for the corruption strain is in our hands.,,我们的任务非常成功！根治腐化毒株的方法已经尽在掌握。,Notre mission est une véritable réussite ! Le dernier ingrédient d'un remède permanent contre la souche Corruption est entre nos mains. ,¡La misión ha sido todo un éxito! El ingrediente final para la cura permanente de la cepa de corrupción está en nuestras manos. ,La nostra missione è stata un grande successo! L'ingrediente finale per una cura permanente contro il ceppo della corruzione è ora nelle nostre mani. ,"Die Mission war erfolgreich. Wir haben nun die letzte Komponente, um ein dauerhaftes Heilmittel gegen den Verderbnisstamm zu entwickeln.",Наша миссия увенчалась небывалым успехом! Последний элемент для создания вакцины от штамма скверны в наших руках. ,Nasza misja zakończyła się powodzeniem! Pozyskaliśmy ostatni element potrzebny do znalezienie trwałego rozwiązania na problem skażenia.,
+PROG_CH2_WIN_TITLE,Text,,Back to Normal,,回归正常,Retour à la normale,De vuelta a la normalidad,Ritorno alla normalità,Zurück zur Normalität,Возвращение к нормальной жизни,Powrót do normalności,
+PROG_CH_NEED_LAIR_CHOICE_0_TEXT,Text,,OK.,,,,,,OK.,,,
+PROG_CH_NEED_LAIR_TEXT_GENERAL_0,Text,,"Our research has found that the original Acheron specimen sought a Pandoran colony in order to integrate with it and spread the corruption virus further. If we are to continue with our research on a cure, we will need to locate such a Pandoran colony and investigate.",,我们的研究发现，最初的地狱战士样本让我们迫切需要寻找潘多兰殖民地并与之融合，以进一步传播腐化病毒。为了继续研究解药，我们需要找到这样一个潘多兰殖民地开展调查。,"Nos recherches ont montré que les premiers spécimens d'Acheron sont dotés du besoin de trouver une colonie pandorienne pour s'y intégrer et répandre le virus de corruption. Afin de continuer nos recherches pour trouver un remède, nous devons trouver l'une de ces colonies pandoriennes et mener l'enquête.","Nuestra investigación ha observado que el espécimen original de Aqueronte tiene el instinto de encontrar una colonia pandoriana e integrarse a ella para seguir esparciendo el virus de corrupción. Para continuar con la investigación sobre una posible cura, tendremos que localizar dicha colonia pandoriana y estudiarla.","Le nostre ricerche hanno confermato che l'esemplare originale di Acheron è stato dotato dell'impulso di trovare una colonia Pandora e integrarsi in essa per diffondere ulteriormente il virus di corruzione. Per poter continuare le nostre ricerche su una cura, dovremo localizzare una colonia Pandora del genere e investigare.","Unsere Analyse bestätigt, dass das Acheron-Exemplar instinktiv eine Pandoraner-Kolonie sucht, um sich zu integrieren und das Virus zu verbreiten. Um die Forschung am Heilmittel fortzusetzen, müssen wir eine solche Kolonie finden und untersuchen.","Наши исследования показали, что в первых особей Ахерона было заложено стремление найти колонию пандоранов и объединиться с ней с целью дальнейшего распространения вируса скверны. Чтобы продолжить наши исследования по поиску лекарства, мы должны найти такую колонию пандоранов и внимательно ее изучить.","Nasze badania wykazały, że oryginalne okazy Acheronów otrzymały chęć odnalezienia kolonii Pandoranów i zintegrowania się z nią w celu dalszego rozprzestrzeniania wirusa skażenia. Aby kontynuować badania nad lekiem, musimy zlokalizować taką kolonię i zbadać ją.",
+PROG_CH_NEED_LAIR_TITLE,Text,,Further Research,,进一步研究,Recherches approfondies,Más investigación,Ulteriori ricerche,Weitere Forschung,Дальнейшие исследования,Dalsze badania,
+PROG_CH_SPECIMEN0_HINT_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_CH_SPECIMEN0_HINT_TEXT_GENERAL_0,Text,,"Despite our best efforts the finding a cure to the new corruption strain ended in failure. Apparently, the virus in all newer specimens has mutated to such a degree that it is useless for our needs. In order to be successful, we need to find one of the original specimens that escaped from the Lab.",,尽管我们已竭尽全力，寻找治愈新腐化毒株的方法，可最终还是失败了。显然，这种寄宿在所有新样本中的病毒已经变异了，现在对我们来说毫无用处。如果想成功，我们需要找回实验室泄露的原始样本。,"Malgré nos efforts pour trouver un remède contre la nouvelle souche de corruption, c'est un échec. Apparemment, le virus de tous les nouveaux spécimens a tellement muté qu'il ne nous sert à rien. Pour réussir, nous devons trouver l'un des premiers spécimens qui se sont échappés du laboratoire.","A pesar de nuestros mayores esfuerzos, no hemos logrado hallar una cura para la nueva cepa de corrupción. Al parecer, el virus de todos los especímenes nuevos ha mutado tanto que no sirve para satisfacer nuestras necesidades. Para obtener los resultados que queremos, tenemos que encontrar uno de los especímenes originales que huyeron del laboratorio.","Nonostante i nostri sforzi, la ricerca di una cura per il nuovo ceppo di corruzione è fallita. A quanto pare, tutti i nuovi esemplari di virus sono mutati a tal punto da essere inutili per i nostri scopi. Per riuscire nel nostro intento, dobbiamo trovare uno degli esemplari originali che sono fuggiti dal laboratorio.","Trotz aller Bemühungen ist die Suche nach einem Heilmittel gegen den neuen Verderbnisstamm gescheitert. Offenbar hat sich das Virus in allen neueren Exemplaren so stark verändert, dass es für unsere Zwecke unbrauchbar ist. Um Erfolg zu haben, müssen wir eines der ursprünglichen Exemplare finden, das aus dem Labor entkommen ist.","Несмотря на все наши усилия, попытки найти лекарство от нового штамма скверны не увенчались успехом. По всей видимости, во всех новых особях вирус мутировал настолько, что найти ему применение стало невозможным. Чтобы обернуть ситуацию в свою сторону, мы должны найти одну из первых особей, сбежавших из лаборатории.","Pomimo naszych najlepszych starań próby wynalezienia lekarstwa na nowy szczep skażenia zakończyły się niepowodzeniem. Najwyraźniej wirus we wszystkich nowszych gatunkach zmutował się do tego stopnia, że jest bezużyteczny dla naszych potrzeb. Aby odnieść sukces, musimy znaleźć jeden z oryginalnych gatunków, które wydostały się z laboratorium.",
+PROG_CH_SPECIMEN0_HINT_TITLE,Text,,Corruption Cure Research Failure,,腐化治愈研究失败,Échec des recherches du remède contre la corruption,Investigación sobre la cura para la corrupción infructuosa,Ricerca di una cura per la corruzione fallita,Forschung an Heilung gegen den Verderbnisstamm gescheitert,Поиски лекарства от скверны завершились неудачей,Nieudane badania nad lekarstwem na skażenie,

@@ -1,0 +1,472 @@
+Key,Type,Desc,English,UI_Tester,Chinese,French,Spanish,Italian,German,Russian,Polish,0
+PROG_LE0_CHOICE_0_TEXT,Text,,Perhaps she will join us when free.,,或许当她获得自由后会加入我们。,Elle nous rejoindra peut-être quand elle sera libre.,Puede que se una a nosotros cuando esté libre.,Forse si unirà a noi una volta libera.,Nach ihrer Befreiung könnten wir sie für das Projekt rekrutieren.,"Возможно, она присоединится к нам, когда мы ее освободим.","Może do nas dołączy, gdy odzyska wolność.",
+PROG_LE0_FAIL_CHOICE_0_TEXT,Text,,Yes.,,是。,Oui.,Sí.,Sì.,Ja.,Да.,Tak.,
+PROG_LE0_FAIL_TEXT_GENERAL_0,Text,,"We failed. Our sources report Dr. Lewandowski was hospitalized, and is expected to recover. We owe it to the world to try again.",,我们失败了。据消息来源透露，莱万多夫斯基博士已经入院就医，有望康复。我们应该再试一次，这是我们欠这个世界的。,"Nous avons échoué. Nos sources rapportent que le Dr Lewandowski a été hospitalisée et devrait se rétablir. Nous devons réessayons, pour le monde entier.",Hemos fracasado. Nuestras fuentes indican que la Dra. Lewandowski ha sido hospitalizada y se espera que se recupere. Le debemos al mundo un segundo intento.,"Abbiamo fallito. Le nostre fonti riferiscono che la dott.ssa Lewandowski è stata ricoverata in ospedale, ma per fortuna si riprenderà. Abbiamo il dovere di riprovarci, per il mondo.","Wir haben versagt. Unsere Quellen melden, dass Dr. Lewandowski ins Krankenhaus eingeliefert wurde und auf dem Weg der Besserung ist. Wir schulden es der Welt, es noch mal zu versuchen.","Мы провалили задание. Наши источники сообщают, что доктор Левандовски была госпитализирована и, как ожидается, идет на поправку. Ради всего мира мы обязаны попробовать еще раз.","Zawiedliśmy. Według naszych źródeł dr Lewandowska trafiła do szpitala, ale jej rokowania są dobre. Jesteśmy światu winni podjęcie ponownej próby jej odbicia.",
+PROG_LE0_FAIL_TITLE,Text,,Maximum Security,,最高戒备,Sécurité maximale,Máxima seguridad,Sicurezza massima,Maximale Sicherheit,Усиленный режим,Maksymalny poziom zabezpieczeń,
+PROG_LE0_MISS_CHOICE_0_TEXT,Text,,START MISSION,,开始任务,COMMENCER LA MISSION,EMPEZAR MISIÓN,AVVIA MISSIONE,MISSION STARTEN,НАЧАТЬ МИССИЮ,ROZPOCZNIJ MISJĘ,
+PROG_LE0_MISS_CHOICE_1_TEXT,Text,,CANCEL,,取消,ANNULER,CANCELAR,ANNULLA,ABBRECHEN,ОТМЕНА,ANULUJ,
+PROG_LE0_MISS_TEXT_GENERAL_0,Text,,"MISSION BRIEFING
+
+Our latest intelligence suggests that New Jericho is keeping Dr. Lewandowski in a high security lab. Secure the compound, so that we can get the doctor and her invaluable work out of the hands of Tobias West.",,"任务概要
+ 
+ 我们最新的情报表明，新耶利哥将莱万多夫斯基博士关在了一间高度安全的实验室中。占领建筑群，从托拜厄斯·韦斯特手中救出博士和她宝贵的工作成果。","RÉSUMÉ DE LA MISSION
+ 
+ Notre dernier rapport sur la situation suggère que la Nouvelle-Jéricho garde le Dr Lewandowski dans un laboratoire de haute sécurité. Sécurisez le complexe pour que nous puissions récupérer le docteur et son travail inestimable des mains de Tobias West.","INSTRUCCIONES DE LA MISIÓN
+ 
+ Nuestro último informe indica que Nueva Jericó tiene a la Dra. Lewandowski en un laboratorio de alta seguridad. Asegura el complejo para que podamos sacar a la doctora, así como su trabajo de valor incalculable, de las manos de Tobias West.","RIEPILOGO MISSIONE
+ 
+ Il nostro ultimo rapporto di intelligence indica che Nuova Gerico tiene la dott.ssa Lewandowski in un laboratorio di massima sicurezza. Ottieni il controllo del complesso, così che potremo sottrarre la dottoressa e il suo lavoro inestimabile dalle grinfie di Tobias West.","MISSIONSBRIEFING
+ 
+Unserem jüngsten Geheimbericht zufolge hat Neu-Jericho Dr. Lewandowski in einem Hochsicherheitslabor untergebracht. Sichere die Anlage, damit wir sie und ihre unschätzbar wertvolle Arbeit Tobias Wests Händen entreißen können.","ОПИСАНИЕ МИССИИ
+
+ Согласно нашему последнему отчету разведки, Новый Иерихон держит доктора Левандовски в лаборатории с усиленным режимом безопасности. Обезопасьте территорию, чтобы мы могли вырвать доктора и ее бесценную работу из рук Тобиаса Уэста.","ODPRAWA
+ 
+ Zgodnie z naszymi najnowszymi informacjami wywiadowczymi Nowe Jerycho przetrzymuje dr Lewandowską w bardzo dobrze zabezpieczonym laboratorium. Zabezpieczcie kompleks, abyśmy mogli odbić panią doktor i odzyskać jej bezcenną pracę z rąk Tobiasa Westa.",
+PROG_LE0_MISS_TITLE,Text,,Saving Helena,,营救海伦娜,Sauver Helena,Salvando a Helena,Il salvataggio di Helena,Helenas Rettung,Спасение Хелены,Na ratunek Helenie,
+PROG_LE0_TEXT_GENERAL_0,Text,,"Dr. Helena Lewandowski was considered to be the world's foremost scientist of pre-historic archaeology. We recently located her whereabouts at a secretive New Jericho facility, and we have reasons to believe she is held there against her will.",,海伦娜·莱万多夫斯基博士是世界上最杰出的史前考古学科学家。我们最近在新耶利哥的一个秘密设施中发现了她的行踪，而且我们有理由相信她是被强行关押在了那里。,Le Dr Helena Lewandowski était considérée comme la plus grande scientifique internationale dans le domaine de l'archéologie préhistorique. Nous avons récemment localisé sa position dans une installation secrète de la Nouvelle-Jéricho et nous avons des raisons de croire qu'elle y est retenue contre son gré.,La Dra. Helena Lewandowski era considerada una de las científicas más importantes del mundo en el ámbito de la arqueología prehistórica. Hace poco localizamos su paradero en unas instalaciones secretas de Nueva Jericó y tenemos motivos para creer que está retenida en ese lugar en contra de su voluntad.,"La dott.ssa Helena Lewandowski era considerata la prima scienziata al mondo nell'abito dell'archeologia preistorica. Di recente abbiamo localizzato la sua posizione in una struttura riservata di Nuova Gerico, e abbiamo ragione di credere che la stiano trattenendo contro la sua volontà.","Dr. Helena Lewandowski gilt als weltweit führende Expertin für prähistorische Archäologie. Wir haben ihren Standort in einer geheimen Einrichtung von Neu-Jericho lokalisiert. Die Daten deuten darauf hin, dass sie dort gegen ihren Willen festgehalten wird.","Доктор Хелена Левандовски считалась ведущим в мире ученым в области доисторической археологии. Недавно мы установили ее местонахождение на секретном объекте Нового Иерихона, и у нас есть основания полагать, что она содержится там против своей воли.","Dr Helena Lewandowska jest uznana za największą specjalistkę od archeologii przedpotopowej na świecie. Niedawno udało nam się ją zlokalizować w ośrodku Nowego Jerycha. Sądzimy, że jest tam przetrzymywana wbrew swej woli.",
+PROG_LE0_TITLE,Text,,Stirring the Past,,唤起往昔,Les remous du passé,Removiendo el pasado,Riscoprire il passato,Die Vergangenheit regt sich.,Бередить раны прошлого,Grzebanie w przeszłości,
+PROG_LE0_WIN_CHOICE_0_TEXT,Text,,"OK.
+NEW RESEARCH AVAILABLE",,"好的。
+ 新研究可用","D'accord.
+ NOUVELLE RECHERCHE DISPONIBLE","VALE.
+ NUEVA INVESTIGACIÓN DISPONIBLE","OK.
+ NUOVA RICERCA DISPONIBILE","OK.
+NEUE FORSCHUNG VERFÜGBAR","ОК.
+ ДОСТУПНО НОВОЕ ИССЛЕДОВАНИЕ","OK.
+ DOSTĘPNE NOWE BADANIA",
+PROG_LE0_WIN_TEXT_GENERAL_0,Text,,"With Dr. Lewandowski onboard, we can delve into the secrets of the past. She believes an enigmatic precursor civilization once existed on Earth, its ruins scattered around the globe.
+
+A facility for the study of Antediluvian Archaeology can be of use to discover the ruins of this precursor civilization. Our hope is the ancient secrets we uncover can aid in stopping the Pandoran threat.",,"有了莱万多夫斯基博士的帮助，我们可以探究过去的秘密了。她认为地球上曾经存在过一个神秘的先驱文明，而这个文明的废墟如今散落在这个星球的各个地方。
+  
+  研究远古考古学的设施可帮助我们探索这个先驱文明的废墟。希望我们所发现的这些古代秘密能够帮助我们阻止潘多拉体的威胁。","Avec le Dr Lewandowski à bord, nous pouvons plonger dans les secrets du passé. Elle est convaincue qu'une civilisation énigmatique précurseur a jadis existé sur Terre, ses ruines disséminées aux quatre coins du globe.
+ 
+ Un centre pour l'étude de l'archéologie antédiluvienne peut être utilisé pour découvrir les ruines de cette civilisation. Nous avons espoir que les secrets anciens que nous découvrirons pourront nous aider à réprimer la menace pandorienne.","Ahora que la Dra. Lewandowski está con nosotros, podemos indagar en los secretos del pasado. La doctora cree que existió una enigmática civilización precursora en la Tierra cuyas ruinas se esparcieron por todo el mundo.
+
+ Nos vendría bien tener unas instalaciones destinadas al estudio de la arqueología antediluviana para descubrir las ruinas de esta civilización precursora. Tenemos la esperanza de que los secretos antiguos que descubramos nos ayuden a detener la amenaza pandoriana.","Con l'aiuto della dott.ssa Lewandowski potremo immergerci nel passato e scoprire i suoi segreti. La dottoressa crede in un'enigmatica civiltà di precursori che un tempo popolava la terra e le cui rovine sono sparse per tutto il globo.
+  
+  Potrebbe servirci una struttura per studiare l'archeologia antidiluviana e scoprire le rovine di questa civiltà di precursori. Speriamo che gli antichi segreti che scopriremo possano aiutarci a fermare la minaccia Pandora.","Nun, da wir Dr. Lewandowski an Bord haben, können wir in die Geheimnisse der Vergangenheit eintauchen. Sie ist der Ansicht, dass es auf der Erde einst eine rätselhafte Vorläuferzivilisation gab, deren Ruinen auf dem ganzen Globus verstreut sind.
+ 
+Eine Anlage für das Studium der vorzeitlichen Archäologie könnte uns für das Aufspüren von Ruinen dieser vergangenen Zivilisation nützlich sein. Unsere Hoffnung ist, dass uns die uralten Geheimnisse, die wir enthüllen, dabei helfen können, der pandoranischen Bedrohung Herr zu werden.","Вместе с доктором Левандовски мы сможем погрузиться в секреты прошлого. Она считает, что на Земле когда-то существовала загадочная предшествующая цивилизация, а ее руины разбросаны по всему миру.
+  
+ Лаборатория для изучения допотопной археологии может быть полезна для обнаружения руин этой цивилизации. Мы надеемся, что обнаруженные нами древние секреты смогут остановить угрозу Пандоранов.","Dr Lewandowska już do nas dołączyła, dzięki czemu możemy zacząć zgłębiać tajemnice przeszłości. Pani doktor wierzy, że Ziemię zamieszkiwała niegdyś przedpotopowa cywilizacja, a pozostałe po niej ruiny można znaleźć na całym świecie.
+ 
+ W odkrywaniu tych ruin pomoże nam ośrodek wyspecjalizowany w archeologii przedpotopowej. Mamy nadzieję, że pradawne tajemnice pomogą nam powstrzymać zagrożenie ze strony Pandoran.",
+PROG_LE0_WIN_TITLE,Text,,Helena Saved,,海伦娜已救出,Helena sauvée,Helena ha sido salvada,Helena salvata,Helena gerettet,Хелена спасена,Helena uratowana,
+PROG_LE1_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_LE1_FAIL_CHOICE_0_TEXT,Text,,Yes.,,是。,Oui.,Sí.,Sì.,Ja.,Да.,Tak.,
+PROG_LE1_FAIL_TEXT_GENERAL_0,Text,,"The Phoenix Project can be deterred, but not stopped. We will try again.",,凤凰计划也许会受阻，但绝不会停滞不前。我们会再次尝试的。,"Le Projet Phoenix peut être rebuté, mais pas arrêté. Nous réessaierons.","Es posible disuadir al Proyecto Fénix, pero no detenerlo. Volveremos a intentarlo.","Il Progetto Phoenix può essere intralciato, ma non fermato. Riproveremo.","Das Phoenix-Projekt kann verzögert, aber nicht aufgehalten werden. Wir versuchen es erneut.","Проект Феникс можно сдержать, но нельзя остановить. Мы попытаемся снова.","Projekt Phoenix można odstraszyć, ale nie powstrzymać. Spróbujemy ponownie.",
+PROG_LE1_FAIL_TITLE,Text,,The Mattock Denied,,鹤嘴锄失败,Le hoyau refusé,El azadón perdido,Il Piccone negato,Mattock verweigert,Без кирки,Brak dostępu do oskarda,
+PROG_LE1_MISS_CHOICE_0_TEXT,Text,,START MISSION,,开始任务,COMMENCER LA MISSION,EMPEZAR MISIÓN,AVVIA MISSIONE,MISSION STARTEN,НАЧАТЬ МИССИЮ,ROZPOCZNIJ MISJĘ,
+PROG_LE1_MISS_CHOICE_1_TEXT,Text,,CANCEL,,取消,ANNULER,CANCELAR,ANNULLA,ABBRECHEN,ОТМЕНА,ANULUJ,
+PROG_LE1_MISS_TEXT_GENERAL_0,Text,,"MISSION BRIEFING
+
+Bandits dwell in the ruins of this city. A great collector lived and died here decades ago. Search the ruins for the Antediluvian schemata.",,"任务概要
+ 
+ 曾经伟大城市的废墟中四处驻扎着强盗。几十年前，一位伟大的收藏家曾在那里生活并逝去。搜索废墟，寻找远古图纸。","RÉSUMÉ DE LA MISSION
+ 
+ Des bandits occupent les ruines d'une cité autrefois formidable. Un grand collectionneur y a vécu et trouvé la mort il y a des dizaines d'années. Cherchez une collection de schémas antédiluviens dans les ruines.","INSTRUCCIONES DE LA MISIÓN
+ 
+ Los bandidos residen en las ruinas de la que antaño era una gran ciudad. Un gran coleccionista vivió y murió ahí hace décadas. Busca una colección de diagramas antediluvianos en las ruinas.","RIEPILOGO MISSIONE
+ 
+ I banditi vivono nelle rovine di una grande città del passato. Un collezionista eminente visse e morì in questo luogo. Ispeziona le rovine per trovare una raccolta di schemi antidiluviani.","MISSIONSBRIEFING
+ 
+Banditen hausen in den Ruinen einer einst großen Stadt. Ein großer Sammler lebte und starb dort vor Jahrzehnten. Durchsuche die Ruinen nach einer Sammlung vorzeitlicher Pläne.","ОПИСАНИЕ МИССИИ
+
+ Бандиты обитают в руинах некогда великого города. Десятилетия назад здесь жил и умер великий коллекционер. Обыщите руины ради коллекции допотопных схем.","ODPRAWA
+ 
+ Ruiny niegdyś wielkiego miasta zamieszkują bandyci. Dekady temu mieszkał tu i zmarł pewien wspaniały kolekcjoner. Przeszukajcie ruiny w poszukiwaniu zbioru przedpotopowych planów.",
+PROG_LE1_MISS_TITLE,Text,,The Mattock,,鹤嘴锄,Le hoyau,El azadón,Il Piccone,Operation Mattock,Кирка,Oskard,
+PROG_LE1_TEXT_GENERAL_0,Text,,"We are not the first to seek the secrets of the Antediluvian Civilization. Throughout history, great collectors have prized surviving texts and schemata of Antediluvian origin. Today, some of these collections lie forgotten in the ruins of our own pre-Pandoravirus cities. Others are in the hands of the Disciples of Anu, New Jericho, and Synedrion. We need them, if we are to succeed against the Pandoran threat.
+
+Our research indicates one such collection, which describes a weapon of staggering simplicity and effectiveness, is located in a city not far from our base. Further investigation is a priority.",,"我们并不是第一批探寻远古文明秘密的人。纵观历史，伟大的收藏家都很珍视现存的远古族遗留文本和图纸。如今，其中一些收藏品被遗忘在潘多拉病毒爆发前的城市废墟中。其他一些分别落入了安努门徒教会、新耶利哥和平衡议会手中。我们如果想要战胜潘多拉体的威胁，就需要这些圣物。
+
+ 研究表明，在离我们基地不远的城市中就有这样一件藏品，是一种十分简单且有效的武器。当务之急是进行深入调查。","Nous ne sommes pas les premiers à chercher les secrets de la civilisation antédiluvienne. Depuis toujours, de grands collectionneurs prisent les textes et les schémas d'origine antédiluvienne qui ont survécu. Aujourd'hui, certaines de ces collections sont oubliées dans les ruines de nos villes d'avant le Pandoravirus. D'autres sont aux mains des Disciples d'Anu, de la Nouvelle-Jéricho et du Synédrion. Il nous les faut si nous voulons anéantir la menace pandorienne.
+ 
+ Nos recherches montrent qu'une de ces collections, décrite comme une arme d'une simplicité et d'une efficacité stupéfiantes, a été localisée dans une ville proche de notre base. Nous devons enquêter immédiatement.","No somos los primeros en buscar los secretos de la civilización antediluviana. A lo largo de la historia, muchos coleccionistas han buscado los preciados textos y diagramas de origen antediluviano que han sobrevivido al paso del tiempo. Hoy en día, algunas de esas colecciones yacen olvidadas en las ruinas de las ciudades previas al Pandoravirus, mientras que otras están en manos de los Discípulos de Anu, Nueva Jericó y Synedrion. Los necesitamos si queremos tener éxito ante la amenaza pandoriana.
+ 
+ Nuestra investigación indica que una de esas colecciones, en la cual se describe un arma de increíble simplicidad y efectividad, se encuentra en una ciudad cercana a nuestra base. Es prioritaria continuar con la investigación.","Non siamo i primi che cercano di scoprire i segreti della civiltà antidiluviana. Nel corso della storia, collezionisti eminenti hanno ottenuto testi e schemi di origine antidiluviana sopravvissuti alla prova del tempo. Oggi, alcune di queste raccolte giacciono dimenticate nelle rovine delle città erette in tempi che precedono la venuta del Pandoravirus, mentre altre sono state recuperate dai Discepoli di Anu, da Nuova Gerico e da Synedrion. Dobbiamo ottenerle se vogliamo eliminare la minaccia Pandora.
+ 
+ La nostra ricerca indica che una raccolta riguardante un'arma di grande semplicità ed efficacia si trova in una città vicino alla nostra base. Svolgere ulteriori indagini è una priorità.","Wir sind nicht die Ersten auf der Suche nach den Geheimnissen der vorzeitlichen Zivilisation. Im Laufe der Geschichte haben Archivare Texte und Pläne vorzeitlichen Ursprungs bewahrt. Einige dieser Sammlungen liegen heute in den Ruinen der alten Städte, andere unter der Kontrolle von Anu, Neu-Jericho und Synedrion. Diese Daten sind essenziell für die Neutralisierung der pandoranischen Bedrohung.
+
+Analyse bestätigt: Eine Waffe von bemerkenswerter Schlichtheit und Effizienz wurde in einer Stätte nahe unserer Basis lokalisiert. Zugriff und Untersuchung haben Priorität.","Мы не первые ищем секреты допотопной цивилизации. На протяжении всей истории великие коллекционеры ценили уцелевшие тексты и схемы допотопного происхождения. Сегодня некоторые из этих коллекций преданы забвению в руинах наших городов, существовавших до Пандоравируса. Другие же остаются в руках Последователей Ану, Нового Иерихона и Синедриона. Они нужны нам, если мы хотим победить угрозу Пандоранов.
+
+ Наши исследования показывают, что одна такая коллекция, описывающая оружие поразительной простоты и эффективности, находилась в городе недалеко от нашей базы. Дальнейшее расследование – приоритетная задача.","Nie jesteśmy pierwszymi, którzy próbują odkryć sekrety przedpotopowej cywilizacji. Dawni kolekcjonerzy bardzo cenili sobie ocalałe teksty i schematy pochodzenia przedpotopowego. Obecnie niektóre z tych kolekcji spoczywają zapomniane w gruzach naszych miast sprzed czasów Pandorawirusa. Niektóre trafiły w ręce Akolitów Anu, Nowego Jerycha i Synedrionu. Potrzebujemy tych schematów, jeżeli mamy pokonać Pandoran.
+ 
+ Z naszych badań wynika, że jedna z takich kolekcji, w której opisano zdumiewająco prostą i skuteczną broń, znajdowała się w mieście niedaleko naszej bazy. Dalsze zbadanie tej sprawy jest naszym priorytetem.",
+PROG_LE1_TITLE,Text,,Armed with Knowledge,,知识武装,Armé de savoir,Armado con conocimiento,Armati di conoscenza,Mit Wissen bewaffnet,Вооружены знаниями,Uzbrojeni w wiedzę,
+PROG_LE1_WARN_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_LE1_WARN_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Citizen Athena (Synedrion)
+TO: Phoenix Project
+
+From a scientific standpoint, Living Crystal is a material with myriad potential applications in engineering and medicine. From a philosophical standpoint, it represents the duality of our universe, a duality that we in Synedrion strive to embed in the foundation of a successful future. From a strategic standpoint, the risks of leaving these sites in your hands outweigh the benefits. It is only prudent, then, that we dispatch our elite teams to secure the Living Crystal locations. We urge you to leave peacefully, for Synedrion detest bloodshed - but do not confuse this for weakness, for we shall not show any.",,"消息
+ 来自：市民雅典娜（平衡议会）
+接收：凤凰计划
+ 
+ 从科学的角度来看，活体水晶是一种在工程学和医学上都拥有无限应用潜力的材料。从哲学的角度来看，它代表着宇宙的二象性，这种二象性是我们在平衡议会努力想要嵌入成功的未来基石里的东西。从战略的角度来看，这些地点落入你们的手中所带来的风险大于收益。因此，出于谨慎考虑，我们会派遣自己的精英团队占领活体水晶的位置。我们强烈要求你们和平离去，因为平衡议会不喜欢流血——但不要把这种态度误认为是软弱，因为软弱不是我们的代名词。","MESSAGE
+ DE : Citoyenne Athéna (Synédrion)
+ À : Projet Phoenix
+
+ D'un point de vue scientifique, le cristal vivant est un matériau présentant une myriade d'applications potentielles en ingénierie et en médecine. D'un point de vue philosophique, il représente la dualité de notre univers, une dualité que nous, le Synédrion, essayons d'intégrer au fondement d'un avenir prospère. D'un point de vue stratégique, les risques de vous laisser prendre le contrôle de ces sites l'emportent sur les avantages. Ce n'est donc que faire preuve de prudence de déployer nos équipes d'élite pour sécuriser les sites du cristal vivant. Nous vous exhortons à partir en paix, car le Synédrion ne cautionne pas la violence – mais ne prenez pas cette qualité pour une faiblesse, car nous n'en montrerons aucune.","MENSAJE
+ DE: Ciudadana Atenea (Synedrion)
+ PARA: Proyecto Fénix
+ 
+Desde un punto de vista científico, el cristal viviente es un material con un potencial infinito y aplicaciones para la ingeniería y la medicina. Desde un punto de vista filosófico, representa la dualidad de nuestro universo, una dualidad que en Synedrion luchamos por incorporar en la fundación de un futuro exitoso. Desde un punto de vista estratégico, los riesgos de dejar estos sitios en vuestras manos son superiores a los beneficios. Por tanto, es prudente que enviemos a nuestros equipos de élite para asegurar las ubicaciones del cristal viviente. Os instamos a que os vayáis de forma pacífica, para que Synedrion abandone el derramamiento de sangre. No obstante, no penséis que esto proviene de la debilidad, pues eso es algo que nunca mostraremos.","MESSAGGIO
+ DA: Cittadina Athena (Synedrion)
+ A: Progetto Phoenix
+ 
+Da un punto di vista scientifico, il cristallo vivo è un materiale con infinite potenzialità di impiego in campo ingegneristico e medico. Da un punto di vista filosofico, rappresenta il dualismo del nostro universo, un dualismo caro a noi di Synedrion, che cerchiamo di incorporarlo nelle fondamenta di un futuro radioso. Da un punto di vista strategico, lasciare nelle vostre mani questi siti comporta molti più rischi che vantaggi. Riteniamo quindi una scelta dettata dalla prudenza inviare le nostre squadre d'élite per mettere al sicuro i luoghi che presentano cristallo vivo. Vi intimiamo di abbandonarli senza opporre resistenza, poiché Synedrion aborra gli spargimenti di sangue. Non credete che questa avversione sia segno di debolezza; se necessario, non avremo pietà.","NACHRICHT
+ VON: Bürgerin Athena (Synedrion)
+ AN: Phoenix-Projekt
+
+Aus wissenschaftlicher Sicht sind Lebendkristalle ein Material mit unzähligen potenziellen Anwendungen in Technik und Medizin. Aus philosophischer Sicht stehen sie für die Dualität unseres Universums – eine Dualität, die wir bei Synedrion zum Fundament einer erfolgreichen Zukunft machen wollen. Aus strategischer Sicht überwiegen die Risiken, wenn diese Orte in euren Händen bleiben. Deshalb entsenden wir unsere Eliteteams, um die Lebendkristallvorkommen zu sichern. Wir fordern euch auf, friedlich abzuziehen: Synedrion verabscheut Blutvergießen – doch verwechselt das nicht mit Schwäche. Wir werden keine zeigen.","СООБЩЕНИЕ
+ ОТ: Жителя Афин (Синедрион)
+КОМУ: Проект Феникс
+
+ С научной точки зрения Живой Кристалл – это материал с множеством потенциальных применений в технике и медицине. С философской точки зрения, он представляет двойственность нашей вселенной, двойственность, которую мы в Синедрионе стремимся заложить в основу успешного будущего. Со стратегической точки зрения, риски оставить эти объекты в ваших руках перевешивают преимущества. Поэтому будет разумно направить наши элитные команды на охрану территорий с Живым кристаллом. Мы призываем вас уйти мирно, потому что Синедрион ненавидит кровопролитие, но не путайте это со слабостью, мы не покажем ее.","WIADOMOŚĆ
+ OD: Obywatelka Atena (Synedrion)
+ DO: Projekt Phoenix
+
+ Z naukowego punktu widzenia żywy kryształ jest materiałem o potencjalnie wielu zastosowaniach w inżynierii i medycynie. Z punktu widzenia filozofii symbolizuje dualizm naszego wszechświata. W Synedrionie staramy się budować naszą pełną sukcesów przyszłość na bazie tego dualizmu. Biorąc pod uwagę strategię, zagrożenia wynikające z pozostawienia tych obiektów w waszych rękach przewyższają korzyści. Dlatego bylibyśmy nierozważni, gdybyśmy nie wysłali naszych elitarnych oddziałów w celu zabezpieczenia lokalizacji, w których znaleziono żywy kryształ. Wzywamy was do pokojowego opuszczenia tych miejsc, ponieważ Synedrion brzydzi się rozlewem krwi, ale nie należy tego mylić ze słabością, której u nas nie uświadczycie.",
+PROG_LE1_WARN_TITLE,Text,,Gatekeeping,,把关控制,Gardien des portes,Protegiendo la entrada,Di guardia,Torwache,Привратничество,Pilnując bram,
+PROG_LE1_WIN_CHOICE_0_TEXT,Text,,"OK.
+NEW RESEARCH AVAILABLE",,"好的。
+ 新研究可用","D'accord.
+ NOUVELLE RECHERCHE DISPONIBLE","VALE.
+ NUEVA INVESTIGACIÓN DISPONIBLE","OK.
+ NUOVA RICERCA DISPONIBILE","OK.
+NEUE FORSCHUNG VERFÜGBAR","ОК.
+ ДОСТУПНО НОВОЕ ИССЛЕДОВАНИЕ","OK.
+ DOSTĘPNE NOWE BADANIA",
+PROG_LE1_WIN_TEXT_GENERAL_0,Text,,"After all this time of research, investigation, and preparation, we have it - our first collection of ancient schemata, texts, and artifacts that can be unified into a coherent blueprint for an advanced weapon.
+
+Unfortunately, the blueprint alone is not enough. We need a much more plentiful source of ancient artifacts, which our Archaeological Facilities can process using exotic materials to craft the new weapons. And even then, our scientists indicate we will need yet another thing: control over the special locations the Antediluvians used to assemble their technology.
+
+In the meantime, we have identified another collection. According to our sources, it describes a weapon releasing deadly flechettes of an unknown composition.",,"经过了所有研究、调查和准备之后，我们成功了——首次收集到了古代图纸、文本和圣物，我们的科学家可以将这些东西整理成一份基于远古族技术的武器蓝图。
+
+ 不幸的是，仅靠蓝图是不够的。我们需要更丰富的古代圣物资源，考古设施可以加工和使用这些资源来制造新的武器。即便如此，我们的科学家指出，我们还需要做另一件事：控制远古族组装他们技术的特殊地点。
+
+ 与此同时，我们还发现了另一批藏品。消息来源透露，这是一种能够发射未知成分致命镖弹的武器。","Après toutes ces recherches, ces enquêtes et ces préparations, nous l'avons – notre première collection de schémas, de textes et de reliques d'Anciens qui peuvent être unifiés par nos scientifiques dans l'élaboration d'un plan d'arme basée sur la technologie antédiluvienne.
+
+ Malheureusement, le plan seul ne suffit pas. Il nous faut une plus grande source de reliques anciennes que nos laboratoires d'archéologie peuvent traiter et utiliser pour fabriquer de nouvelles armes. Mais nos scientifiques nous expliquent qu'ils auront même encore besoin d'autre chose : le contrôle de lieux spéciaux que la civilisation antédiluvienne utilisait pour assembler sa technologie.
+ 
+ Entre-temps, nous avons identifié une autre collection. Selon nos sources, elle décrit une arme qui tire des fléchettes mortelles d'une composition inconnue.","Tras toda esta investigación y preparación, lo hemos conseguido. Ya tenemos nuestra primera colección de diagramas, textos y artefactos antiguos para que los científicos los unifiquen en un plano de un arma basada en la tecnología antediluviana.
+ 
+ Por desgracia, dicho plano no es suficiente por sí mismo. Necesitamos una fuente abundante de artefactos antiguos que nuestras instalaciones arqueológicas puedan procesar y utilizar para crear armas nuevas. Al llegar a ese momento, nuestros científicos indicarán que necesitamos algo más: controlar las ubicaciones especiales que los antediluvianos usaron para crear su tecnología.
+ 
+ Mientras tanto, hemos identificado otra colección. Según nuestras fuentes, esta describe un arma que lanza dardos mortíferos de una composición desconocida.","Dopo tutti gli sforzi profusi in ricerche, indagini e preparativi, finalmente abbiamo ottenuto la nostra prima raccolta di schemi, testi e manufatti antichi che i nostri scienziati fonderanno per creare un progetto di un'arma basata sulla tecnologia antidiluviana.
+ 
+ Purtroppo, un progetto non basta. Dobbiamo ottenere più manufatti antichi da lavorare nelle nostre strutture archeologiche per fabbricare nuove armi, anche se i nostri scienziati ci indicano che non basterà raggiungere questo obiettivo: dovremo anche controllare i luoghi speciali di cui la civiltà antidiluviana si serviva per assemblare la sua tecnologia.
+ 
+ Nel frattempo, abbiamo individuato un'altra raccolta. Secondo le nostre fonti, permette di creare un'arma che rilascia fléchette letali composte da un materiale sconosciuto.","Nach all der Recherche, Spurensuche und Vorbereitung haben wir sie endlich: unsere erste Sammlung vorzeitlicher Pläne, Texte und Artefakte – genug, um daraus einen stimmigen Bauplan für eine fortschrittliche Waffe zu formen.
+
+Doch der Bauplan allein reicht nicht. Wir brauchen eine stetige Quelle vorzeitlicher Artefakte, die unsere Archäologielabore mithilfe exotischer Materialien verarbeiten können. Und unsere Wissenschaftler sind sich einig: Wir müssen außerdem die besonderen Standorte unter unsere Kontrolle bringen, an denen die Vorzeitlichen ihre Technologie zusammensetzten.
+
+Währenddessen haben wir bereits die nächste Sammlung identifiziert. Den Quellen zufolge beschreibt sie eine Waffe, die tödliche Flechetten unbekannter Zusammensetzung verschießt.","После всех этих исследований, расследований и подготовки мы получили то, что хотели: нашу первую коллекцию древних схем, текстов и артефактов, которые наши ученые могут объединить в чертеж оружия, основанного на технологии допотопных людей.
+
+ К несчастью, одного чертежа недостаточно. Нам нужен источник с большими запасами древних артефактов, которые наши археологические лаборатории могут обрабатывать и использовать для создания нового оружия. Даже тогда наши ученые указывают, что нам понадобится еще одна вещь: контроль над особыми территориями, которые допотопные жители использовали для сборки своих технологий.
+ 
+ А пока мы определили местоположение еще одной коллекции. Согласно нашим источникам, в ней описывается оружие, выпускающее смертельные стреловидные поражающие элементы неизвестного состава.","Wreszcie po tych wszystkich badaniach, dochodzeniach i przygotowaniach udało nam się osiągnąć nasz cel. Zdobyliśmy naszą pierwszą kolekcję pradawnych planów, tekstów i artefaktów, którą nasi naukowcy mogą ujednolicić w formie schematu broni stworzonej w oparciu o przedpotopową technologię.
+ 
+ Niestety sam schemat nie wystarczy. Potrzebujemy bogatszego źródła pradawnych artefaktów, które będą mogły zostać przetworzone przez nasze placówki archeologiczne i wykorzystane do budowy nowych rodzajów broni. Nawet wówczas zdaniem naszych naukowców będziemy potrzebować jeszcze czegoś: kontroli nad specjalnymi miejscami, w których Pradawni rozwijali swoją technologię.
+ 
+ W międzyczasie zlokalizowaliśmy kolejną kolekcję. Według naszych źródeł znajduje się w niej opis broni wyrzucającej z siebie śmiercionośne strzałki o nieznanym składzie.",
+PROG_LE1_WIN_TITLE,Text,,The Mattock Blueprint,,鹤嘴锄蓝图,Le plan du hoyau,El plano del azadón,Il progetto del Piccone,Mattock-Bauplan,Чертеж кирки,Schemat oskarda,
+PROG_LE2_FAIL_CHOICE_0_TEXT,Text,,Yes.,,是。,Oui.,Sí.,Sì.,Ja.,Да.,Tak.,
+PROG_LE2_FAIL_TEXT_GENERAL_0,Text,,"The Phoenix Project can be deterred, but not stopped. We will try again.",,凤凰计划也许会受阻，但绝不会停滞不前。我们会再次尝试的。,"Le Projet Phoenix peut être rebuté, mais pas arrêté. Nous réessaierons.","Es posible disuadir al Proyecto Fénix, pero no detenerlo. Volveremos a intentarlo.","Il Progetto Phoenix può essere intralciato, ma non fermato. Riproveremo.","Das Phoenix-Projekt kann verzögert, aber nicht aufgehalten werden. Wir versuchen es erneut.","Проект Феникс можно сдержать, но нельзя остановить. Мы попытаемся снова.","Projekt Phoenix można odstraszyć, ale nie powstrzymać. Spróbujemy ponownie.",
+PROG_LE2_FAIL_TITLE,Text,,The Shard Gun Denied,,碎片枪失败,Le fusil à fragments refusé,La Escopeta de esquirlas perdido,Il Fucile a frammenti negato,Splitterflinte verweigert,Без осколочного ружья,Brak dostępu do pistoletu odłamkowego,
+PROG_LE2_MISS_CHOICE_0_TEXT,Text,,START MISSION,,开始任务,COMMENCER LA MISSION,EMPEZAR MISIÓN,AVVIA MISSIONE,MISSION STARTEN,НАЧАТЬ МИССИЮ,ROZPOCZNIJ MISJĘ,
+PROG_LE2_MISS_CHOICE_1_TEXT,Text,,CANCEL,,取消,ANNULER,CANCELAR,ANNULLA,ABBRECHEN,ОТМЕНА,ANULUJ,
+PROG_LE2_MISS_TEXT_GENERAL_0,Text,,"MISSION BRIEFING
+
+It appears the Disciples of Anu worship a schemata collection of Antediluvian origin. Proceed with caution and obtain the collection.
+",,"任务概要
+ 
+ 安努门徒教会似乎敬奉着某种远古族遗留下来的藏品。务必谨慎行事并获取藏品。","RÉSUMÉ DE LA MISSION
+ 
+ Il semble que les Disciples d'Anu vénèrent une collection d'origine antédiluvienne. Procédez avec prudence et récupérez la collection.","INSTRUCCIONES DE LA MISIÓN
+ 
+ Parece ser que los Discípulos de Anu veneran a una colección de origen antediluviano. Se debe proceder con precaución y obtener la colección.","RIEPILOGO MISSIONE
+ 
+ Sembra che i Discepoli di Anu venerino una collezione di origine antidiluviana. Procedete con cautela e ottenetela.","MISSIONSBRIEFING
+ 
+Die Jünger von Anu scheinen eine Sammlung vorzeitlichen Ursprungs zu verehren. Gehe vorsichtig vor und sichere uns die Sammlung.","ОПИСАНИЕ МИССИИ
+
+ Похоже, что Последователи Ану поклоняются коллекции допотопного происхождения. Соблюдайте осторожность и заберите коллекцию.","ODPRAWA
+ 
+ Wygląda na to, że Akolici Anu czczą kolekcję pochodzenia przedpotopowego. Zachowajcie ostrożność i przejmijcie tę kolekcję.",
+PROG_LE2_MISS_TITLE,Text,,The Shard Gun,,碎片枪,Le fusil à fragments,La Escopeta de esquirlas,Il Fucile a frammenti,Die Splitterflinte,Осколочное ружье,Pistolet odłamkowy,
+PROG_LE2_WARN_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_LE2_WARN_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: Sophia Villanova (New Jericho)
+TO: Phoenix Project
+
+Industry is the foundation of military power. You are not the only one to seek the legacy of the Ancients. Orichalcum - their greatest secret - is too powerful to be left in the hands of an upstart organization of dubious ability and ethics. Only New Jericho can safeguard the Orichalcum sites from the hubris of Men and the predations of the Pandoran. We will soon send a force to relieve your command. Do not resist us!",,"消息
+ 来自：索菲亚·维拉诺瓦（新耶利哥）
+接收：凤凰计划
+ 
+ 工业是军事力量的基础。你们并不是唯一在寻求远古族遗产的人。奥利哈刚是他们最大的秘密，这种合金过于强大，绝不能让它落入一个能力和道德都令人怀疑的傲慢组织。只有新耶利哥才能保护奥利哈刚遗址免受狂妄的人类和潘多拉体的掠夺。我们将很快派出一支部队解除你的指挥权。不要反抗！","MESSAGE
+ DE : Sophia Villanova (Nouvelle-Jéricho)
+ À : Projet Phoenix
+
+ L'industrie est la fondation de la puissance militaire. Vous n'êtes pas les seuls à chercher l'héritage des Anciens. L'orichalque, leur plus grand secret, est trop puissant pour être laissé aux prises d'une organisation arriviste dont les capacités sont aussi douteuses que son éthique. Seule la Nouvelle-Jéricho peut protéger les sites d'orichalque contre l'orgueil démesuré des hommes et les prédations des Pandoriens. Nous enverrons bientôt une équipe pour les libérer de votre commandement. N'opposez pas de résistance !","MENSAJE
+ DE: Sophia Villanova (Nueva Jericó)
+ PARA: Proyecto Fénix
+
+ La industria es la fundación del poder militar. No sois los únicos que buscáis el legado de los antiguos. El oricalo, su mayor secreto, es demasiado poderoso para que caiga en manos de una organización presuntuosa y con una ética y capacidades de dudoso valor. Solo Nueva Jericó puede proteger los sitios de oricalo de la arrogancia de la humanidad y la depredación pandoriana. Pronto enviaremos una unidad militar para liberarte del mando. ¡No te resistas!","MESSAGGIO
+ DA: Sophia Villanova (Nuova Gerico)
+ A: Progetto Phoenix
+
+ L'industria è la base della potenza militare. Non siete gli unici che si sono messi sulle tracce dell'eredità degli Antichi. Il loro più grande segreto, l'oricalco, è troppo potente e non deve essere lasciato in mano a un'organizzazione appena costituita con un codice morale e capacità discutibili. Solo Nuova Gerico può proteggere i siti di oricalco dalla superbia dell'uomo e dalle razzie dei Pandora. Invieremo presto un'unità per sollevarvi dalla vostra posizione di comando. Non opponete resistenza!","NACHRICHT
+ VON: Sophia Villanova (Neu-Jericho)
+ AN: Phoenix-Projekt
+
+Industrie ist das Fundament militärischer Macht. Du bist nicht der Einzige, der nach dem Vermächtnis der Uralten greift. Orichalkum – ihr größtes Geheimnis – ist zu mächtig, um es einer emporkommenden Organisation mit fragwürdigen Fähigkeiten und fragwürdiger Ethik zu überlassen. Nur Neu-Jericho kann die Orichalkum-Stätten vor menschlicher Hybris und pandoranischer Plünderung schützen. Bald entsenden wir eine Einheit, um dein Kommando abzulösen. Widersetze dich uns nicht!","СООБЩЕНИЕ
+ ОТ: Софии Виллановой (Новый Иерихон)
+ КОМУ: Проект Феникс
+ 
+ Промышленность – основа военной силы. Вы не единственные ищете наследие древних. Орихалк – величайший секрет – слишком могущественый, чтобы оставаться в руках амбициозной организации с сомнительными способностями и этическими принципами. Только Новый Иерихон может защитить территории с орихалком от высокомерия людей и хищников-Пандоранов. Скоро мы пришлем отряд, чтобы отстранить вас от командования. Не сопротивляйтесь нам!","WIADOMOŚĆ
+ OD: Sophia Villanova (Nowe Jerycho)
+ DO: Projekt Phoenix
+ 
+ Przemysł to podstawa potęgi militarnej. Nie tylko wy szukacie spuścizny Pradawnych. Orichalcum — ich największy sekret — jest zbyt potężne, aby pozostawić je w rękach raczkującej organizacji o wątpliwych zdolnościach i specyficznym pojmowaniu etyki. Tylko Nowe Jerycho może zabezpieczyć złoża orichalcum przed pychą człowieka i zakusami Pandoran. Wkrótce wyślemy siły, aby przejąć te zasoby. Wszelki opór będzie daremny!",
+PROG_LE2_WARN_TITLE,Text,,Gold Rush,,淘金热潮,Ruée vers l'or,Prisa dorada,Corsa all'oro,Goldrausch,Золотая лихорадка,Gorączka złota,
+PROG_LE2_WIN_CHOICE_0_TEXT,Text,,"OK.
+NEW RESEARCH AVAILABLE",,"好的。
+ 新研究可用","D'accord.
+ NOUVELLE RECHERCHE DISPONIBLE","VALE.
+ NUEVA INVESTIGACIÓN DISPONIBLE","OK.
+ NUOVA RICERCA DISPONIBILE","OK.
+NEUE FORSCHUNG VERFÜGBAR","ОК.
+ ДОСТУПНО НОВОЕ ИССЛЕДОВАНИЕ","OK.
+ DOSTĘPNE NOWE BADANIA",
+PROG_LE2_WIN_TEXT_GENERAL_0,Text,,"We have our second collection that our scientists can unify into an actionable weapon blueprint! Remember: blueprints alone are not enough. Plentiful sources of ancient artifacts processed by our Archaeological Facilities provide the exotic materials from which to craft the new weapons.
+
+We have identified another collection. If reports about it are to be believed, we could develop an explosive of unparalleled power based on it.",,"我们拿到了第二个藏品，科学家可以利用它来绘制一个新的武器蓝图！请记住：只有蓝图是不够的。我们的考古设施处理过的古代圣物将提供制造新武器所需的材料。
+
+ 我们已经发现了另一个藏品。如果报告属实，我们将能用它开发出某种无与伦比的爆炸火力。","Nous avons une deuxième collection que nos scientifiques peuvent utiliser pour créer un nouveau plan d'arme ! Rappel : les plans seuls ne suffisent pas. Les reliques des Anciens traitées par nos installations archéologiques fournissent les matériaux nécessaires pour fabriquer de nouvelles armes.
+
+ Nous avons identifié une autre collection. Si l'on en croit les rapports, nous pourrions créer un explosif d'une puissance inégalée.","Tenemos una segunda colección con el que los científicos pueden crear un plano para una nueva arma. Recuerda: los planos por sí mismos no son suficientes. Los artefactos antiguos procesados por nuestras instalaciones arqueológicas aportan los materiales necesarios para crear armas nuevas.
+
+ Hemos localizado otra colección. Si los informes son fiables, podríamos desarrollar un explosivo con un poder sin parangón.","Abbiamo ottenuto una seconda collezione e i nostri scienziati potranno usarla per creare il progetto di un'arma nuova! Ma ricorda che i progetti non bastano. I manufatti antichi lavorati nelle nostre strutture archeologiche forniscono i materiali necessari alla fabbricazione di nuove armi.
+ 
+ Abbiamo individuato un'altra collezione. Se i rapporti sono corretti, potremmo sviluppare un esplosivo di immensa potenza.","Die zweite Sammlung ist gesichert – unsere Wissenschaftler können daraus einen weiteren einsatzfähigen Waffenbauplan ableiten. Denk daran: Baupläne allein genügen nicht. Erst die stetige Zufuhr vorzeitlicher Artefakte, die unsere Archäologielabore verarbeiten, liefert die exotischen Materialien, aus denen wir die neuen Waffen fertigen.
+
+Wir haben außerdem eine weitere Sammlung identifiziert. Wenn die Berichte stimmen, könnten wir daraus einen Sprengstoff von beispielloser Wucht entwickeln.","У нас есть вторая коллекция, которую наши ученые могут использовать для создания нового чертежа оружия! Помните: одних чертежей недостаточно. Древние артефакты, обработанные нашими археологическими лабораториями, предоставляют материалы, необходимые для создания нового оружия.
+ 
+ Мы определили местонахождение еще одной коллекции. Если верить сообщениям, мы могли бы разработать взрывчатку небывалой силы.","Mamy drugą kolekcję, którą nasi naukowcy mogą wykorzystać do opracowania nowego schematu broni! Pamiętaj: same schematy nie wystarczą. Pradawne artefakty przetwarzane przez nasze placówki archeologiczne są źródłem materiałów potrzebnych do produkcji nowych rodzajów broni.
+ 
+ Znaleźliśmy kolejną kolekcję. Jeżeli to, co znalazło się w raportach, jest prawdą, moglibyśmy opracować materiał wybuchowy o nieznanej dotychczas sile.",
+PROG_LE2_WIN_TITLE,Text,,The Shard Gun Blueprint,,碎片枪蓝图,Le plan du fusil à fragments,El plano de la Escopeta de esquirlas,Il progetto del Fucile a frammenti,Splitterflinte-Bauplan,Чертеж осколочного ружья,Schemat pistoletu odłamkowego,
+PROG_LE3_FAIL_CHOICE_0_TEXT,Text,,Yes.,,是。,Oui.,Sí.,Sì.,Ja.,Да.,Tak.,
+PROG_LE3_FAIL_TEXT_GENERAL_0,Text,,"The Phoenix Project can be deterred, but not stopped. We will try again.",,凤凰计划也许会受阻，但绝不会停滞不前。我们会再次尝试的。,"Le Projet Phoenix peut être rebuté, mais pas arrêté. Nous réessaierons.","Es posible disuadir al Proyecto Fénix, pero no detenerlo. Volveremos a intentarlo.","Il Progetto Phoenix può essere intralciato, ma non fermato. Riproveremo.","Das Phoenix-Projekt kann verzögert, aber nicht aufgehalten werden. Wir versuchen es erneut.","Проект Феникс можно сдержать, но нельзя остановить. Мы попытаемся снова.","Projekt Phoenix można odstraszyć, ale nie powstrzymać. Spróbujemy ponownie.",
+PROG_LE3_FAIL_TITLE,Text,,The Rebuke Denied,,“谴责”失败,Le Querelleur refusé,La Reprimenda perdida,L'Ammonimento negato,Tadel verweigert,Без «Нагоняя»,Brak dostępu do Nagany,
+PROG_LE3_MISS_CHOICE_0_TEXT,Text,,START MISSION,,开始任务,COMMENCER LA MISSION,EMPEZAR MISIÓN,AVVIA MISSIONE,MISSION STARTEN,НАЧАТЬ МИССИЮ,ROZPOCZNIJ MISJĘ,
+PROG_LE3_MISS_CHOICE_1_TEXT,Text,,CANCEL,,取消,ANNULER,CANCELAR,ANNULLA,ABBRECHEN,ОТМЕНА,ANULUJ,
+PROG_LE3_MISS_TEXT_GENERAL_0,Text,,"MISSION BRIEFING
+
+Intelligence reports indicate no human presence Nevertheless, proceed with caution into these ruins and search for Antediluvian schemata.",,"任务概要
+ 
+ 高度机密情报报告：未侦测到人类。尽管如此，请小心进入废墟并寻找远古图纸。","RÉSUMÉ DE LA MISSION
+ 
+ Rapport de renseignements de haute confiance : aucun humain détecté. Néanmoins, procédez dans les ruines avec prudence pour chercher les schémas antédiluviens.","INSTRUCCIONES DE LA MISIÓN
+ 
+ Informe con información muy fiable: no se han encontrado humanos. Sin embargo, debes avanzar por las ruinas con precaución y buscar el diagrama antediluviano.","RIEPILOGO MISSIONE
+ 
+ Rapporto di intelligence top-secret: presenza umana non rilevata. Dirigersi lo stesso alle rovine con cautela per trovare gli schemi antidiluviani.","MISSIONSBRIEFING
+ 
+Streng geheimer Bericht: keine Menschen entdeckt. Setze deinen Weg dennoch vorsichtig in die Ruinen fort und suche nach vorzeitlichen Plänen.","ОПИСАНИЕ МИССИИ
+
+ Высоконадежный отчет разведки: людей не обнаружено. Тем не менее, идите в руины, соблюдая осторожность, и ищите допотопные схемы.","ODPRAWA
+ 
+ Według naszego dobrze poinformowanego źródła informacji wywiadowczych na miejscu nie ma żadnych ludzi. Niemniej jednak zachowajcie ostrożność podczas przeszukiwania ruin i znajdźcie przedpotopowe schematy.",
+PROG_LE3_MISS_TITLE,Text,,The Rebuke,,谴责,Le Querelleur,La Reprimenda,L'ammonimento,Der Tadel,Нагоняй,Nagana,
+PROG_LE3_WARN_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_LE3_WARN_TEXT_GENERAL_0,Text,,"MESSAGE
+FROM: The Exalted (Anu)
+TO: Phoenix Project
+
+Is there an element more aptly described to be of this world, and yet not be of this world? Protean Mutane is wonder beyond compare. It is a gift for the Faithful. Only we, the Disciples of Anu, can achieve the blessed merging of flesh and divine element. Please, relinquish control of these locations - our forces will soon be on the way to take over from the Phoenix Project.",,"消息
+ 来自：圣尊（安努教会）
+接收：凤凰计划
+ 
+ 是否有某种元素既属于这个世界，而又不是这个世界的造物？普罗透斯突变烷是无与伦比的奇迹，是神明赐予信徒的礼物。只有我们安努门徒教会，才能实现肉身与神性元素的结合。请放弃对这些地点的控制权，我们的部队很快将从凤凰计划手中接管这些地方。","MESSAGE
+ DE : L'Exaltée (Anu)
+ À : Projet Phoenix
+ 
+ Existe-t-il un élément avec une meilleure description de ce monde et qui n'est pourtant pas de ce monde ? Le mutane protéiforme est une merveille incomparable. C'est un cadeau pour le fidèle. Seuls nous, les Disciples d'Anu, pouvons atteindre la fusion bénie de la chair et de l'élément divin. Je vous en prie, renoncez au contrôle de ces sites – nos forces seront bientôt sur place pour prendre la relève du Projet Phoenix.","MENSAJE
+ DE: La Glorificada (Anu)
+ PARA: Proyecto Fénix
+ 
+ ¿Hay algún elemento que parezca más de este mundo y, al mismo tiempo, que no lo parezca? El mutano proteico es una maravilla sin parangón. Es un regalo para los fieles. Solo nosotros, los Discípulos de Anu, podemos obtener la fusión bendita de la carne y los elementos divinos. Por favor, renuncia al control de estos sitios, nuestras fuerzas pronto iniciarán su travesía para acabar con el Proyecto Fénix.","MESSAGGIO
+ DA: La Suprema (Anu)
+ A: Progetto Phoenix
+ 
+ Esiste forse un elemento che sembra appartenere a questo mondo, e al tempo stesso appartenere a un altro mondo? Il mutano volatile è un portento senza eguali, un dono per i Fedeli. Solo noi, i Discepoli di Anu, saremmo in grado di realizzare la fusione benedetta della carne e di un elemento divino. Vi chiedo di lasciare a noi il controllo dei siti: le nostre forze si dirigeranno presto in questi luoghi per sostituire il Progetto Phoenix.","NACHRICHT
+ VON: Die Erhabene (Anu)
+ AN: Phoenix-Projekt
+ 
+Gibt es ein Element, das diese Welt besser beschreibt – und doch nicht von dieser Welt ist? Veränderliches Mutan ist ein Wunder ohnegleichen, ein Geschenk für die Gläubigen. Nur wir, die Jünger von Anu, können die gesegnete Verschmelzung von Fleisch und göttlichem Element vollbringen. Bitte gib die Kontrolle über diese Standorte auf – unsere Kräfte sind bereits unterwegs, um sie dem Phoenix-Projekt abzunehmen.","СООБЩЕНИЕ
+ ОТ: Возвышенная (Ану)
+ КОМУ: Проект Феникс
+ 
+ Есть ли параметр, более точно охарактеризовывающий принадлежность к этому миру и наоборот? Белковый мутаген – несравненное чудо. Это подарок для верующих. Только мы, Последователи Ану, можем достичь благословенного слияния плоти и божественного начала. Пожалуйста, откажитесь от контроля над этими территориями: наши силы скоро придут на смену Проект Фениксу.","WIADOMOŚĆ
+ OD: Wywyższona (Anu)
+ DO: Projekt Phoenix
+
+ Czy istnieje inny pierwiastek, do którego lepiej pasowałoby określenie, że jest niczym nie z tego świata? Zmienny mutan to cud nieporównywalny z niczym. To prezent dla wiernych. Tylko my, Akolici Anu, możemy osiągnąć błogosławione scalenie ciała i boskiego pierwiastka. Proszę, zrezygnujcie z kontrolowania tych obszarów — nasze siły wkrótce wyruszą, aby przejąć je od Projektu Phoenix.",
+PROG_LE3_WARN_TITLE,Text,,The Sacred Incense,,神圣熏香,L'encens sacré,El incienso sagrado,L'incenso sacro,Der heilige Weihrauch,Священный ладан,Święte kadzidło,
+PROG_LE3_WIN_CHOICE_0_TEXT,Text,,"OK.
+NEW RESEARCH AVAILABLE",,"好的。
+ 新研究可用","D'accord.
+ NOUVELLE RECHERCHE DISPONIBLE","VALE.
+ NUEVA INVESTIGACIÓN DISPONIBLE","OK.
+ NUOVA RICERCA DISPONIBILE","OK.
+NEUE FORSCHUNG VERFÜGBAR","ОК.
+ ДОСТУПНО НОВОЕ ИССЛЕДОВАНИЕ","OK.
+ DOSTĘPNE NOWE BADANIA",
+PROG_LE3_WIN_TEXT_GENERAL_0,Text,,"Collection secured! Remember: our scientists report we need to establish and maintain control over the unique industrial nodes of the Antediluvians in order to assemble the new weapons.
+
+We have identified another collector. This time, we have to brave a Synedrion haven. We expect to develop a long-range weapon blueprint based on this collection.",,"获得藏品！请记住：我们的科学家报告称，我们需要建立并维持对远古族独特工业节点的控制才能组装新的武器。
+
+ 我们发现了另一位收藏家。这一次，我们必须面对一座平衡议会避难所。此藏品可以让我们研制出某种远程武器蓝图。","Collection sécurisée ! Rappel : nos scientifiques rapportent que nous devons établir et maintenir le contrôle sur les nœuds industriels uniques de la civilisation antédiluvienne pour assembler les nouvelles armes.
+ 
+ Nous avons identifié un autre collectionneur. Cette fois-ci, nous devons affronter un refuge du Synédrion. Nous anticipons la conception d'un plan d'arme à longue portée basé sur cette collection.","¡Colección obtenida! Recuerda: nuestros científicos informan de que tenemos que establecer y mantener el control sobre los nodos industriales únicos antediluvianos para crear armas nuevas.
+ 
+ Hemos localizado a otro coleccionista. Esta vez debemos desafiar a un refugio de Synedrion. Esperamos desarrollar un plano para un arma de largo alcance basado en esta colección.","Raccolta ottenuta! Ricordati che i nostri scienziati hanno riferito che dobbiamo stabilire e mantenere il controllo dei nodi industriali antidiluviani, unici nel loro genere, per assemblare nuove armi.
+ 
+ Abbiamo individuato un altro collezionista. Stavolta dovremo affrontare un rifugio di Synedrion. Prevediamo che questa raccolta ci permetterà di sviluppare un progetto per un'arma a lungo raggio.","Sammlung gesichert! Denk daran: Laut unseren Wissenschaftlern müssen wir die Kontrolle über die einzigartigen Industrieknoten der Uralten erlangen und behalten, um die neuen Waffen zusammenbauen zu können.
+ 
+Wir haben einen weiteren Sammler identifiziert. Dieses Mal müssen wir einer Synedrion-Zuflucht die Stirn bieten. Basierend auf dieser Sammlung erwarten wir uns, einen Fernkampfwaffen-Bauplan zu entwickeln.","Коллекция защищена! Помните: наши ученые сообщают, что для сборки нового оружия нам необходимо установить и поддерживать контроль над уникальными промышленными узлами допотопного мира.
+ 
+ Мы определили местонахождение еще одной коллекции. В этот раз нам предстоит отправиться в убежище Синедриона. На основе этой коллекции мы планируем разработать чертеж дальнобойного оружия.","Kolekcja zabezpieczona! Pamiętaj: nasi naukowcy twierdzą, że musimy przejąć wyjątkowe węzły przemysłowe Pradawnych i utrzymać nad nimi kontrolę, aby móc montować nowe rodzaje broni.
+ 
+ Znaleźliśmy kolejnego kolekcjonera. Tym razem musimy dostać się do bastionu Synedrionu. Spodziewamy się, że dzięki tej kolekcji będziemy mogli opracować schemat broni dużego zasięgu.",
+PROG_LE3_WIN_TITLE,Text,,The Rebuke Blueprint,,“谴责”蓝图,Le plan du Querelleur,El plano de la Reprimenda,Il progetto dell'Ammonimento,Tadel-Bauplan,Чертеж «Нагоняя»,Schemat Nagany,
+PROG_LE4_FAIL_CHOICE_0_TEXT,Text,,Yes.,,是。,Oui.,Sí.,Sì.,Ja.,Да.,Tak.,
+PROG_LE4_FAIL_TEXT_GENERAL_0,Text,,"The Phoenix Project can be deterred, but not stopped. We will try again.",,凤凰计划也许会受阻，但绝不会停滞不前。我们会再次尝试的。,"Le Projet Phoenix peut être rebuté, mais pas arrêté. Nous réessaierons.","Es posible disuadir al Proyecto Fénix, pero no detenerlo. Volveremos a intentarlo.","Il Progetto Phoenix può essere intralciato, ma non fermato. Riproveremo.","Das Phoenix-Projekt kann verzögert, aber nicht aufgehalten werden. Wir versuchen es erneut.","Проект Феникс можно сдержать, но нельзя остановить. Мы попытаемся снова.","Projekt Phoenix można odstraszyć, ale nie powstrzymać. Spróbujemy ponownie.",
+PROG_LE4_FAIL_TITLE,Text,,The Scorpion Denied,,“天蝎”失败,Le Scorpion refusé,El Escorpión perdido,Lo Scorpione negato,Skorpion verweigert,Без «Скорпиона»,Brak dostępu do Skorpiona,
+PROG_LE4_MISS_CHOICE_0_TEXT,Text,,START MISSION,,开始任务,COMMENCER LA MISSION,EMPEZAR MISIÓN,AVVIA MISSIONE,MISSION STARTEN,НАЧАТЬ МИССИЮ,ROZPOCZNIJ MISJĘ,
+PROG_LE4_MISS_CHOICE_1_TEXT,Text,,CANCEL,,取消,ANNULER,CANCELAR,ANNULLA,ABBRECHEN,ОТМЕНА,ANULUJ,
+PROG_LE4_MISS_TEXT_GENERAL_0,Text,,"MISSION BRIEFING
+
+Synedrion security forces detected. Combat simulator suggests we keep cover as much as possible until we are in possession of the Antediluvian collection.
+",,"任务概要
+ 
+ 侦测到平衡议会安保部队。战斗模拟结果表示，我们应尽可能保持隐蔽，直到获得远古族藏品。","RÉSUMÉ DE LA MISSION
+ 
+ Forces de sécurité du Synédrion détectées. Le simulateur de combat suggère que nous restions à couvert le plus possible jusqu'à ce que nous soyons en possession de la collection antédiluvienne.","INSTRUCCIONES DE LA MISIÓN
+ 
+ Se han detectado fuerzas de seguridad de Synedrion. El simulador de combate sugiere que nos cubramos tanto como podamos hasta que tengamos en nuestro poder la colección antediluviana.","RIEPILOGO MISSIONE
+ 
+ Forze di difesa di Synedrion individuate. Il simulatore di combattimento suggerisce di mantenere la copertura il più a lungo possibile finché non saremo in possesso della raccolta antidiluviana.","MISSIONSBRIEFING
+ 
+Synedrion-Sicherheitskräfte entdeckt. Der Kampfsimulator empfiehlt uns, in Deckung zu bleiben, bis wir in Besitz der vorzeitlichen Sammlung sind.","ОПИСАНИЕ МИССИИ
+
+ Обнаружены силы безопасности Синедриона. Симулятор боя предлагает нам как можно дольше укрываться, пока мы не получим допотопную коллекцию.","ODPRAWA
+ 
+ Wykryto siły bezpieczeństwa Synedrionu. Symulator walki sugeruje, abyśmy starali się pozostać niezauważeni, póki nie przejmiemy przedpotopowej kolekcji.",
+PROG_LE4_MISS_TITLE,Text,,The Scorpion,,天蝎,Le Scorpion,El Escorpión,Lo Scorpione,Der Skorpion,Скорпион,Skorpion,
+PROG_LE4_WIN_CHOICE_0_TEXT,Text,,"OK.
+NEW RESEARCH AVAILABLE",,"好的。
+ 新研究可用","D'accord.
+ NOUVELLE RECHERCHE DISPONIBLE","VALE.
+ NUEVA INVESTIGACIÓN DISPONIBLE","OK.
+ NUOVA RICERCA DISPONIBILE","OK.
+NEUE FORSCHUNG VERFÜGBAR","ОК.
+ ДОСТУПНО НОВОЕ ИССЛЕДОВАНИЕ","OK.
+ DOSTĘPNE NOWE BADANIA",
+PROG_LE4_WIN_TEXT_GENERAL_0,Text,,"The collection is safe and sound in our hands. 
+
+It appears our next target is mislabeled as part of a bigger collection of medieval origin, perhaps due to superficial crossbow similarities of the ancient schemata. Its owner is a high-ranked New Jericho commander.",,藏品在我们手中很安全。我们的下一个目标似乎贴错了标签，被纳入了中世纪藏品之中。可能是因为其外表与十字弩很相似。它的主人是一位新耶利哥高阶指挥官。,La collection est en toute sécurité en notre possession. Il semble que notre cible suivante ait été mal qualifiée et soit incluse dans une collection d'origine médiévale. C'est peut-être en raison de sa similitude superficielle avec l'arbalète. Son propriétaire est un commandant de haut rang de la Nouvelle-Jéricho.,La colección ya está en nuestras manos. Parece ser que nuestro nuevo objetivo era incorrecto y está incluido en una colección de origen medieval. Tal vez se deba a la similitud superficial de una ballesta. Su poseedor es un comandante de alto rango de Nueva Jericó.,"Abbiamo ottenuto la raccolta. Sembra che il nostro prossimo obiettivo non sia stato contrassegnato correttamente, ed è stato annoverato a una raccolta di origine medievale, forse perché l'aspetto ricorda una balestra. Il suo proprietario è un comandante di grado elevato di Nuova Gerico.","Die Sammlung ist sicher in unseren Händen. Wie es scheint, war unser nächstes Ziel falsch markiert und ist in einer Sammlung mittelalterlichen Ursprungs inbegriffen. Vielleicht aufgrund der äußerlichen Ähnlichkeit mit der Armbrust. Ihr Besitzer ist ein hochrangiger Neu-Jericho-Commander.","Коллекция в наших руках. Похоже, наша следующая цель была неправильно отмечена и включена в коллекцию средневекового происхождения. Возможно, из-за внешнего сходства с арбалетом. Ее владелец командир высокого ранга в Новом Иерихоне.","Kolekcja jest bezpieczna w naszych rękach. Wygląda na to, że nasz następny cel omyłkowo trafił do kolekcji pochodzenia średniowiecznego. Prawdopodobnie ze względu na powierzchowne podobieństwo do kuszy. Jej właścicielem jest wysoko postawiony dowódca Nowego Jerycha.",
+PROG_LE4_WIN_TITLE,Text,,The Scorpion Blueprint,,“天蝎”蓝图,La plan du Scorpion,El plano del Escorpión,Il progetto dello Scorpione,Skorpion-Bauplan,Чертеж «Скорпиона»,Schemat Skorpiona,
+PROG_LE5_FAIL_CHOICE_0_TEXT,Text,,Yes.,,是。,Oui.,Sí.,Sì.,Ja.,Да.,Tak.,
+PROG_LE5_FAIL_TEXT_GENERAL_0,Text,,"The Phoenix Project can be deterred, but not stopped. We will try again.",,凤凰计划也许会受阻，但绝不会停滞不前。我们会再次尝试的。,"Le Projet Phoenix peut être rebuté, mais pas arrêté. Nous réessaierons.","Es posible disuadir al Proyecto Fénix, pero no detenerlo. Volveremos a intentarlo.","Il Progetto Phoenix può essere intralciato, ma non fermato. Riproveremo.","Das Phoenix-Projekt kann verzögert, aber nicht aufgehalten werden. Wir versuchen es erneut.","Проект Феникс можно сдержать, но нельзя остановить. Мы попытаемся снова.","Projekt Phoenix można odstraszyć, ale nie powstrzymać. Spróbujemy ponownie.",
+PROG_LE5_FAIL_TITLE,Text,,The Crystal Crossbow Denied,,水晶十字弩失败,L'arbalète de cristal refusée,La ballesta de cristal perdida,La Balestra di cristallo negata,Kristallarmbrust verweigert,Без «Кристального арбалета»,Brak dostępu do kryształowej kuszy,
+PROG_LE5_MISS_CHOICE_0_TEXT,Text,,START MISSION,,开始任务,COMMENCER LA MISSION,EMPEZAR MISIÓN,AVVIA MISSIONE,MISSION STARTEN,НАЧАТЬ МИССИЮ,ROZPOCZNIJ MISJĘ,
+PROG_LE5_MISS_CHOICE_1_TEXT,Text,,CANCEL,,取消,ANNULER,CANCELAR,ANNULLA,ABBRECHEN,ОТМЕНА,ANULUJ,
+PROG_LE5_MISS_TEXT_GENERAL_0,Text,,"MISSION BRIEFING
+
+High concentration of New Jericho military assets detected! Proceed with caution! The objective is to secure the Antediluvian collection.
+",,"任务概要
+ 
+ 侦测到高强度的新耶利哥军事资产！务必谨慎行事！目标是确保远古族藏品的安全。","RÉSUMÉ DE LA MISSION
+ 
+ Forte concentration de moyens militaires de la Nouvelle-Jéricho détectée ! Avancez avec prudence ! L'objectif consiste à sécuriser la collection antédiluvienne.","INSTRUCCIONES DE LA MISIÓN
+ 
+ ¡Se han detectado altas concentraciones de militares de Nueva Jericó! ¡Procede con precaución! El objetivo es obtener la colección antediluviana.","RIEPILOGO MISSIONE
+ 
+ Individuata un'elevata concentrazione di attività militare di Nuova Gerico! Procedere con cautela! L'obiettivo della missione è il recupero della raccolta antidiluviana.","MISSIONSBRIEFING
+ 
+Hohe Konzentration an Neu-Jericho-Militär entdeckt! Gehe vorsichtig vor! Ziel ist die Sicherstellung der vorzeitlichen Sammlung.","ОПИСАНИЕ МИССИИ
+
+ Обнаружена высокая концентрация военных объектов в Новом Иерихоне. Соблюдайте осторожность! Цель – сохранить допотопную коллекцию.","ODPRAWA
+ 
+ Wykryto duże nagromadzenie sił wojskowych Nowego Jerycha! Zachowajcie ostrożność! Celem misji jest zabezpieczenie przedpotopowej kolekcji.",
+PROG_LE5_MISS_TITLE,Text,,The Crystal Crossbow,,水晶十字弩,L'Arbalète de cristal,La ballesta de cristal,La Balestra di cristallo,Die Kristallarmbrust,Кристальный арбалет,Kryształowa kusza,
+PROG_LE5_WIN_CHOICE_0_TEXT,Text,,"OK.
+NEW RESEARCH AVAILABLE",,"好的。
+ 新研究可用","D'accord.
+ NOUVELLE RECHERCHE DISPONIBLE","VALE.
+ NUEVA INVESTIGACIÓN DISPONIBLE","OK.
+ NUOVA RICERCA DISPONIBILE","OK.
+NEUE FORSCHUNG VERFÜGBAR","ОК.
+ ДОСТУПНО НОВОЕ ИССЛЕДОВАНИЕ","OK.
+ DOSTĘPNE NOWE BADANIA",
+PROG_LE5_WIN_TEXT_GENERAL_0,Text,,"Mission successful. Now our scientists can label the ancient schemata correctly.
+
+We have identified what we believe is the final notable collection of Antediluvian origin on Earth. The weapon our scientists hope to develop out of it is fantastic, to be sure.",,"任务成功。现在，我们的科学家可以为这个远古族图纸标上正确的标签了。
+
+ 我们已经发现了地球上最后一个值得注意的远古族藏品。我们的科学家预期借此研制出的武器可以说是非常的……不可思议。","Mission accomplie. Nos scientifiques peuvent désormais qualifier les schémas correctement.
+ 
+ Nous avons identifié ce que nous pensons être la dernière collection notable d'origine antédiluvienne sur Terre, sans compter la nôtre. L'arme que nos scientifiques espèrent fabriquer à partir de ce plan est... absolument formidable.","Misión completada con éxito. Ahora, nuestros científicos pueden utilizar correctamente el diagrama antiguo.
+ 
+ Hemos localizado lo que consideramos la última colección importante de origen antediluviano sobre la Tierra. El arma que nuestros científicos esperan desarrollar con ella es... fantástica, eso seguro.","Missione completata. Ora i nostri scienziati possono contrassegnare gli schemi antichi correttamente.
+ 
+ Riteniamo di aver individuato l'ultima raccolta degna di nota di origine antidiluviana sulla terra e che presto sarà nostra. L'arma che i nostri scienziati sperano di sviluppare sarà indubbiamente... straordinaria.","Mission erfolgreich. Jetzt können unsere Wissenschaftler die vorzeitlichen Pläne endlich korrekt zuordnen.
+
+Wir haben identifiziert, was vermutlich die letzte bedeutende Sammlung vorzeitlichen Ursprungs auf der Erde ist – und sie gehört jetzt uns. Die Waffe, die unsere Wissenschaftler daraus entwickeln wollen, ist ... ohne Frage fantastisch.","Миссия завершена успешно. Теперь наши ученые могут правильно обозначать древние схемы.
+
+ Мы определили то, что считаем последней примечательной коллекцией допотопного происхождения на Земле. Оружие, которое наши ученые надеются разработать на основе ее, безусловно... фантастическое.","Misja się powiodła. Teraz nasi naukowcy mogą prawidłowo opisać pradawny schemat.
+ 
+ Znaleźliśmy naszym zdaniem ostatnią wartą uwagi kolekcję pochodzenia przedpotopowego na Ziemi, nie licząc naszej. Broń, którą nasi naukowcy mają nadzieję opracować na jej podstawie... To zupełna fantastyka naukowa.",
+PROG_LE5_WIN_TITLE,Text,,The Crystal Crossbow Blueprint,,水晶十字弩蓝图,Le plan de l'arbalète de cristal,El plano de la ballesta de cristal,Il progetto della Balestra di cristallo,Kristallarmbrust-Bauplan,Чертеж «Кристального арбалета»,Schemat kryształowej kuszy,
+PROG_LE6_FAIL_CHOICE_0_TEXT,Text,,Yes.,,是。,Oui.,Sí.,Sì.,Ja.,Да.,Tak.,
+PROG_LE6_FAIL_TEXT_GENERAL_0,Text,,"The Phoenix Project can be deterred, but not stopped. We will try again.",,凤凰计划也许会受阻，但绝不会停滞不前。我们会再次尝试的。,"Le Projet Phoenix peut être rebuté, mais pas arrêté. Nous réessaierons.","Es posible disuadir al Proyecto Fénix, pero no detenerlo. Volveremos a intentarlo.","Il Progetto Phoenix può essere intralciato, ma non fermato. Riproveremo.","Das Phoenix-Projekt kann verzögert, aber nicht aufgehalten werden. Wir versuchen es erneut.","Проект Феникс можно сдержать, но нельзя остановить. Мы попытаемся снова.","Projekt Phoenix można odstraszyć, ale nie powstrzymać. Spróbujemy ponownie.",
+PROG_LE6_FAIL_TITLE,Text,,The Scyther Denied,,“飞天螳螂”失败,Le Faucheur refusé,La Guadaña perdida,Il Falciatore negato,Senser verweigert,Без «Сайтера»,Brak dostępu do Kosiarza,
+PROG_LE6_MISS_CHOICE_0_TEXT,Text,,START MISSION,,开始任务,COMMENCER LA MISSION,EMPEZAR MISIÓN,AVVIA MISSIONE,MISSION STARTEN,НАЧАТЬ МИССИЮ,ROZPOCZNIJ MISJĘ,
+PROG_LE6_MISS_CHOICE_1_TEXT,Text,,CANCEL,,取消,ANNULER,CANCELAR,ANNULLA,ABBRECHEN,ОТМЕНА,ANULUJ,
+PROG_LE6_MISS_TEXT_GENERAL_0,Text,,"MISSION BRIEFING
+
+These ruins are controlled by the Forsaken. Extreme caution advised!
+
+",,"任务概要
+ 
+ 这些废墟由被遗忘者控制。建议极其谨慎！","RÉSUMÉ DE LA MISSION
+ 
+ Ces ruines sont sous le contrôle des Rejetés. Extrême prudence conseillée !","INSTRUCCIONES DE LA MISIÓN
+ 
+ Estas ruinas están controladas por los Abandonados. ¡Se recomienda precaución extrema!","RIEPILOGO MISSIONE
+ 
+ Queste rovine sono controllate dagli Abbandonati. Si consiglia di avvicinarsi con estrema cautela!","MISSIONSBRIEFING
+ 
+Diese Ruinen werden von den Verstoßenen kontrolliert. Extreme Vorsicht ist geboten!","ОПИСАНИЕ МИССИИ
+
+ Эти руины под контролем Покинутых. Рекомендуется проявлять крайнюю осторожность!","ODPRAWA
+ 
+ Te ruiny są kontrolowane przez Zapomnianych. Zalecamy zachowanie szczególnej ostrożności!",
+PROG_LE6_MISS_TITLE,Text,,The Scyther,,飞天螳螂,Le Faucheur,La Guadaña,Il Falciatore,Der Senser,Сайтер,Kosiarz,
+PROG_LE6_WIN_CHOICE_0_TEXT,Text,,"OK.
+NEW RESEARCH AVAILABLE",,"好的。
+ 新研究可用","D'accord.
+ NOUVELLE RECHERCHE DISPONIBLE","VALE.
+ NUEVA INVESTIGACIÓN DISPONIBLE","OK.
+ NUOVA RICERCA DISPONIBILE","OK.
+NEUE FORSCHUNG VERFÜGBAR","ОК.
+ ДОСТУПНО НОВОЕ ИССЛЕДОВАНИЕ","OK.
+ DOSTĘPNE NOWE BADANIA",
+PROG_LE6_WIN_TEXT_GENERAL_0,Text,,We have managed to obtain all the collections of Antediluvian origin!,,我们已经获得了所有的远古族藏品！,Nous avons réussi à obtenir toutes les collections antédiluviennes !,¡Hemos conseguido obtener todas las colecciones antediluvianas!,Siamo riusciti a ottenere tutte le raccolte antidiluviane!,Wir konnten alle vorzeitlichen Sammlungen bergen!,У нас вышло заполучить все допотопные коллекции!,Udało nam się pozyskać wszystkie kolekcje przedpotopowe!,
+PROG_LE6_WIN_TITLE,Text,,The Scyther Blueprint,,“飞天螳螂”蓝图,Le plan du Faucheur,El plano de la Guadaña,Il progetto del Falciatore,Senser-Bauplan,Чертеж «Сайтера»,Schemat Kosiarza,
+PROG_LE_FINAL_CHOICE_0_TEXT,Text,,OK.,,好的。,D'accord.,Vale.,OK.,OK.,ОК.,OK.,
+PROG_LE_FINAL_TEXT_GENERAL_0,Text,,We've pieced together the puzzle of the ancient conflict between the Antediluvian Proto-Civilization and the Yuggothian Entity.,,我们解开了远古族原始文明和犹格斯实体之间的古代冲突之谜。,Nous avons assemblé l'énigme de l'ancien conflit entre la proto-civilisation antédiluvienne et l'entité yuggothienne.,Hemos juntado el puzle del conflicto antiguo entre la protocivilización antediluviana y la Entidad de Yuggoth.,Abbiamo risolto l'enigma dell'antico conflitto tra la proto-civiltà antidiluviana e l'Entità yuggothiana.,Wir haben das Rätsel des uralten Konflikts zwischen der vorzeitlichen Proto-Zivilisation und dem Yuggoth-Wesen gelöst.,Мы разгадали загадку древнего конфликта между допотопной протоцивилизацией и Югготской сущностью.,Rozwiązaliśmy zagadkę pradawnego konfliktu między przedpotopową protocywilizacją a yuggotańską istotą.,
+PROG_LE_FINAL_TITLE,Text,,Heroes of the Dreaming Past,,如梦往日的英雄,Héros du passé de rêve,Héroes de un pasado soñado,Eroi di un passato dei sogni,Helden der träumenden Vorzeit,Герои сказочного прошлого,Bohaterowie uśpionej przeszłości,

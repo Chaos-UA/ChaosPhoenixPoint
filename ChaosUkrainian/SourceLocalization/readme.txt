@@ -1,0 +1,2 @@
+The directory contains original source texts that were used to create the Ukrainian localization of the mod.
+Also this directories can be used to compare changes to easily see any updates to the original text that may require translation updates.
