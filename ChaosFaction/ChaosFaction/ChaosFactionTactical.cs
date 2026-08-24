@@ -682,6 +682,7 @@ namespace ChaosFaction
 					TacticalActorBase actor = TacticalDeployZone.SpawnActor(deployData.ComponentSetDef, deployData.InstanceData, factionDef, participantKind, spawnPos.Value, Quaternion.identity, this);
 					SetAlertedOnSpawn(actor, template);
 					BoostVehicleAmmo(actor, template);
+					HealToFullHealth(actor);
 					if (actor != null)
 					{
 						NoLootActors.Add(actor);
@@ -840,6 +841,39 @@ namespace ChaosFaction
 			actor.AIActor.IsAlerted = true;
 		}
 
+		/// <summary>
+		/// Runs after everything else this squad's spawn pipeline does to a soldier —
+		/// level/stat rolls, ability grants, items — explicit request: "then heal those
+		/// soldiers to have 100% of their HP (to respect possibly strength increase by
+		/// abilities etc)", reported in-game as spawned allies sometimes looking damaged.
+		/// Root cause: TacticalActor.ProcessInstanceDataStats already calls
+		/// Health.SetToMax() itself for a fresh spawn, but that runs as part of the
+		/// actor's own base-stats setup step, before ability-driven passive effects
+		/// (granted later in the same ProcessInstanceData cascade, still inside
+		/// SpawnActor) get a chance to raise Health.Max further — a stat-boosting ability
+		/// applied after that point leaves Value stuck below the new, higher Max, which
+		/// reads in-game as "damaged" even though nothing actually hurt them. Called once
+		/// per spawned actor, right after SpawnActor returns — i.e. after that entire
+		/// synchronous init cascade has already finished, so this always gets the final
+		/// word regardless of what raised Max along the way. Mirrors HealAbility's own
+		/// two-part healing (general Health + every body-part slot's own health), just
+		/// going all the way to full instead of adding a fixed amount. Applies to
+		/// vehicles/Mutogs too (Health is a TacticalActorBase-level field, not
+		/// character-specific) — only the body-part loop is character-only, guarded by
+		/// the "as TacticalActor" check.
+		/// </summary>
+		private static void HealToFullHealth(TacticalActorBase actor)
+		{
+			if (actor == null)
+				return;
+			actor.Health.SetToMax();
+			if (actor is TacticalActor tacticalActor && tacticalActor.BodyState != null)
+			{
+				foreach (ItemSlot slot in tacticalActor.BodyState.GetHealthSlots())
+					slot.GetHealth().SetToMax();
+			}
+		}
+
 		// GrantFullActionPoints (the pre-spawn "call RestartAbilities()+SetToMax()
 		// ourselves, right after SpawnActor" fix) used to live here — removed once a
 		// Player.log capture (via the since-repurposed Patch_TacticalActor_StartTurn_Debug)
@@ -928,6 +962,7 @@ namespace ChaosFaction
 			data.Speed = RollStat("Speed", data.Speed, level, MinSpeedPerLevel, MaxSpeedPerLevel);
 
 			GrantSpareAmmo(data);
+			GrantBonusMedkits(data);
 		}
 
 		/// Level thresholds AssignRandomPersonalAbilities grants one more distinct
@@ -1072,6 +1107,77 @@ namespace ChaosFaction
 
 			data.InventoryItems = data.InventoryItems.Concat(spareAmmo).ToArray();
 			Log.Debug($"  Granted {spareAmmo.Count} spare ammo clip(s): {string.Join(", ", spareAmmo.Select(a => a.name).Distinct())}");
+		}
+
+		/// Inclusive [min, max] range for how many bonus medkits every soldier gets —
+		/// explicit request: "there must be always rolled medkit, no need for 50%, just
+		/// roll 1-3 additional medkits randomly", dropping this mod's earlier per-soldier
+		/// chance gate entirely (every soldier now always gets a roll in this range, never
+		/// zero). Plain hardcoded constants rather than ChaosFactionConfig fields, per the
+		/// earlier explicit request ("don't add to config, just roll randomly"), mirroring
+		/// SpareAmmoClipsPerWeapon's own not-config-exposed style above.
+		private const int BonusMedkitMin = 1;
+		private const int BonusMedkitMax = 3;
+
+		/// <summary>
+		/// Explicit request: "add additional 1-3 medkits to spawned soldier" — same
+		/// pre-InitializeInstanceData() InventoryItems-append pattern GrantSpareAmmo
+		/// uses just above, so it needs no separate call-site wiring.
+		///
+		/// If the soldier's own template already carries a recognized medkit (checking
+		/// both EquipmentItems and InventoryItems, same as ReloadAbility's own ammo-clip
+		/// search per GrantSpareAmmo's doc comment above — a medkit is "recognized" via
+		/// IsMedkitItem, any ItemDef that grants a HealAbilityDef when carried, confirmed
+		/// via source to be the exact signal vanilla's own weapon-selection UI uses to
+		/// detect a medkit-type item: UIModuleWeaponSelection.SetupSelectedWeaponInfo,
+		/// `EquipmentDef.Abilities.OfType&lt;HealAbilityDef&gt;().FirstOrDefault()`), the
+		/// bonus copies that same variant, so it matches the tier they'd actually use.
+		///
+		/// Otherwise — explicit follow-up request: "If no medkit items then simply add
+		/// 1-3 random items for specific Medkit_EquipmentDef items" — falls back to the
+		/// base game's own standard `Medkit_EquipmentDef` by its literal asset name,
+		/// rather than a broader pool search, so a soldier with no medkit of their own
+		/// still ends up with the vanilla-standard one instead of the bonus silently
+		/// doing nothing. Granted into InventoryItems, the same target array
+		/// GrantSpareAmmo's own extra clips use, regardless of which array the
+		/// original copy (if any) came from.
+		/// </summary>
+		private static void GrantBonusMedkits(TacCharacterData data)
+		{
+			List<ItemDef> alreadyCarried = data.EquipmentItems.Concat(data.InventoryItems)
+				.Where(IsMedkitItem)
+				.Distinct()
+				.ToList();
+			ItemDef medkitDef = alreadyCarried.Count > 0
+				? alreadyCarried.GetRandomElement(null)
+				: ResolveDefaultMedkitItemDef();
+			if (medkitDef == null)
+				return;
+
+			int count = UnityEngine.Random.Range(BonusMedkitMin, BonusMedkitMax + 1);
+			if (count <= 0)
+				return;
+
+			data.InventoryItems = data.InventoryItems.Concat(Enumerable.Repeat(medkitDef, count)).ToArray();
+			Log.Debug($"  Granted {count} bonus {medkitDef.name} medkit(s).");
+		}
+
+		private static bool IsMedkitItem(ItemDef item)
+		{
+			return item != null && item.Abilities != null && item.Abilities.OfType<HealAbilityDef>().Any();
+		}
+
+		/// <summary>
+		/// The base game's own standard medkit — confirmed via Player.log as the literal
+		/// asset name every vanilla/spawned soldier's Medkit shows up as
+		/// ("Equipments:"/"Inventory:" dumps list it as `Medkit_EquipmentDef`). Used only
+		/// as GrantBonusMedkits' fallback, for a soldier whose own template carries no
+		/// medkit at all.
+		/// </summary>
+		private static ItemDef ResolveDefaultMedkitItemDef()
+		{
+			DefRepository defRepo = GameUtl.GameComponent<DefRepository>();
+			return defRepo?.GetAllDefs<ItemDef>().FirstOrDefault(i => i.name == "Medkit_EquipmentDef");
 		}
 
 		/// Extra charges added on top of each of a vehicle's already-loaded ammo magazines.

@@ -49,6 +49,7 @@ namespace ChaosFasterTurn
 			/// back to normal before the mod goes away.
 			FasterTurnState.ResetAllActors();
 			FasterTurnState.Controller = null;
+			PlayerMoveSpeedState.Reset();
 			/// ModGO (and the ChaosFasterTurnUpdater component on it) will be destroyed after this returns.
 		}
 

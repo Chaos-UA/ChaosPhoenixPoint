@@ -60,6 +60,7 @@
     <Compile Include="ChaosFasterTurnSpeedControl.cs" />
     <Compile Include="ChaosFasterTurnActivitySuffix.cs" />
     <Compile Include="ChaosFasterTurnOverwatchPause.cs" />
+    <Compile Include="ChaosFasterTurnPlayerMoveSpeed.cs" />
     <Compile Include="ChaosFasterTurnSpeedBadge.cs" />
     <Compile Include="ChaosFasterTurnTactical.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

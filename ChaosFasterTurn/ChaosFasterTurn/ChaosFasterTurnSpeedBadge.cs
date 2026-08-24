@@ -91,19 +91,20 @@ namespace ChaosFasterTurn
 		}
 
 		/// <summary>
-		/// Called every frame from ChaosFasterTurnUpdater. Shows "x{multiplier}" while it's an
-		/// AI turn and the multiplier isn't the default x1; hidden otherwise.
+		/// Called every frame from ChaosFasterTurnUpdater. Shows "x{multiplier}" while
+		/// <paramref name="shouldShow"/> is true (the caller decides that - either an AI turn at a
+		/// non-1 enemy speed, or a sped-up player movement action - since this same badge is shared
+		/// by both independent speed controls); hidden otherwise.
 		/// </summary>
-		public static void Refresh(bool isAITurn, int multiplier) {
+		public static void Refresh(bool shouldShow, float multiplier) {
 			if (_label == null) {
 				return;
 			}
-			bool shouldShow = isAITurn && multiplier != 1;
 			if (_label.gameObject.activeSelf != shouldShow) {
 				_label.gameObject.SetActive(shouldShow);
 			}
 			if (shouldShow) {
-				string desired = "x" + multiplier;
+				string desired = "x" + SpeedSteps.Format(multiplier);
 				if (_label.text != desired) {
 					_label.text = desired;
 				}

@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
+using Base.Entities.Effects;
+using Base.Levels;
 using HarmonyLib;
 using PhoenixPoint.Common.Core;
 using PhoenixPoint.Geoscape.Entities;
@@ -16,6 +18,7 @@ using PhoenixPoint.Geoscape.View.ViewModules;
 using PhoenixPoint.Geoscape.View.ViewStates;
 using PhoenixPoint.Tactical.Entities;
 using PhoenixPoint.Tactical.Entities.Abilities;
+using PhoenixPoint.Tactical.Entities.Effects;
 using PhoenixPoint.Tactical.Entities.Equipments;
 using PhoenixPoint.Tactical.Levels;
 using UnityEngine;
@@ -581,21 +584,32 @@ namespace ChaosFaction
 
 		/// <summary>
 		/// Debug/testing only (chaos_factions_debug 1 — ChaosFactionDebugFlag.Enabled): a
-		/// single "ChaosFactionsDebugOptions" entry on every mission type this mod already
-		/// supports (same IsEligibleMission gate as Ask-for-Help). Originally one "Add X
-		/// Activity" entry per DebugActivityKindExtensions.All (5, then 8 once Bandits/
-		/// WildBeast/AnuExalted were added) — growing to 8 actually crashed the context
-		/// menu in-game (ArgumentOutOfRangeException in UIModuleSiteContextualMenu.
-		/// SetMenuItems, which indexes into a fixed-size button pool with no bounds check —
-		/// see CLAUDE.md). Collapsed to this single entry instead, which opens a text-input
-		/// popup (DebugActivityPickerAbility) listing every kind to choose from — the
-		/// per-site context-menu button count this mod adds is now fixed at 1 regardless of
-		/// how many debug activity kinds exist, so it can never hit that cap again no matter
-		/// how many more kinds get added later. Mutually exclusive with a normal help
-		/// request on the same site both ways — see TryAddAskForHelpAbility's own matching
-		/// check — and with itself: once a debug activity is active on a site, this shows
-		/// the disabled status entry instead of the picker entry, mirroring the "Already
-		/// Requested Help" pattern.
+		/// single "ChaosFactionsDebugOptions" entry on ANY site with an active mission —
+		/// later explicit follow-up request ("ChaosFactionsDebugOptions must be seen for
+		/// any site"), broadened from the original "only the four IsEligibleMission mission
+		/// types" gate (still what governs the real, player-facing Ask-for-Help entries).
+		/// Deliberately not gated on IsEligibleMissionForActivity here any more — mirrors
+		/// TryAddDebugMissionInfoAbility's own "any mission" reach (that entry was already
+		/// unrestricted, since it's a pure lookup aid), and is safe to broaden the same way:
+		/// neither DebugActivityTracker.AddActivity nor DebugActivityPickerAbility.
+		/// GrantFreeAllyHelp (the two things picking a popup option actually leads to)
+		/// re-check mission-type eligibility themselves — both only check
+		/// DebugActivityTracker.CanAddActivity (the mutual-exclusivity gate, which is
+		/// mission-type-agnostic) plus their own faction/site resolution, so a debug
+		/// activity or free-ally-help grant works identically regardless of which GeoMission
+		/// subclass owns the site. Originally one "Add X Activity" entry per
+		/// DebugActivityKindExtensions.All (5, then 8 once Bandits/WildBeast/AnuExalted were
+		/// added) — growing to 8 actually crashed the context menu in-game
+		/// (ArgumentOutOfRangeException in UIModuleSiteContextualMenu.SetMenuItems, which
+		/// indexes into a fixed-size button pool with no bounds check — see CLAUDE.md).
+		/// Collapsed to this single entry instead, which opens a text-input popup
+		/// (DebugActivityPickerAbility) listing every kind to choose from — the per-site
+		/// context-menu button count this mod adds is now fixed at 1 regardless of how many
+		/// debug activity kinds exist, so it can never hit that cap again no matter how many
+		/// more kinds get added later. Mutually exclusive with a normal help request on the
+		/// same site both ways — see TryAddAskForHelpAbility's own matching check — and with
+		/// itself: once a debug activity is active on a site, this shows the disabled status
+		/// entry instead of the picker entry, mirroring the "Already Requested Help" pattern.
 		/// </summary>
 		public static void TryAddDebugActivityAbilities(GeoSite site, ref List<GeoAbility> __result)
 		{
@@ -609,7 +623,7 @@ namespace ChaosFaction
 
 				ChaosFactionConfig cfg = ChaosFactionMain.Cfg;
 				GeoLevelController geoLevel = site.GeoLevel;
-				if (cfg == null || !IsEligibleMissionForActivity(mission, geoLevel, cfg))
+				if (cfg == null)
 					return;
 
 				// A real Ask-for-Help request already active on this site takes priority —
@@ -1262,4 +1276,70 @@ namespace ChaosFaction
 		}
 	}
 
+	/// <summary>
+	/// Bug fix, reported in-game: when an Anu Priest from this mod's ally-help/activity
+	/// squad casts its native Psychic Scream (AoE panic) ability, the player's own soldiers
+	/// were also panicked, even though the caster's faction is set Friend toward the
+	/// player. Root cause, confirmed via source (PsychicScreamAbility.ApplyDamagePayload,
+	/// private, not virtual): the friendly-fire "ignore" list is built purely from
+	/// `TacticalActor.TacticalFaction.TacticalActors` — i.e. only actors sharing the
+	/// caster's own TacticalFaction are exempt, not everyone with a Friend relation to it.
+	/// That's correct for vanilla, where a Psychic-Scream-capable Priest is always Pandoran
+	/// and "its own TacticalFaction" already *is* "everyone friendly to it" — but this mod
+	/// spawns ally-help/activity squads into their own separate TacticalFaction (see
+	/// ChaosFactionTactical.GetOrCreateHelperFaction), related to the player only via
+	/// TacticalFaction.SetMutualRelation(..., Friend), not shared TacticalFaction
+	/// membership — so the player's actual squad falls outside the vanilla ignore list and
+	/// takes the same AoE panic as the enemy.
+	///
+	/// Fix mirrors the pattern AreaStunAbility.ApplyDamagePayload already uses for its own
+	/// (Def-toggleable) IgnoreAllies option: `Map.GetTacActors(actor, FactionRelation.
+	/// Friend)` — a relation-aware query (TacticalMap.GetTacActors(TacticalActorBase,
+	/// FactionRelation) checks `relatedActor.RelationTo(t)`, not TacticalFaction equality,
+	/// confirmed via source) — instead of the TacticalFaction-only ignore list. This also
+	/// still covers the caster's own squadmates, since TacMission.SetDefaultFactionRelations
+	/// already sets every non-Environment/non-WildBeast faction's self-relation to Friend
+	/// at mission start (confirmed via source), before this mod ever spawns anything.
+	///
+	/// Patched as a full Prefix (skipping the original) rather than a Postfix, since by the
+	/// time the original method returns the damage/panic status has already been applied to
+	/// the wrong targets. Only PsychicScreamAbility is patched here — AreaStunAbility and
+	/// ApplyDamageEffectAbility already have their own equivalent IgnoreAllies/
+	/// IgnoreFriendlies Def-level toggle; Psychic Scream is the one AoE ability in the
+	/// vanilla roster that hardcodes "own TacticalFaction only" with no such toggle.
+	/// </summary>
+	[HarmonyPatch(typeof(PsychicScreamAbility), "ApplyDamagePayload")]
+	internal static class Patch_PsychicScreamAbility_ApplyDamagePayload
+	{
+		private static bool Prefix(PsychicScreamAbility __instance, DamagePredictor predictor)
+		{
+			try
+			{
+				TacticalActor caster = __instance.TacticalActor;
+				if (caster == null || caster.Map == null)
+					return true; // let vanilla run/fail the same way it would have
+
+				TacticalActorBase[] charactersToIgnore = caster.Map
+					.GetTacActors<TacticalActorBase>(caster, FactionRelation.Friend)
+					.ToArray();
+
+				EffectTarget effectTarget = new EffectTarget
+				{
+					Position = caster.Pos,
+					Param = new DamageEffect.Params
+					{
+						DamageOrigin = caster.Pos,
+						CharactersToIgnore = charactersToIgnore,
+					},
+				};
+				__instance.GetDamagePayload().ApplyDamagePayload(default(CastHit), default(Vector3), __instance, predictor, effectTarget);
+				return false;
+			}
+			catch (Exception ex)
+			{
+				Log.Debug("Failed to apply friendly-fire-safe Psychic Scream payload; falling back to vanilla behavior: " + ex);
+				return true;
+			}
+		}
+	}
 }

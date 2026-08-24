@@ -1,15 +1,17 @@
 [h1]Chaos Faster Turn — Speed Up AI Turns[/h1]
 
-Tired of sitting through slow-motion enemy movement and animations while the AI takes its turn? This mod lets you speed up enemy (AI) turn playback on the fly — movement, shooting, idle animations, all of it — with simple hotkeys. Your own turn is never touched.
+Tired of sitting through slow-motion enemy movement and animations while the AI takes its turn? This mod lets you speed up enemy (AI) turn playback on the fly — movement, shooting, idle animations, all of it — with simple hotkeys. It also lets you speed up your [b]own[/b] unit's movement while it's walking on your own turn, with the same hotkeys.
 
 [h2]What It Does[/h2]
 [list]
-[*]Speed up the [b]AI's turn only[/b] — up to x20 by default (configurable) — while the player's own turn always plays at normal speed
+[*]Speed up the [b]AI's turn[/b] — up to x20 by default (configurable) — with the same hotkeys always available at normal speed the rest of your own turn
+[*]Speed up your [b]own unit's movement[/b] on your turn too — hold Space (or tap +/-) while a unit is walking to zip it to its destination faster; every move starts back at normal speed
+[*]Steps go x1 → x1.5 → x2 → x3 → x4 → … up to the configured max
 [*]Two on-screen indicators show the current speed whenever it isn't x1.
 [*]Automatically drops back to normal speed whenever the enemy attacks one of your units, and restores your chosen speed right after — you never miss the moment an enemy actually hurts your squad
 [/list]
 
-[h2]Controls (during the enemy's turn)[/h2]
+[h2]Controls (during the enemy's turn or during player unit movement)[/h2]
 [list]
 [*][b]=/+[/b] (Equals/Plus) — increase enemy turn speed by one step
 [*][b]-[/b] (Minus) — decrease enemy turn speed by one step (never goes below normal)
@@ -17,10 +19,19 @@ Tired of sitting through slow-motion enemy movement and animations while the AI 
 [*][b]Space[/b] — toggle: instantly drop to x1, press again to jump right back to whatever speed you had before
 [/list]
 
+[h2]Controls (during your own unit's movement)[/h2]
+The exact same four keys, but only while one of your own units is actively moving — they do nothing at any other point on your turn, and every new move always starts at normal speed:
+[list]
+[*][b]Space[/b] — jump straight to x2 movement speed (or back to whatever speed you'd set on this move, if you press it again)
+[*][b]=/+[/b] (Equals/Plus) — increase this move's speed by one step
+[*][b]-[/b] (Minus) — decrease this move's speed by one step (never goes below normal)
+[*][b]Backspace[/b] — reset this move straight back to normal speed (x1)
+[/list]
+
 [h2]Configuration[/h2]
 Available in the mod settings (main menu → Mods → Chaos Faster Turn):
 [list]
-[*][b]Max Speed Multiplier[/b] — upper bound the speed can be increased to (default: 20)
+[*][b]Max Speed Multiplier[/b] — upper bound the speed can be increased to, for both the enemy turn and your own movement speed-up (default: 20)
 [*][b]Reset Speed On Player Turn[/b] — when enabled, speed automatically drops back to x1 once your turn starts, so every AI turn begins at normal speed again; when disabled, whatever speed you last set carries over turn after turn. Either way, [b]Space[/b] can always instantly recall the last speed you used, even after it's been auto-reset (default: on)
 [*][b]Reset Speed On Enemy Attack[/b] — when enabled, speed automatically drops to x1 for any enemy ability used against one of your units (ranged, melee, grenades, mind control, anything) and restores automatically right after; as a backstop, it also drops to x1 briefly any time one of your units actually takes damage during the enemy's turn, even from something indirect like an explosion or a status effect. Either way you never miss seeing an enemy hurt your squad at high speed. When disabled, enemy attacks on you play at whatever speed is currently selected (default: on)
 [/list]

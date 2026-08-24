@@ -6,6 +6,7 @@
 **/bin/
 **/.vs/
 **/.idea/
+**/.claude/
 
 # Third-party reference/output binaries (not our source)
 **/ModSDK/*.dll

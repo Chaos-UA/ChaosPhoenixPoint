@@ -39,8 +39,8 @@ namespace ChaosFasterTurn
 				return true;
 			}
 			bool isAITurn = FasterTurnState.Controller.CurrentFaction?.IsControlledByAI == true;
-			int multiplier = FasterTurnState.Multiplier;
-			if (!isAITurn || multiplier == 1)
+			float multiplier = FasterTurnState.Multiplier;
+			if (!isAITurn || multiplier == 1f)
 			{
 				return true;
 			}
@@ -48,7 +48,7 @@ namespace ChaosFasterTurn
 			try
 			{
 				object popup = Activator.CreateInstance(NamePopupType);
-				NamePopupNameField.SetValue(popup, $"{__instance.ActorBase.DisplayName} (x{multiplier})");
+				NamePopupNameField.SetValue(popup, $"{__instance.ActorBase.DisplayName} (x{SpeedSteps.Format(multiplier)})");
 				__instance.ShowNotification("SelectedActor", new object[] { popup, __instance.ActorBase });
 			}
 			catch (Exception ex)

@@ -177,11 +177,22 @@ only the *manual, free, on-demand* spawn button is still debug-gated (explicit
 follow-up request: "All those activity options are available without any debug mode.
 Debug mode is only needed to Show that debug context button to spawn for free"). The
 `chaos_factions_debug 1` console command (0 to disable again) adds a single context-menu
-entry — **"ChaosFactionsDebugOptions"** — to every one of the same four mission types
-Feature 1 supports (`ContextualAbilitiesPatchHelper.TryAddDebugActivityAbilities`,
-still gated on `ChaosFactionDebugFlag.Enabled` — this one entry is the only thing that
-flag still controls), for manually spawning one of these activities on demand without
-waiting for the auto-spawner. Clicking it opens a text-input popup
+entry — **"ChaosFactionsDebugOptions"** — to **any site with an active mission, not just
+the four `IsEligibleMission` types** (`ContextualAbilitiesPatchHelper.
+TryAddDebugActivityAbilities`, still gated on `ChaosFactionDebugFlag.Enabled` — this one
+entry is the only thing that flag still controls), for manually spawning one of these
+activities on demand without waiting for the auto-spawner. **Later explicit follow-up
+request — "ChaosFactionsDebugOptions must be seen for any site" — broadened this from
+the original four-mission-type gate** (still what governs the real, player-facing
+Ask-for-Help entries and the auto-spawner) **to any `GeoMission` at all**, mirroring the
+"[Debug] {MissionTypeName}" info entry's own unrestricted reach: safe to broaden, since
+neither `DebugActivityTracker.AddActivity` nor `DebugActivityPickerAbility.
+GrantFreeAllyHelp` (what picking a popup option actually leads to) re-check mission-type
+eligibility themselves — both only check `DebugActivityTracker.CanAddActivity` (the
+mission-type-agnostic mutual-exclusivity gate) plus their own faction/site resolution, so
+a debug activity or free-ally-help grant works identically regardless of which
+`GeoMission` subclass owns the site (e.g. `GeoScavengingMission`, previously only ever
+showing the always-disabled mission-info entry). Clicking it opens a text-input popup
 (`DebugActivityPickerAbility.ActivateInternal`, via `Base.UI.MessageBox.MessageBox.
 ShowInputPrompt`) listing every `DebugActivityKindExtensions.All` kind by number and
 name (6: Pure, Forsaken, New Jericho, Synedrion, Anu, Bandits); the player types a number
@@ -447,15 +458,28 @@ per template (`BoostVehicleAmmo`, etc.), regardless of which `BuildSquad` produc
 ## Build & deploy
 - Open `ChaosFaction.sln` in Visual Studio 2019+.
 - Debug/Release both compile to `Dist/`.
-- The post-build event in the `.csproj` copies `Dist/*` into the game's mod test folder
-  automatically on build success (see sibling mods' `.csproj` for the exact path pattern).
+- **No post-build auto-deploy** — explicit request ("remove that test deploy"): the
+  `.csproj` used to `RMDIR`/`XCOPY` `Dist/*` into `%USERPROFILE%\AppData\LocalLow\Snapshot
+  Games Inc\Phoenix Point\Steam\WorkshopTool\TestMod` on every successful build (both the
+  `PostBuildEvent` and its enabling `RunPostBuildEvent` property were removed from
+  `ChaosFaction.csproj`, and that TestMod folder itself was deleted). Root cause this was
+  fixing: Player.log showed the game discovering this mod from *two* locations at once —
+  a `Default`-loader copy at `G:\SteamLibrary\...\Mods\ChaosFaction` and a
+  `Development`-loader copy at the auto-deployed TestMod folder — logged as `Found
+  duplicated mod 'com.chaos.ChaosFaction', using latest version (1.0)`; load order
+  appeared to favor the TestMod copy in practice, but tying versions made that implicit
+  rather than guaranteed. A build now only produces `Dist/` — deploy to wherever the game
+  actually loads this mod from manually (sibling mods' `.csproj` still show the old
+  pattern if it's ever wanted back).
 - Target framework: **v4.8**, not v4.7.2 despite what the SDK demo template ships with —
   `ChaosOverwatch.csproj` (and this project, matching it) target v4.8; only `ChaosUkrainian`/
   `ChaosUmbraBalance`/`HavenUnderAttackTimer` still say v4.7.2 in their `.csproj`. v4.8 is
   what's actually installed as a targeting pack on the dev machine used for this repo.
 - **Always debug from `Player.log` first, before guessing at a fix.** This environment
   can't run the game, so this file is the only ground truth for what actually happened
-  in-game: `C:\Users\Ukrai\AppData\LocalLow\Snapshot Games Inc\Phoenix Point\Player.log`.
+  in-game: `C:\Users\Volodymyr\AppData\LocalLow\Snapshot Games Inc\Phoenix Point\Player.log`
+  (corrected from an earlier, stale `C:\Users\Ukrai\...` path once the real one was
+  confirmed to actually exist and update on this machine).
   Search it for the literal keyword `ChaosFaction` — that keyword hits both this mod's own
   `Log.Debug` output (`[ChaosFaction]`-prefixed lines, gated on `ChaosFactionConfig.
   EnableDebugLog`, off by default — ask the player to enable it in Mod Settings if a report
@@ -892,6 +916,47 @@ inflected adjective touching the dynamic placeholder at all.
   uses it on its own once there's something to reload with — the missing piece was ammo,
   not AI capability. `GrantSpareAmmo` adds `SpareAmmoClipsPerWeapon` (4) spare clips of
   each weapon's first `CompatibleAmmunition` entry to the pre-spawn instance data.
+- **Bonus medkits**: `GrantBonusMedkits`, run right after `GrantSpareAmmo` in the same
+  pre-`InitializeInstanceData()` step — explicit request ("add additional 1-3 medkits to
+  spawned soldier"). Originally gated behind a 50% per-soldier chance, removed per a later
+  explicit follow-up ("there must be always rolled medkit, no need for 50%, just roll 1-3
+  additional medkits randomly") — every soldier this reaches now always gets a roll in
+  [1, 3], never zero. The count range is a plain hardcoded constant rather than a
+  `ChaosFactionConfig` field, per the earlier explicit request ("don't add to config, just
+  roll randomly"), mirroring `SpareAmmoClipsPerWeapon`'s own not-config-exposed style.
+  A soldier's own carried medkit (if any — checked across both `EquipmentItems` and
+  `InventoryItems`, identified structurally via `IsMedkitItem`: any `ItemDef` whose
+  `Abilities` contains a `HealAbilityDef`, confirmed via source to be the exact signal
+  vanilla's own `UIModuleWeaponSelection.SetupSelectedWeaponInfo` uses to detect a
+  medkit-type item) is preferred, so the bonus matches the tier they'd actually use.
+  **Originally fell back to a random pick across every recognized medkit `ItemDef` in the
+  game (a `GetMedkitItemPool` scan) when the template carried none — simplified per a
+  later explicit follow-up request** ("If no medkit items then simply add 1-3 random
+  items for specific Medkit_EquipmentDef items", also "Remove this log", i.e. drop the
+  diagnostic logging that scan added): `ResolveDefaultMedkitItemDef` now just looks up
+  the base game's own standard `Medkit_EquipmentDef` by its literal asset name (confirmed
+  via Player.log as the name every vanilla/spawned soldier's Medkit actually shows up
+  as), no broader pool/logging involved. Only ever reached for units with a valid
+  `LevelProgression` — `RandomizeLevelAndStats` (the method both grants live in) already
+  returns before reaching either grant otherwise, so vehicles/Mutogs (no
+  `LevelProgression`) never roll this, with no separate vehicle/Mutog check needed.
+- **Heal to full on spawn**: `HealToFullHealth`, called right after `SpawnActor` in
+  `SpawnSquad` (after `SetAlertedOnSpawn`/`BoostVehicleAmmo`) — explicit request, reported
+  in-game as spawned allies sometimes looking damaged: "some abilities added which
+  increase strength etc, but health is not updated... heal those soldiers to have 100% of
+  their HP". Root cause: `TacticalActor.ProcessInstanceDataStats` already calls
+  `Health.SetToMax()` itself for a fresh spawn, but that runs as part of the actor's own
+  base-stats setup step — *before* ability-driven passive effects (granted later in the
+  same `ProcessInstanceData` cascade, still inside `SpawnActor`) get a chance to raise
+  `Health.Max` further, leaving `Value` stuck below the new, higher `Max`. Since
+  `ProcessInstanceData` (and everything it triggers, including ability grants) runs
+  synchronously inside `SpawnActor`, calling this once `SpawnActor` has already returned
+  guarantees it always gets the final word regardless of what raised `Max` along the way.
+  Mirrors `HealAbility`'s own two-part healing (general `Health` + every body-part slot's
+  own health via `BodyState.GetHealthSlots()`), just going all the way to full
+  (`StatusStat.SetToMax()`) instead of adding a fixed amount. Applies to vehicles/Mutogs
+  too (`Health` is a `TacticalActorBase`-level field) — only the body-part loop is
+  character-only, guarded by an `as TacticalActor` check.
 - **Vehicle ammo**: vehicle AI never invokes `ReloadAbility` on its own turret weapon, so
   `BoostVehicleAmmo` instead inflates already-loaded magazines *after* spawn, via
   `CommonItemData.ModifyCharges` called directly on each loaded magazine item (checks only
