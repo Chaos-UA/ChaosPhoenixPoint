@@ -597,6 +597,15 @@ namespace ChaosFasterTurn
 	/// mid-vanilla-dramatic-pause (that only exists once a reaction has already triggered on a
 	/// stationary check), it costs nothing to stay consistent with every other write path in this
 	/// file rather than assume that can never change.
+	/// <para/>
+	/// NOTE: this and the equivalent per-frame check in
+	/// <see cref="FasterTurnState.ApplyForCurrentFaction"/> were briefly removed (in favor of relying
+	/// on <see cref="ChaosFasterTurnTriggerOverwatchPatch"/> alone) to cut down on false 1x slowdowns
+	/// for movers that were merely in proximity range but never actually got shot at. That
+	/// regressed overwatch accuracy - enemies visibly moved further than they should have before a
+	/// reaction caught them - so both were restored. Any future attempt to reduce false-positive
+	/// slowdowns here should shrink <see cref="FasterTurnState.OverwatchProximityMarginTiles"/> or add
+	/// a line-of-sight requirement instead of removing this proactive layer outright.
 	/// </summary>
 	[HarmonyPatch(typeof(TacticalNavigationComponent), "OnNavigateStart")]
 	internal static class ChaosFasterTurnNavigateStartPatch

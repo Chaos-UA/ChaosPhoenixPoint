@@ -1424,16 +1424,37 @@ namespace ChaosInventory
 		// Fixed by replicating that same internal resolution here, so the mismatch is detected
 		// regardless of whether the caller passed an explicit slot or left it null for vanilla to
 		// resolve.
-		private static void Prefix(UIInventoryList __instance, ICommonItem removedItem, UIInventorySlot slot, out bool __state)
+		private static void Prefix(UIInventoryList __instance, ref ICommonItem removedItem, UIInventorySlot slot, out bool __state)
 		{
 			__state = false;
-			if (__instance.AllowStacking || removedItem == null)
+			// Local, non-ref copy - a `ref` parameter can't be read from inside a lambda (CS1628), and
+			// every lookup below needs to close over "the item we started with" anyway.
+			ICommonItem originalRemovedItem = removedItem;
+			if (__instance.AllowStacking || originalRemovedItem == null)
 			{
 				return;
 			}
-			UIInventorySlot resolvedSlot = slot ?? __instance.Slots.FirstOrDefault(sl => !sl.Empty && sl.Item.ItemDef == removedItem.ItemDef);
-			if (resolvedSlot != null && resolvedSlot.Item != null && resolvedSlot.Item != removedItem
-				&& resolvedSlot.Item.CommonItemData.Count > removedItem.CommonItemData.Count)
+			UIInventorySlot resolvedSlot = slot ?? __instance.Slots.FirstOrDefault(sl => !sl.Empty && sl.Item.ItemDef == originalRemovedItem.ItemDef);
+
+			// Defensive extra: an explicit slot's real, current item can differ from `removedItem`
+			// (what the caller captured earlier) while still representing the same real unit (same
+			// ItemDef/Count/Charges) - e.g. after a screen refresh replaced the display object. Not the
+			// actual root cause of the reported item-loss bug (see ItemChangingHandler/
+			// ItemChangedHandler's own fix below for that), but a cheap safety net: re-point
+			// `removedItem` at the slot's real occupant so vanilla's removal always targets what's
+			// actually there. Scoped to a Count/Charges MATCH (not just same ItemDef) so it never fires
+			// for a genuine stack-split, which the branch below already owns.
+			if (resolvedSlot != null && resolvedSlot.Item != null && resolvedSlot.Item != originalRemovedItem
+				&& resolvedSlot.Item.ItemDef == originalRemovedItem.ItemDef
+				&& resolvedSlot.Item.CommonItemData.Count == originalRemovedItem.CommonItemData.Count
+				&& resolvedSlot.Item.CommonItemData.CurrentCharges == originalRemovedItem.CommonItemData.CurrentCharges)
+			{
+				removedItem = resolvedSlot.Item;
+				originalRemovedItem = resolvedSlot.Item;
+			}
+
+			if (resolvedSlot != null && resolvedSlot.Item != null && resolvedSlot.Item != originalRemovedItem
+				&& resolvedSlot.Item.CommonItemData.Count > originalRemovedItem.CommonItemData.Count)
 			{
 				// Diagnostic (per direct user report of "Devastation Kaos Cannon" +Ammo apparently
 				// loading a weapon for free while leaving the real Storage stack untouched): if
@@ -1442,12 +1463,12 @@ namespace ChaosInventory
 				// bug this mod has hit many times before, e.g. v25-v42/v76-v81). Logging identity
 				// hashes and list-membership directly instead of guessing further which object vanilla's
 				// own OnSideButtonPressed/TryLoadAmmo actually picked.
-				int removedHash = System.Runtime.CompilerServices.RuntimeHelpers.GetHashCode(removedItem);
+				int removedHash = System.Runtime.CompilerServices.RuntimeHelpers.GetHashCode(originalRemovedItem);
 				int slotItemHash = System.Runtime.CompilerServices.RuntimeHelpers.GetHashCode(resolvedSlot.Item);
-				bool removedInUnfiltered = __instance.UnfilteredItems.Any(i => ReferenceEquals(i, removedItem));
+				bool removedInUnfiltered = __instance.UnfilteredItems.Any(i => ReferenceEquals(i, originalRemovedItem));
 				bool slotItemInUnfiltered = __instance.UnfilteredItems.Any(i => ReferenceEquals(i, resolvedSlot.Item));
-				int matchingUnfilteredCount = __instance.UnfilteredItems.Count(i => i.ItemDef == removedItem.ItemDef);
-				Log.Debug($"RemoveItem PartialStackFix: '{resolvedSlot.Item.CommonItemData.GetDisplayName()}' slot holds x{resolvedSlot.Item.CommonItemData.Count} (hash={slotItemHash}, inUnfilteredItems={slotItemInUnfiltered}) but only x{removedItem.CommonItemData.Count} is being removed (hash={removedHash}, inUnfilteredItems={removedInUnfiltered}, slot param was {(slot == null ? "null, resolved internally" : "explicit")}) - {matchingUnfilteredCount} total UnfilteredItems entries share this ItemDef - temporarily allowing stacking so vanilla's own Subtract logic runs instead of wiping the whole slot.");
+				int matchingUnfilteredCount = __instance.UnfilteredItems.Count(i => i.ItemDef == originalRemovedItem.ItemDef);
+				Log.Debug($"RemoveItem PartialStackFix: '{resolvedSlot.Item.CommonItemData.GetDisplayName()}' slot holds x{resolvedSlot.Item.CommonItemData.Count} (hash={slotItemHash}, inUnfilteredItems={slotItemInUnfiltered}) but only x{originalRemovedItem.CommonItemData.Count} is being removed (hash={removedHash}, inUnfilteredItems={removedInUnfiltered}, slot param was {(slot == null ? "null, resolved internally" : "explicit")}) - {matchingUnfilteredCount} total UnfilteredItems entries share this ItemDef - temporarily allowing stacking so vanilla's own Subtract logic runs instead of wiping the whole slot.");
 				// Reasoning about the exact call site from the source alone hasn't settled
 				// why removedItem's Count reads as low as 0 here (GetSingleItem() should always hand
 				// back either the real Count=1 item or a freshly built Count=1 stand-in - never 0) -
@@ -1464,6 +1485,85 @@ namespace ChaosInventory
 			if (__state)
 			{
 				__instance.AllowStacking = false;
+			}
+		}
+	}
+
+	internal static class ChaosDiagnosticUtl
+	{
+		// See the ItemChanging/ItemChangedHandler fix patches' own comment for why this exists:
+		// removes `item` from `list` via an explicit ReferenceEquals scan, immune to whatever
+		// EqualityComparer<ICommonItem>.Default/List<T>.Remove's own comparer actually resolves to
+		// (confirmed, empirically, to NOT be plain reference equality here).
+		public static void RemoveByReference(List<ICommonItem> list, ICommonItem item)
+		{
+			if (list == null || item == null)
+			{
+				return;
+			}
+			for (int i = 0; i < list.Count; i++)
+			{
+				if (ReferenceEquals(list[i], item))
+				{
+					list.RemoveAt(i);
+					return;
+				}
+			}
+		}
+	}
+
+	// Confirmed real root cause, via a Player.log capture using collision-proof per-object ids
+	// (RuntimeHelpers.GetHashCode turned out to collide between distinct, simultaneously-alive
+	// objects often enough - this codebase's own BuildDisplayItem/refresh machinery creates a very
+	// high churn of short-lived GeoItem clones - to actively mislead the investigation before that):
+	// `List<ICommonItem>.UnfilteredItems.Remove(oldItem)` - called by both of these two private
+	// vanilla handlers, the actual choke point for every slot.Item change - does NOT match by
+	// reference the way a plain reference-type List normally would. Proven directly: a list holding
+	// 5 magazines, asked to remove one confirmed PRESENT in the list by reference (via
+	// ReferenceEquals, checked right before the call), instead removed a completely different
+	// object each time - while the one actually asked for, the one really leaving its slot, survived
+	// in the list. All the magazines involved share the same ItemDef with matching Count/
+	// CurrentCharges (interchangeable), so whatever equality path List.Remove resolves to here is
+	// matching by VALUE, not identity - meaning removing "the magazine in this slot" from a
+	// non-stacking list holding several otherwise-identical magazines removes an ARBITRARY one of
+	// them, not necessarily the one that actually left. This is the true, confirmed mechanism behind
+	// every "drag one out, an unrelated one also vanishes" repro traced in this investigation.
+	//
+	// Fixed at the true source: before vanilla's own body runs, remove `oldItem` from
+	// UnfilteredItems/FilteredItems OURSELVES via an explicit ReferenceEquals scan (immune to
+	// whatever List.Remove's own comparer resolves to), then null the `oldItem` parameter (a `ref`
+	// Prefix parameter) so vanilla's own subsequent `if (oldItem != null) { Remove(...) }` becomes a
+	// clean no-op instead of removing a second, wrong item. The `newItem` insertion path (untouched)
+	// is index-based, not equality-based, so it was never at risk and is left alone.
+	[HarmonyPatch(typeof(UIInventoryList), "ItemChangingHandler")]
+	internal static class Patch_UIInventoryList_ItemChangingHandler_Fix
+	{
+		private static void Prefix(UIInventoryList __instance, ref ICommonItem oldItem)
+		{
+			// Mirrors vanilla's own leading `if (this._isFiltering) return;` guard (exposed publicly
+			// as IsFiltering) - during the "newly added item fails a filter" recursive self-call
+			// (ItemChangedHandler sets _isFiltering=true, clears the slot, then false again), vanilla
+			// intentionally skips touching the lists here; our fix must respect that same gate instead
+			// of unconditionally removing regardless.
+			if (oldItem != null && !__instance.IsFiltering)
+			{
+				ChaosDiagnosticUtl.RemoveByReference(__instance.UnfilteredItems, oldItem);
+				oldItem = null;
+			}
+		}
+	}
+
+	[HarmonyPatch(typeof(UIInventoryList), "ItemChangedHandler")]
+	internal static class Patch_UIInventoryList_ItemChangedHandler_Fix
+	{
+		private static void Prefix(UIInventoryList __instance, ref ICommonItem oldItem)
+		{
+			// Same IsFiltering gate as ItemChangingHandler's fix - see its own comment.
+			if (oldItem != null && !__instance.IsFiltering)
+			{
+				ChaosDiagnosticUtl.RemoveByReference(__instance.UnfilteredItems, oldItem);
+				ChaosDiagnosticUtl.RemoveByReference(__instance.FilteredItems, oldItem);
+				oldItem = null;
 			}
 		}
 	}
@@ -2281,6 +2381,81 @@ namespace ChaosInventory
 		}
 	}
 
+	// Real fix, closing the gap the SetItems-side dedupe (below) can't reach on its own: confirmed
+	// via the diagnostic patches and a direct Player.log capture that module.ArmorList/ReadyList/
+	// InventoryList.UnfilteredItems - the LIVE, still-open UI list this soldier's screen is actually
+	// showing - can independently hold the same GeoItem object reference more than once, and NOTHING
+	// in vanilla ever re-syncs it back to the (correctly deduped) real soldier.InventoryItems while
+	// the screen stays open. Confirmed via Player.log: right after Patch_GeoCharacter_
+	// SetItems_DedupeReferences below collapsed a soldier's real InventoryItems back down to 1 clean
+	// entry, the VERY NEXT commit (this screen re-invokes UpdateSoldierEquipment continuously while
+	// open - see its own comment) fed the exact same 2-duplicate-reference pair right back in from
+	// this list, undoing the fix every single frame forever, since GeoCharacter.SetItems.Prefix only
+	// ever sees (and cleans) its own argument snapshot - never the list it was built from. Deduping
+	// the actual backing UnfilteredItems collections in place, here, BEFORE the original method reads
+	// them (and before they're handed to SetItems), fixes the true source instead of only its output -
+	// this is what actually stops "drag one of an accidentally-doubled pair out, the other silently
+	// vanishes" from recurring, including for a freshly acquired item that gets doubled by whatever
+	// is creating this duplication (root mechanism not yet pinned down - this closes the gap
+	// defensively regardless of how the duplicate got created).
+	[HarmonyPatch(typeof(UIStateEditSoldier), "UpdateSoldierEquipment")]
+	internal static class Patch_UIStateEditSoldier_UpdateSoldierEquipment_DedupeReferences
+	{
+		private static void Prefix(UIStateEditSoldier __instance)
+		{
+			UIModuleSoldierEquip module = ChaosInventoryPatchUtl.GetModuleForDiagnostic(__instance);
+			if (module == null)
+			{
+				return;
+			}
+			ChaosInventoryPatchUtl.DedupeUnfilteredItems("ArmorList", module.ArmorList);
+			ChaosInventoryPatchUtl.DedupeUnfilteredItems("ReadyList", module.ReadyList);
+			ChaosInventoryPatchUtl.DedupeUnfilteredItems("InventoryList", module.InventoryList);
+		}
+	}
+
+	// Confirmed real fix, via a direct Player.log capture: a
+	// soldier's own item list (ArmourItems/EquipmentItems/InventoryItems) can end up holding the
+	// EXACT SAME GeoItem object reference more than once - one real magazine was found listed
+	// twice in a soldier's InventoryItems (same object hash both times), displaying as "2 ammo
+	// packs" that were actually only ever one. Dragging what looks like "one of the two" out of
+	// such a slot then wipes BOTH displayed copies at once, since a reference that's removed once
+	// is gone from every slot that was ever showing it - the remaining "other pack" silently
+	// vanishes even though it was never touched (confirmed: InventoryList/InventoryItems went
+	// straight from 2 entries to 0 in one single-item drag). How the duplicate reference gets
+	// created in the first place hasn't been pinned down (the corrupted state was already present
+	// in the save at the very first log line for this soldier this session, so it predates this
+	// diagnostic build) - but since every commit path funnels through this one method (SetItems is
+	// GeoCharacter's single "replace my items" entry point, and per UIStateEditSoldier.UpdateState's
+	// _uiRefreshNeeded loop it's re-invoked continuously while the equip screen is open), deduping
+	// by reference identity right here both stops the corruption from ever being written back out
+	// and self-heals any already-corrupted save the next time this soldier's loadout is committed.
+	[HarmonyPatch(typeof(GeoCharacter), "SetItems")]
+	internal static class Patch_GeoCharacter_SetItems_DedupeReferences
+	{
+		private static void Prefix(GeoCharacter __instance, ref IEnumerable<GeoItem> armour, ref IEnumerable<GeoItem> equipment, ref IEnumerable<GeoItem> inventory)
+		{
+			armour = Dedupe(__instance, "ArmourItems", armour);
+			equipment = Dedupe(__instance, "EquipmentItems", equipment);
+			inventory = Dedupe(__instance, "InventoryItems", inventory);
+		}
+
+		private static IEnumerable<GeoItem> Dedupe(GeoCharacter soldier, string label, IEnumerable<GeoItem> items)
+		{
+			if (items == null)
+			{
+				return null;
+			}
+			List<GeoItem> list = items.ToList();
+			List<GeoItem> deduped = list.Distinct(GeoItemReferenceComparer.Instance).ToList();
+			if (deduped.Count != list.Count)
+			{
+				Log.Debug($"GeoCharacter.SetItems dedupe: soldier='{soldier?.Identity?.Name}' {label} had {list.Count} entries, {list.Count - deduped.Count} were duplicate object reference(s) to an item already in the list - collapsed to {deduped.Count}.");
+			}
+			return deduped;
+		}
+	}
+
 	// Also re-applies the per-slot disabled state every frame (see ReapplySlotTags):
 	// UIInventorySlot.OnEnable() unconditionally resets EventHandlersEnabled = true whenever a
 	// slot's GameObject is (re-)enabled, which happens on its own as the Storage list scrolls
@@ -2294,10 +2469,19 @@ namespace ChaosInventory
 	{
 		private static void Postfix(UIStateEditSoldier __instance)
 		{
+			// Throttled to once per PerFrameRefreshIntervalFrames frames (see
+			// ChaosInventoryPatchUtl.ShouldRunPerFrameRefresh) - this whole block is passive drift
+			// correction, not something a real interaction depends on for correctness (see that
+			// method's own comment for why).
+			if (!ChaosInventoryPatchUtl.ShouldRunPerFrameRefresh(__instance))
+			{
+				return;
+			}
+
 			// Resolved once and shared, rather than each of the two callers below separately calling
-			// ResolveLocationContext(__instance) - it's recomputed fresh every frame by design (see
-			// ResolveLocationContextLive's own comment on why: docking state must never go stale
-			// while this screen is open), so doing that resolution twice per frame was pure waste,
+			// ResolveLocationContext(__instance) - it's recomputed fresh every time this runs by
+			// design (see ResolveLocationContextLive's own comment on why: docking state must never
+			// go stale while this screen is open), so doing that resolution twice was pure waste,
 			// not a correctness need. See ChaosInventoryPatchUtl's FPS notes.
 			LocationContext ctx = ChaosInventoryPatchUtl.ResolveLocationContext(__instance);
 			ChaosInventoryPatchUtl.OverrideStorageIndicator(__instance, ctx);
@@ -2390,6 +2574,26 @@ namespace ChaosInventory
 		}
 	}
 
+	// Mirrors Patch_UIStateEditSoldier_UpdateSoldierEquipment_DedupeReferences - UIStateEditVehicle's
+	// own equivalent commit method (UpdateVehicleEquipment, confirmed in the source to read
+	// InventoryList.UnfilteredItems.OfType<GeoItem>() the same way) is exposed to the exact same
+	// duplicate-object-reference corruption, for a ground-vehicle crew member's own inventory.
+	[HarmonyPatch(typeof(UIStateEditVehicle), "UpdateVehicleEquipment")]
+	internal static class Patch_UIStateEditVehicle_UpdateVehicleEquipment_DedupeReferences
+	{
+		private static void Prefix(UIStateEditVehicle __instance)
+		{
+			UIModuleSoldierEquip module = ChaosInventoryPatchUtl.GetModuleForDiagnostic(__instance);
+			if (module == null)
+			{
+				return;
+			}
+			ChaosInventoryPatchUtl.DedupeUnfilteredItems("ArmorList", module.ArmorList);
+			ChaosInventoryPatchUtl.DedupeUnfilteredItems("ReadyList", module.ReadyList);
+			ChaosInventoryPatchUtl.DedupeUnfilteredItems("InventoryList", module.InventoryList);
+		}
+	}
+
 	[HarmonyPatch(typeof(UIStateEditVehicle), "CharacterChangedHandler")]
 	internal static class Patch_UIStateEditVehicle_CharacterChangedHandler
 	{
@@ -2445,6 +2649,11 @@ namespace ChaosInventory
 		private static void Postfix(UIStateEditVehicle __instance)
 		{
 			// See the identical comment on Patch_UIStateEditSoldier_UpdateState's own Postfix.
+			if (!ChaosInventoryPatchUtl.ShouldRunPerFrameRefresh(__instance))
+			{
+				return;
+			}
+
 			LocationContext ctx = ChaosInventoryPatchUtl.ResolveLocationContext(__instance);
 			ChaosInventoryPatchUtl.OverrideStorageIndicator(__instance, ctx);
 			ChaosInventoryPatchUtl.ReapplySlotTags(__instance, ctx);
@@ -2957,6 +3166,40 @@ namespace ChaosInventory
 		// consistent, closing that gap regardless of why a single resolution attempt came up empty.
 		private static readonly ConditionalWeakTable<GeoscapeViewState, LocationContext> _lastGoodCtx =
 			new ConditionalWeakTable<GeoscapeViewState, LocationContext>();
+
+		// Per direct user request (FPS investigation follow-up): OverrideStorageIndicator/
+		// ReapplySlotTags/HideThirdPartyLoadoutButtons are all passive drift-correction against
+		// state that can change WITHOUT this mod's own knowledge (docking status, another mod's
+		// UI re-enabling its own buttons, UIInventorySlot.OnEnable resetting EventHandlersEnabled
+		// when a pooled row scrolls back into view) - none of that needs correcting on literally
+		// every rendered frame, only "soon enough" a player can't act on stale state. Real
+		// interactions (equip/unequip/commit) are NOT affected by this throttle: TryCustomRefreshStorage/
+		// TryCustomUpdateStorage call ApplySlotTags/SetStorageIndicatorUI directly and
+		// unconditionally on their own, completely separate from the two UpdateState Postfixes this
+		// gates. Interval is frames-of-this-screen-being-open, not wall-clock seconds - reset to 0
+		// (see ClearLocationState) whenever the screen is entered/re-entered so the very first frame
+		// after opening isn't itself delayed.
+		private const int PerFrameRefreshIntervalFrames = 60;
+
+		private sealed class FrameThrottle
+		{
+			public int Remaining;
+		}
+
+		private static readonly ConditionalWeakTable<GeoscapeViewState, FrameThrottle> _perFrameRefreshThrottle =
+			new ConditionalWeakTable<GeoscapeViewState, FrameThrottle>();
+
+		public static bool ShouldRunPerFrameRefresh(GeoscapeViewState state)
+		{
+			FrameThrottle throttle = _perFrameRefreshThrottle.GetValue(state, _ => new FrameThrottle());
+			if (throttle.Remaining <= 0)
+			{
+				throttle.Remaining = PerFrameRefreshIntervalFrames - 1;
+				return true;
+			}
+			throttle.Remaining--;
+			return false;
+		}
 
 		/// Resolves the full location context (own storage + label + reachable destinations) for the
 		/// currently displayed character: an aircraft if they're crewing one, otherwise the base
@@ -3491,6 +3734,56 @@ namespace ChaosInventory
 			return null;
 		}
 
+		// Public wrapper around the private GetModule above - used by the DedupeReferences fix
+		// patches, which live in separate top-level classes and can't call a private method here.
+		public static UIModuleSoldierEquip GetModuleForDiagnostic(GeoscapeViewState state)
+		{
+			return GetModule(state);
+		}
+
+		// Removes duplicate object-reference entries from a UIInventoryList's real backing
+		// UnfilteredItems collection in place (keeping the first occurrence of each), explicitly via
+		// ReferenceEquals rather than relying on ICommonItem/GeoItem's own (unknown/possibly absent)
+		// Equals override - see the callers' own comments for why this is needed: a duplicate here
+		// silently re-poisons every subsequent commit even after GeoCharacter.SetItems' own dedupe
+		// cleans its output, since nothing else ever re-syncs this list from the cleaned data while
+		// the screen stays open.
+		public static void DedupeUnfilteredItems(string label, UIInventoryList list)
+		{
+			if (list?.UnfilteredItems == null)
+			{
+				return;
+			}
+			List<ICommonItem> seen = new List<ICommonItem>();
+			List<ICommonItem> toRemove = new List<ICommonItem>();
+			foreach (ICommonItem item in list.UnfilteredItems)
+			{
+				if (seen.Any(s => ReferenceEquals(s, item)))
+				{
+					toRemove.Add(item);
+				}
+				else
+				{
+					seen.Add(item);
+				}
+			}
+			foreach (ICommonItem dup in toRemove)
+			{
+				for (int i = 0; i < list.UnfilteredItems.Count; i++)
+				{
+					if (ReferenceEquals(list.UnfilteredItems[i], dup))
+					{
+						list.UnfilteredItems.RemoveAt(i);
+						break;
+					}
+				}
+			}
+			if (toRemove.Count > 0)
+			{
+				Log.Debug($"DedupeUnfilteredItems: '{label}' had {toRemove.Count} duplicate object reference(s) among its UnfilteredItems - removed, {list.UnfilteredItems.Count} entries remain.");
+			}
+		}
+
 		// Hides "EQUIP LOADOUT"/"SAVE LOADOUT" (and any other exact-matching label) on the Edit
 		// Soldier screen at the user's request. These buttons belong to some other installed mod,
 		// not vanilla Assembly-CSharp (confirmed absent from ModSDK/Assembly-CSharp.dll's own
@@ -3608,6 +3901,7 @@ namespace ChaosInventory
 		{
 			_lastEntries.Remove(state);
 			_lastGoodCtx.Remove(state);
+			_perFrameRefreshThrottle.Remove(state);
 			UIModuleSoldierEquip module = GetModule(state);
 			if (module?.StorageList != null)
 			{

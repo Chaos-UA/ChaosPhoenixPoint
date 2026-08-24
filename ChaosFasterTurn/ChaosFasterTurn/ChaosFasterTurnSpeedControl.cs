@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.Reflection;
 using Base.Entities;
 using Base.Utils.Maths;
@@ -11,6 +12,74 @@ using UnityEngine;
 namespace ChaosFasterTurn
 {
 	/// <summary>
+	/// Shared step ladder used by both <see cref="FasterTurnState"/> (enemy-turn speed) and
+	/// <see cref="PlayerMoveSpeedState"/> (player-movement speed, see ChaosFasterTurnPlayerMoveSpeed.cs)
+	/// so the two independent speed controls step and format identically: x1 → x1.5 → x2 → x3 → x4 →
+	/// … up to the configured max. The 1.5 step only ever exists between x1 and x2 - every step from
+	/// x2 upward is a whole number, same as before this was added.
+	/// </summary>
+	internal static class SpeedSteps
+	{
+		/// <summary>Builds the ordered step list for a given whole-number max (1, 1.5, 2, 3, ..., max).</summary>
+		public static List<float> Build(int max)
+		{
+			List<float> steps = new List<float> { 1f };
+			if (max >= 2)
+			{
+				steps.Add(1.5f);
+				for (int i = 2; i <= max; i++)
+				{
+					steps.Add(i);
+				}
+			}
+			return steps;
+		}
+
+		/// <summary>Index of the step closest to <paramref name="value"/> - exact match in every normal case
+		/// (values only ever come from this same step list), with nearest-match fallback so a config change
+		/// (a lowered max) never leaves a value that no longer matches any step.</summary>
+		private static int ClosestIndex(List<float> steps, float value)
+		{
+			int best = 0;
+			float bestDiff = float.MaxValue;
+			for (int i = 0; i < steps.Count; i++)
+			{
+				float diff = Math.Abs(steps[i] - value);
+				if (diff < bestDiff)
+				{
+					bestDiff = diff;
+					best = i;
+				}
+			}
+			return best;
+		}
+
+		/// <summary>Next step up from <paramref name="current"/>, clamped at the top of the ladder.</summary>
+		public static float Increase(float current, int max)
+		{
+			List<float> steps = Build(max);
+			int idx = Math.Min(ClosestIndex(steps, current) + 1, steps.Count - 1);
+			return steps[idx];
+		}
+
+		/// <summary>Next step down from <paramref name="current"/>, clamped at x1.</summary>
+		public static float Decrease(float current, int max)
+		{
+			List<float> steps = Build(max);
+			int idx = Math.Max(ClosestIndex(steps, current) - 1, 0);
+			return steps[idx];
+		}
+
+		/// <summary>"x1", "x1.5", "x4" - whole numbers with no decimal point, the 1.5 step with one.</summary>
+		public static string Format(float multiplier)
+		{
+			return Math.Abs(multiplier - Mathf.Round(multiplier)) < 0.001f
+				? Mathf.RoundToInt(multiplier).ToString()
+				: multiplier.ToString("0.#");
+		}
+	}
+
+	/// <summary>
 	/// Live state for the enemy-turn speed control. <see cref="Controller"/> is set/cleared by
 	/// <see cref="ChaosFasterTurnTactical"/> for whichever Tactical level is currently loaded;
 	/// <see cref="Multiplier"/> is the player-chosen x-speed, changed by <see cref="ChaosFasterTurnUpdater"/>.
@@ -18,7 +87,7 @@ namespace ChaosFasterTurn
 	internal static class FasterTurnState
 	{
 		public static TacticalLevelController Controller;
-		public static int Multiplier = 1;
+		public static float Multiplier = 1f;
 
 		/// <summary>
 		/// True only while an AI faction's turn is actually in progress. Every trigger point in
@@ -40,7 +109,7 @@ namespace ChaosFasterTurn
 		/// Toggle Speed key restores. Only <see cref="SetMultiplier"/> writes to it, and only when
 		/// the new value isn't 1, so resetting to 1 (from anywhere) never touches it.
 		/// </summary>
-		public static int LastNonDefaultMultiplier = 1;
+		public static float LastNonDefaultMultiplier = 1f;
 
 		/// <summary>
 		/// True while a player-controlled overwatch/return-fire shot is in flight
@@ -147,8 +216,13 @@ namespace ChaosFasterTurn
 		/// (see CLAUDE.md "Incident 6") while still being a small, local radius around each individual
 		/// watcher - not "anywhere on the map" (an earlier version used exactly that and slowed down
 		/// every enemy on the level any time a single player unit anywhere had overwatch up).
+		/// Lowered from 8 to 2: 8 was generous enough that enemies were visibly capped to 1x just for
+		/// being broadly near a player unit holding overwatch, long before they were actually at risk
+		/// of triggering it, which in practice was a bigger annoyance than the one-frame detection
+		/// slop this margin exists to absorb. 2 tiles is still enough slack to cover that slop without
+		/// the wide "anyone near an overwatch camper crawls" halo the old value produced.
 		/// </summary>
-		private const float OverwatchProximityMarginTiles = 8f;
+		private const float OverwatchProximityMarginTiles = 2f;
 
 		/// <summary>
 		/// True while at least one hostile unit is currently holding armed overwatch against
@@ -270,21 +344,39 @@ namespace ChaosFasterTurn
 		/// Clamps and stores a new multiplier, then re-applies it immediately (so a key press
 		/// mid-AI-turn is felt right away instead of waiting for the next turn change).
 		/// </summary>
-		public static void SetMultiplier(int value)
+		public static void SetMultiplier(float value)
 		{
 			int max = Math.Max(1, ChaosFasterTurnMain.Cfg?.MaxSpeedMultiplier ?? 10);
-			int clamped = Mathf.Clamp(value, 1, max);
+			float clamped = Mathf.Clamp(value, 1f, max);
 			if (clamped == Multiplier)
 			{
 				return;
 			}
 			Multiplier = clamped;
-			if (Multiplier != 1)
+			if (Multiplier != 1f)
 			{
 				LastNonDefaultMultiplier = Multiplier;
 			}
 			ApplyForCurrentFaction();
-			Log($"Enemy turn speed set to x{Multiplier}");
+			Log($"Enemy turn speed set to x{SpeedSteps.Format(Multiplier)}");
+		}
+
+		/// <summary>
+		/// Increase/Decrease Speed keys: step through <see cref="SpeedSteps"/> (x1 → x1.5 → x2 → x3 →
+		/// … up to <c>Max Speed Multiplier</c>) rather than a flat +1/-1, so the extra x1.5 step is
+		/// reachable without needing whole-number granularity everywhere else.
+		/// </summary>
+		public static void IncreaseSpeed()
+		{
+			int max = Math.Max(1, ChaosFasterTurnMain.Cfg?.MaxSpeedMultiplier ?? 10);
+			SetMultiplier(SpeedSteps.Increase(Multiplier, max));
+		}
+
+		/// <summary>See <see cref="IncreaseSpeed"/>.</summary>
+		public static void DecreaseSpeed()
+		{
+			int max = Math.Max(1, ChaosFasterTurnMain.Cfg?.MaxSpeedMultiplier ?? 10);
+			SetMultiplier(SpeedSteps.Decrease(Multiplier, max));
 		}
 
 		/// <summary>
@@ -298,11 +390,11 @@ namespace ChaosFasterTurn
 		/// </summary>
 		public static void ToggleDefault()
 		{
-			if (Multiplier == 1 && LastNonDefaultMultiplier == 1)
+			if (Multiplier == 1f && LastNonDefaultMultiplier == 1f)
 			{
-				LastNonDefaultMultiplier = Math.Min(2, Math.Max(1, ChaosFasterTurnMain.Cfg?.MaxSpeedMultiplier ?? 10));
+				LastNonDefaultMultiplier = Math.Min(2f, Math.Max(1f, ChaosFasterTurnMain.Cfg?.MaxSpeedMultiplier ?? 10));
 			}
-			SetMultiplier(Multiplier != 1 ? 1 : LastNonDefaultMultiplier);
+			SetMultiplier(Multiplier != 1f ? 1f : LastNonDefaultMultiplier);
 		}
 
 		/// <summary>
@@ -323,7 +415,7 @@ namespace ChaosFasterTurn
 		{
 			Suppressed = false;
 			ApplyForCurrentFaction();
-			Log($"Enemy turn speed restored to x{Multiplier} after the shot.");
+			Log($"Enemy turn speed restored to x{SpeedSteps.Format(Multiplier)} after the shot.");
 		}
 
 		public static void Log(string message)
@@ -385,23 +477,6 @@ namespace ChaosFasterTurn
 				return;
 			}
 
-			if (IsKeyDown(ResetSpeedKey))
-			{
-				FasterTurnState.SetMultiplier(1);
-			}
-			else if (IsKeyDown(DecreaseSpeedKey))
-			{
-				FasterTurnState.SetMultiplier(FasterTurnState.Multiplier - 1);
-			}
-			else if (IsKeyDown(IncreaseSpeedKey))
-			{
-				FasterTurnState.SetMultiplier(FasterTurnState.Multiplier + 1);
-			}
-			else if (IsKeyDown(ToggleSpeedKey))
-			{
-				FasterTurnState.ToggleDefault();
-			}
-
 			// Player-turn lockout (see CLAUDE.md): this was the last spot in the mod that still
 			// touched every actor's Timing every single frame regardless of whose turn it was -
 			// every trigger-point patch got gated on IsAITurn already, but this continuous reapply
@@ -412,6 +487,23 @@ namespace ChaosFasterTurn
 			bool isAITurn = FasterTurnState.IsAITurn;
 			if (isAITurn)
 			{
+				if (IsKeyDown(ResetSpeedKey))
+				{
+					FasterTurnState.SetMultiplier(1f);
+				}
+				else if (IsKeyDown(DecreaseSpeedKey))
+				{
+					FasterTurnState.DecreaseSpeed();
+				}
+				else if (IsKeyDown(IncreaseSpeedKey))
+				{
+					FasterTurnState.IncreaseSpeed();
+				}
+				else if (IsKeyDown(ToggleSpeedKey))
+				{
+					FasterTurnState.ToggleDefault();
+				}
+
 				/// Continuously reassert the chosen multiplier rather than relying solely on the
 				/// NewTurnEvent hook. FasterTurnState.Multiplier already survives faction-turn changes
 				/// on its own - this is about the applied per-actor Timing.Scale getting stomped back
@@ -423,8 +515,44 @@ namespace ChaosFasterTurn
 				/// within one frame of anything else touching it.
 				FasterTurnState.ApplyForCurrentFaction();
 			}
+			else if (PlayerMoveSpeedState.Active)
+			{
+				// Same four hotkeys, routed to the independent player-movement speed control
+				// instead (see ChaosFasterTurnPlayerMoveSpeed.cs) - only reachable here because
+				// PlayerMoveSpeedState.Active is only ever true while it's the player's own turn
+				// and one of their own units is actively navigating, so this can never overlap
+				// with the isAITurn branch above.
+				if (IsKeyDown(ResetSpeedKey))
+				{
+					PlayerMoveSpeedState.SetMultiplier(1f);
+				}
+				else if (IsKeyDown(DecreaseSpeedKey))
+				{
+					PlayerMoveSpeedState.DecreaseSpeed();
+				}
+				else if (IsKeyDown(IncreaseSpeedKey))
+				{
+					PlayerMoveSpeedState.IncreaseSpeed();
+				}
+				else if (IsKeyDown(ToggleSpeedKey))
+				{
+					PlayerMoveSpeedState.ToggleDefault();
+				}
 
-			FasterTurnSpeedBadge.Refresh(isAITurn, FasterTurnState.Multiplier);
+				// Same continuous-reapply safety net as FasterTurnState.ApplyForCurrentFaction above.
+				PlayerMoveSpeedState.Apply();
+			}
+
+			bool showEnemyBadge = isAITurn && FasterTurnState.Multiplier != 1f;
+			bool showPlayerMoveBadge = PlayerMoveSpeedState.Active && PlayerMoveSpeedState.Multiplier != 1f;
+			if (showPlayerMoveBadge)
+			{
+				FasterTurnSpeedBadge.Refresh(true, PlayerMoveSpeedState.Multiplier);
+			}
+			else
+			{
+				FasterTurnSpeedBadge.Refresh(showEnemyBadge, FasterTurnState.Multiplier);
+			}
 		}
 	}
 }
