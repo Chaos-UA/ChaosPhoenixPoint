@@ -1355,6 +1355,25 @@ namespace ChaosFaction
 			HelpRequestedMarker.Show(site, label, request.ExpiresAtHours, () => ExpireRequest(site, playerFaction, helperFaction, request));
 		}
 
+		/// <summary>Flattens a live request into its save form; null if it can't be saved.
+		/// Shared by ChaosFactionGeoscape.RecordGeoscapeInstanceData and the launch
+		/// snapshot (LaunchedMissionSnapshots).</summary>
+		internal static ChaosFactionSavedHelpRequest ToSaved(GeoSite site, PendingHelpRequest request)
+		{
+			if (site == null || site.SiteId < 0 || request?.Offer == null)
+				return null;
+			return new ChaosFactionSavedHelpRequest
+			{
+				SiteId = site.SiteId,
+				HelperKind = (int)request.HelperKind,
+				Method = (int)request.Method,
+				ResourceType = (int)request.Offer.ResourceType,
+				ResourceAmount = request.Offer.ResourceAmount,
+				RelationshipAmount = request.Offer.RelationshipAmount,
+				ExpiresAtHours = request.ExpiresAtHours,
+			};
+		}
+
 		/// <summary>
 		/// Rebuilds a previously-paid-for request after a save/load — see
 		/// ChaosFactionGeoscape.OnGeoscapeStart, which calls this once the Geoscape level
@@ -1385,6 +1404,14 @@ namespace ChaosFaction
 			{
 				try
 				{
+					// Saved while the mission was launching, and that mission has since
+					// completed (this is the Geoscape reload after tactical) — the
+					// request was used, so don't bring it back.
+					if (LaunchedMissionSnapshots.WasCompleted(entry.SiteId))
+					{
+						Log.Debug($"Not restoring help request for SiteId {entry.SiteId}: its mission was launched and has completed.");
+						continue;
+					}
 					GeoSite site = geoLevel.Map?.AllSites?.FirstOrDefault(s => s.SiteId == entry.SiteId);
 					GeoMission mission = site?.ActiveMission;
 					if (site == null || mission == null)
@@ -1734,8 +1761,13 @@ namespace ChaosFaction
 				GeoFaction helperFaction = request.HelperKind.ToFaction(site.GeoLevel);
 				if (helperFaction == null)
 					return;
+				// Keep a copy for the pre-mission autosave vanilla writes right after
+				// this event — see LaunchedMissionSnapshots.
+				ChaosFactionSavedHelpRequest snapshot = ToSaved(site, request);
 				if (!RemoveActiveRequest(site, playerFaction))
 					return;
+				if (snapshot != null)
+					LaunchedMissionSnapshots.HelpRequests[snapshot.SiteId] = snapshot;
 
 				// Explicit follow-up request: "I want to actually update the squad size
 				// to match current threat level, it is possible that it will change...
@@ -2841,6 +2873,66 @@ namespace ChaosFaction
 				RefreshMarker(site);
 				Log.Debug($"Synced attack counter for {GeoSiteDisplayHelper.GetDisplayName(site)} up to vanilla's own BaseAttacksCounter ({ourCount} -> {nativeCount}).");
 			}
+		}
+	}
+	/// <summary>
+	/// Keeps a launched site's help request / activity alive in save data until its
+	/// mission actually finishes. Bug report: "when user load last save (game doing save
+	/// just before mission starts) then the pending activity or request for help is gone."
+	///
+	/// Root cause: vanilla GeoMission.Launch() fires OnMissionActivated (where both
+	/// trackers remove their live entry) BEFORE GeoLevelController.LaunchTacticalGameCrt
+	/// writes the pre-mission autosave, so that autosave never contained the entry.
+	/// Loading it put the player back on the Geoscape, in front of the same still-active
+	/// mission, but with the paid-for request / rolled activity gone.
+	///
+	/// Fix: on activation each tracker still removes its live entry (so tactical-side
+	/// bridging and Geoscape UI behave exactly as before) but first copies it here, keyed
+	/// by SiteId. RecordGeoscapeInstanceData writes these copies alongside the live ones,
+	/// in the same save lists, so the save format is unchanged. They are then cleared:
+	/// - when the mission completes (Patch_GeoMission_Complete): that SiteId is also
+	///   remembered in CompletedSiteIds so the Geoscape reload after tactical, which
+	///   restores from the pre-mission record, drops the entry instead of restoring it.
+	///   Vanilla calls Complete() before ModManager.OnGeoscapeStart, so the id is known
+	///   in time;
+	/// - when tactical starts (ChaosFactionTactical.OnTacticalStart): the pre-mission
+	///   autosave has been written by then, and clearing here keeps the post-mission
+	///   autosave (written on the Geoscape reload before Complete() runs) from carrying
+	///   the entry forward;
+	/// - at the end of every OnGeoscapeStart: by then the save data has either restored
+	///   the entry as live again (loaded the pre-mission save) or dropped it.
+	/// </summary>
+	internal static class LaunchedMissionSnapshots
+	{
+		public static readonly Dictionary<int, ChaosFactionSavedHelpRequest> HelpRequests = new Dictionary<int, ChaosFactionSavedHelpRequest>();
+		public static readonly Dictionary<int, ChaosFactionSavedActivity> Activities = new Dictionary<int, ChaosFactionSavedActivity>();
+
+		/// Sites whose mission completed since the last OnGeoscapeStart.
+		public static readonly HashSet<int> CompletedSiteIds = new HashSet<int>();
+
+		public static void OnMissionCompleted(GeoMission mission)
+		{
+			GeoSite site = mission?.Site;
+			if (site == null || site.SiteId < 0)
+				return;
+			HelpRequests.Remove(site.SiteId);
+			Activities.Remove(site.SiteId);
+			CompletedSiteIds.Add(site.SiteId);
+		}
+
+		public static bool WasCompleted(int siteId) => CompletedSiteIds.Contains(siteId);
+
+		public static void OnTacticalStart()
+		{
+			HelpRequests.Clear();
+			Activities.Clear();
+		}
+
+		public static void OnGeoscapeStartFinished()
+		{
+			HelpRequests.Clear();
+			Activities.Clear();
+			CompletedSiteIds.Clear();
 		}
 	}
 }

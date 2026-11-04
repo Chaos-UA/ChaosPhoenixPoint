@@ -117,6 +117,9 @@ namespace ChaosFaction
 
 		public override void OnTacticalStart()
 		{
+			// Pre-mission autosave is already written; don't let the post-mission
+			// autosave carry the launched entry forward (see LaunchedMissionSnapshots).
+			LaunchedMissionSnapshots.OnTacticalStart();
 			NoLootActors.Clear();
 			PendingArrivalActionPoints.Clear();
 			SpawnRequestedAllies();

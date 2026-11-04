@@ -961,6 +961,23 @@ namespace ChaosFaction
 			Log.Debug($"Debug activity at {GeoSiteDisplayHelper.GetDisplayName(site)} expired without launching.");
 		}
 
+		/// <summary>Flattens a live activity into its save form; null if it can't be saved.
+		/// Shared by ChaosFactionGeoscape.RecordGeoscapeInstanceData and the launch
+		/// snapshot (LaunchedMissionSnapshots).</summary>
+		internal static ChaosFactionSavedActivity ToSaved(GeoSite site, PendingDebugActivity activity)
+		{
+			if (site == null || site.SiteId < 0 || activity == null)
+				return null;
+			return new ChaosFactionSavedActivity
+			{
+				SiteId = site.SiteId,
+				Kind = (int)activity.Kind,
+				IsHostile = activity.IsHostile,
+				IsRevealed = activity.IsRevealed,
+				ExpiresAtHours = activity.ExpiresAtHours,
+			};
+		}
+
 		/// <summary>
 		/// Called once from ChaosFactionGeoscape.OnGeoscapeStart, every time the Geoscape
 		/// (re)loads — not just a true save/load from the main menu, but also the ordinary
@@ -1016,6 +1033,13 @@ namespace ChaosFaction
 			{
 				try
 				{
+					// Saved while the mission was launching, and that mission has since
+					// completed (Geoscape reload after tactical) — see LaunchedMissionSnapshots.
+					if (LaunchedMissionSnapshots.WasCompleted(entry.SiteId))
+					{
+						Log.Debug($"Not restoring debug activity for SiteId {entry.SiteId}: its mission was launched and has completed.");
+						continue;
+					}
 					GeoSite site = geoLevel.Map?.AllSites?.FirstOrDefault(s => s.SiteId == entry.SiteId);
 					GeoMission mission = site?.ActiveMission;
 					if (site == null || mission == null)
@@ -1115,8 +1139,13 @@ namespace ChaosFaction
 			{
 				if (!ActiveActivities.TryGetValue(site, out PendingDebugActivity activity))
 					return;
+				// Keep a copy for the pre-mission autosave vanilla writes right after
+				// this event — see LaunchedMissionSnapshots.
+				ChaosFactionSavedActivity snapshot = ToSaved(site, activity);
 				if (!RemoveActiveActivity(site, geoLevel))
 					return;
+				if (snapshot != null)
+					LaunchedMissionSnapshots.Activities[snapshot.SiteId] = snapshot;
 				List<TacCharacterDef> finalSquad = activity.Squad;
 				if (finalSquad == null)
 				{

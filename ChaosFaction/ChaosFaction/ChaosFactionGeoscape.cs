@@ -3,6 +3,7 @@ using PhoenixPoint.Geoscape.Entities;
 using PhoenixPoint.Geoscape.Levels;
 using PhoenixPoint.Modding;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace ChaosFaction
 {
@@ -184,6 +185,9 @@ namespace ChaosFaction
 			finally
 			{
 				_pendingRestoreData = null;
+				// Save data has now either restored launched entries as live again
+				// (pre-mission save loaded) or dropped them (mission completed).
+				LaunchedMissionSnapshots.OnGeoscapeStartFinished();
 			}
 			// Explicit follow-up request: after restoring this mod's own saved counters
 			// above, reconcile them against vanilla's own native GeoAlienBase.
@@ -235,20 +239,16 @@ namespace ChaosFaction
 			{
 				foreach (KeyValuePair<GeoSite, PendingHelpRequest> kv in AllyRequestTracker.ActiveRequests)
 				{
-					GeoSite site = kv.Key;
-					PendingHelpRequest request = kv.Value;
-					if (site == null || site.SiteId < 0 || request?.Offer == null)
-						continue;
-					data.PendingHelpRequests.Add(new ChaosFactionSavedHelpRequest
-					{
-						SiteId = site.SiteId,
-						HelperKind = (int)request.HelperKind,
-						Method = (int)request.Method,
-						ResourceType = (int)request.Offer.ResourceType,
-						ResourceAmount = request.Offer.ResourceAmount,
-						RelationshipAmount = request.Offer.RelationshipAmount,
-						ExpiresAtHours = request.ExpiresAtHours,
-					});
+					ChaosFactionSavedHelpRequest saved = AllyRequestTracker.ToSaved(kv.Key, kv.Value);
+					if (saved != null)
+						data.PendingHelpRequests.Add(saved);
+				}
+				// Requests whose mission is launching right now — the pre-mission
+				// autosave must still contain them (see LaunchedMissionSnapshots).
+				foreach (ChaosFactionSavedHelpRequest saved in LaunchedMissionSnapshots.HelpRequests.Values)
+				{
+					if (!data.PendingHelpRequests.Any(r => r.SiteId == saved.SiteId))
+						data.PendingHelpRequests.Add(saved);
 				}
 			}
 			catch (System.Exception ex)
@@ -259,18 +259,15 @@ namespace ChaosFaction
 			{
 				foreach (KeyValuePair<GeoSite, PendingDebugActivity> kv in DebugActivityTracker.ActiveActivities)
 				{
-					GeoSite site = kv.Key;
-					PendingDebugActivity activity = kv.Value;
-					if (site == null || site.SiteId < 0 || activity == null)
-						continue;
-					data.PendingActivities.Add(new ChaosFactionSavedActivity
-					{
-						SiteId = site.SiteId,
-						Kind = (int)activity.Kind,
-						IsHostile = activity.IsHostile,
-						IsRevealed = activity.IsRevealed,
-						ExpiresAtHours = activity.ExpiresAtHours,
-					});
+					ChaosFactionSavedActivity saved = DebugActivityTracker.ToSaved(kv.Key, kv.Value);
+					if (saved != null)
+						data.PendingActivities.Add(saved);
+				}
+				// Activities whose mission is launching right now (see LaunchedMissionSnapshots).
+				foreach (ChaosFactionSavedActivity saved in LaunchedMissionSnapshots.Activities.Values)
+				{
+					if (!data.PendingActivities.Any(a => a.SiteId == saved.SiteId))
+						data.PendingActivities.Add(saved);
 				}
 			}
 			catch (System.Exception ex)

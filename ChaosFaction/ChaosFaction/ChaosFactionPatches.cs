@@ -957,6 +957,16 @@ namespace ChaosFaction
 	{
 		private static void Prefix(GeoMission __instance)
 		{
+			// Any mission type: the launched site's help request / activity is now
+			// used up, so stop keeping it in save data (see LaunchedMissionSnapshots).
+			try
+			{
+				LaunchedMissionSnapshots.OnMissionCompleted(__instance);
+			}
+			catch (Exception ex)
+			{
+				Log.Debug("Failed to clear launched-mission snapshot on mission complete: " + ex);
+			}
 			if (__instance is GeoHavenDefenseMission havenDefense)
 				HavenDefenseRewardTracker.MarkCompleting(havenDefense);
 		}
