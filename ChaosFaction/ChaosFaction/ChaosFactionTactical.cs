@@ -27,12 +27,240 @@ using UnityEngine;
 namespace ChaosFaction
 {
 	/// <summary>
-	/// Mod's custom save data for tactical.
+	/// Mod's custom save data for tactical. Stored by ModManager as JSON (Newtonsoft), so
+	/// only plain ints/strings here — Def references are saved as their Guid and looked
+	/// up again on load. Currently holds the Phoenix-base-defense delayed reinforcement
+	/// that hasn't arrived yet, so a tactical save made before it spawns still gets it
+	/// after loading (it used to live only in ChaosFactionTactical's instance fields).
+	/// Old saves (which only had ExampleData) deserialize with these defaults, i.e. "no
+	/// pending reinforcement".
 	/// </summary>
 	[SerializeType(SerializeMembersByDefault = SerializeMembersType.SerializeAll)]
 	public class ChaosFactionTacInstanceData
 	{
-		public int ExampleData;
+		public int ReinforcementAfterPlayerTurns = -1;
+		public int PlayerTurnStartsSeen;
+		public string ReinforcementFactionDefGuid;
+		public List<string> ReinforcementTemplateGuids = new List<string>();
+
+		// What the mod spawned (or will spawn) at mission start — see MissionSpawnPlan.
+		// Saved so ESC > Restart after loading a tactical save can spawn it again.
+		public string PlanAllyFactionGuid;
+		public List<string> PlanAllyTemplateGuids = new List<string>();
+		public string PlanActivityFactionGuid;
+		public List<string> PlanActivityTemplateGuids = new List<string>();
+		public bool PlanActivityIsHostile = true;
+		public string PlanReinforcementFactionGuid;
+		public List<string> PlanReinforcementTemplateGuids = new List<string>();
+		public int PlanReinforcementAtTurn = -1;
+	}
+
+	/// <summary>
+	/// Bug report: "when in tactical and pressing ESC>Restart to restart level it restarts
+	/// and there is no spawned by mod units anymore."
+	///
+	/// Root cause: UIModulePauseScreen.OnRestartConfirmed calls PhoenixGame.FinishLevel(
+	/// new RestartGameResult(currentLevel.LevelParams)); PhoenixGame.TacticalGameCrt then
+	/// reloads the tactical level fresh (no save data) with that SAME params object. Mod
+	/// squads are handed over from the Geoscape through one-shot statics
+	/// (AllyRequestTracker.PendingAllyTemplates/PendingHelperFactionDef/
+	/// PendingReinforcement*, DebugActivityTracker.PendingSquadTemplates/
+	/// PendingActivityFactionDef/PendingActivityIsHostile), which the first
+	/// OnTacticalStart consumes — so the restarted level found them empty.
+	///
+	/// Fix: OnTacticalStart copies those statics into Current before they're consumed,
+	/// keyed by the level's params object. On a later OnTacticalStart with empty statics
+	/// and the very same params object (only a restart reuses it — a new mission from the
+	/// Geoscape always gets a new one), the plan is written back into the statics so the
+	/// normal spawn path runs again. Squads are the same templates as the original start;
+	/// spawn positions/stat rolls are re-rolled, like everything else on a restart.
+	/// Also stored in ChaosFactionTacInstanceData, so a restart after loading a tactical
+	/// save works too.
+	/// </summary>
+	internal class MissionSpawnPlan
+	{
+		public static MissionSpawnPlan Current;
+
+		public object LevelParams;
+		public List<TacCharacterDef> AllyTemplates;
+		public PPFactionDef AllyFactionDef;
+		public List<TacCharacterDef> ActivityTemplates;
+		public PPFactionDef ActivityFactionDef;
+		public bool ActivityIsHostile = true;
+		public List<TacCharacterDef> ReinforcementTemplates;
+		public PPFactionDef ReinforcementFactionDef;
+		public int ReinforcementAtTurn = -1;
+
+		public bool IsEmpty =>
+			(AllyTemplates == null || AllyTemplates.Count == 0 || AllyFactionDef == null)
+			&& (ActivityTemplates == null || ActivityTemplates.Count == 0 || ActivityFactionDef == null)
+			&& (ReinforcementTemplates == null || ReinforcementTemplates.Count == 0 || ReinforcementFactionDef == null || ReinforcementAtTurn < 0);
+
+		public IEnumerable<TacCharacterDef> AllTemplates =>
+			(AllyTemplates ?? new List<TacCharacterDef>())
+				.Concat(ActivityTemplates ?? new List<TacCharacterDef>())
+				.Concat(ReinforcementTemplates ?? new List<TacCharacterDef>());
+
+		/// <summary>
+		/// Templates this level is about to spawn, for Patch_TacticalLevelController_
+		/// PreloadItems to load during the loading screen. Same decision PrepareSpawnPlan
+		/// makes later in OnTacticalStart, without changing any state: a fresh launch's
+		/// statics, else (restart) the remembered plan for this same params object.
+		/// Empty for a loaded save — its units' assets come with the save's own actor data.
+		/// </summary>
+		public static List<TacCharacterDef> TemplatesToPreload(object levelParams)
+		{
+			MissionSpawnPlan fresh = CaptureFromStatics(levelParams);
+			IEnumerable<TacCharacterDef> source = null;
+			if (!fresh.IsEmpty)
+				source = fresh.AllTemplates;
+			else if (Current != null && levelParams != null && ReferenceEquals(Current.LevelParams, levelParams))
+				source = Current.AllTemplates;
+			return source?.Where(t => t != null).Distinct().ToList() ?? new List<TacCharacterDef>();
+		}
+
+		/// Copies (doesn't clear) the hand-over statics set by a fresh Geoscape launch.
+		public static MissionSpawnPlan CaptureFromStatics(object levelParams)
+		{
+			return new MissionSpawnPlan
+			{
+				LevelParams = levelParams,
+				AllyTemplates = AllyRequestTracker.PendingAllyTemplates?.ToList(),
+				AllyFactionDef = AllyRequestTracker.PendingHelperFactionDef,
+				ActivityTemplates = DebugActivityTracker.PendingSquadTemplates?.ToList(),
+				ActivityFactionDef = DebugActivityTracker.PendingActivityFactionDef,
+				ActivityIsHostile = DebugActivityTracker.PendingActivityIsHostile,
+				ReinforcementTemplates = AllyRequestTracker.PendingReinforcementTemplates?.ToList(),
+				ReinforcementFactionDef = AllyRequestTracker.PendingReinforcementFactionDef,
+				ReinforcementAtTurn = AllyRequestTracker.PendingReinforcementAtTurn,
+			};
+		}
+
+		/// Puts the plan back into the statics, as if freshly launched from the Geoscape.
+		public void ApplyToStatics()
+		{
+			AllyRequestTracker.PendingAllyTemplates = AllyTemplates?.ToList() ?? new List<TacCharacterDef>();
+			AllyRequestTracker.PendingHelperFactionDef = AllyFactionDef;
+			DebugActivityTracker.PendingSquadTemplates = ActivityTemplates?.ToList() ?? new List<TacCharacterDef>();
+			DebugActivityTracker.PendingActivityFactionDef = ActivityFactionDef;
+			DebugActivityTracker.PendingActivityIsHostile = ActivityIsHostile;
+			AllyRequestTracker.PendingReinforcementTemplates = ReinforcementTemplates?.ToList();
+			AllyRequestTracker.PendingReinforcementFactionDef = ReinforcementFactionDef;
+			AllyRequestTracker.PendingReinforcementAtTurn = ReinforcementAtTurn;
+		}
+
+		public void WriteTo(ChaosFactionTacInstanceData data)
+		{
+			data.PlanAllyFactionGuid = AllyFactionDef?.Guid;
+			data.PlanAllyTemplateGuids = ToGuids(AllyTemplates);
+			data.PlanActivityFactionGuid = ActivityFactionDef?.Guid;
+			data.PlanActivityTemplateGuids = ToGuids(ActivityTemplates);
+			data.PlanActivityIsHostile = ActivityIsHostile;
+			data.PlanReinforcementFactionGuid = ReinforcementFactionDef?.Guid;
+			data.PlanReinforcementTemplateGuids = ToGuids(ReinforcementTemplates);
+			data.PlanReinforcementAtTurn = ReinforcementAtTurn;
+		}
+
+		/// Null if the save has no plan (vanilla mission, or a save from before this fix).
+		public static MissionSpawnPlan ReadFrom(ChaosFactionTacInstanceData data, object levelParams)
+		{
+			if (data == null)
+				return null;
+			DefRepository repo = GameUtl.GameComponent<DefRepository>();
+			MissionSpawnPlan plan = new MissionSpawnPlan
+			{
+				LevelParams = levelParams,
+				AllyFactionDef = FromGuid<PPFactionDef>(repo, data.PlanAllyFactionGuid),
+				AllyTemplates = FromGuids(repo, data.PlanAllyTemplateGuids),
+				ActivityFactionDef = FromGuid<PPFactionDef>(repo, data.PlanActivityFactionGuid),
+				ActivityTemplates = FromGuids(repo, data.PlanActivityTemplateGuids),
+				ActivityIsHostile = data.PlanActivityIsHostile,
+				ReinforcementFactionDef = FromGuid<PPFactionDef>(repo, data.PlanReinforcementFactionGuid),
+				ReinforcementTemplates = FromGuids(repo, data.PlanReinforcementTemplateGuids),
+				ReinforcementAtTurn = data.PlanReinforcementAtTurn,
+			};
+			return plan.IsEmpty ? null : plan;
+		}
+
+		private static List<string> ToGuids(List<TacCharacterDef> templates)
+		{
+			return templates?.Where(t => t != null).Select(t => t.Guid).ToList() ?? new List<string>();
+		}
+
+		private static T FromGuid<T>(DefRepository repo, string guid) where T : class
+		{
+			return string.IsNullOrEmpty(guid) || repo == null ? null : repo.GetDef(guid) as T;
+		}
+
+		private static List<TacCharacterDef> FromGuids(DefRepository repo, List<string> guids)
+		{
+			return (guids ?? new List<string>()).Select(g => FromGuid<TacCharacterDef>(repo, g)).Where(t => t != null).ToList();
+		}
+	}
+
+	/// <summary>
+	/// Fixes a crash when loading a tactical save made after this mod spawned an
+	/// ally-help or activity squad (Player.log: ArgumentNullException "key" in
+	/// TacticalFaction.ProcessInstanceData).
+	///
+	/// Root cause: GetOrCreateHelperFaction adds a TacticalFaction to Controller.Factions
+	/// at runtime. TacticalLevelController.RecordInstanceData saves every faction,
+	/// including that one, and every other faction's Relations entry toward it. On load,
+	/// TacticalLevelController.BeforePlaying only recreates the factions listed in the
+	/// mission's own participants (plus Environment/WildBeast), so the mod's faction is
+	/// missing. Vanilla then looks up each saved relation with GetTacticalFaction(def),
+	/// gets null, and RelationTo[null] throws, which aborts the level load. The mod's
+	/// actors would also have restored with no faction (TacticalActorBase.
+	/// ProcessInstanceData uses the same lookup).
+	///
+	/// Fix: before vanilla processes the saved level data, recreate every faction the
+	/// save has but the level doesn't, at its saved turn-order position and with the
+	/// participant slot GetOrCreateHelperFaction would give it. Vanilla then restores its
+	/// turn number/relations/vision from its own saved TacFactionData, actors bind to it
+	/// normally, and vanilla's OnLevelStart calls TacticalFaction.OnLevelStart on it
+	/// along with every other faction (so it's not called here).
+	/// </summary>
+	internal static class TacticalSaveFactionRestorer
+	{
+		/// Factions recreated by the current load — every actor in them was spawned by
+		/// this mod, so ChaosFactionTactical.OnTacticalStart re-marks them no-loot.
+		public static readonly HashSet<TacticalFaction> RestoredFactions = new HashSet<TacticalFaction>();
+
+		public static void RestoreMissingFactions(TacticalLevelController controller, TacLevelInstanceData instanceData)
+		{
+			RestoredFactions.Clear();
+			if (controller?.Factions == null || instanceData?.Factions == null)
+				return;
+
+			TacMissionParticipant? helperKind = null;
+			for (int i = 0; i < instanceData.Factions.Count; i++)
+			{
+				PPFactionDef factionDef = instanceData.Factions[i]?.FactionDef;
+				if (factionDef == null || controller.Factions.Any(f => f.Faction?.FactionDef == factionDef))
+					continue;
+
+				TacticalFactionDef tacticalFactionDef = controller.TacticalLevelControllerDef.GetAllFactions().FirstOrDefault(tf => tf.FactionDef == factionDef);
+				if (tacticalFactionDef == null)
+				{
+					Log.Debug($"Tactical load: saved faction {factionDef.name} is not in the level and has no TacticalFactionDef; cannot recreate it.");
+					continue;
+				}
+
+				if (helperKind == null)
+				{
+					TacMissionTypeDef missionType = controller.TacMission?.MissionData?.MissionType;
+					TacMissionParticipant enemy = missionType != null ? ChaosFactionTactical.ResolveEnemyParticipant(missionType) : TacMissionParticipant.None;
+					helperKind = ChaosFactionTactical.ResolveHelperParticipantKind(enemy);
+				}
+
+				TacticalFaction faction = controller.Repo.Instantiate<TacticalFaction>(tacticalFactionDef, null, null, null, false);
+				faction.SetTacticalLevel(controller);
+				faction.ParticipantKind = helperKind.Value;
+				controller.Factions.Insert(Math.Min(i, controller.Factions.Count), faction);
+				RestoredFactions.Add(faction);
+				Log.Debug($"Tactical load: recreated mod-spawned faction {factionDef.name} (participant {helperKind.Value}) at turn-order index {Math.Min(i, controller.Factions.Count - 1)}.");
+			}
+		}
 	}
 
 	/// <summary>
@@ -122,6 +350,14 @@ namespace ChaosFaction
 			LaunchedMissionSnapshots.OnTacticalStart();
 			NoLootActors.Clear();
 			PendingArrivalActionPoints.Clear();
+			try
+			{
+				PrepareSpawnPlan();
+			}
+			catch (Exception ex)
+			{
+				Log.Debug("Failed to capture/replay the mission spawn plan: " + ex);
+			}
 			SpawnRequestedAllies();
 			SpawnRequestedDebugActivity();
 
@@ -132,6 +368,32 @@ namespace ChaosFaction
 			AllyRequestTracker.PendingReinforcementTemplates = null;
 			AllyRequestTracker.PendingReinforcementFactionDef = null;
 			AllyRequestTracker.PendingReinforcementAtTurn = -1;
+
+			// Loaded from a tactical save: the statics above are empty (they're only set
+			// by a fresh launch from the Geoscape), so take the reinforcement and no-loot
+			// state from the save instead.
+			if (_loadedData != null)
+			{
+				if (_reinforcementAfterPlayerTurns < 0)
+				{
+					try
+					{
+						RestoreReinforcementFromSave(_loadedData);
+					}
+					catch (Exception ex)
+					{
+						Log.Debug("Failed to restore pending reinforcement from tactical save data: " + ex);
+					}
+				}
+				_loadedData = null;
+			}
+			foreach (TacticalFaction restored in TacticalSaveFactionRestorer.RestoredFactions)
+			{
+				foreach (TacticalActorBase actor in restored.Actors)
+					NoLootActors.Add(actor);
+			}
+			RestoreVehicleAmmoAfterLoad(TacticalSaveFactionRestorer.RestoredFactions);
+			TacticalSaveFactionRestorer.RestoredFactions.Clear();
 
 			if (_reinforcementAfterPlayerTurns >= 0)
 			{
@@ -145,6 +407,37 @@ namespace ChaosFaction
 				ReinforcementCountdownBadge.BuildFor(Controller);
 				RefreshReinforcementBadge();
 			}
+		}
+
+		/// <summary>
+		/// Runs before the spawn calls in OnTacticalStart — see MissionSpawnPlan.
+		/// Loaded save: take the plan from the save (its units are already on the map,
+		/// nothing is replayed). Fresh launch: remember what the statics hold. Restart
+		/// (statics empty, same params object as the remembered plan): replay it.
+		/// </summary>
+		private void PrepareSpawnPlan()
+		{
+			object levelParams = Controller?.TacticalGameParams;
+			if (_loadedData != null)
+			{
+				MissionSpawnPlan.Current = MissionSpawnPlan.ReadFrom(_loadedData, levelParams);
+				return;
+			}
+			MissionSpawnPlan fresh = MissionSpawnPlan.CaptureFromStatics(levelParams);
+			if (!fresh.IsEmpty)
+			{
+				MissionSpawnPlan.Current = fresh;
+				return;
+			}
+			MissionSpawnPlan previous = MissionSpawnPlan.Current;
+			if (previous != null && levelParams != null && ReferenceEquals(previous.LevelParams, levelParams))
+			{
+				Log.Debug("Tactical level restarted; spawning this mission's mod squads again.");
+				previous.ApplyToStatics();
+				return;
+			}
+			// A mission with no mod squads — forget the old plan so it can't leak into it.
+			MissionSpawnPlan.Current = null;
 		}
 
 		public override void OnTacticalEnd()
@@ -176,14 +469,76 @@ namespace ChaosFaction
 			ReinforcementCountdownBadge.Show(ChaosFactionLocalization.Get("KEY_CHAOSFACTION_REINFORCEMENT_BADGE", turnsLeft));
 		}
 
+		/// Mod data from a tactical save being loaded — ProcessTacticalInstanceData runs
+		/// during level loading, before OnTacticalStart, so it's held here and applied
+		/// there (OnTacticalStart would otherwise overwrite the reinforcement fields from
+		/// the — by then empty — AllyRequestTracker statics).
+		private ChaosFactionTacInstanceData _loadedData;
+
 		public override void ProcessTacticalInstanceData(object instanceData)
 		{
-			ChaosFactionTacInstanceData data = (ChaosFactionTacInstanceData)instanceData;
+			_loadedData = instanceData as ChaosFactionTacInstanceData;
 		}
 
 		public override object RecordTacticalInstanceData()
 		{
-			return new ChaosFactionTacInstanceData() { ExampleData = 5 };
+			ChaosFactionTacInstanceData data = new ChaosFactionTacInstanceData();
+			try
+			{
+				if (_reinforcementAfterPlayerTurns >= 0 && _reinforcementFactionDef != null && _reinforcementTemplates != null)
+				{
+					data.ReinforcementAfterPlayerTurns = _reinforcementAfterPlayerTurns;
+					data.PlayerTurnStartsSeen = _playerTurnStartsSeen;
+					data.ReinforcementFactionDefGuid = _reinforcementFactionDef.Guid;
+					data.ReinforcementTemplateGuids = _reinforcementTemplates.Where(t => t != null).Select(t => t.Guid).ToList();
+				}
+			}
+			catch (Exception ex)
+			{
+				Log.Debug("Failed to record pending reinforcement into tactical save data: " + ex);
+			}
+			try
+			{
+				MissionSpawnPlan plan = MissionSpawnPlan.Current;
+				if (plan != null && ReferenceEquals(plan.LevelParams, Controller?.TacticalGameParams))
+					plan.WriteTo(data);
+			}
+			catch (Exception ex)
+			{
+				Log.Debug("Failed to record the mission spawn plan into tactical save data: " + ex);
+			}
+			return data;
+		}
+
+		/// <summary>
+		/// Puts a pending reinforcement from a loaded tactical save back into this
+		/// instance's fields. Defs are looked up by Guid; anything that no longer resolves
+		/// is skipped, and if the faction or every template is gone, the reinforcement is
+		/// dropped rather than spawning something wrong.
+		/// </summary>
+		private void RestoreReinforcementFromSave(ChaosFactionTacInstanceData data)
+		{
+			if (data == null || data.ReinforcementAfterPlayerTurns < 0 || string.IsNullOrEmpty(data.ReinforcementFactionDefGuid))
+				return;
+			DefRepository repo = GameUtl.GameComponent<DefRepository>();
+			PPFactionDef factionDef = repo?.GetDef(data.ReinforcementFactionDefGuid) as PPFactionDef;
+			List<TacCharacterDef> templates = (data.ReinforcementTemplateGuids ?? new List<string>())
+				.Select(g => repo?.GetDef(g) as TacCharacterDef)
+				.Where(t => t != null)
+				.ToList();
+			if (factionDef == null || templates.Count == 0)
+			{
+				Log.Debug("Tactical load: saved pending reinforcement could not be resolved (faction or templates missing); dropping it.");
+				return;
+			}
+			// Not part of the save's actor data (they haven't spawned yet), so load their
+			// assets now — they arrive turns later, plenty of time for this to finish.
+			Controller?.AssetsLoader?.StartLoadingRoots(templates.Cast<object>(), "ChaosFaction pending reinforcement");
+			_reinforcementTemplates = templates;
+			_reinforcementFactionDef = factionDef;
+			_reinforcementAfterPlayerTurns = data.ReinforcementAfterPlayerTurns;
+			_playerTurnStartsSeen = data.PlayerTurnStartsSeen;
+			Log.Debug($"Tactical load: restored pending reinforcement of {templates.Count} {factionDef.name} template(s), {data.ReinforcementAfterPlayerTurns - data.PlayerTurnStartsSeen} player turn(s) left.");
 		}
 
 		/// <summary>
@@ -1235,11 +1590,29 @@ namespace ChaosFaction
 		{
 			if (!template.IsVehicle)
 				return;
+			FillVehicleAmmoToMax(actor, template.name);
+		}
 
+		/// <summary>
+		/// Shared by BoostVehicleAmmo (fresh spawn) and RestoreVehicleAmmoAfterLoad.
+		/// Tops every ammo-using equipped weapon up to a target instead of adding a fixed
+		/// amount, so calling it again can't stack: each loaded magazine ends at its own
+		/// clip size + VehicleAmmoChargesPerMagazine.
+		///
+		/// Bug report: "After save is loaded, vehicle lose it 999 ammo." On load, vanilla
+		/// rebuilds magazines through CommonItemData.LoadFromData -> AmmoManager.
+		/// LoadMagazine, which evicts any magazine that pushes the weapon above its own
+		/// ChargesMax — the same eviction described above — so the inflated magazine is
+		/// dropped and the weapon can come back with nothing loaded. So this first refills
+		/// an under-full weapon the normal way (ReloadCharges, creating magazines if none
+		/// are left), then inflates the loaded magazines with ModifyCharges as before.
+		/// </summary>
+		private static void FillVehicleAmmoToMax(TacticalActorBase actor, string displayName)
+		{
 			TacticalActor tacticalActor = actor as TacticalActor;
 			if (tacticalActor?.Equipments == null)
 			{
-				Log.Debug($"Vehicle template {template.name} has no EquipmentComponent to boost ammo on (or failed to spawn).");
+				Log.Debug($"Vehicle {displayName} has no EquipmentComponent to boost ammo on (or failed to spawn).");
 				return;
 			}
 
@@ -1247,16 +1620,73 @@ namespace ChaosFaction
 			foreach (Equipment equipment in tacticalActor.Equipments.Equipments)
 			{
 				AmmoManager ammo = equipment.CommonItemData?.Ammo;
-				if (ammo == null || ammo.LoadedMagazines.Count == 0)
+				if (ammo == null)
+					continue;
+
+				int weaponMax = equipment.ItemDef.ChargesMax;
+				bool canCreateMagazines = equipment.ItemDef.CompatibleAmmunition != null && equipment.ItemDef.CompatibleAmmunition.Length > 0;
+				if (ammo.LoadedMagazines.Count == 0 && !canCreateMagazines)
+					continue;
+				if (weaponMax > 0 && ammo.CurrentCharges < weaponMax)
+					ammo.ReloadCharges(weaponMax - ammo.CurrentCharges, canCreateMagazines);
+				if (ammo.LoadedMagazines.Count == 0)
 					continue;
 
 				foreach (ICommonItem magazine in ammo.LoadedMagazines)
-					magazine.CommonItemData.ModifyCharges(VehicleAmmoChargesPerMagazine, false);
+				{
+					int target = magazine.CommonItemData.ItemDef.ChargesMax + VehicleAmmoChargesPerMagazine;
+					int missing = target - magazine.CommonItemData.TotalCharges;
+					if (missing > 0)
+						magazine.CommonItemData.ModifyCharges(missing, false);
+				}
 				boosted++;
-				Log.Debug($"  Vehicle weapon {equipment.ItemDef.name}: added {VehicleAmmoChargesPerMagazine} charges to {ammo.LoadedMagazines.Count} already-loaded magazine(s) so it never needs to reload.");
+				Log.Debug($"  Vehicle weapon {equipment.ItemDef.name}: topped {ammo.LoadedMagazines.Count} loaded magazine(s) up to clip size + {VehicleAmmoChargesPerMagazine} so it never needs to reload (now {ammo.CurrentCharges}).");
 			}
 			if (boosted == 0)
-				Log.Debug($"Vehicle template {template.name} has no ammo-consuming equipped weapon to boost.");
+				Log.Debug($"Vehicle {displayName} has no ammo-consuming equipped weapon to boost.");
+		}
+
+		/// <summary>
+		/// After a tactical save load: every actor in a faction TacticalSaveFactionRestorer
+		/// recreated was spawned by this mod, so its vehicles get their ammo boost back.
+		/// </summary>
+		internal static void RestoreVehicleAmmoAfterLoad(IEnumerable<TacticalFaction> restoredFactions)
+		{
+			PhoenixPoint.Common.Entities.GameTags.GameTagDef vehicleTag = CommonHelpers.GetSharedGameTags()?.VehicleTag;
+			if (vehicleTag == null)
+				return;
+			foreach (TacticalFaction faction in restoredFactions)
+			{
+				foreach (TacticalActor actor in faction.TacticalActors.ToList())
+				{
+					if (actor == null || actor.IsDead || actor.GameTags == null || !actor.GameTags.Contains(vehicleTag))
+						continue;
+					try
+					{
+						FillVehicleAmmoToMax(actor, actor.DisplayName);
+					}
+					catch (Exception ex)
+					{
+						Log.Debug($"Failed to restore vehicle ammo after load for {actor.DisplayName}: " + ex);
+					}
+				}
+			}
+		}
+
+		/// <summary>
+		/// Which "third-party" slot this mod's helper/activity faction takes: whichever of
+		/// Residents/Intruder the enemy isn't already occupying, so its ParticipantKind never
+		/// collides with the opposing faction's bucket (Residents is what the aliens hold on
+		/// an alien base assault, so the helper uses Intruder there; Intruder is what
+		/// attackers hold on a base defense, so the helper uses Residents there). Shared by
+		/// GetOrCreateHelperFaction and TacticalSaveFactionRestorer so a faction recreated
+		/// on load gets the same slot it was spawned with.
+		/// </summary>
+		internal static TacMissionParticipant ResolveHelperParticipantKind(TacMissionParticipant enemyParticipant)
+		{
+			return enemyParticipant == TacMissionParticipant.Residents
+				? TacMissionParticipant.Intruder
+				: TacMissionParticipant.Residents;
 		}
 
 		/// <summary>
@@ -1270,7 +1700,7 @@ namespace ChaosFaction
 		/// alien base assaults: GetTacticalFaction(Intruder) returned null (no Intruder
 		/// participant on that mission type), so the Enemy relation was silently never set.
 		/// </summary>
-		private static TacMissionParticipant ResolveEnemyParticipant(TacMissionTypeDef missionType)
+		internal static TacMissionParticipant ResolveEnemyParticipant(TacMissionTypeDef missionType)
 		{
 			MutualParticipantsRelations[] candidates = missionType.ParticipantsRelations
 				.Where(r => r.MutualRelation == FactionRelation.Enemy && r.HasParticipant(TacMissionParticipant.Player))
@@ -1334,9 +1764,7 @@ namespace ChaosFaction
 			// actual opposing faction's bucket (Residents is what the aliens hold on an
 			// alien base assault, so the helper uses Intruder there instead; Intruder is
 			// what attackers hold on a base defense, so the helper uses Residents there).
-			TacMissionParticipant helperParticipantKind = enemyParticipant == TacMissionParticipant.Residents
-				? TacMissionParticipant.Intruder
-				: TacMissionParticipant.Residents;
+			TacMissionParticipant helperParticipantKind = ResolveHelperParticipantKind(enemyParticipant);
 
 			TacticalFaction faction = controller.Repo.Instantiate<TacticalFaction>(tacticalFactionDef, null, null, null, false);
 			faction.SetTacticalLevel(controller);

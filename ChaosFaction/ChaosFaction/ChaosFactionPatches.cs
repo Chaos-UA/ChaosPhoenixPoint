@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
+using Base.Core;
 using Base.Entities.Effects;
 using Base.Levels;
 using HarmonyLib;
@@ -1350,6 +1351,75 @@ namespace ChaosFaction
 				Log.Debug("Failed to apply friendly-fire-safe Psychic Scream payload; falling back to vanilla behavior: " + ex);
 				return true;
 			}
+		}
+	}
+	/// <summary>
+	/// Loading a tactical save: recreate this mod's runtime-added helper/activity faction
+	/// before vanilla restores per-faction data, relations and actors — see
+	/// TacticalSaveFactionRestorer (ChaosFactionTactical.cs) for the crash this fixes.
+	/// ProcessInstanceData is private and only called on a save load (BeforePlaying,
+	/// when InstanceDataComponent has level data), never on a fresh mission start.
+	/// </summary>
+	[HarmonyPatch(typeof(TacticalLevelController), "ProcessInstanceData")]
+	internal static class Patch_TacticalLevelController_ProcessInstanceData
+	{
+		private static void Prefix(TacticalLevelController __instance, TacLevelInstanceData instanceData)
+		{
+			try
+			{
+				TacticalSaveFactionRestorer.RestoreMissingFactions(__instance, instanceData);
+			}
+			catch (Exception ex)
+			{
+				Log.Debug("Failed to recreate mod-spawned factions while loading a tactical save: " + ex);
+			}
+		}
+	}
+	/// <summary>
+	/// Bug report: after ESC > Restart, "assets for units are not loaded and some units
+	/// have invisible parts." The Geoscape-side preload (AllyRequestTracker.
+	/// PreloadSquadAssets / DebugActivityTracker.PreloadAssets, AssetsManager.
+	/// StartAcquireDependencies) runs only when the mission is launched from the
+	/// Geoscape. A restart reloads the tactical level directly (MissionSpawnPlan's doc
+	/// comment), so nothing preloads the mod squads' prefabs again, and
+	/// AddonSkinDataBase.GetPrefabAsset returns null for any part that isn't already in
+	/// memory — the invisible-parts symptom the preload exists to prevent.
+	///
+	/// Fix: append the mod's squad templates to vanilla's own loading-screen asset step
+	/// (TacticalLevelController.PreloadItems, which loads the mission data, level actors
+	/// and saved actor data through the level's AssetsLoader and waits for each), so the
+	/// level doesn't start until they're loaded — on a fresh launch too, not just a
+	/// restart. The level's own AssetsLoader holds them and releases them when the level
+	/// is destroyed, like every other mission asset. MissionSpawnPlan.TemplatesToPreload
+	/// decides what to load without changing any state.
+	/// </summary>
+	[HarmonyPatch(typeof(TacticalLevelController), "PreloadItems")]
+	internal static class Patch_TacticalLevelController_PreloadItems
+	{
+		private static void Postfix(TacticalLevelController __instance, ref IEnumerator<NextUpdate> __result)
+		{
+			__result = PreloadModSquads(__result, __instance);
+		}
+
+		private static IEnumerator<NextUpdate> PreloadModSquads(IEnumerator<NextUpdate> original, TacticalLevelController controller)
+		{
+			while (original.MoveNext())
+				yield return original.Current;
+
+			List<TacCharacterDef> templates = null;
+			try
+			{
+				templates = MissionSpawnPlan.TemplatesToPreload(controller.TacticalGameParams);
+			}
+			catch (Exception ex)
+			{
+				Log.Debug("Failed to work out which mod squad templates to preload: " + ex);
+			}
+			if (templates == null || templates.Count == 0 || controller.AssetsLoader == null)
+				yield break;
+
+			Log.Debug($"Loading assets for {templates.Count} mod squad template(s) during the tactical loading screen.");
+			yield return Timing.Current.Call(controller.AssetsLoader.LoadRoots(templates.Cast<object>(), "ChaosFaction squads"), null);
 		}
 	}
 }

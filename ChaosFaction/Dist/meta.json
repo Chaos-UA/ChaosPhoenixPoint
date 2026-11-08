@@ -1,0 +1,24 @@
+{
+  "ID": "com.chaos.ChaosFaction",
+  "AssemblyName": "ChaosFaction.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "Chaos-UA-"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "Chaos Faction Wars"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "Chaos Faction Wars"
+    }
+  ],
+  "Dependencies": []
+}
