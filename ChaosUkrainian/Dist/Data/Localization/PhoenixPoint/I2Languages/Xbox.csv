@@ -1,0 +1,11 @@
+Key,Ukrainian
+KEY_CONSOLE_CONTINUE,"НАТИСНІТЬ :A:, ЩОБ ПРОДОВЖИТИ"
+KEY_CONSOLE_SWITCH_PROFILE,ЗМІНИТИ ПРОФІЛЬ
+KEY_PLATFORM_MUST_BE_SIGNED_IN,"Щоб грати, потрібно увійти в профіль користувача."
+KEY_PLATFORM_RECONNECT_CONTROLLER,"Будь ласка, повторно підключіть контролер або натисніть :A: на підключеному контролері."
+KEY_PLATFORM_RETURNED_TO_TITLE_SCREEN,"Вас повернуто на головний екран, оскільки ваш профіль користувача вийшов із системи."
+KEY_PLATFORM_YOU_WILL_BE_SIGNED_OUT,"Вас буде виведено з профілю користувача, і ви повернетеся на екран входу. Продовжити?"
+KEY_STREAMING_INSTALL_CANCEL2,ЗБЕРЕГТИ Й ВИЙТИ
+KEY_STREAMING_INSTALL_LAUNCH,ЗАПУСТИТИ
+KEY_STREAMING_INSTALL_TEXT_DESCRIPTION,"Наразі триває завантаження обраної місії. Будь ласка, зачекайте, доки завантаження завершиться, перш ніж запускати її."
+KEY_STREAMING_INSTALL_TEXT_TITLE,ЗАВАНТАЖЕННЯ МІСІЇ

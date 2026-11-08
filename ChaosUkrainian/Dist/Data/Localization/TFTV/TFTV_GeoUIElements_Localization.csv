@@ -1,0 +1,230 @@
+Key,Ukrainian
+KEY_DLC3_MOUNTEGG_NAME,КРАТЕР «УДАР МОЛОТА»
+KEY_DLC3_THE_GIFT,АВРОРА
+KEY_MARKETPLACE_HAVEN_ADDITIONAL_HEADER,Базар
+KEY_MARKETPLACE_DESCRIPTION_5,Насолоджуйтеся видовищами й різкими запахами!
+DLC5/KEY_MARKETPLACE_HAVEN_HEADER,ПРИТУЛОК-БАЗАР
+DLC5/KEY_KAOS_SYNDICATE,Базар
+KEY_MISSION_HAVEN_INFESTED_VICTORY_NAME,МІСІЮ ВИКОНАНО
+KEY_MISSION_HAVEN_INFESTED_VICTORY_DESCRIPTION,ВУЗОЛ ЗНИЩЕНО
+KEY_MISSION_HAVEN_INFESTED_DEFEAT_DESCRIPTION,Зараження залишилося.
+KEY_GEOSCAPE_HAVEN_INFESTED,Притулок у Тумані зазнав Пандоранського зараження!
+KEY_MISSION_HAVEN_INFESTED_NAME,ЗАРАЖЕНИЙ ПРИТУЛОК
+KEY_MISSION_HAVEN_INFESTED_DESCRIPTION,Очистіть зараження
+DLC2 Necronomicon/KEY_EXCAVATE_POPUP_BUTTON,ДОСЛІДИТИ
+DLC2 Necronomicon/KEY_EXCAVATE_POPUP_DESCRIPTION,"Долина внизу буяє зеленню, майже первозданна. Природа старої Землі, не торкнута Пандоравірусом. Подібні місця досі можна знайти на планеті; менш ніж 20 років тому вони були вкриті водою чи осадовими породами. Земля перетворилася — була омита, висушена, зметена, повернувши до життя й на очі світ, схований дуже-дуже давно."
+DLC2 Necronomicon/KEY_EXCAVATE_POPUP_LISTCOSTS,"Ми випустимо кілька дронів короткого радіуса дії, щоб скласти карту місцевості та знайти стародавні руїни"
+KEY_GEO_ABILITY_EXCAVATE_SITE_NAME,ДОСЛІДИТИ
+KEY_FACTION_ANCIENTS,Автомати Древніх
+KEY_GEO_ABILITY_EXCAVATE_SITE_DESCRIPTION,Знайдіть руїни Древніх
+DLC2 Necronomicon/KEY_EXCAVATE_POPUP_NAME,СКЛАСТИ КАРТУ ЗЕЛЕНІ
+KEY_AC_METAINFO_HARVEST,"Досліджуйте, щоб розкрити таємниці Древніх"
+KEY_AC_METAINFO_REFINERY,"Досліджуйте, щоб розкрити таємниці Древніх"
+KEY_AC_PROTEAN_HARVEST,РУЇНИ ДРЕВНІХ
+KEY_AC_PROTEAN_REFINERY,РУЇНИ ДРЕВНІХ
+KEY_AC_ORICHALCUM_HARVEST,РУЇНИ ДРЕВНІХ
+KEY_AC_ORICHALCUM_REFINERY,РУЇНИ ДРЕВНІХ
+KEY_AC_CRYSTAL_HARVEST,РУЇНИ ДРЕВНІХ
+KEY_AC_CRYSTAL_REFINERY,РУЇНИ ДРЕВНІХ
+KEY_DEPLOYGUARDIAN_POPUP_BUTTON,РЕАКТИВУВАТИ ЗЛАМАНОГО ЦИКЛОПА
+KEY_DEPLOYGUARDIAN_POPUP_DESCRIPTION,"Реактивуйте зламаного Циклопа, щоб отримати доступ до його пам'яті та дізнатися, що насправді сталося з Древніми"
+KEY_DEPLOYGUARDIAN_POPUP_LISTCOSTS,ВАРТІСТЬ РЕМОНТУ
+KEY_DEPLOYGUARDIAN_POPUP_NAME,РЕАКТИВУВАТИ ЗЛАМАНОГО ЦИКЛОПА
+KEY_GEO_ANCIENT_GUARDIAN_GUARD_DESCRIPTION,"Реактивуйте зламаного Циклопа, щоб отримати доступ до його пам'яті та дізнатися, що насправді сталося з Древніми"
+KEY_GEO_ANCIENT_GUARDIAN_GUARD_NAME,РЕАКТИВУВАТИ ЗЛАМАНОГО ЦИКЛОПА
+KEY_MESSAGE_MISSING_REFINERY,ВИ НЕ ДОСЛІДИЛИ ВСІ НЕОБХІДНІ ТЕХНОЛОГІЇ
+KEY_AC_PROTEAN_HARVEST_AFTER_REVEAL,МІСЦЕ ПРОТЕАНОВОГО МУТАНУ
+KEY_AC_PROTEAN_REFINERY_AFTER_REVEAL,МІСЦЕ ПРОТЕАНОВОГО МУТАНУ
+KEY_AC_ORICHALCUM_HARVEST_AFTER_REVEAL,МІСЦЕ ОРИХАЛКУ
+KEY_AC_ORICHALCUM_REFINERY_AFTER_REVEAL,МІСЦЕ ОРИХАЛКУ
+KEY_AC_CRYSTAL_HARVEST_AFTER_REVEAL,МІСЦЕ ЖИВОГО КРИСТАЛА
+KEY_AC_CRYSTAL_REFINERY_AFTER_REVEAL,МІСЦЕ ЖИВОГО КРИСТАЛА
+KEY_AC_TOP_LIVINGCRYSTAL,ЖИВИЙ КРИСТАЛ
+KEY_AC_TOP_ORICHALCUM,ОРИХАЛК
+KEY_AC_TOP_PROTEANMUTANE,ПРОТЕАНОВИЙ МУТАН
+BUILD_CYCLOPS_OBJECTIVE,Реактивуйте Циклопа в одному зі Стародавніх Місць під вашим контролем
+OBTAIN_LC_OBJECTIVE,Отримайте зразок Живого Кристала
+OBTAIN_PM_OBJECTIVE,Отримайте зразок Протеанового Мутану
+PROTECT_THE_CYCLOPS_OBJECTIVE_GEO_TITLE,Захистіть Циклопа від атаки Пандоранів
+DELIRIUM_STAMINA_TOOLTIP,Поточна Витривалість персонажа зменшує вплив Марення на Силу волі на
+BASEDEFENSE_BRIEFING_OBJECTIVES_SIMPLE,Розсійте нападників.
+BASEDEFENSE_BRIEFING_OBJECTIVES_DOUBLE,Знищте всі споруди Пандоранів і розсійте решту нападників.
+BASEDEFENSE_BRIEFING_TACTICALADVANTAGE,"Якщо ми зустрінемо нападників зараз, ми зможемо зайняти оптимальні оборонні позиції. Місія ускладнюватиметься з часом. Якщо ми зазнаємо невдачі, ми втратимо контроль над базою."
+BASEDEFENSE_BRIEFING_NESTING,"Ворог прорвав нашу оборону та поширився по всій базі. Може стати ще гірше. Якщо ми зазнаємо невдачі, ми втратимо контроль над базою."
+BASEDEFENSE_BRIEFING_INFESTATION,"Записи камер спостереження показують, що Пандорани майже захопили базу. Якщо ми зазнаємо невдачі, ми втратимо контроль над базою."
+BASEDEFENSE_BRIEFING_LOOSE_SCYLLA,Полонена Сцилла втекла і перетворює нашу базу на своє лігво.
+DLC4 Hypnos/KEY_BRIEFING_INFECTED_AREA,ЗОНА МАРЕННЯ
+DLC4 Hypnos/KEY_CURE_CORRUPTION_DIALOG_BOTTOM,Увага! Лікування Марення за допомогою мутагенів — експериментальна процедура. Слід очікувати серйозних побічних ефектів.
+KEY_CURE_CORRUPTION_DIALOG_DESCRIPTION,Ваш боєць має {0}% ушкоджень від Марення.
+DLC4 Hypnos/KEY_CURE_CORRUPTION_DIALOG_TITLE,ЕКСПЕРИМЕНТАЛЬНЕ ЛІКУВАННЯ
+KEY_ROSTER_DEATH_CORRUPTED,МАРЕННЯ
+DLC4 Hypnos/KEY_ROSTER_DEATH_CORRUPTED,МАРЕННЯ
+EXTENDED_AGENDA_KEY_UNEXPLORED_SITE,НЕДОСЛІДЖЕНЕ МІСЦЕ
+EXTENDED_AGENDA_KEY_EXPLORATION_SITE,МІСЦЕ ДОСЛІДЖЕННЯ
+EXTENDED_AGENDA_KEY_SCAVENGING_SITE,МІСЦЕ ЗБИРАЛЬНИЦТВА
+EXTENDED_AGENDA_KEY_ANCIENT_SITE,СТАРОДАВНЄ МІСЦЕ
+EXTENDED_AGENDA_KEY_INVESTIGATES,ДОСЛІДЖУЄ
+EXTENDED_AGENDA_KEY_TRAVELS_TO,ПРЯМУЄ ДО
+EXTENDED_AGENDA_KEY_REPAIRING,РЕМОНТУЄТЬСЯ:
+EXTENDED_AGENDA_KEY_EXCAVATING,РОЗКОПУЄ:
+EXTENDED_AGENDA_KEY_SECURE,ОХОРОНЯЄ
+EXTENDED_AGENDA_KEY_WILL_ATTACK,АТАКУЄ:
+EXTENDED_AGENDA_KEY_WILL_COMPLETE_ATTACK_ON,ЗАВЕРШИТЬ АТАКУ
+KEY_DESTROYED_HAMMERFALL,знищено «Ударом Молота»!
+KEY_HEAVY_DAMAGE_HAMMERFALL,зазнав важких ушкоджень від «Удару Молота»!
+KEY_DAMAGE_HAMMERFALL,зазнав деяких ушкоджень від «Удару Молота»
+KEY_SOS_BROADCAST,"передає сигнал SOS, на них напали!"
+KEY_PANDORAN_MEAT_PROCESSING,<b>Переробка м'яса Пандоранів</b>
+KEY_PANDORAN_MEAT_TO_PROCESS,-М'ясо для переробки:
+KEY_PANDORAN_MEAT_STORAGE,-Макс. обсяг зберігання:
+KEY_PANDORAN_MEAT_MAX_PROCESS,-Макс. переробка на день:
+KEY_EXTRACTING_MUTAGENS_TFTV,<b>Видобування мутагенів із захоплених Пандоранів</b>
+KEY_MUTAGENS_FROM_FACILITIES_TFTV,-Мутагени з об'єктів:
+KEY_MUTAGENS_FROM_PANDORANS_TFTV,-Мутагени з Пандоранів:
+KEY_MAX_EXTRACTION_PER_DAY_TFTV,-Макс. видобуток на день:
+KEY_FOOD_PROCESSING_WARNING_TFTV,Місткість сховищ харчових комбінатів майже вичерпана! Переробка цього Пандорана на їжу призведе до втрати
+KEY_DELIRIUM_PERK_PROMPT_CONNECTOR,страждає від
+KEY_DELIRIUM_PERK_PROMPT_RULES,"внаслідок експериментального лікування мутагенами. Суб'єкт може подолати цей стан, продовжуючи брати участь у польових місіях. Однак отримання додаткових уражень від цього експериментального лікування скине весь прогрес, досягнутий у пристосуванні до цього стану."
+KEY_DELIRIUM_PERK_PROMPT_NO_PERK,"жодних тривалих побічних ефектів не виявлено, однак довелося застосувати потужне... е-е... заспокійливе.
+
+
+<i>ВИТРИВАЛІСТЬ знижена до нуля</i>"
+KEY_DELIRIUM_PERK_RECOVERY,"повністю відновлено після наслідків, спричинених експериментальним Лікуванням Марення!"
+KEY_LOG_ENTRY_SUCCUMB_INFESTATION,зазнав Пандоранського зараження!
+KEY_INFESTATION_AROUND,Приблизно
+KEY_INFESTATION_FORTUNATE,"з них пощастило вижити, і вони переселилися до дружніх найближчих притулків."
+KEY_INFESTATION_MONSTROSITY,"Ми знищили потворну істоту, що заволоділа мешканцями притулку, врятувавши їх від долі, гіршої за смерть."
+KEY_INFESTATION_NODE_DESTROYED_TITLE,ВУЗОЛ ЗНИЩЕНО
+KEY_INFESTATION_SURVIVORS_FROM,виживших з
+KEY_INFESTATION_FLED_TO,втекли до
+KEY_GRAMMAR_PRONOUNS_SHE,вона
+KEY_GRAMMAR_PRONOUNS_HER,її
+KEY_GRAMMAR_PRONOUNS_HE,він
+KEY_GRAMMAR_PRONOUNS_HIM,його
+KEY_GRAMMAR_PRONOUNS_THEY,вони
+KEY_GRAMMAR_PRONOUNS_THEM,їх
+KEY_GRAMMAR_AND,і
+KEY_TEXT_PHOENIX_OPERATIVES,оперативники «Фенікса»
+KEY_TEXT_DIRECTOR,Директор
+KEY_UI_EDIT_SCREEN_TOGGLEHELMET_TIP,Вмикає або вимикає відображення шолома.
+KEY_UI_EDIT_SCREEN_UNEQUIP_TIP,"Знімає з оперативника все спорядження, яке зараз на ньому."
+KEY_UI_EDIT_SCREEN_SAVELOAD_TIP,Зберігає поточний набір спорядження оперативника.
+KEY_UI_EDIT_SCREEN_LOADLOAD_TIP,Завантажує раніше збережений набір спорядження цього оперативника.
+KEY_UI_DELIRIUM_EXPLANATION,Марення накопичується в тактичних місіях. Поточний максимум Марення:
+KEY_DELIRIUM_UI_MAX_TIP,-Наші оперативники тепер можуть отримувати статус Марення до 12
+KEY_DELIRIUM_UI_MED_TIP,-Наші оперативники тепер можуть отримувати статус Марення до 8
+KEY_DELIRIUM_UI_LOW_TIP,-Наші оперативники тепер можуть отримувати статус Марення до 4
+KEY_DELIRIUM_UI_VO_TIP,"-<i>Немає обмеження на Марення, незалежно від рівня ІОМ (Індексу Онейричного Марення)</i>  Діє Знамення Порожнечі."
+KEY_DELIRIUM_UI_EVOLVED_UMBRA_TIP,-Помічено еволюціоновану Умбру.
+KEY_DELIRIUM_UI_UMBRA_TIP,-Надійшли повідомлення про появу Умбри.
+KEY_DELIRIUM_UI_MIST_INFESTATION_TIP,-Притулки в Тумані можуть заражатися замість знищення під час нападу Пандоранів. Заражені притулки прискорюють еволюцію Пандоранів.
+KEY_DELIRIUM_UI_PANDORAN_EVO_TIP0,"На основі звітів і польових спостережень ми вважаємо, що Пандорани еволюціонують"
+KEY_DELIRIUM_UI_PANDORAN_EVO_TIP1,"<b>дуже швидко</b>. Ми повинні знищити Колонії Пандоранів і Заражені притулки, перш ніж нас захлеснуть!"
+KEY_DELIRIUM_UI_PANDORAN_EVO_TIP2,<b>швидко</b>. Ми повинні тримати кількість Колоній Пандоранів і Заражених притулків під контролем.
+KEY_DELIRIUM_UI_PANDORAN_EVO_TIP3,. Ми стежимо за ситуацією та повідомимо про будь-які нововиявлені Колонії Пандоранів.
+KEY_UI_DIPLOMACY_TIP_ALLY_ALMOST,"-Ви відклали третю спеціальну місію, запропоновану цією фракцією (буде запропонована знову при 74%)."
+KEY_UI_DIPLOMACY_TIP_ALIGNED_ALMOST,"-Ви відклали другу спеціальну місію, запропоновану цією фракцією (буде запропонована знову при 49%)."
+KEY_UI_DIPLOMACY_TIP_SUPPORTIVE_ALMOST,"-Ви відклали першу спеціальну місію, запропоновану цією фракцією (буде запропонована знову при 24%)."
+KEY_UI_DIPLOMACY_TIP_ALLY,-Ви виконали всі спеціальні місії цієї фракції; ви маєте повний доступ до її дерева досліджень.
+KEY_UI_DIPLOMACY_TIP_ALIGNED,"-Ви виконали другу спеціальну місію цієї фракції; ви отримаєте доступ до будь-якої технології, дослідженої цією фракцією."
+KEY_UI_DIPLOMACY_TIP_SUPPORTIVE,-Ви виконали першу спеціальну місію цієї фракції; усі її притулки розкрито для вас.
+KEY_UI_DIPLOMACY_TIP_POLY,-Завдяки впливу Проєкту «Фенікс» Поліфонічна течія наразі домінує в Синедріоні.
+KEY_UI_DIPLOMACY_TIP_TERRA,-Завдяки впливу Проєкту «Фенікс» Терраформери наразі домінують у Синедріоні.
+KEY_MARKETPLACE_NO_MISSIONS,"ЗБРОЯ, КОЛЕСА ТА ІНШІ РЕЧІ"
+KEY_SECRET_MARKETPLACE_TEXT0,"Ти багато купуєш, ти мій улюблений клієнт."
+KEY_SECRET_MARKETPLACE_TEXT1,"Обережно, моя зброя, іноді вибухає. Може, тобі сподобається."
+KEY_SECRET_MARKETPLACE_TEXT2,"Тепер, коли ми друзі, облишмо удавання і фальшивий акцент."
+KEY_SECRET_MARKETPLACE_TEXT3,Я застряг у цій грі. Ти маєш витягти мене звідси.
+KEY_SECRET_MARKETPLACE_TEXT4,"Десь там є люди, які люблять мене і сумують за мною."
+KEY_SECRET_MARKETPLACE_TEXT5,"Ти моя єдина надія, Оби-Ване."
+KEY_SECRET_MARKETPLACE_TEXT6,"Купуй більше речей, щоб витягти мене звідси!"
+KEY_SECRET_MARKETPLACE_TEXT7,Один такий народжується щохвилини...
+KEY_SECRET_MARKETPLACE_TEXT8,"Вибач, це було дуже грубо з мого боку. Купи ще щось, щоб показати, що ти мене пробачаєш."
+KEY_SECRET_MARKETPLACE_TEXT9,"Гаразд, тепер можеш зупинитися."
+KEY_SECRET_MARKETPLACE_TEXT10,Твій нестримний споживацький запал мене нудить.
+KEY_SECRET_MARKETPLACE_TEXT11,"Серйозно, тобі це справді потрібно? ТОБІ?"
+KEY_SECRET_MARKETPLACE_TEXT12,"Подумай про довкілля, ці гільзи не підлягають переробці!"
+KEY_SECRET_MARKETPLACE_TEXT13,"Ніхто ніколи не думає про планету. Ну, а я думаю."
+KEY_SECRET_MARKETPLACE_TEXT14,"Я хочу дивитися, як вона горить."
+KEY_SECRET_MARKETPLACE_TEXT15,Ось чому тут так пустельно; я починав саме тут.
+KEY_SECRET_MARKETPLACE_TEXT16,"Краще починати змінювати світ прямо там, де ти є. Так зручніше."
+KEY_SECRET_MARKETPLACE_TEXT17,"Прийди до мене, коли врятуєш світ, і я розповім тобі свої плани щодо нього."
+KEY_SECRET_MARKETPLACE_TEXT18,"Підказка: не розбирай вогнемети. Якщо потрібні матеріали, здійсни рейд на притулок чи щось таке."
+KEY_SECRET_MARKETPLACE_TEXT19,"ТАК, МІЙ ДРУЖЕ, РАЗОМ МИ ПРИНЕСЕМО КАОС У ЦЕЙ СВІТ! <i> (саме так, як і задумувала Saber Minsk з усіма багами в цьому DLC) </i>"
+KEY_MARKETPLACE_NEW_STOCK,Базар отримав новий товар! Завітайте!
+KEY_MARKETPLACE_SPECIAL_VEHICLES,Чудові ціни на машини та обладнання для них!
+KEY_MARKETPLACE_SPECIAL_WEAPONS,Спецпропозиція на особисту зброю!
+KEY_MARKETPLACE_SPECIAL_MERCENARY,Багато найманців шукають роботу!
+KEY_MARKETPLACE_SPECIAL_RESEARCH,"Погляньте на всі технології, які принесли наші шпигуни!"
+DLC4 Hypnos/KEY_FACTION_SOLDIER_JOIN_CONFIRMATION,ЧИ ХОЧЕТЕ ВИ ДОЗВОЛИТИ ЦЬОМУ СОЛДАТУ ПРИЄДНАТИСЯ ДО НАС?
+DLC5/KEY_MARKETPLACE_UPDATE_DESCRIPTION,ТОВАР ОНОВИТЬСЯ ПРИБЛИЗНО ЧЕРЕЗ
+KEY_DEPLOY_BASE_DEFENSE_TEXT,РОЗГОРНУТИ ДЛЯ ЗАХИСТУ БАЗИ
+KEY_DEPLOY_BASE_DEFENSE_TIP,"Розгорніть оперативників на базі, що зазнає нападу, щоб захистити її."
+KEY_DAYS,дні
+KEY_DAY,день
+KEY_MESSAGE_GEO_MISSION_WHILE_TRAVELLING,Не можна почати місію під час перельоту.
+KEY_AMBUSH_SAT_SCAN_TEXT0,Супутникове сканування показує посилену присутність
+KEY_AMBUSH_SAT_SCAN_TEXT1,у цьому регіоні
+KEY_WARNING_STORAGE_EXCEEDED,У вас недостатньо місця на складі для речей цього оперативника!
+KEY_DEPLOYMENT_ZONE_TIP,"Виберіть, де або з якою групою розгорнути юніт."
+KEY_VIVISECTION_WARNING,Ви впевнені? Ви ще не провели вівісекцію цього Пандорана.
+KEY_CANT_DEMOLISH,"<b>Неможливо знести цей об'єкт, інакше інші об'єкти будуть відрізані від входу на базу!</b>"
+KEY_MESSAGE_HAVEN_LEADER_DOESNT_TRADE,Дипломатичні відносини з цим притулком занадто низькі. Лідер притулку відмовляється торгувати з вами.
+KEY_BASE_PANDORAN_BASE_REVEALED_FAILED_DESCRIPTION,"Аналіз пересувань Пандоранів не дав змоги визначити їхнє походження. Точне розташування Колонії Пандоранів, відповідальної за напад, залишається невідомим. Якщо колонія атакує в межах радіуса сканування бази Фенікса, ймовірність її виявлення зростає."
+KEY_DLC3_INT_S1_P1,<color=#13c233>Ейлін:</color> Якого біса? Ця штука величезна!
+KEY_DLC3_INT_S1_P2,<color=#ec7762>Аврора:</color> ВИЯВЛЕНО ВОРОГА. БОЙОВИЙ ПРОГРАМНИЙ ПАКЕТ ВІДСУТНІЙ.
+KEY_DLC3_INT_S2_P1,"<color=#13c233>Ейлін:</color> Нас обстрілюють! Сарторіус, зробіть щось!"
+KEY_DLC3_INT_S2_P2,"<color=#ECBA62>Сарторіус:</color> Ейлін, мої знання не можна просто передати. Мені потрібна повна інтеграція із системою.
+
+<color=#ec7762> Аврора:</color> ЗЛИЙСЯ ЗІ МНОЮ.
+
+<color=#ECBA62>Сарторіус:</color> Це єдиний спосіб…"
+KEY_DLC3_INT_S2_P3,"Літак знищується, коли його Очки Корпусу падають до 0."
+KEY_DLC3_INT_S2_P4,"Обов'язково вийдіть із бою, перш ніж це станеться!"
+KEY_DLC3_INT_S3_P1,"<color=#ec7762>Аврора:</color> ТИ
+<color=#ECBA62>Сарторіус:</color> Я
+<color=#607c7d>Аврора Сарторіус:</color> МИ... ОДНЕ... ЦІЛЕ...
+Системи ЗБРОЇ ГОТОВІ. Установка «Кочівник» готова до бою."
+KEY_DLC3_INT_S3_P2,<color=#607c7d>Аврора Сарторіус:</color> ВІДЧУЙТЕ НАШ ГНІВ!
+KEY_DLC3_INT_S3_P3_C,"Щоб націлити зброю, виберіть свою Зброю, а потім виберіть значок цілі."
+KEY_DLC3_INT_S3_P3_K,"Щоб націлити зброю, клацніть лівою кнопкою миші на своїй Зброї, а потім клацніть лівою кнопкою миші на значку цілі."
+KEY_DLC3_INT_S4_P1,"Наш літак має захисний Модуль. Форсаж дозволяє нам ухилятися від будь-яких снарядів із візуальним наведенням, зокрема кислотних плювків цього Пандоранського літуна."
+KEY_DLC3_INT_S4_P2,<color=#607c7d>Аврора Сарторіус:</color> НАБЛИЖАЄТЬСЯ ЗАГРОЗА… активую ФОРСАЖ
+KEY_DLC3_INT_S5_P1,"Шкода, завдана вимкненим Модулям, переходить безпосередньо на Корпус."
+KEY_DLC3_INT_S5_P2,<color=#ECBA62>Ейлін:</color> Покінчи з ним! Рознеси цього чортового монстра к бісу з неба!
+KEY_DLC3_INT_S5_P3,"<color=#607c7d> Аврора Сарторіус:</color> Готово, ОДИН!"
+KEY_DLC3_INT_S6_P1,<color=#607c7d> Аврора Сарторіус:</color> ЧЕРВОНИЙ КОД! АКТИВОВАНО ПРОТОКОЛ АВАРІЙНОГО ВИХОДУ З БОЮ.
+KEY_DLC3_INT_S6_P2,"<color=#ECBA62>Ейлін:</color> Дякую, що поділилися! А тепер вперед, вперед, вперед!"
+KEY_INFESTED_HAVEN_OBJECTIVE,Відправте пошуково-рятувальну команду до зараженого притулку
+KEY_SCRAP_AIRCRAFT,ЗДАТИ ЛІТАК НА БРУХТ
+KEY_BASE_UNDER_ATTACK_RED,!!! ПОПЕРЕДЖЕННЯ !!! БАЗУ ФЕНІКСА АТАКОВАНО
+KEY_UI_LOADUP_TIP,"Завантажує раніше збережені набори спорядження для всіх оперативників, обраних для місії, за потреби забираючи предмети в оперативників в інших місцях."
+KEY_UI_LOADUP_TEXT,екіпірувати всіх
+KEY_UI_REPLENISH_CONSUMABLES_TFTV,Миттєво виготовити та екіпірувати {0} для {1}?
+KEY_UI_MISSING_LOADOUT_ITEMS_TFTV,"Недостатньо запасів, щоб екіпірувати {0}:"
+KEY_TFTV_BASE_UNDERATTACK_GEOOBJECTIVE,Базу Фенікса {0} атаковано!
+KEY_TFTV_OTHER,ІНШЕ
+KEY_TFTV_UNPOWERED_MARKER_RESEARCH,"ЛАБОРАТОРІЯ, ЩО ЗАБЕЗПЕЧУЄ ДОСЛІДЖЕННЯ"
+KEY_TFTV_UNPOWERED_MARKER_TOOLTIP,"Є принаймні один знеструмлений об'єкт: {0}. Натисніть, щоб перейти до бази зі знеструмленим об'єктом."
+KEY_TFTV_UNPOWERED_UNDER_ATTACK_TOOLTIP,"На базу напали, і нападники прорвали оборону. Об'єкт не функціонує."
+KEY_TFTV_LAST_AIRCRAFT,"Це останній доступний літак Проєкту «Фенікс», і його не можна здати на брухт."
+KEY_TFTV_IN_TRANSIT_AIRCRAFT,"Цей літак перебуває в польоті, і його не можна здати на брухт."
+KEY_GRAMMAR_PRONOUNS_HIS,його
+KEY_TFTV_EXCHANGE_FOR_TRADE,Обміняти {0} на {1} ({2})
+KEY_TFTV_UNDER_ATTACK_HAVEN_ZONE,ПІД АТАКОЮ
+KEY_TFTV_LEVEL,Рівень
+KEY_TFTV_HAVEN_RECRUITS_EMPTY_LIST,Новобранців не знайдено.
+KEY_TFTV_HAVEN_RECRUITS_SORT_LABEL,Сортувати:
+KEY_TFTV_HAVEN_RECRUITS_SORT_CLASS,Клас
+KEY_TFTV_HAVEN_RECRUITS_SORT_CLOSEST_AIRCRAFT,Найближчий до літака Фенікса
+TFTV_VIVISECTED,ПІДДАНО ВІВІСЕКЦІЇ
+TFTV_AUTOPSIED,ПІДДАНО АУТОПСІЇ
+TFTV_PER_DAY,на день:
+TFTV_CONTAINMENT_SLOTS_OCCUPIED,Зайнято місць ізолятора:
+TFTV_MARKETPLACE_AMMO_BUY,{0} {1} у продажу на Базарі! Купити за {2} Матеріалів
+TFTV_MARKETPLACE_AMMO_OUT_OF_STOCK,Більше немає {0} на Базарі. Нові поставки прибудуть приблизно через {1} днів
+KEY_HAVEN_INFO_STARVATION_PER_DAY,СКОРОЧЕННЯ НАСЕЛЕННЯ
+KEY_HAVEN_INFO_UNDERFED_POPULATION,НЕДОЇДАЮЧЕ НАСЕЛЕННЯ
+Haven Screen/KEY_HAVEN_MIST,ЗБІЛЬШУЄ ШВИДКІСТЬ СКОРОЧЕННЯ НАСЕЛЕННЯ ТА РИЗИК НАПАДУ ПАНДОРАНІВ
+KEY_UI_EDIT_SCREEN_TOGGLEFACE,ПОКАЗАТИ ОБЛИЧЧЯ
+KEY_UI_EDIT_SCREEN_TOGGLEHELMET,ПОКАЗАТИ ШОЛОМ

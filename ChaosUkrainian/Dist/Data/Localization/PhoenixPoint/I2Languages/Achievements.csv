@@ -1,0 +1,97 @@
+Key,Ukrainian
+ACHIEVEMENT_01_DESC,Побудуйте об'єкт на базі
+ACHIEVEMENT_01_NAME,Будівельник-початківець
+ACHIEVEMENT_02_DESC,Повністю забудуйте базу
+ACHIEVEMENT_02_NAME,База на повну
+ACHIEVEMENT_03_DESC,Побудуйте об'єкт кожного типу
+ACHIEVEMENT_03_NAME,Досвідчений будівельник
+ACHIEVEMENT_04_DESC,Візьміть під контроль 4 бази Фенікса
+ACHIEVEMENT_04_NAME,Імперія Фенікса
+ACHIEVEMENT_05_DESC,Досягніть дружніх відносин із фракцією
+ACHIEVEMENT_05_NAME,Дипломат-початківець
+ACHIEVEMENT_06_DESC,Досягніть рівня відносин «Спільник» із фракцією
+ACHIEVEMENT_06_NAME,Досвідчений дипломат
+ACHIEVEMENT_07_DESC,Досягніть союзницьких відносин із фракцією
+ACHIEVEMENT_07_NAME,Ми разом
+ACHIEVEMENT_08_DESC,Досягніть союзницьких відносин з усіма фракціями (не обов'язково за одне проходження)
+ACHIEVEMENT_08_NAME,Дружу з усіма
+ACHIEVEMENT_09_DESC,Впораєтеся з пандоранською загрозою на будь-якому рівні складності
+ACHIEVEMENT_09_NAME,Стандартна перемога
+ACHIEVEMENT_10_DESC,"Пройдіть гру, не уклавши союз із жодною фракцією"
+ACHIEVEMENT_10_NAME,Шлях Фенікса
+ACHIEVEMENT_11_DESC,Пройдіть гру на рівні складності «Герой»
+ACHIEVEMENT_11_NAME,Героїчна перемога
+ACHIEVEMENT_12_DESC,Пройдіть гру на рівні складності «Легенда»
+ACHIEVEMENT_12_NAME,Легендарна перемога
+ACHIEVEMENT_13_DESC,Пройдіть гру на рівні складності «Герой» або «Легенда» в режимі Ironman
+ACHIEVEMENT_13_NAME,Елітний Ironman
+ACHIEVEMENT_14_DESC,Отримайте всі можливі кінцівки гри
+ACHIEVEMENT_14_NAME,Усі можливості
+ACHIEVEMENT_15_DESC,Завербуйте солдата
+ACHIEVEMENT_15_NAME,Творець загону
+ACHIEVEMENT_16_DESC,Виконайте сканування
+ACHIEVEMENT_16_NAME,Сканер
+ACHIEVEMENT_17_DESC,Завербуйте солдата кожного класу (не обов'язково за одне проходження)
+ACHIEVEMENT_17_NAME,Різноманітний загін
+ACHIEVEMENT_18_DESC,Обміняйте загалом 10000 од. ресурсів будь-якого типу
+ACHIEVEMENT_18_NAME,Досвідчений торговець
+ACHIEVEMENT_19_DESC,Перетворіть на брухт предмети на загальну суму 10000 ресурсів
+ACHIEVEMENT_19_NAME,Торговець брухтом
+ACHIEVEMENT_20_DESC,Спіймайте пандорана кожного виду (не обов'язково за одне проходження)
+ACHIEVEMENT_20_NAME,Звіринець
+ACHIEVEMENT_21_DESC,Виготовте предмет
+ACHIEVEMENT_21_NAME,Виробник-початківець
+ACHIEVEMENT_22_DESC,Виготовте повітряне судно
+ACHIEVEMENT_22_NAME,Авіалінії Фенікса
+ACHIEVEMENT_23_DESC,Виготовте предмет кожного типу (не обов'язково за одне проходження)
+ACHIEVEMENT_23_NAME,Досвідчений виробник
+ACHIEVEMENT_24_DESC,Здійсніть саботаж у зоні притулку
+ACHIEVEMENT_24_NAME,План саботажу
+ACHIEVEMENT_25_DESC,Здійсніть наліт на зону притулку заради ресурсів
+ACHIEVEMENT_25_NAME,Нальотчик
+ACHIEVEMENT_26_DESC,Виживіть у завданні із засідкою
+ACHIEVEMENT_26_NAME,Вцілілий
+ACHIEVEMENT_27_DESC,Викрадіть повітряне судно
+ACHIEVEMENT_27_NAME,Досвідчений злодій
+ACHIEVEMENT_28_DESC,Знищте гніздо пандоранів
+ACHIEVEMENT_28_NAME,Руйнівник гнізд
+ACHIEVEMENT_29_DESC,Знищте лігво пандоранів
+ACHIEVEMENT_29_NAME,Руйнівник лігв
+ACHIEVEMENT_30_DESC,Знищте цитадель пандоранів
+ACHIEVEMENT_30_NAME,Руйнівник цитаделей
+ACHIEVEMENT_31_DESC,Зберіть усі ресурси на завданні з пошуку ресурсів
+ACHIEVEMENT_31_NAME,Заберіть усі трофеї
+ACHIEVEMENT_32_DESC,Викрадіть дослідження з дослідницької зони притулку
+ACHIEVEMENT_32_NAME,Досвідчений шпигун
+ACHIEVEMENT_33_DESC,Завершіть усі дослідницькі проєкти Фенікса
+ACHIEVEMENT_33_NAME,Наукова ретельність
+ACHIEVEMENT_34_DESC,Завершіть усі дослідницькі проєкти однієї фракції
+ACHIEVEMENT_34_NAME,Дослідник фракції
+ACHIEVEMENT_35_DESC,Завершіть дослідження живої Сцилли
+ACHIEVEMENT_35_NAME,Королева пандоранів
+ACHIEVEMENT_36_DESC,Завершіть усі дослідницькі проєкти (не обов'язково за одне проходження)
+ACHIEVEMENT_36_NAME,Досвідчений науковець
+ACHIEVEMENT_37_DESC,Прокачайте базові характеристики солдата до максимуму
+ACHIEVEMENT_37_NAME,Суперсолдат
+ACHIEVEMENT_38_DESC,Отримайте солдатів з усіма комбінаціями подвійних класів (не обов'язково за одне проходження)
+ACHIEVEMENT_38_NAME,Творець класів
+ACHIEVEMENT_39_DESC,Вбийте 3 ворогів за один хід одним солдатом — без використання вибухівки
+ACHIEVEMENT_39_NAME,В ударі
+ACHIEVEMENT_40_DESC,Завершіть завдання із захисту притулку без жертв серед цивільних і без пошкоджень будівель
+ACHIEVEMENT_40_NAME,Бездоганне завдання
+ACHIEVEMENT_41_DESC,Вбийте 500 пандоранів (не обов'язково за одне проходження)
+ACHIEVEMENT_41_NAME,Набиваємо рахунок
+ACHIEVEMENT_42_DESC,Скиньте ворога з висоти на смерть
+ACHIEVEMENT_42_NAME,Шмяк
+ACHIEVEMENT_43_DESC,"Евакуюйте солдата, який стікає кров'ю"
+ACHIEVEMENT_43_NAME,Медевакуація
+ACHIEVEMENT_44_DESC,"Вбийте розумоїда в режимі спостереження, коли він стрибає комусь на голову"
+ACHIEVEMENT_44_NAME,Перехоплення розумоїда
+ACHIEVEMENT_45_DESC,"Вбийте сирену, коли вона контролює чийсь розум"
+ACHIEVEMENT_45_NAME,Звільніть розум
+ACHIEVEMENT_46_DESC,Установіть контроль розуму над 3 ворогами одночасно одним і тим самим жерцем
+ACHIEVEMENT_46_NAME,Під моїм каблуком
+ACHIEVEMENT_47_DESC,Використайте кожен навик персонажа (не обов'язково за одне проходження)
+ACHIEVEMENT_47_NAME,Майстер навичок
+ACHIEVEMENT_48_DESC,Пройдіть навчання
+ACHIEVEMENT_48_NAME,Перша база

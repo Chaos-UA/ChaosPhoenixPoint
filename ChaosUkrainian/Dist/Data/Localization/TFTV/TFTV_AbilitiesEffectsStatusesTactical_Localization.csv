@@ -1,0 +1,364 @@
+Key,Ukrainian
+KEY_AC_DEATHBELCH_DESCRIPTION,"Цей Пандоран породить свою Умбра-версію, якщо загине"
+KEY_AC_DEATHBELCH_NAME,Осквернений Порожнечею — породжує Умбру після смерті
+TBTV_HIDDEN_ABILITY_NAME,Осквернений Порожнечею
+TBTV_HIDDEN_ABILITY_DESCRIPTION,Як же ми тремтимо від жаху
+VOID_TOUCHED_TITLE,Осквернений Порожнечею
+VOID_TOUCHED_TEXT,"<i>«З його тіла здіймався фіолетовий дим, який позначав носія Жахливого Призначення».</i>
+
+Цей Пандоран особливий. Після того, як його атакують, він із високою ймовірністю отримає особливу здібність (утім, є невеликий шанс, що Порожнеча омине його, і він втратить свою Печать, нічого не здобувши). Спочатку єдина здібність, яку він може отримати, — породжувати Умбра-версію самого себе після смерті. Однак у міру просування Онейричного марення Осквернені Порожнечею Пандорани отримуватимуть інші ефекти, коли їх атакують уперше."
+TBTV_ON_ATTACK_TITLE,Осквернений Порожнечею — нападник позначається на смерть
+TBTV_ON_ATTACK_TEXT,"Будь-який персонаж, що атакує цього Пандорана, буде позначений на смерть (ефект не підсумовується)"
+TBTV_ON_TURN_END_TITLE,Осквернений Порожнечею — викликає підкріплення наприкінці ходу
+TBTV_ON_TURN_END_TEXT,"Якщо цей Пандоран доживе до кінця вашого ходу, він викличе підкріплення"
+REVENANT_RESISTANCE_TITLE,Стійкість Ревенанта
+ACHERON_HARBINGER_NAME,Вісник Порожнечі
+ACHERON_HARBINGER_DESCRIPTION,"Збільшує ймовірність того, що Артрон або Тритон стане Оскверненим Порожнечею"
+ACHERON_TRIBUTARY_NAME,Данник Порожнечі
+ACHERON_TRIBUTARY_DESCRIPTION,"Усі союзники <b>будь-якого типу</b> в радіусі 10 клітинок стануть Оскверненими Порожнечею, якщо цей персонаж загине"
+VOID_BLIGHT_NAME,Зараза Порожнечі
+VOID_BLIGHT_DESCRIPTION,Цього персонажа чи юніт може атакувати Умбра незалежно від рівня Марення
+ANC_AUTOREPAIR_TITLE,Саморемонт
+ANC_AUTOREPAIR_TEXT,Використовує запчастини з найближчого зруйнованого Автомата
+CYCLOPS_DEFENSE_NAME,ЗАХИСТ ЦИКЛОПА
+CYCLOPS_DEFENSE_DESCRIPTION,"Поки жоден Гопліт не знищений, Циклоп має 50% стійкості до всіх типів шкоди. Знищення Гоплітів знижує цю стійкість."
+HOPLITES_SELF_REPAIR_NAME,САМОРЕМОНТ ГОПЛІТІВ
+HOPLITES_SELF_REPAIR_DESCRIPTION,Знищення будь-якого Автомата в радіусі 7 клітинок від іншого дозволяє тому відновити відсутню частину тіла або 50 очок здоров'я та 5 очок волі
+POWERED_UP_NAME,ПОВНА БОЙОВА ГОТОВНІСТЬ
+POWERED_UP_DESCRIPTION,"З моменту тривоги Автомат отримує 5 очок волі за хід. Його швидкість визначається поточними очками волі. Досягнувши максимуму очок волі, він отримує цей статус: +50% шкоди до всіх атак і 25% стійкості до шкоди"
+UNKNOWN_STATUS_NAME,?
+UNKNOWN_STATUS_DESCRIPTION,"Дослідіть цю сутність, щоб дізнатися, на що вона здатна"
+KEY_EMP_RESISTANCE_NAME,ІМУНІТЕТ ДО ЕМІ
+KEY_EMP_RESISTANCE_DESCRIPTION,Несприйнятливість до атак електромагнітним імпульсом (ЕМІ)
+IMMUNITY_TO_PARALYSIS_NAME,ІМУНІТЕТ ДО ПАРАЛІЗУЮЧОЇ ЗБРОЇ
+IMMUNITY_TO_PARALYSIS_DESCRIPTION,Несприйнятливість до паралізуючої зброї
+FIRE_QUENCHER_NAME,ГАСНИК ВОГНЮ
+FIRE_QUENCHER_DESCRIPTION,"Несприйнятливість до вогню. Клітинки, охоплені полум'ям, якими він проходить, замінюються Туманом."
+ROOKIE_VULNERABILITY_NAME,Герої завжди перемагають
+ROOKIE_VULNERABILITY_DESCRIPTION,...Коли ви граєте на складності «Новобранець». Усі вороги отримують на 50% більше шкоди.
+ROOKIE_PROTECTION_DESCRIPTION,...Коли ви граєте на складності «Новобранець». Усі оперативники «Фенікса» отримують на 50% менше шкоди.
+ETERMES_VULNERABILITY_NAME,Ви граєте на складності ELDRITCH
+ETERMES_VULNERABILITY_DESCRIPTION,...І вам завжди все занадто легко. Усі оперативники «Фенікса» отримують на 25% більше шкоди.
+ETERMES_PROTECTION_DESCRIPTION,...І вам завжди все занадто легко.
+SCYLLA_DAMAGERESISTANCE_NAME,Вершина Творіння
+SCYLLA_DAMAGERESISTANCE_DESCRIPTION,Ця Сцилла має 25% стійкості до всіх типів шкоди.
+ROBOTIC_SELF_REPAIR_TITLE,САМОВІДНОВЛЕННЯ
+ROBOTIC_SELF_REPAIR_ABILITY_TEXT,Відновлює всі свої виведені з ладу кінцівки через один хід.
+ROBOTIC_SELF_REPAIR_TEXT_TEXT,Наступного ходу всі виведені з ладу кінцівки відновляться на половину максимального здоров'я.
+CYCLOPS_SCREAM_TITLE,СЕЙСМІЧНИЙ ТУПІТ
+CYCLOPS_SCREAM_DESCRIPTION,"Дезорієнтує, завдає 60 шкоди та 1 очко психічної шкоди всім органічним цілям у радіусі 12 клітинок."
+KEY_MUTOID_CURE_SPRAY_DESCRIPTION,"Знімає з цільового союзника всі статуси: Параліч, Кровотеча, Отруєння, Перенапруження, Зараження, Оглушення та Уповільнення."
+ACID_IMMUNITY_NAME,ІМУНІТЕТ ДО КИСЛОТИ
+ACID_IMMUNITY_DESCRIPTION,Несприйнятливість до кислоти
+CAPTURE_ABILITY_NAME,ПРІОРИТЕТНА ЕВАКУАЦІЯ «СКАЙХУК»
+CAPTURE_ABILITY_DESCRIPTION,Позначає паралізованого пандорана для пріоритетної евакуації та захоплення наприкінці місії.
+CAPTURE_STATUS_NAME,ПРІОРИТЕТ ДЛЯ ЕВАКУАЦІЇ ТА ЗАХОПЛЕННЯ
+CAPTURE_STATUS_DESCRIPTION,"Цього пандорана позначено для пріоритетної евакуації наприкінці місії; його буде евакуйовано, навіть якщо паралізовано цінніших пандоранів."
+CANCEL_CAPTURE_NAME,СКАСУВАТИ ПРІОРИТЕТНУ ЕВАКУАЦІЮ «СКАЙХУК»
+CANCEL_CAPTURE_DESCRIPTION,Прибирає цього паралізованого пандорана зі списку пріоритетної евакуації наприкінці місії.
+CAPTURE_CAPACITY_BASE,"НАЯВНИЙ ДІЮЧИЙ ІЗОЛЯТОР, ПОВНІСТЮ ПАРАЛІЗОВАНИХ ПАНДОРАНІВ БУДЕ ЗАХОПЛЕНО"
+CAPTURE_CAPACITY_AIRCRAFT,ЗАЛИШИЛОСЯ МІСЦЯ ДЛЯ ЗАХОПЛЕННЯ:
+CAPTURE_CAPACITY_TOTAL,ЗАГАЛЬНА ДОСТУПНА МІСТКІСТЬ ІЗОЛЯТОРА:
+KEY_BASE_FACILITY_CONTAINMENT_DESCRIPTION,"Тут можна утримувати живих пандоранів. Великі істоти займають більше місця, а простір спільний для всіх об'єктів. Цей об'єкт має 25 одиниць місткості ізолятора."
+TFTV_HUMAN_ENEMIES_FEARSOME_TEXT,"Вороги, які бачать цього персонажа, втрачають 2 очки волі"
+TFTV_HUMAN_ENEMIES_FEARSOME_TITLE,Жахіття
+TFTV_HUMAN_ENEMIES_VOLLEY_TEXT,"Поки лідер живий, перша атака вогнепальною зброєю союзників коштує на 2 очки дій менше"
+TFTV_HUMAN_ENEMIES_VOLLEY_TITLE,Початковий залп
+TFTV_HUMAN_ENEMIES_SELFREPAIR_TEXT,"Металосерця отримують здібність саморемонту, що відновлює виведені з ладу кінцівки"
+TFTV_HUMAN_ENEMIES_SELFREPAIR_TITLE,Протокол саморемонту
+TFTV_HUMAN_ENEMIES_DRUGS_TEXT,Усі союзники найнижчого рангу отримують 10 очок регенерації
+TFTV_HUMAN_ENEMIES_DRUGS_TITLE,Експериментальні препарати
+TFTV_HUMAN_ENEMIES_CAMO_TEXT,Союзники в радіусі 16 клітинок стають невидимими; ефект одразу зникає після смерті лідера
+TFTV_HUMAN_ENEMIES_CAMO_TITLE,Активний камуфляж
+TFTV_HUMAN_ENEMIES_DISCIPLINE_TEXT,Союзники в радіусі 20 клітинок від лідера мають здібність «Відповідний вогонь»
+TFTV_HUMAN_ENEMIES_DISCIPLINE_TITLE,Вогнева дисципліна
+TFTV_HUMAN_ENEMIES_FRENZY_TEXT,"Коли гине будь-який високоранговий персонаж, союзники отримують статус Шалу"
+TFTV_HUMAN_ENEMIES_FRENZY_TITLE,Кривавий шал
+TFTV_HUMAN_ENEMIES_RETRIBUTION_TEXT,"Ворог, що атакує будь-якого високорангового персонажа, стає позначеним на смерть"
+TFTV_HUMAN_ENEMIES_RETRIBUTION_TITLE,Відплата
+TFTV_HUMAN_ENEMIES_AMBUSH_TEXT,"Кожен союзник завдає на 10% більше шкоди, поки лідер живий, якщо на початку його ходу в радіусі 10 клітинок немає видимих ворогів"
+TFTV_HUMAN_ENEMIES_AMBUSH_TITLE,Засідка
+TFTV_HUMAN_ENEMIES_TARGETING_TEXT,"Поки лідер живий, кожен союзник отримує +15% точності за кожного союзника в радіусі 12 клітинок, до +60%"
+TFTV_HUMAN_ENEMIES_TARGETING_TITLE,Допоміжне наведення
+TFTV_HUMAN_ENEMIES_NJ,Нового Єрихона
+TFTV_HUMAN_ENEMIES_SYN,Синедріону
+TFTV_HUMAN_ENEMIES_ANU,Послідовників Ану
+TFTV_HUMAN_ENEMIES_UNIT_TYPE_GANG,бандою
+TFTV_HUMAN_ENEMIES_UNIT_TYPE_SQUAD,загоном
+TFTV_HUMAN_ENEMIES_UNIT_TYPE_PACK,зграєю Покинутих
+TFTV_HUMAN_ENEMIES_UNIT_TYPE_ARRAY,загоном Чистих
+DLC4 Hypnos/KEY_STATUS_CORRUPTED_NAME,Марення
+KEY_STATUS_CORRUPTED_NAME,МАРЕННЯ
+KEY_STATUS_CORRUPTED_DESCRIPTION,"Марення знижує очки волі. Своєю чергою, цей ефект зменшується на 1 за кожні 10 очок витривалості. Максимальний рівень Марення визначається значенням ІОМ."
+KEY_CO_CORRUPTION_NAME,Спільне марення
+KEY_CO_CORRUPTION_DESCRIPTION,Усі Пандорани завдають шкоди Марення під час атаки зброєю ближнього бою.
+KEY_CONTACT_CORRUPTION_NAME,МАРЕННЯ ВІД КОНТАКТУ
+KEY_CONTACT_CORRUPTION_DESCRIPTION,Збільшує рівень Марення нападника під час атак ближнього бою чи ударів.
+KEY_DAMAGE_TYPE_CORRUPTION,МАРЕННЯ
+DLC4 Hypnos/KEY_DAMAGE_TYPE_CORRUPTION,МАРЕННЯ
+KEY_DAMAGE_TYPE_CORRUPTION_DESC,Накладає Марення на ціль.
+KEY_CORRUPTION_IMMUNITY_NAME,ІМУНІТЕТ ДО МАРЕННЯ
+KEY_CORRUPTION_IMMUNITY_DESCRIPTION,Несприйнятливість до Марення.
+DLC4 Hypnos/KEY_CORRUPTION_STATUS,СТАТУС МАРЕННЯ
+KEY_CORRUPTIVE_ATTACK_DESCRIPTION,Успішні атаки поширюють марення на органічні істоти.
+KEY_CORRUPTIVE_ATTACK_NAME,АТАКА МАРЕННЯ
+KEY_CORRUPTIVE_CLOUD_DESCRIPTION,Поширює марення на всіх органічних ворогів у радіусі 10 клітинок.
+KEY_CORRUPTIVE_CLOUD_NAME,ХМАРА МАРЕННЯ
+KEY_CORRUPTIVE_SPRAY_DESCRIPTION,Органічні цілі отримають марення на додачу до стандартної шкоди.
+KEY_CORRUPTIVE_SPRAY_NAME,РОЗПИЛЕННЯ МАРЕННЯ
+DELIRIUM_PERK_HYPERALGESIA_NAME,ГІПЕРАЛГЕЗІЯ
+DELIRIUM_PERK_HYPERALGESIA_DESCRIPTION,"Втрачає 1 очко волі під час отримання шкоди, але не втрачає очок волі, коли гинуть союзники
+<i>Суб'єкт має надмірну чутливість до болю та демонструє симптоми емпатичної втоми</i>"
+DELIRIUM_PERK_FERAL_NAME,ДИКУН
+DELIRIUM_PERK_FERAL_DESCRIPTION,"Усі дії мають 10% шанс на невдачу; відновлює 1 очко дій за вбивство ворога
+<i>Суб'єкт демонструє атавістичну поведінку. Також спостерігаються зміни в роботі надниркових залоз</i>"
+DELIRIUM_PERK_NEW_FERAL_DESCRIPTION,"Усі навички, що витрачають очки волі, коштують на 1 очко волі більше; +8 до Сили
+<i>Суб'єкт демонструє атавістичну поведінку. Також спостерігаються зміни в роботі надниркових залоз</i>"
+DELIRIUM_PERK_DEREALIZATION_NAME,ДЕРЕАЛІЗАЦІЯ
+DELIRIUM_PERK_DEREALIZATION_DESCRIPTION,"-5 до Сили; виведені з ладу кінцівки залишаються функціональними
+<i>Суб'єкт повідомляє про дедалі глибше відчуження від реальності та власного тіла</i>"
+DELIRIUM_PERK_ONE_OF_THEM_NAME,ОДИН ІЗ НИХ
+DELIRIUM_PERK_ONE_OF_THEM_DESCRIPTION,"Отримує вдвічі більше шкоди Марення, несприйнятливий до Туману
+<i>Схоже, суб'єкт набув толерантності до Туману, що спричиняє в нього когнітивний дисонанс</i>"
+DELIRIUM_PERK_WOLVERINE_NAME,РОСОМАХА
+DELIRIUM_PERK_WOLVERINE_DESCRIPTION,"-20% до точності, отримує «Ріжучий удар»
+<i>У суб'єкта з'явився висувний кігтеподібний відросток із правого зап'ястя. На жаль, стрільба з вогнепальної зброї стала доволі незручною</i>"
+DELIRIUM_PERK_WOLVERINE_CURED_DESCRIPTION,"Ріжучий удар<i>«Здається, я просто до цього звик»</i>"
+DELIRIUM_PERK_TERROR_NAME,ЖАХ
+DELIRIUM_PERK_TERROR_DESCRIPTION,"-2 до Швидкості, +25% до скритності
+<i>Попри посилене лікування, суб'єкт залишається наляканим і діє в полі надзвичайно обережно</i>"
+DELIRIUM_PERK_FASTER_SYNAPSES_NAME,ШВИДШІ СИНАПСИ
+DELIRIUM_PERK_FASTER_SYNAPSES_DESCRIPTION,"-25% до скритності, починає кожну місію в стані Шалу на 2 ходи
+<i>Суб'єкт демонструє сплески надзвичайної швидкості й посилену активність нижніх відділів мозку, але також постійні неконтрольовані посмикування</i>"
+DELIRIUM_PERK_BLOODTHIRSTY_NAME,КРОВОЖЕРНИЙ
+DELIRIUM_PERK_BLOODTHIRSTY_DESCRIPTION,"Союзники втрачають 1 очко волі за кожного вбитого ворога; отримує здібність «Пожирання»
+<i>У суб'єкта проявляються симптоми садистичного розладу особистості та змінений метаболізм, пов'язаний із викидом ендорфінів</i>"
+DELIRIUM_PERK_ANXIETY_NAME,ТРИВОЖНІСТЬ
+DELIRIUM_PERK_ANXIETY_DESCRIPTION,"Починає кожну місію Дезорієнтованим на 2 ходи
+<i>У суб'єкта проявляються симптоми генералізованого тривожного розладу; слабко реагує на лікування</i>"
+DELIRIUM_PERK_NEW_ANXIETY_DESCRIPTION,"Починає кожну місію Дезорієнтованим на 2 ходи, несприйнятливий до Контролю розуму
+<i>У суб'єкта проявляються посилені симптоми генералізованого тривожного розладу; слабко реагує на лікування й... зовнішній психічний вплив</i>"
+DELIRIUM_PERK_INNER_SIGHT_NAME,ВНУТРІШНІЙ ЗІР
+DELIRIUM_PERK_INNER_SIGHT_DESCRIPTION,"-10 до Сприйняття, +10 до радіуса слуху
+<i>Суб'єкта часто бачать із заплющеними очима; він стверджує, що бачить «внутрішнім оком»; можлива шизофренія, однак підвищене екстрасенсорне сприйняття підтверджено</i>"
+TFTV_KEY_UMBRA_TARGET_DISPLAY_NAME,УМБРА
+TFTV_KEY_UMBRA_TARGET_DISPLAY_DESCRIPTION,"Воно несправжнє, воно несправжнє, воно несправжнє, воно несправжнє"
+ANC_AUTOREPAIR_TITLE,Саморемонт
+ANC_AUTOREPAIR_TEXT,Використовує запчастини з найближчого зруйнованого Автомата
+FORCE_GATE_ABILITY,Активувати Пристрій Древніх
+FORCE_GATE_ABILITY_DESCRIPTION,"Спробувати відкрити неевклідові Врата Резервуара. Щоб спрацювало, усі три пристрої мають бути активовані протягом одного ходу. Активація триває 2 ходи."
+CANCEL_FORCE_GATE_ABILITY,Скасувати активацію Пристрою Древніх.
+CANCEL_FORCE_GATE_ABILITY_DESCRIPTION,Зупинити спробу відкрити неевклідові Врата Резервуара.
+FORCE_GATE_STATUS,Активація Пристрою Древніх.
+FORCE_GATE_STATUS_DESCRIPTION,Оперативник зайнятий спробами розгадати цю прокляту головоломку.
+KEY_STATUS_SLOWED_DESCRIPTION,Швидкість знижена до 25%.
+HUMAN_ENEMIES_KEY_BOSS,Ватажок
+HUMAN_ENEMIES_KEY_ENFORCER,Силовик
+HUMAN_ENEMIES_KEY_RAIDER,Рейдер
+HUMAN_ENEMIES_KEY_CARRION,Падальник
+HUMAN_ENEMIES_KEY_LEADER,Лідер
+HUMAN_ENEMIES_KEY_VETERAN,Ветеран
+HUMAN_ENEMIES_KEY_JACKBOOT,Жандарм
+HUMAN_ENEMIES_KEY_GREENHORN,Новачок
+HUMAN_ENEMIES_KEY_WARDEN,Наглядач
+HUMAN_ENEMIES_KEY_RANGER,Рейнджер
+HUMAN_ENEMIES_KEY_PEACEKEEPER,Миротворець
+HUMAN_ENEMIES_KEY_CITIZEN,Громадянин
+HUMAN_ENEMIES_KEY_TAXIARCH,Таксіарх
+HUMAN_ENEMIES_KEY_ADEPT,Адепт
+HUMAN_ENEMIES_KEY_ACOLYTE,Послушник
+HUMAN_ENEMIES_KEY_NEOPHYTE,Неофіт
+HUMAN_ENEMIES_KEY_MACHINA,Машина
+HUMAN_ENEMIES_KEY_METALHEART,Металосерце
+HUMAN_ENEMIES_KEY_CLEANSED,Очищений
+HUMAN_ENEMIES_KEY_MEATHEAD,М'ясна Голова
+HUMAN_ENEMIES_KEY_SCOURGE,Бич
+HUMAN_ENEMIES_KEY_EVOLVED,Еволюціонований
+HUMAN_ENEMIES_KEY_REBORN,Відроджений
+HUMAN_ENEMIES_KEY_FLEDGLING,Пташеня
+HUMAN_ENEMIES_KEY_TIER_1,"Створює особливий ефект для союзників та/або ворогів (Тактика). Союзники втрачають 4 очки волі, якщо цей персонаж гине."
+HUMAN_ENEMIES_KEY_TIER_2,"Союзники, які бачать цього персонажа, отримують +1 очко волі за хід і втрачають 3 очки волі, якщо він гине."
+HUMAN_ENEMIES_KEY_TIER_3,"Союзники втрачають 2 очки волі, якщо цей персонаж гине."
+HUMAN_ENEMIES_KEY_TIER_4,"Союзники не втрачають очок волі, якщо цей персонаж гине. Та й хто взагалі очікував, що він довго протягне."
+KEY_MINDFRAGGER_ACID_EXPLOSION,КИСЛОТНИЙ ВИБУХ
+KEY_MINDFRAGGER_ACID_EXPLOSION_DESCRIPTION,"Після смерті Промивач вибухає кислотою, завдаючи шкоди найближчим цілям"
+HUMAN_ENEMIES_KEY_AMBUSH,Засідка (Тактика)
+HUMAN_ENEMIES_KEY_AMBUSH_DESCRIPTION,"Шкода +10%. Здібність отримано, оскільки лідер був живий, а на початку ходу в радіусі 10 клітинок не було видимих ворогів."
+KEY_DELIRIUM_CAP_MAX,фіксовано на рівні 12
+KEY_DELIRIUM_CAP_MED,фіксовано на рівні 8
+KEY_DELIRIUM_CAP_LOW,фіксовано на рівні 4
+KEY_HUMAN_ENEMIES_FACING,Ви зіткнулися з
+KEY_HUMAN_ENEMIES_GANG_CALLED,", на прізвисько"
+KEY_HUMAN_ENEMIES_LEADER_IS,. Їхній лідер —
+KEY_HUMAN_ENEMIES_USING_TACTIC,", що використовує тактику"
+KEY_HUMAN_ENEMIES_SUBJECT24_ARRAY_DESCRIPTION,"Ви нарешті зіткнулися з Підопитним №24, якого захищає загін Чистих, що використовують тактику "
+KEY_REVENANT_ABILITY_DESCRIPION0,Це ваш загиблий товариш —
+KEY_REVENANT_ABILITY_DESCRIPION1,", що повернувся у вигляді пандоранського чудовиська."
+KEY_REVENANT_MIMIC,Мімік
+KEY_REVENANT_DYBBUK,Діббук
+KEY_REVENANT_NEMESIS,Немезида
+KEY_REVENANT_DESCRIPTION_ASSAULT,Підвищені потенціал шкоди та швидкість.
+KEY_REVENANT_DESCRIPTION_SERKER,"Безстрашний, швидкий, незупинний..."
+KEY_REVENANT_DESCRIPTION_HEAVY,Живий щит для куль.
+KEY_REVENANT_DESCRIPTION_INFILTRATOR,Моторошно тихий.
+KEY_REVENANT_DESCRIPTION_PRIEST,Сила через край.
+KEY_REVENANT_DESCRIPTION_SNIPER,Всевидющий.
+KEY_REVENANT_DESCRIPTION_TECH,Заряд!
+KEY_REVENANT_HIGH_DAMAGE,атаки з високою шкодою
+KEY_REVENANT_RESISTANCE0,СТІЙКІСТЬ РЕВЕНАНТА
+KEY_REVENANT_RESISTANCE1,набута стійкість до
+KEY_REVENANT_RESISTANCE2,завдяки знанням про методи «Фенікса»
+KEY_REVENANT_RESISTANCE3,<b>Шкода від першого влучання за хід знижується на 50%</b> — еволюційна відповідь на масове використання Проєктом «Фенікс» зброї з високою шкодою за снаряд/удар.
+KEY_RETURNFIRE_DESCRIPTION,"Веде вогонь у відповідь по ворогу під час його атаки, якщо солдат використовує зброю прямої наводки, якою володіє, а ворог перебуває в межах половини радіуса сприйняття."
+KEY_GOO_IMMUNITY_DESCRIPTION,"Слиз не накладає на вас статус Уповільнення, і ви можете переміщатися клітинками, вкритими слизом, без додаткових витрат руху."
+KEY_IGNORE_PAIN_DESCRIPTION,"Виведені з ладу частини тіла залишаються функціональними, і персонаж не може панікувати."
+KEY_NJ_HEAVY_ROCKET_LAUNCHER_NAME,БРУ «Архангел»
+KEY_NJ_HEAVY_ROCKET_LAUNCHER_DESCRIPTION,Бронебійна ракетна установка Нового Єрихона
+BC_KEY_ITEM_STAT_BODYPART_DAMAGE,ШКОДА ЧАСТИНІ ТІЛА
+KEY_PSYCHIC_IMMUNITY_DESCRIPTION,Несприйнятливість до Психічного вереску
+KEY_ELECTRIC_STRIKE_DESCRIPTION,Завдає цілі шкоди Оглушення та ЕМІ один раз за хід
+KEY_MUTATION_ELECTROKICK_DESCRIPTION,"Виконати удар ногою в ближньому бою; ціль буде приголомшена, якщо звукове значення перевищує її очки волі"
+KEY_SURPRISE_ATTACK_DESCRIPTION,"Атаки ззаду отримують значення оглушення, що дорівнює п'ятикратній завданій шкоді"
+KEY_JET_JUMP_DESCRIPTION,Реактивний стрибок у місце в радіусі 20 клітинок. Обмежено одним використанням за хід
+KEY_SHINOBI_LEAP_DESCRIPTION,Стрибнути у вказане місце. Обмежено двома використаннями за хід
+KEY_CONVINCE_ABILITY,Переконати цивільного приєднатися
+KEY_CONVINCE_ABILITY_DESCRIPTION,"Ходи зі мною, якщо хочеш жити. Триває 2 ходи."
+KEY_CANCEL_CONVINCE_ABILITY,Здатися.
+KEY_CANCEL_CONVINCE_ABILITY_DESCRIPTION,У вас немає на це часу! Скасовує спробу переконати цивільного. Перервані спроби доведеться починати заново.
+KEY_CONVINCE_STATUS,Розмовляє.
+KEY_CONVINCE_STATUS_DESCRIPTION,Саме зараз триває розмова!
+KEY_ABILITY_NOAUGMENTATONS,Найманці відмовляються від аугментації чи мутації — це не входить у їхні службові обов'язки.
+KEY_ABILITY_NOAUGMENTATONS_SLUG,Слимак
+KEY_ABILITY_NOAUGMENTATONS_NAME,БЕЗ АУГМЕНТАЦІЙ
+KEY_ABILITY_REVENANT,РЕВЕНАНТ
+KEY_ABILITY_REVENANT_DESCRIPTION,Колись був одним із нас.
+SLUG_KEY_TECHNICIAN_FIELD_MEDIC_DESCRIPTION,Відновлює 10 очок здоров'я та 10 очок броні всім частинам тіла обраної цілі. Виведені з ладу частини тіла відновлюються. <b>КОШТУЄ 15% ВІД МАКСИМАЛЬНОЇ СИЛИ/ЗДОРОВ'Я</b>
+SLUG_KEY_TECHNICIAN_REPAIR_DESCRIPTION,Відновлює {GeneralHealAmount} очок здоров'я механічним пристроям. <b>КОШТУЄ 15% ВІД МАКСИМАЛЬНОЇ СИЛИ/ЗДОРОВ'Я</b>
+SLUG_KEY_TECHNICIAN_RESTORE_DESCRIPTION,Відновлює {GeneralHealAmount} загальних очок здоров'я та знімає 50% паралічу союзної одиниці. <b>КОШТУЄ 15% ВІД МАКСИМАЛЬНОЇ СИЛИ/ЗДОРОВ'Я</b>
+SLUG_KEY_ELECTRIC_STRIKE_DESCRIPTION,"Ціль оглушується, якщо значення оглушення перевищує її поточні очки здоров'я. <b>КОШТУЄ 15% ВІД МАКСИМАЛЬНОЇ СИЛИ/ЗДОРОВ'Я</b>"
+SLUG_KEY_REMOVE_LARVA_DESCRIPTION,Знімає Промивача із союзника. <b>КОШТУЄ 15% ВІД МАКСИМАЛЬНОЇ СИЛИ/ЗДОРОВ'Я</b>
+KEY_GOOED_STATUS_DESCRIPTION,"Переміщення клітинкою, вкритою Слизом, коштує більше очок руху, а на початку ходу персонажу накладається статус Уповільнення, якщо він не має несприйнятливості до Слизу."
+KEY_ACTIVE_CAMO_DISPLAY_NAME,Активний камуфляж
+KEY_ACTIVE_CAMO_DESCRIPTION,"Персонажа приховано від сторонніх очей, оскільки він перебуває в радіусі 16 клітинок від лідера з тактикою «Активний камуфляж»."
+KEY_REGENERATION_TORSO_DESCRIPTION,"Щохода відновлює 10 очок здоров'я рукам, тулубу та загальним очкам здоров'я"
+KEY_BIONIC_SILENTECHO_ABILITY_DESCRIPTION,Здійснити безшумну атаку обраною зброєю. Обмежено одним використанням за хід.
+KEY_BIONIC_SILENTECHO_ABILITY_NAME,ТИХА ЛУНА
+KEY_TACTIC,Тактика
+KEY_TFTV_REVENANT_ARMOR_STACK_NAME,СТІЙКІСТЬ РЕВЕНАНТА ДІЄ
+KEY_TFTV_REVENANT_ARMOR_STACK_DESCRIPTION,Знижує наступну шкоду на 50%
+TFTV_STARVED_NAME,ГОЛОДУЄ
+TFTV_STARVED_DESCRIPTION,У цього персонажа знижені Сила та Сила волі через голод.
+TFTV_STARVATION_MECHANIC_NAME,ГОЛОД
+TFTV_STARVATION_MECHANIC_DESCRIPTION,"Один або кілька ваших оперативників тепер ГОЛОДУЮТЬ. Це трапляється, коли запасів їжі недостатньо, щоб прогодувати всіх оперативників. У ГОЛОДНОГО оперативника знижені СИЛА та СИЛА ВОЛІ в тактичних місіях. Кожен день без їжі погіршуватиме стан персонажа, що зрештою може призвести до СМЕРТІ. Стан поліпшуватиметься, поки не зникне повністю, щодня, коли персонаж отримує їжу."
+TFTV_EVACUATE_SQUAD,Евакуювати загін?
+TFTV_EVACUATE_ALL,ЕВАКУЮВАТИ ВСІХ
+TFTV_TBTV_UMBRA_EFFECT_DESC,Породжує Умбру після смерті.
+TFTV_TBTV_MFD_EFFECT_DESC,Позначає нападника на смерть (усі влучання по персонажу завдають на 10 додаткової шкоди).
+TFTV_TBTV_CALLREINFORCEMENTS_EFFECT_DESC,Викликає підкріплення наприкінці ходу гравця.
+TFTV_TBTV_GENERAL_DESC,"Осквернені Порожнечею Пандорани тепер можуть отримати один із наведених нижче ефектів (або жодного), коли їх атакують:"
+TFTV_TBTV_UMBRA_EVOLVED_EFFECT_DESC,Породжує еволюціоновану Умбру після смерті.
+TFTV_TBTV_CHANCES_DESC,"Шанс, що Артрон або Тритон стане Оскверненим Порожнечею: {0}%"
+TFTV_TBTV_CHANCES_BASE,Від загального рівня Марення оперативників у місії: {0}%
+TFTV_TBTV_CHANCES_VO_MORE_TBTV,x2 від Знамення Порожнечі «Більше Осквернених Порожнечею»
+TFTV_TBTV_CHANCES_VO_TBTV_EVERYWHERE,Від Знамення Порожнечі «Осквернені Порожнечею всюди»: 16%
+TFTV_TBTV_CHANCES_ACHERONS,Ахерони зі здібністю «Вісник Порожнечі»: {0} x 10%
+TFTV_TBTV_CHANCES_TOTAL,Разом: {0}%
+TFTV_ODI_WIDGET,ЕФЕКТИ ОНЕЙРИЧНОГО МАРЕННЯ
+TFTV_ODI_WIDGET_VOID_OMENS,ЗНАМЕННЯ ПОРОЖНЕЧІ
+TFTV_VIVISECTED_SHORT_INFO,ТИП ПАНДОРАНА ПРЕПАРОВАНО
+TFTV_VIVISECTED_SHORT_INFO_DAMAGE,"ЗАВДАНА
+ШКОДА"
+TFTV_MOONPROJECT_SHORT_INFO,АНАЛІЗ МІСЯЧНОЇ БАЗИ ВИКОНАНО
+TFTV_HUMAN_ENEMIES_STATUS_ALIVE,ЖИВИЙ
+TFTV_HUMAN_ENEMIES_STATUS_DEAD,ЗАГИНУВ У БОЮ
+TFTV_HUMAN_ENEMIES_STATUS_FLED,ЗНИК БЕЗВІСТИ
+TFTV_KEY_ANCIENTS_CYCLOPS_RESISTANCE,СТІЙКІСТЬ ЦИКЛОПА ДО ШКОДИ: {0}%
+TFTV_KEY_ANCIENTS_RULESET,"ВВІМКНЕННЯ
+З моменту тривоги Автомат отримує 5 очок волі за хід. Його швидкість дорівнює поточним очкам волі. Досягнувши максимуму очок волі, він отримує статус ПОВНА БОЙОВА ГОТОВНІСТЬ, отримуючи +50% шкоди до всіх атак і 25% стійкості до шкоди.
+
+ЗАХИСТ ЦИКЛОПА
+Поки жоден Гопліт не знищений, Циклоп має 50% стійкості до всієї шкоди. Знищення Гоплітів знижує цю стійкість.
+
+НАВЕДЕННЯ ЦИКЛОПА
+Коли Циклоп атакує променевою зброєю, усі Гопліти, здатні на це, атакують ту саму ціль своєю променевою зброєю. 
+
+САМОРЕМОНТ ЦИКЛОПА
+Циклоп відновлює будь-яку виведену з ладу частину тіла на 50% здоров'я на початку ходу. Втрачає 5 очок волі за кожну відновлену частину тіла. 
+
+САМОРЕМОНТ ГОПЛІТІВ
+Знищення будь-якого Автомата в радіусі 7 клітинок від іншого дозволяє тому відновити відсутню частину тіла або 50 очок здоров'я та 5 очок волі.
+
+МОЛЕКУЛЯРНЕ НАВЕДЕННЯ
+Якщо промінь Гопліта пошкоджує мутовану частину тіла чи електроніку, до кінця ходу ВСІ променеві атаки (зокрема й від Циклопа) завдають особливої шкоди мутованим частинам тіла чи електроніці, залежно від випадку.
+
+ПРОТОКОЛ АВАРІЙНОГО ЗАХИСТУ
+Якщо Циклоп знищений і залишилося не більше 3 активних Гоплітів, вони самознищуються.  "
+TFTV_DRILL_drawfire_NAME,ВІДТЯГНУТИ ВОГОНЬ
+TFTV_DRILL_drawfire_DESC,"Активуйте, щоб стати пріоритетнішою ціллю для ворогів до вашого наступного ходу."
+TFTV_DRILL_drawfire_STATUS_NAME,ВІДТЯГУЄ ВОГОНЬ ВОРОГА
+TFTV_DRILL_drawfire_STATUS_DESC,Персонаж є пріоритетнішою ціллю для ворогів до наступного ходу.
+TFTV_DRILL_markedwatch_NAME,ПОЗНАЧЕНЕ СПОСТЕРЕЖЕННЯ
+TFTV_DRILL_markedwatch_DESC,"Позначте ворога: Спостереження спрацьовує лише проти цієї цілі, а постріл отримує +50% точності"
+TFTV_DRILL_mentorprotocol_NAME,ПРОТОКОЛ НАСТАВНИЦТВА
+TFTV_DRILL_mentorprotocol_DESC,"Здобутий за місію досвід передається учаснику загону найнижчого рівня, який ще не отримував досвіду від іншого Наставника. Якщо ви здобули найбільше досвіду в загоні, додатково додайте 2 очки умінь до Спільного фонду. "
+TFTV_DRILL_pinpointtoss_NAME,ТОЧНИЙ КИДОК
+TFTV_DRILL_pinpointtoss_DESC,Ручні гранати отримують +50% точності.
+TFTV_DRILL_shockdrop_NAME,ОГЛУШЛИВЕ ПРИЗЕМЛЕННЯ
+TFTV_DRILL_shockdrop_DESC,Після використання реактивного стрибка перша атака ударом/ближнього бою завдає +150 шкоди Оглушення.
+TFTV_DRILL_mightmakesright_NAME,ЗАБІЯКА
+TFTV_DRILL_mightmakesright_DESC,Шкода ближнього бою зростає на +1% за кожні 2 очки Сили.
+TFTV_DRILL_heavyconditioning_NAME,ЗАГАРТУВАННЯ ВАЖКОВАГОВИКА
+TFTV_DRILL_heavyconditioning_DESC,Під час носіння повного комплекту Важкої броні всі штрафи від броні зменшуються вдвічі.
+TFTV_DRILL_aksusprintdrill_NAME,ВИШКІЛ «АКСУ»
+TFTV_DRILL_aksusprintdrill_DESC,Носіння повного комплекту броні «АКСУ» подвоює її бонус до швидкості.
+TFTV_DRILL_onehandedgrip_NAME,ОДНОРУЧНИЙ ХВАТ
+TFTV_DRILL_onehandedgrip_DESC,Дозволяє використовувати дворучну зброю з виведеною з ладу рукою зі штрафом −25% до точності.
+TFTV_DRILL_shockdiscipline_NAME,ДИСЦИПЛІНА ОГЛУШЕННЯ
+TFTV_DRILL_shockdiscipline_DESC,"Стійкість до приголомшення; ефекти, що мали б Оглушити вас, натомість знижують ваші очки дій на 1 наступного ходу."
+TFTV_DRILL_snapbrace_NAME,МИТТЄВИЙ ЩИТ
+TFTV_DRILL_snapbrace_DESC,"Якщо це ваша остання дія, ви можете розгорнути щит менш ніж за 1 очко дій."
+TFTV_DRILL_partingshotpistol_NAME,ПРОЩАЛЬНІ ПОСТРІЛИ
+TFTV_DRILL_partingshotpistol_DESC,"Коли залишається менше 1 очка дій, перетворіть решту руху на 2 постріли з пістолета з низькою точністю."
+TFTV_DRILL_shieldedriposte_NAME,КОНТРУДАР ІЗ ЩИТОМ
+TFTV_DRILL_shieldedriposte_DESC,"Дозволяє вести Відповідний вогонь, поки щит розгорнуто."
+TFTV_DRILL_causticjamming_NAME,ЇДКЕ ГЛУШІННЯ
+TFTV_DRILL_causticjamming_DESC,Отруєні вороги завжди зазнають невдачі під час атак у Полі глушіння.
+TFTV_DRILL_toxiclink_NAME,ОТРУЙНИЙ ЗВ'ЯЗОК
+TFTV_DRILL_toxiclink_DESC,Отруєних ворогів можна піддати психічному контролю на будь-якій відстані.
+TFTV_DRILL_pounceprotocol_NAME,ПРОТОКОЛ СТРИБКА
+TFTV_DRILL_pounceprotocol_DESC,Усі дрони-павуки під контролем Фракції отримують +5 до дальності руху.
+TFTV_DRILL_override_NAME,ПЕРЕХОПЛЕННЯ КЕРУВАННЯ
+TFTV_DRILL_override_DESC,"Зламати ворожі турелі/машини, змусивши їх стріляти, і захопити керування ворожими дронами-павуками."
+TFTV_DRILL_ordnanceresupply_NAME,ПОПОВНЕННЯ БОЄКОМПЛЕКТУ
+TFTV_DRILL_ordnanceresupply_DESC,Миттєво перезаряджає зброю машини.
+TFTV_DRILL_viralpuppeteer_NAME,ВІРУСНИЙ ЛЯЛЬКАР
+TFTV_DRILL_viralpuppeteer_DESC,Заражених вірусом ворогів можна взяти під Контроль розуму або викликати в них Паніку на будь-якій відстані й без прямої видимості.
+TFTV_DRILL_virulentgrip_NAME,ЗАРАЗНА ХВАТКА
+TFTV_DRILL_virulentgrip_DESC,Утримання контролю над зараженими вірусом цілями коштує вдвічі менше (з округленням у більший бік).
+TFTV_DRILL_packloyalty_NAME,ЗГРАЙНА ВІДДАНІСТЬ
+TFTV_DRILL_packloyalty_DESC,Мутоги під захистом Психічного захисту несприйнятливі до Контролю розуму.
+TFTV_DRILL_bullethell_NAME,КУЛЬОВЕ ПЕКЛО
+TFTV_DRILL_bullethell_DESC,"До кінця ходу швидкість персонажа знижується до 0, він не може змінити чи перезарядити зброю, а після виведення з ладу кінцівки за допомогою АВТОМАТА наступна атака коштує на 2 очки дій менше."
+TFTV_DRILL_explosiveshot_NAME,ЩАСЛИВИЙ ПОСТРІЛ
+TFTV_DRILL_explosiveshot_DESC,"Постріл зі СНАЙПЕРСЬКОЇ ГВИНТІВКИ, який, знищивши Вибухову зброю, змушує її вибухнути з подвійною звичайною шкодою та на 50% більшим радіусом ураження. Вибухова зброя підсвічується під час прицілювання по цілі."
+TFTV_TECH7_COMMANDOVERLAY_NAME,КОМАНДНА МЕРЕЖА
+TFTV_TECH7_COMMANDOVERLAY_DESC,Союзники в радіусі 10 клітинок отримують +20% точності й використовують найвище Сприйняття серед них.
+TFTV_DRILL_heavysharpshot_NAME,ВИВІРЕНИЙ ПОСТРІЛ
+TFTV_DRILL_heavysharpshot_DESC,Зробити ретельно прицілений постріл із важкої зброї з +100% точності. Потребує Важкої броні на ноги/біоніки/мутації або Технічної броні на ноги.
+TFTV_DRILL_neurallink_NAME,НЕЙРОННИЙ ЗВ'ЯЗОК
+TFTV_DRILL_neurallink_DESC,"Персонажі під дією Командної мережі отримують Дистанційне керування, що дозволяє керувати дружніми машинами, турелями та дронами."
+TFTV_DRILL_markedwatch_STATUS_NAME,ПОЗНАЧЕНИЙ ДЛЯ СПОСТЕРЕЖЕННЯ
+TFTV_DRILL_markedwatch_STATUS_DESC,Цю ціль хтось позначив для Спостереження.
+TFTV_SUPPRESSION_STATUS_0_NAME,ЛЕГКЕ ПРИГНІЧЕННЯ
+TFTV_SUPPRESSION_STATUS_0_DESC,"Вогонь по вас порушує ваш рух і зосередженість.
+Ефект: −0,5 очка дій наступного ходу."
+TFTV_SUPPRESSION_STATUS_1_NAME,ПОМІРНЕ ПРИГНІЧЕННЯ
+TFTV_SUPPRESSION_STATUS_1_DESC,"Тривалий вогонь ворога змушує вас пригинатися.
+Ефект: −1 очко дій наступного ходу."
+TFTV_SUPPRESSION_STATUS_2_NAME,СИЛЬНЕ ПРИГНІЧЕННЯ
+TFTV_SUPPRESSION_STATUS_2_DESC,"Невпинний обстріл притискає вас до землі, суттєво обмежуючи вашу здатність діяти.
+Ефект: −1,5 очка дій наступного ходу."
+MUTOG_AGILE_LEGS_NAME,СПРИТНІ НОГИ МУТОГА
+MUTOG_REGENERATIVE_LEGS_NAME,РЕГЕНЕРУЮЧІ НОГИ МУТОГА
+TFTV_DRILL_override_MINDCONTROL_STATUS_NAME,ЗЛАМАНО
+TFTV_DRILL_override_MINDCONTROL_STATUS_DESC,Встановлено дистанційне керування.

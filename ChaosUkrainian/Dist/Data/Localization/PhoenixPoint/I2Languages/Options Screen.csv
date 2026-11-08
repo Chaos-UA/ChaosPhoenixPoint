@@ -1,0 +1,117 @@
+Key,Ukrainian
+KEY_AUDIO,АУДІО
+KEY_DIFFICULTY_DIFFICULT,ГЕРОЙ
+KEY_DIFFICULTY_DIFFICULT_DESCRIPTION,"Складніший досвід для гравців, які хочуть серйозного виклику."
+KEY_DIFFICULTY_EASY,НОВАЧОК
+KEY_DIFFICULTY_EASY_DESCRIPTION,"Підходить для гравців, які тільки знайомляться з жанром стратегій."
+KEY_DIFFICULTY_STANDARD,ВЕТЕРАН
+KEY_DIFFICULTY_STANDARD_DESCRIPTION,"Стандартна складність гри для гравців, знайомих із жанром стратегій."
+KEY_DIFFICULTY_VERY_DIFFICULT,ЛЕГЕНДА
+KEY_DIFFICULTY_VERY_DIFFICULT_DESCRIPTION,Найвище випробування ваших стратегічних і тактичних здібностей.
+KEY_MUSIC,МУЗИКА
+KEY_OPTIONS_AMBIENT_OCCLUSION,ЗАТІНЕННЯ ОТОЧЕННЯ
+KEY_OPTIONS_AUTO_EXPOSURE,АВТОМАТИЧНА ЕКСПОЗИЦІЯ
+KEY_OPTIONS_BLOOM,СВІЧЕННЯ
+KEY_OPTIONS_CHOOSE_DISPLAY,ЕКРАН {0}
+KEY_OPTIONS_CHOOSE_MONITOR,ВИБЕРІТЬ МОНІТОР
+KEY_OPTIONS_CHROMATIC_ABERRATION,ХРОМАТИЧНА АБЕРАЦІЯ
+KEY_OPTIONS_COLOR_GRADING,КОЛЬОРОКОРЕКЦІЯ
+KEY_OPTIONS_CONTROLLER_SCHEME,СХЕМА КОНТРОЛЕРА
+KEY_OPTIONS_CUSTOM,КОРИСТУВАЦЬКИЙ
+KEY_OPTIONS_DELETE_DESCRIPTION,Видалити
+KEY_OPTIONS_DELETE_NAME,ВИДАЛИТИ
+KEY_OPTIONS_DEPTH_OF_FIELD,ГЛИБИНА РІЗКОСТІ
+KEY_OPTIONS_DISCLAIMER_STADIA_CONTROLLER,"Між Stadia та виробниками контролерів або консолей, що не належать до Stadia, не передбачається жодного схвалення чи афіліації. STADIA, значок Stadia, Google, а також пов'язані з ними знаки та логотипи є товарними знаками Google LLC. Усі інші товарні знаки є власністю відповідних власників."
+KEY_OPTIONS_ENVIRONMENT_VOLUME,ГУЧНІСТЬ ОТОЧЕННЯ
+KEY_OPTIONS_ERROR_ACHIEVEMENTS_WRITE,Під час запису досягнень сталася помилка.
+KEY_OPTIONS_ERROR_LOAD_LEVEL,Під час завантаження рівня сталася помилка.
+KEY_OPTIONS_ERROR_OPTIONS_LOAD,Під час завантаження параметрів гри сталася помилка.
+KEY_OPTIONS_ERROR_OPTIONS_SAVE,Під час збереження параметрів сталася помилка.
+KEY_OPTIONS_ERROR_OPTIONS_WRITE,Під час запису сталася помилка.
+KEY_OPTIONS_EXIT_DESCRIPTION,Вийти в головне меню
+KEY_OPTIONS_EXIT_NAME,ВИЙТИ В ГОЛОВНЕ МЕНЮ
+KEY_OPTIONS_FREE_CAMERA_DESCRIPTION,Вільна камера
+KEY_OPTIONS_FREE_CAMERA_NAME,ВІЛЬНА КАМЕРА
+KEY_OPTIONS_FULL_SCREEN,БЕЗ РАМОК
+KEY_OPTIONS_FULL_SCREEN_EXCLUSIVE,ПОВНОЕКРАННИЙ
+KEY_OPTIONS_GAMEPAD_DESCRIPTION,Контролер
+KEY_OPTIONS_GAMEPAD_NAME,КОНТРОЛЕР
+KEY_OPTIONS_GAMEPLAY,Ігровий процес
+KEY_OPTIONS_GRAIN,ЗЕРНИСТІСТЬ
+KEY_OPTIONS_GRAPHICS,Графіка
+KEY_OPTIONS_GRAPHIC_DETAILS,Графічні деталі
+KEY_OPTIONS_INTERFACE,Інтерфейс
+KEY_OPTIONS_INTERFACE_VOLUME,ГУЧНІСТЬ ІНТЕРФЕЙСУ
+KEY_OPTIONS_IRONMAN_MODE,РЕЖИМ АЙРОНМЕН
+KEY_OPTIONS_IRONMAN_MODE_GAME,"РЕЖИМ АЙРОНМЕН, СПРОБА {0}"
+KEY_OPTIONS_KEYBOARD_BINDINGS,ПРИВ'ЯЗКА КЛАВІШ
+KEY_OPTIONS_LANGUAGE,МОВА
+KEY_OPTIONS_LENS_DISTORTION,СПОТВОРЕННЯ ОБ'ЄКТИВА
+KEY_OPTIONS_LOAD_DESCRIPTION,Завантажити
+KEY_OPTIONS_LOAD_GAME_DESCRIPTION,Завантажити гру
+KEY_OPTIONS_LOAD_GAME_NAME,ЗАВАНТАЖИТИ ГРУ
+KEY_OPTIONS_LOAD_NAME,ЗАВАНТАЖИТИ
+KEY_OPTIONS_LOAD_NEW_GAME,"Весь незбережений прогрес гри буде втрачено. Ви впевнені, що хочете завантажити це збереження?"
+KEY_OPTIONS_MASTER_VOLUME,ЗАГАЛЬНА ГУЧНІСТЬ
+KEY_OPTIONS_MOTION_BLUR,РОЗМИТТЯ В РУСІ
+KEY_OPTIONS_MUSIC_VOLUME,ГУЧНІСТЬ МУЗИКИ
+KEY_OPTIONS_NAME_NEW_SAVE,"Будь ласка, введіть назву цього збереження."
+KEY_OPTIONS_OPTIONS_DESCRIPTION,Параметри
+KEY_OPTIONS_OPTIONS_NAME,ПАРАМЕТРИ
+KEY_OPTIONS_OVERWRITE_DESCRIPTION,Перезаписати
+KEY_OPTIONS_OVERWRITE_NAME,ПЕРЕЗАПИСАТИ
+KEY_OPTIONS_PARTICLE_QUALITY,ЯКІСТЬ ЧАСТИНОК
+KEY_OPTIONS_PRESET,ПРЕСЕТ
+KEY_OPTIONS_QUALITY_HIGH,ВИСОКА
+KEY_OPTIONS_QUALITY_LOW,НИЗЬКА
+KEY_OPTIONS_QUALITY_MEDIUM,СЕРЕДНЯ
+KEY_OPTIONS_QUALITY_ULTRA,УЛЬТРА
+KEY_OPTIONS_QUALITY_VERY_HIGH,ДУЖЕ ВИСОКА
+KEY_OPTIONS_QUALITY_VERY_LOW,ДУЖЕ НИЗЬКА
+KEY_OPTIONS_QUIT_CONFIRM,Весь незбережений прогрес гри буде втрачено. Ви впевнені?
+KEY_OPTIONS_QUIT_DESCRIPTION,Вийти з гри
+KEY_OPTIONS_QUIT_NAME,ВИЙТИ З ГРИ
+KEY_OPTIONS_RESOLUTION,РОЗДІЛЬНА ЗДАТНІСТЬ
+KEY_OPTIONS_RESTORE,ВІДНОВИТИ ЗА ЗАМОВЧУВАННЯМ
+KEY_OPTIONS_RESUME_DESCRIPTION,Повернутися до гри
+KEY_OPTIONS_RESUME_NAME,ПОВЕРНУТИСЯ ДО ГРИ
+KEY_OPTIONS_SAVE_DELETE,"Ви впевнені, що хочете видалити це збереження? Весь прогрес у ньому буде втрачено."
+KEY_OPTIONS_SAVE_DESCRIPTION,Зберегти
+KEY_OPTIONS_SAVE_ERROR_AUTOSAVE,"Під час автозбереження сталася помилка! Перейдіть на сторінку https://phoenixpoint.info/support і дотримуйтеся інструкцій, щоб виправити проблему."
+KEY_OPTIONS_SAVE_ERROR_DELETE,Під час видалення сталася помилка! Збережену гру не було коректно видалено.
+KEY_OPTIONS_SAVE_ERROR_OVERWRITE,"Під час перезапису файлу збереження сталася помилка! Переконайтеся, що на вашому пристрої достатньо вільної пам'яті."
+KEY_OPTIONS_SAVE_ERROR_QUICKSAVE,"Під час швидкого збереження сталася помилка! Переконайтеся, що на вашому пристрої достатньо вільної пам'яті."
+KEY_OPTIONS_SAVE_ERROR_RESTART,"Під час ініціалізації місії сталася помилка! Перезапуск місії неможливий. Переконайтеся, що на вашому пристрої достатньо вільної пам'яті."
+KEY_OPTIONS_SAVE_ERROR_SAVEGAME,"Під час збереження сталася помилка! Переконайтеся, що на вашому пристрої достатньо вільної пам'яті."
+KEY_OPTIONS_SAVE_ERROR_SAVESPACE,"Сталася помилка! Переконайтеся, що на вашому диску достатньо вільного місця."
+KEY_OPTIONS_SAVE_GAME_DESCRIPTION,Зберегти гру
+KEY_OPTIONS_SAVE_GAME_NAME,НОВЕ ЗБЕРЕЖЕННЯ
+KEY_OPTIONS_SAVE_NAME,ЗБЕРЕГТИ
+KEY_OPTIONS_SAVE_OVERWRITE,"Ви впевнені, що хочете перезаписати це збереження? Весь прогрес у ньому буде замінено вашим поточним прогресом."
+KEY_OPTIONS_SCREEN_MODE,РЕЖИМ ЕКРАНА
+KEY_OPTIONS_SCREEN_SPACE_REFLECTION,ВІДБИТТЯ В ЕКРАННОМУ ПРОСТОРІ
+KEY_OPTIONS_SETTINGS_APPLY,Налаштування набудуть чинності після перезапуску гри.
+KEY_OPTIONS_SFX_VOLUME,ГУЧНІСТЬ ЕФЕКТІВ
+KEY_OPTIONS_SHADER_QUALITY,ЯКІСТЬ ШЕЙДЕРІВ
+KEY_OPTIONS_SHADOWS,ТІНІ
+KEY_OPTIONS_SHADOW_DISTANCE,ДАЛЬНІСТЬ ТІНЕЙ
+KEY_OPTIONS_SHADOW_QUALITY,ЯКІСТЬ ТІНЕЙ
+KEY_OPTIONS_SHOW_BINDINGS,ПОКАЗАТИ ПРИВ'ЯЗКУ
+KEY_OPTIONS_SHOW_SCHEME,ПОКАЗАТИ СХЕМУ
+KEY_OPTIONS_SOUND_ENABLED,ЗВУК УВІМКНЕНО
+KEY_OPTIONS_SUBTITLES,СУБТИТРИ
+KEY_OPTIONS_SUBTITLES_OFF,ВИМК.
+KEY_OPTIONS_SUBTITLES_ON,УВІМК.
+KEY_OPTIONS_TEXTURE_QUALITY,ЯКІСТЬ ТЕКСТУР
+KEY_OPTIONS_USE_CONTROLLER,ВИКОРИСТОВУВАТИ КОНТРОЛЕР
+KEY_OPTIONS_VERTICAL_SYNC,ВЕРТИКАЛЬНА СИНХРОНІЗАЦІЯ
+KEY_OPTIONS_VIDEO,ВІДЕО
+KEY_OPTIONS_VIGNETTE,ВІНЬЄТКА
+KEY_OPTIONS_VSYNC_DESCRIPTION,Вертикальна синхронізація
+KEY_OPTIONS_VSYNC_NAME,ВЕРТИКАЛЬНА СИНХРОНІЗАЦІЯ
+KEY_OPTIONS_WINDOW,ВІКНО
+KEY_QUIT,ВИЙТИ
+KEY_RESTART,ПЕРЕЗАПУСТИТИ
+KEY_SELECT_DIFFICULTY,ВИБРАТИ СКЛАДНІСТЬ
+KEY_SELECT_TUTORIAL,ГРАТИ ПРОЛОГ І НАВЧАННЯ
+KEY_SOUND_FX,ЗВУКОВІ ЕФЕКТИ

@@ -1,0 +1,24 @@
+{
+  "ID": "com.chaos.umbra",
+  "AssemblyName": "ChaosUmbraBalance.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "Chaos-UA-"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "Chaos Umbra Balance"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "Remove actions on first turn after Umbra spawn or optionally disable Umbra spawn"
+    }
+  ],
+  "Dependencies": []
+}

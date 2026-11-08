@@ -1,0 +1,57 @@
+Key,Ukrainian
+KEY_ABILITY_CONFIRMATION_COST,ВАРТІСТЬ
+KEY_ACTIVATE_OBJECTIVE_PROMPT,Активувати ціль?
+KEY_ENTER_VEHICLE_PROMPT,Сісти в машину?
+KEY_EXIT_MISSION_PROMPT,Евакуюватися?
+KEY_ITEM_STAT_HEAL,ЛІКУВАТИ
+KEY_ITEM_STAT_HEAL_TOOLTIP,"Очки здоров'я, відновлені вибраному солдату"
+KEY_ITEM_STAT_ROUND_BURST_TOOLTIP,Робить чергу з кількох пострілів за одну атаку
+KEY_ITEM_STAT_SINGLE_SHOT_TOOLTIP,Робить один постріл за одну атаку
+KEY_MUTOG_EDIT,РЕДАГУВАТИ МУТОГА
+KEY_MUTOG_SCRAP,ЗІБРАТИ МУТОГА
+KEY_OPTIONS_DETAILED_TACTICAL_INFO,ПОКАЗУВАТИ ДЕТАЛЬНУ ІНФОРМАЦІЮ ПРО СПОРЯДЖЕННЯ В БОЮ
+KEY_OWNED_AIRCRAFTS,ВЛАСНІ ЛІТАКИ
+KEY_ROSTER_BIRTH_DATE,ДАТА НАРОДЖЕННЯ
+KEY_ROSTER_DEATH_ACID_BURNED,КИСЛОТА
+KEY_ROSTER_DEATH_BLED_OUT,КРОВОТЕЧА
+KEY_ROSTER_DEATH_DATE,ДАТА СМЕРТІ
+KEY_ROSTER_DEATH_FELL,ПАДІННЯ
+KEY_ROSTER_DEATH_FRIENDLY_FIRE,ВОГОНЬ ПО СВОЇХ
+KEY_ROSTER_DEATH_GEOSCAPE_EVENT,НЕЩАСНИЙ ВИПАДОК
+KEY_ROSTER_DEATH_IMMOLATED,ВОГОНЬ
+KEY_ROSTER_DEATH_MIND_CONTROLLED,КОНТРОЛЬ РОЗУМУ
+KEY_ROSTER_DEATH_POISONED,ОТРУТА
+KEY_ROSTER_DEATH_REASON,ПРИЧИНА СМЕРТІ
+KEY_ROSTER_DEATH_STARVED,ГОЛОД
+KEY_ROSTER_FAVOURITE_WEAPONS,УЛЮБЛЕНЕ СПОРЯДЖЕННЯ
+KEY_ROSTER_ITEM_SLOT_EMPTY,ПОРОЖНЬО
+KEY_ROSTER_MEMORIAL,МЕМОРІАЛ
+KEY_ROSTER_MEMORIAL_RECORD,ЗАПИС МЕМОРІАЛУ
+KEY_ROSTER_MEMORIAL_TAB_DESCRIPTION,"Товариші, що загинули при виконанні обов'язку"
+KEY_ROSTER_MOST_SKILLS_USED,НАЙЧАСТІШЕ ВИКОРИСТОВУВАНІ НАВИЧКИ
+KEY_ROSTER_NUMBER_OF_MISSIONS,КІЛЬКІСТЬ МІСІЙ
+KEY_ROSTER_ORIGINAL_FACTION,ПОЧАТКОВА ФРАКЦІЯ
+KEY_ROSTER_READY_ITEMS,ГОТОВІ ПРЕДМЕТИ
+KEY_ROSTER_SERIVCE_END,КІНЕЦЬ СЛУЖБИ
+KEY_ROSTER_SERVICE_RECORD,ПОСЛУЖНИЙ СПИСОК
+KEY_ROSTER_SERVICE_START,ПОЧАТОК СЛУЖБИ
+KEY_ROSTER_STATISTICS,ХАРАКТЕРИСТИКИ
+KEY_ROSTER_STAT_STEALTH,СКРИТНІСТЬ
+KEY_ROSTER_TIMES_WOUNDED,КІЛЬКІСТЬ ПОРАНЕНЬ
+KEY_ROSTER_TOP_KILLED_ENEMIES,КІЛЬКІСТЬ ВБИТИХ ВОРОГІВ
+KEY_ROSTER_TOTAL_KILLS,ВСЬОГО ВБИТО
+KEY_SCRAP_MATERIALS,"<size=55><color=#FFA268>[materials]  {0}</color></size>  "
+KEY_SCRAP_MUTAGEN,"<size=55><color=#CF3BFF>[mutagen] {0}</color></size>  "
+KEY_SCRAP_SUPPLIES,"<size=55><color=#42FF1D>[food] {0}</color></size>  "
+KEY_SCRAP_TECH,"<size=55><color=#1DA4FA>[tech] {0}</color></size>  "
+KEY_SCRAP_TEXT,Ви отримаєте:
+KEY_SOLDIER_AP,ОД
+KEY_SOLDIER_DISMISS,ВІДПУСТИТИ
+KEY_SOLDIER_EDIT,РЕДАГУВАТИ ОДИНИЦЮ
+KEY_SOLDIER_HP,ОЗ
+KEY_SOLDIER_STATUSES,СТАТУСИ
+KEY_VEHICLE_EDIT,РЕДАГУВАТИ МАШИНУ
+KEY_VEHICLE_SCRAP,УТИЛІЗУВАТИ МАШИНУ
+KEY_WEAPON_SELECTION_AMMO_TOOLTIP,Залишок патронів у зброї
+KEY_WEAPON_SELECTION_MAGAZINE,МАГАЗИНИ
+KEY_WEAPON_SELECTION_MAGAZINE_TOOLTIP,Кількість магазинів з собою

@@ -1,0 +1,89 @@
+Key,Ukrainian
+KEY_BASE_AIRCRAFT,ПОВІТРЯНІ СУДНА НА БАЗІ
+KEY_BASE_AUTO_ASSIGN,АВТОМАТИЧНО РОЗПОДІЛИТИ КОРИСТУВАЧІВ
+KEY_BASE_BUILD_FACILITY,БУДУВАТИ
+KEY_BASE_BUILD_TUNNEL,ПОБУДУВАТИ ТУНЕЛЬ
+KEY_BASE_CLASSIFIED,ЗАСЕКРЕЧЕНО! ПОТРІБЕН НАЙВИЩИЙ РІВЕНЬ ДОСТУПУ!
+KEY_BASE_CONSTRUCTION_REQUIREMENTS,ВИМОГИ ДО БУДІВНИЦТВА
+KEY_BASE_CURRENT_BASE_DESCRIPTION,ПОТОЧНА БАЗА
+KEY_BASE_CURRENT_BASE_NAME,ПОТОЧНА БАЗА
+KEY_BASE_DEMOLISH_FACILITY,<color=red>ЗНЕСТИ</color> {0}
+KEY_BASE_DEMOLISH_NAME,ЗНЕСТИ
+KEY_BASE_DEMOLISH_TT,Знести обрану споруду. 50% витрачених на неї ресурсів буде повернено.
+KEY_BASE_DESTROY_CONFIRMATION,"Ви впевнені, що хочете знести цей об'єкт?"
+KEY_BASE_FACILITY_ACCESS_LIFT_DESCRIPTION,"Точка висадки для оборонних завдань і шлях до відступу, якщо справи підуть погано."
+KEY_BASE_FACILITY_ACCESS_LIFT_NAME,ЛІФТ ДОСТУПУ
+KEY_BASE_FACILITY_CONTAINMENT_DESCRIPTION,"Тут можна утримувати живих пандоранів. Великі істоти займають більше місця, а простір розподіляється між усіма об'єктами. Цей об'єкт має 50 одиниць площі для утримання."
+KEY_BASE_FACILITY_CONTAINMENT_NAME,ІЗОЛЯТОР
+KEY_BASE_FACILITY_ENTRANCE_DESCRIPTION,Головний вхід до комплексу бази.
+KEY_BASE_FACILITY_ENTRANCE_NAME,ВХІД
+KEY_BASE_FACILITY_FABRICATION_PLANT_DESCRIPTION,"Заводський об'єкт, що виробляє зброю, броню, спорядження та машини."
+KEY_BASE_FACILITY_FABRICATION_PLANT_NAME,ЗАВОД
+KEY_BASE_FACILITY_FOOD_PRODUCTION_DESCRIPTION,"Об'єкт з виробництва їжі, що щодня забезпечує харчуванням 8 солдатів."
+KEY_BASE_FACILITY_FOOD_PRODUCTION_NAME,ВИРОБНИЦТВО ЇЖІ
+KEY_BASE_FACILITY_GENERATOR_DESCRIPTION,"Об'єкт з вироблення енергії, необхідний для роботи багатьох інших об'єктів."
+KEY_BASE_FACILITY_GENERATOR_NAME,ЕЛЕКТРОГЕНЕРАТОР
+KEY_BASE_FACILITY_LAB_DESCRIPTION,"Об'єкт під керуванням ШІ, призначений для всіх дослідницьких проєктів."
+KEY_BASE_FACILITY_LAB_NAME,ДОСЛІДНИЦЬКА ЛАБОРАТОРІЯ
+KEY_BASE_FACILITY_MEDBAY_DESCRIPTION,"Усі солдати на базі (навіть якщо призначені на повітряне судно) відновлюють 4 Очки здоров'я на годину за кожен медичний об'єкт на базі."
+KEY_BASE_FACILITY_MEDBAY_NAME,МЕДПУНКТ
+KEY_BASE_FACILITY_MUTATION_LAB_DESCRIPTION,"Дозволяє мутувати солдатів і виробляє мутагени — сировину для мутацій."
+KEY_BASE_FACILITY_MUTATION_LAB_NAME,ЛАБОРАТОРІЯ МУТАЦІЙ
+KEY_BASE_FACILITY_QUARTERS_DESCRIPTION,"Усі солдати на базі (навіть якщо призначені на повітряне судно) відновлюють 2 очки витривалості на годину за кожні житлові приміщення на базі."
+KEY_BASE_FACILITY_QUARTERS_NAME,ЖИТЛОВІ ПРИМІЩЕННЯ
+KEY_BASE_FACILITY_REPELLER_DESCRIPTION,Туман поступово відступатиме від території бази.
+KEY_BASE_FACILITY_REPELLER_NAME,ПРОТИТУМАННИЙ КОМПЛЕКС
+KEY_BASE_FACILITY_SATELLITE_UPLINK_DESCRIPTION,"Сканує територію навколо бази, виявляючи цікаві точки. Колонії пандоранів, що атакують притулки в межах радіуса сканування, будуть миттєво виявлені."
+KEY_BASE_FACILITY_SATELLITE_UPLINK_NAME,СУПУТНИКОВИЙ КОМПЛЕКС
+KEY_BASE_FACILITY_SECURITY_DESCRIPTION,"Об'єкт спостереження, що завчасно попереджає про ворожі атаки та допомагає захищати базу."
+KEY_BASE_FACILITY_SECURITY_NAME,ПОСТ ОХОРОНИ
+KEY_BASE_FACILITY_STORE_DESCRIPTION,"Складське приміщення для всієї зброї, боєприпасів, спорядження та броні. Місткість складу розподіляється між усіма базами."
+KEY_BASE_FACILITY_STORE_NAME,СКЛАД
+KEY_BASE_FACILITY_TRAINING_FACILITY_DESCRIPTION,"Усі солдати на базі (навіть якщо призначені на повітряне судно) отримують 2 очки досвіду на годину за кожен тренувальний об'єкт на базі."
+KEY_BASE_FACILITY_TRAINING_FACILITY_NAME,ЦЕНТР ПІДГОТОВКИ
+KEY_BASE_FACILITY_TUNNEL_DESCRIPTION,"З'єднувальний тунель, що поєднує сусідні тунелі або об'єкти"
+KEY_BASE_FACILITY_TUNNEL_NAME,ТУНЕЛЬ
+KEY_BASE_FACILITY_VEHICLE_BAY_DESCRIPTION,Машини та повітряні судна на базі відновлюють 20 Очок здоров'я на годину. Дозволяє обслуговувати 2 наземні машини та 2 повітряні судна.
+KEY_BASE_FACILITY_VEHICLE_BAY_NAME,АНГАР
+KEY_BASE_GLOBAL_BASE_INFO,ЗАГАЛЬНА ІНФОРМАЦІЯ ПРО БАЗИ
+KEY_BASE_MANAGE_FACILITY,КЕРУВАТИ ОБ'ЄКТОМ
+KEY_BASE_OPERATION_REQUIREMENTS,ВИМОГИ ДО РОБОТИ
+KEY_BASE_PERSONNEL,ПЕРСОНАЛ НА БАЗІ
+KEY_BASE_PERSONNEL_GLOBAL,ПЕРСОНАЛ
+KEY_BASE_POWER_CONSUMPTION,СПОЖИВАННЯ ЕНЕРГІЇ
+KEY_BASE_POWER_OFF,ВИМКНУТИ ЖИВЛЕННЯ
+KEY_BASE_POWER_ON,УВІМКНУТИ ЖИВЛЕННЯ
+KEY_BASE_PRODUCTION_QUEUE,ЧЕРГА ВИРОБНИЦТВА
+KEY_BASE_REPAIR_FACILITY,ВІДРЕМОНТУВАТИ ОБ'ЄКТ
+KEY_BASE_RESEARCH_QUEUE,ЧЕРГА ДОСЛІДЖЕНЬ
+KEY_BASE_SELECT_BASE,ОБРАТИ ІНШУ БАЗУ
+KEY_BASE_STORES,СКЛАДИ
+KEY_BASE_SWITCH_OFF,"НАТИСНІТЬ, ЩОБ ВИМКНУТИ"
+KEY_BASE_SWITCH_ON,"НАТИСНІТЬ, ЩОБ УВІМКНУТИ"
+KEY_BASE_UNDER_CONSTRCUTION,ТРИВАЄ БУДІВНИЦТВО
+KEY_BASE_UNDER_REPAIR,ТРИВАЄ РЕМОНТ
+KEY_BASE_USERS,ПРИЗНАЧЕНІ КОРИСТУВАЧІ
+KEY_BASE_VEHICLES,МАШИНИ НА БАЗІ
+KEY_BASE_WARNING_ACCESS_LIFT,"Знищення ліфта доступу позбавить вас можливості втекти під час нападу ворога на базу. Ви впевнені, що хочете продовжити?"
+KEY_BASE_WARNING_ALIEN_CONTAINMENT,"Знищення ізолятора зменшить кількість наявних місць утримання. Усі захоплені пандорани, для яких не вистачить місця, будуть знищені. Ви впевнені, що хочете продовжити?"
+KEY_BASE_WARNING_ENERGY_GENERATOR,"Знищення електрогенератора зменшить вироблення енергії на вашій базі, що може вплинути на інші об'єкти. Ви впевнені, що хочете продовжити?"
+KEY_BASE_WARNING_FABRICATION_PLANT,"Знищення заводу зменшить кількість вироблених очок виробництва. Для виготовлення предметів потрібен щонайменше один завод. Ви впевнені, що хочете продовжити?"
+KEY_BASE_WARNING_LIVING_QUARTERS,"Знищення житлових приміщень зменшить наявний простір для персоналу. Ви впевнені, що хочете продовжити?"
+KEY_BASE_WARNING_MEDICAL_BAY,"Знищення медпункту сповільнить одужання поранених солдатів на базі. Для лікування солдатів потрібен щонайменше один медпункт. Ви впевнені, що хочете продовжити?"
+KEY_BASE_WARNING_MIST_REPELLER,"Знищення протитуманного комплексу дозволить туману знову формуватися навколо вашої бази. Ви впевнені, що хочете продовжити?"
+KEY_BASE_WARNING_MUTATION_LAB,"Знищення лабораторії мутацій зменшить кількість мутагенів, які ви виробляєте щодня. Для покращення солдатів потрібна щонайменше одна лабораторія мутацій. Ви впевнені, що хочете продовжити?"
+KEY_BASE_WARNING_RESEARCH_LAB,"Знищення дослідницької лабораторії зменшить кількість вироблених очок досліджень. Для завершення дослідницького проєкту потрібна щонайменше одна дослідницька лабораторія. Ви впевнені, що хочете продовжити?"
+KEY_BASE_WARNING_SATELLITE_UPLINK,"Знищення супутникового комплексу зменшить кількість одночасних сканувань території, які ви можете виконувати. Ви впевнені, що хочете продовжити?"
+KEY_BASE_WARNING_STORES,"Знищення складів зменшить наявний обсяг місця для зберігання. Через це надлишкові предмети буде втрачено. Ви впевнені, що хочете продовжити?"
+KEY_BASE_WARNING_TRAINING_FACILITY,"Знищення центру підготовки зменшить кількість досвіду, який отримують ваші солдати на базі. Щоб солдати отримували досвід, потрібен щонайменше один центр підготовки. Ви впевнені, що хочете продовжити?"
+KEY_BASE_WORKERS,ПРИЗНАЧЕНІ РОБІТНИКИ
+KEY_GEOSCAPE_AIRCRAFTS,ПОВІТРЯНЕ СУДНО ФЕНІКСА
+KEY_GEOSCAPE_AI_ASSIGN,ПРИЗНАЧИТИ ШІ
+KEY_GEOSCAPE_AI_CORE,ЯДРО ШІ
+KEY_GEOSCAPE_AI_CORE_LEVEL,РІВЕНЬ ЯДРА ШІ
+KEY_GEOSCAPE_AI_UNASSIGN,СКАСУВАТИ ПРИЗНАЧЕННЯ ШІ
+KEY_GEOSCAPE_APPLY,ЗАСТОСУВАТИ
+KEY_GEOSCAPE_ASSIGNED_AI_LEVEL,ПРИЗНАЧЕНИЙ РІВЕНЬ ШІ
+KEY_GEOSCAPE_AVAILABLE,ДОСТУПНО
+KEY_GEOSCAPE_BASES,БАЗИ ФЕНІКСА
+KEY_GEOSCAPE_BUILD_SELECT,ОБЕРІТЬ ОБ'ЄКТ ДЛЯ БУДІВНИЦТВА

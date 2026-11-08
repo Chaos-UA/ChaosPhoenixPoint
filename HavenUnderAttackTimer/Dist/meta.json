@@ -1,0 +1,24 @@
+{
+  "ID": "com.chaos.HavenUnderAtackTimer",
+  "AssemblyName": "HavenUnderAttackTimer.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "Chaos-UA-"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "Chaos Haven Under Attack Timer"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "Display approximate remaining mission timer for haven under attack to initiate defense mission"
+    }
+  ],
+  "Dependencies": []
+}

@@ -1,0 +1,351 @@
+Key,Ukrainian
+KEY_ACHERON_ARM_DESCRIPTION_TEMP,"Гуманоїдна рука, яка дозволяє ахерону випускати біологічні речовини по цілях."
+KEY_ALIEN_RESEARCH_DIPLOMACY_CHANGE,"Зміна ставлення через притулки, що потрапляють у радіус впливу виявлених баз пандоранів:"
+KEY_ALN_ACHERON_DESCRIPTION,Ахерон
+KEY_ALN_ACHERON_NAME,АХЕРОН
+KEY_BASE_RECRUITS_BUY_MUTOID_NOTIFICATION,{0} {1} створено та відправлено до {2}
+KEY_BASE_RECRUITS_TRAIN_ACTION,СТВОРИТИ
+KEY_BASE_RECRUITS_TRAIN_MUTOID_CONFIRMATION,"Ви впевнені, що хочете створити цього мутоїда для {0}?"
+KEY_BLINDNESS_CLOUD_DESCRIPTION,Знижує сприйняття органічних ворожих цілей у радіусі 10 клітинок на 75% протягом 1 ходу.
+KEY_BLINDNESS_CLOUD_NAME,ХМАРА СЛІПОТИ
+KEY_BRIEFING_INFECTED_AREA,УРАЖЕНА СКВЕРНОЮ ЗОНА
+KEY_BUY_MUTOID_MUTOID_DESCRIPTION,"Народжені завдяки науці, мутоїди — це штучні гуманоїди, створені в лабораторії за допомогою мутагенів. У поєднанні з людською ДНК вони здатні опановувати навички досвідчених солдатів і навіть розтятих пандоранів."
+KEY_BUY_MUTOID_SPECIALIZATION_HEADING,ОБЕРІТЬ СПЕЦІАЛІЗАЦІЮ МУТОЇДА
+KEY_CALL_REINFORCEMENTS_DESCRIPTION,Миттєво закликати групу підкріплення.
+KEY_CALL_REINFORCEMENTS_NAME,ЗАКЛИКАТИ ПІДКРІПЛЕННЯ
+KEY_CANCEL_HACKING_DESCRIPTION,Припинити злам і підготувати зброю. Перервані спроби зламу доведеться почати заново.
+KEY_CANCEL_HACKING_NAME,СКАСУВАТИ ЗЛАМ
+KEY_CH_FOUR_SCENE_1_1,Нарешті все скінчилося.
+KEY_CH_FOUR_SCENE_1_2,"Пробившись крізь лігво з боєм, ми знайшли розплідник,"
+KEY_CH_FOUR_SCENE_1_3,"який заразив перший ахерон, і здобули чистий зразок штаму скверни."
+KEY_CH_FOUR_SCENE_2_1,Це було нелегко. Обчислювальні потужності всього Проєкту «Фенікс»
+KEY_CH_FOUR_SCENE_2_2,"були кинуті на аналіз штаму заради пошуку ліків, і нам це вдалося."
+KEY_CH_FOUR_SCENE_3_1,"Розпочався процес щеплення — спершу для наших військ, потім для союзників,"
+KEY_CH_FOUR_SCENE_3_2,"і зрештою для кожного, хто цього забажав."
+KEY_CH_FOUR_SCENE_4_1,"Наші літаки облетіли всю планету,"
+KEY_CH_FOUR_SCENE_4_2,"розпорошуючи потужні противірусні розчини над трупами й полями битв,"
+KEY_CH_FOUR_SCENE_4_3,"щоб знищити останні сліди скверни, поки від неї нічого не залишилося."
+KEY_CH_FOUR_SCENE_5_1,"Тепер, задовго після втечі першої особини ахерона з"
+KEY_CH_FOUR_SCENE_5_2,"невідомого дослідницького об'єкта, цей жах позаду."
+KEY_CH_FOUR_SCENE_5_3,"Людство виграло цю битву, але велика війна триває…"
+KEY_CH_ONE_SCENE_1_1,Агов? Є хтось?
+KEY_CH_ONE_SCENE_1_2,Це станція сигма-сім-один. Нам потрібна негайна евакуація.
+KEY_CH_ONE_SCENE_1_3,Повторюю. Нам потрібна негайна евакуація.
+KEY_CH_ONE_SCENE_2_1,Об'єкт скомпрометовано.
+KEY_CH_ONE_SCENE_2_2,Особина два втекла з камери утримання й тепер блукає лабораторією!
+KEY_CH_ONE_SCENE_3_1,Ви маєте вивезти нас звідси й знищити весь об'єкт!
+KEY_CH_ONE_SCENE_3_2,Не можна дати особині вирватися на волю! Якщо це станеться—
+KEY_CH_ONE_SCENE_4_1,Вона вивільнила варіант штаму!
+KEY_CH_ONE_SCENE_4_2,Я запускаю процедуру самознищення!
+KEY_CH_ONE_SCENE_4_3,Штам не повинен… не…
+KEY_CH_THREE_SCENE_1_1,Внутрішній звіт сім-сім-тире-один.
+KEY_CH_THREE_SCENE_1_2,Технологію мутоїдів успішно інтегровано в наявні об'єкти «Фенікса».
+KEY_CH_THREE_SCENE_1_3,Після десятків спроб ми нарешті досягли успіху.
+KEY_CH_THREE_SCENE_1_4,Ми створили перших штучно вирощених солдатів.
+KEY_CH_THREE_SCENE_2_1,"Ці екземпляри називають мутоїдами через величезну кількість мутагенів, потрібних для їх створення."
+KEY_CH_THREE_SCENE_2_2,"Гуманоїдні за формою, вони здатні опановувати будь-яку навичку, якої їх навчають, і доводити її до досконалості."
+KEY_CH_THREE_SCENE_3_1,"Додаткові експерименти показали, що вони також здатні"
+KEY_CH_THREE_SCENE_3_2,"опановувати навички пандоранів, чию ДНК ми в них вводили."
+KEY_CH_THREE_SCENE_4_1,"Дехто може вважати їх мерзотою чи продуктом сумнівної моралі,"
+KEY_CH_THREE_SCENE_4_2,"але вони можуть стати нашим порятунком: новою породою солдатів,"
+KEY_CH_THREE_SCENE_4_3,"імунних до штаму скверни, з навичками як людей, так і пандоранів,"
+KEY_CH_THREE_SCENE_4_4,створених повністю з мутагенів.
+KEY_CH_TWO_SCENE_1_1,"Phoenix Point, це дослідницька команда один. Територія безпечна."
+KEY_CH_TWO_SCENE_1_2,Ворогів не видно.
+KEY_CH_TWO_SCENE_1_3,"Ми прямуємо до об'єкта, звідки з'явилася ця істота."
+KEY_CH_TWO_SCENE_1_4,Чекайте прямої трансляції.
+KEY_CH_TWO_SCENE_2_1,"Гадки не маємо, кому належить це місце, але в них серйозні технології."
+KEY_CH_TWO_SCENE_2_2,"Ми бачимо багато тіл, і не всі вони людські."
+KEY_CH_TWO_SCENE_2_3,"Хай що це було, воно вирвалося звідси."
+KEY_CH_TWO_SCENE_3_1,Схоже на генетичні дослідження.
+KEY_CH_TWO_SCENE_3_2,"Хай що вони намагалися створити, воно не хотіло, щоб його тримали тут."
+KEY_CH_TWO_SCENE_3_3,"От чорт, яке ж воно потворне! Просуваємося далі."
+KEY_CH_TWO_SCENE_3_4,Бачу тут ще більше технологій. Схоже на… Творцю всемогутній!
+KEY_CH_TWO_SCENE_4_1,"Phoenix Point, ми знайшли дещо, що вам варто побачити."
+KEY_CH_TWO_SCENE_4_2,"Підготуйте лабораторію, ми привеземо технології на базу."
+KEY_CINEMATIC_BT_CUTSCENE_1,(BT) Відлуння минулого
+KEY_CINEMATIC_BT_CUTSCENE_2,(BT) Покинутий ворог
+KEY_CINEMATIC_BT_CUTSCENE_3,(BT) Таємний союз
+KEY_CINEMATIC_BT_CUTSCENE_4,(BT) Виклик
+KEY_CINEMATIC_BT_CUTSCENE_5,(BT) Останній акт
+KEY_CINEMATIC_DA_ENDING_CUTSCENE,Світ Возвеличеної
+KEY_CINEMATIC_DA_INTRO_CUTSCENE,Послідовники Ану
+KEY_CINEMATIC_FS_CUTSCENE1DEF,(FS) Комета проклятих
+KEY_CINEMATIC_FS_CUTSCENE2DEF,(FS) Дар: прибуття
+KEY_CINEMATIC_FS_CUTSCENE2ENDDEF,(FS) Дар: прощання
+KEY_CINEMATIC_FS_CUTSCENE3DEF,(FS) Гниючі небеса
+KEY_CINEMATIC_FS_CUTSCENE4DEF,(FS) Бегемот
+KEY_CINEMATIC_FS_CUTSCENE5DEF,(FS) Гігантський тріумф
+KEY_CINEMATIC_GAME_INTRO_CUTSCENE,Найспекотніший рік
+KEY_CINEMATIC_HYPNOS_CUTSCENE1DEF,(CH) Прорив скверни
+KEY_CINEMATIC_HYPNOS_CUTSCENE2DEF,(CH) Генетична етика
+KEY_CINEMATIC_HYPNOS_CUTSCENE3DEF,(CH) Солдати у флаконах
+KEY_CINEMATIC_HYPNOS_CUTSCENE4DEF,(CH) Ліки
+KEY_CINEMATIC_LOA_CUTSCENE_0,(LoA) Гелена
+KEY_CINEMATIC_LOA_CUTSCENE_1,(LoA) Допотопний зв'язок
+KEY_CINEMATIC_LOA_CUTSCENE_2,(LoA) Кузня адамантію
+KEY_CINEMATIC_LOA_CUTSCENE_3,(LoA) Випари життя
+KEY_CINEMATIC_LOA_CUTSCENE_4,(LoA) Кришталеві поля
+KEY_CINEMATIC_LOA_CUTSCENE_5,(LoA) Рішення древніх
+KEY_CINEMATIC_NJ_ENDING_CUTSCENE,Світ Тобаяса Веста
+KEY_CINEMATIC_NJ_INTRO_CUTSCENE,Новий Єрихон
+KEY_CINEMATIC_PP_ENDING_CUTSCENE,Світ Фенікса
+KEY_CINEMATIC_PP_ENDING_PALACE_DEFEAT_CUTSCENE,Падіння людства
+KEY_CINEMATIC_PP_INTRO_CUTSCENE,Ініціатива «Фенікс»
+KEY_CINEMATIC_PP_SYMES_ANTARCTIC_CUTSCENE,Антарктична місія
+KEY_CINEMATIC_PP_SYMES_CHINESESINKHOLE_CUTSCENE,Китайський провал
+KEY_CINEMATIC_PP_SYMES_CRYOLAB_CUTSCENE,Кріолабораторія
+KEY_CINEMATIC_PP_SYMES_OGLETHORPE_CUTSCENE,Таємниця Оглторпа
+KEY_CINEMATIC_PP_SYMES_PANDORAVIRUS_CUTSCENE,Пандоравірус
+KEY_CINEMATIC_PP_SYMES_PHOENIXFILES_CUTSCENE,Архіви Фенікса
+KEY_CINEMATIC_PP_SYMES_RETREAT_CUTSCENE,Відступ Саймса
+KEY_CINEMATIC_PP_SYMES_SYBERIA_CUTSCENE,Сибірське дослідження
+KEY_CINEMATIC_PP_SYMES_YUGGOTHIANENTITY_CUTSCENE,Югготська Сутність
+KEY_CINEMATIC_SYN_ENDING_PARLIAMENT_CUTSCENE,Прекрасний новий світ Синедріону
+KEY_CINEMATIC_SYN_ENDING_TERRAFORM_CUTSCENE,Справедливий новий світ Синедріону
+KEY_CINEMATIC_SYN_INTRO_CUTSCENE,Синедріон
+KEY_CONTACT_CORRUPTION_DESCRIPTION,Уражає нападника скверною під час отримання атак ближнього бою чи оглушення.
+KEY_CONTACT_CORRUPTION_NAME,СКВЕРНА ВІД КОНТАКТУ
+KEY_CORROSIVE_CLOUD_DESCRIPTION,Завдає 10 од. кислотної шкоди всім ворогам у радіусі 10 клітинок.
+KEY_CORROSIVE_CLOUD_NAME,ЇДКА ХМАРА
+KEY_CORRUPTION_IMMUNITY_DESCRIPTION,Імунітет до скверни.
+KEY_CORRUPTION_IMMUNITY_NAME,ІМУНІТЕТ ДО СКВЕРНИ
+KEY_CORRUPTION_SOLDIER_DIED_NOTIFICATION,Скверна забрала ще жертви. {0} людей програли боротьбу з нею.
+KEY_CORRUPTION_SOLDIER_DIED_SINGULAR_NOTIFICATION,Скверна забрала ще одну жертву. Одна людина загинула внаслідок цього.
+KEY_CORRUPTION_STATUS,СТАТУС СКВЕРНИ
+KEY_CORRUPTION_TICK_NOTIFICATION,Рівень скверни зріс у хворих.
+KEY_CORRUPTIVE_ATTACK_DESCRIPTION,Успішні атаки поширюють скверну на органічні цілі.
+KEY_CORRUPTIVE_ATTACK_NAME,УРАЖАЮЧА АТАКА
+KEY_CORRUPTIVE_CLOUD_DESCRIPTION,Уражає скверною всіх органічних ворогів у радіусі 10 клітинок.
+KEY_CORRUPTIVE_CLOUD_NAME,ХМАРА СКВЕРНИ
+KEY_CORRUPTIVE_SPRAY_DESCRIPTION,Органічні цілі додатково до стандартної шкоди уражаються скверною.
+KEY_CORRUPTIVE_SPRAY_NAME,СПРЕЙ СКВЕРНИ
+KEY_CO_CORRUPTION_DESCRIPTION,Усі пандорани в бою отримують здатність «Уражаюча атака».
+KEY_CO_CORRUPTION_NAME,СПІЛЬНА СКВЕРНА
+KEY_CURE_CLOUD_DESCRIPTION,"Знімає всі статусні ефекти паралічу, кровотечі, отруєння, травми, зараження, оглушення й уповільнення, а також відновлює 50 очок здоров'я всім союзним підрозділам у радіусі 10 клітинок."
+KEY_CURE_CLOUD_NAME,ЗЦІЛЮЮЧА ХМАРА
+KEY_CURE_CORRUPTION_DIALOG_BOTTOM,Хочете вилікувати їх зараз?
+KEY_CURE_CORRUPTION_DIALOG_COST,ВАРТІСТЬ ЛІКУВАННЯ
+KEY_CURE_CORRUPTION_DIALOG_DESCRIPTION,Ваш солдат уражений скверною на {0}%.
+KEY_CURE_CORRUPTION_DIALOG_TITLE,ЛІКУВАННЯ
+KEY_CURE_SPRAY_DESCRIPTION,"Знімає всі статусні ефекти паралічу, кровотечі, отруєння, травми, зараження, приголомшення й уповільнення з цільового союзника та відновлює 50 очок здоров'я."
+KEY_CURE_SPRAY_NAME,ЗЦІЛЮЮЧИЙ СПРЕЙ
+KEY_DAMAGE_TYPE_CORRUPTION,СКВЕРНА
+KEY_DAMAGE_TYPE_CORRUPTION_DESC,Уражає ціль скверною.
+KEY_DIPSHARESCREEN_ANU_1,Послідовники Ану оцінили ваш чудовий прогрес в ієрархії та готові поділитися частиною своїх таємниць.
+KEY_DIPSHARESCREEN_ANU_2,Послідовники Ану шанують ваші стосунки з орденом і дарують вам додаткові одкровення про діяння Мертвого Бога.
+KEY_DIPSHARESCREEN_ANU_3,Найвищі почесті даровано Проєкту «Фенікс» заради нашої спільної справи.
+KEY_DIPSHARESCREEN_ANU_4,"Тепер, коли «Фенікс» уклав союз із Послідовниками Ану, усі поточні й майбутні дослідження передаватимуться Проєкту «Фенікс»."
+KEY_DIPSHARESCREEN_ANU_5,"Тепер, коли ми уклали союз із Послідовниками, усі дослідження стали спільними, і ми можемо допомагати з будь-якими новими дослідницькими проєктами, які вони розглядатимуть."
+KEY_DIPSHARESCREEN_HINT_ANU,"Перейдіть на вкладку досліджень, щоб переглянути дослідницькі проєкти Послідовників Ану"
+KEY_DIPSHARESCREEN_HINT_NJ,"Перейдіть на вкладку досліджень, щоб переглянути дослідницькі проєкти Нового Єрихона"
+KEY_DIPSHARESCREEN_HINT_SYN,"Перейдіть на вкладку досліджень, щоб переглянути дослідницькі проєкти Синедріону"
+KEY_DIPSHARESCREEN_NJ_1,Новий Єрихон радо вітає друзів у боротьбі проти спільного ворога та прагне розширити співпрацю з Проєктом «Фенікс».
+KEY_DIPSHARESCREEN_NJ_2,Новий Єрихон поділився з нами ще кількома ключовими дослідницькими проєктами в очікуванні подальшої співпраці в найближчому майбутньому.
+KEY_DIPSHARESCREEN_NJ_3,Новий Єрихон вбачає спільну справу з Проєктом «Фенікс» і готовий ділитися з нами новими дослідженнями.
+KEY_DIPSHARESCREEN_NJ_4,"Тепер, коли «Фенікс» уклав союз із Новим Єрихоном, усі поточні й майбутні дослідження передаватимуться Проєкту «Фенікс»."
+KEY_DIPSHARESCREEN_NJ_5,"Союз із Новим Єрихоном пропонує потенційне рішення проблеми пандоравірусу. Усі їхні дослідження стають спільними з нами, і ми можемо допомагати з будь-якими новими дослідницькими проєктами, які вони розробляють."
+KEY_DIPSHARESCREEN_RESEARCH_DETAILS,ДЕТАЛІ ДОСЛІДЖЕННЯ
+KEY_DIPSHARESCREEN_RESEARCH_LIST,ПОДІЛЕНІ ДОСЛІДЖЕННЯ
+KEY_DIPSHARESCREEN_SYN_1,На знак дружби та співпраці Синедріон поділився з нами частиною своїх ключових досліджень.
+KEY_DIPSHARESCREEN_SYN_2,Подальша співпраця з Синедріоном привела до нових спільних дослідницьких проєктів.
+KEY_DIPSHARESCREEN_SYN_3,Спільна мета робить нас сильнішими. Синедріон поділився з нами частиною ключових досліджень.
+KEY_DIPSHARESCREEN_SYN_4,"Тепер, коли «Фенікс» уклав союз із Синедріоном, усі поточні й майбутні дослідження передаватимуться Проєкту «Фенікс»."
+KEY_DIPSHARESCREEN_SYN_5,"Тепер, коли з Синедріоном укладено союз, усі дослідження стають спільними, і ми можемо співпрацювати з будь-якими майбутніми дослідницькими проєктами, які розробить Синедріон."
+KEY_DIPSHARESCREEN_TITLE,ДИПЛОМАТИЧНІ ПЕРЕВАГИ
+KEY_DLC4_OBJECTIVE_TURRETS,Перезавантажте систему безпеки
+KEY_DLC4_TAC_HINT_ACHERON_ESCAPED_DESCRIPTION,Ахерон утік!
+KEY_DLC4_TAC_HINT_ACHERON_ESCAPED_NAME,ПЕРЕДАЧА
+KEY_DLC4_TAC_HINT_TURRETS_DESCRIPTION,"Одразу після висадки ми виявили масштабну систему турельної охорони.
+Проте вона, здається, перебуває в стані повного безладу.
+У нас є два варіанти: знайти робочу консоль, щоб перезавантажити систему, або активувати кожну турель окремо.
+У будь-якому разі варто поквапитися, адже система вже зазнає атаки пандоранів."
+KEY_DLC4_TAC_HINT_TURRETS_NAME,ОНОВЛЕННЯ МІСІЇ
+KEY_DLC_CORRUPTED_HORIZONS,УРАЖЕНІ ГОРИЗОНТИ
+KEY_DYNAMIC_RESISTANCE_DESCRIPTION,"Надає тимчасовий 50% опір будь-якому типу шкоди чи негативному статусному ефекту, отриманому в бою, окрім розривної, снарядної шкоди та шкоди від ближнього бою."
+KEY_DYNAMIC_RESISTANCE_NAME,ДИНАМІЧНИЙ ОПІР
+KEY_FACTION_SOLDIER_JOIN_CONFIRMATION,ХОЧЕТЕ ДОЗВОЛИТИ ЦЬОМУ СОЛДАТУ ПРИЄДНАТИСЯ ДО НАС?
+KEY_FACTION_SOLDIER_JOIN_TITLE,СОЛДАТ ХОЧЕ ПРИЄДНАТИСЯ ДО ВАШОЇ ФРАКЦІЇ
+KEY_GEOROSTER_TAB_MUTOID,МУТОЇДИ
+KEY_GEOROSTER_TAB_MUTOID_TOOLTIP,Створювати солдатів-мутоїдів
+KEY_GEOSCAPE_ABILITY_NO_MUTAGEN,У ВАС НЕДОСТАТНЬО МУТАГЕНІВ ДЛЯ ОТРИМАННЯ ЦІЄЇ ЗДІБНОСТІ
+KEY_GEOSCAPE_CLEAN_LAIR_MISSION_OBJECTIVE_TITLE,Здобути зразок скверни з лігва
+KEY_GEO_HINT_ACHERON_CAPTURE_DESCRIPTION,"Попри всі наші зусилля, пошук ліків від нового штаму скверни завершився невдачею. Судячи з усього, вірус у всіх новіших особинах мутував настільки, що більше не придатний для наших потреб. Щоб досягти успіху, нам потрібно знайти одну з первісних особин, що втекли з Лабораторії."
+KEY_GEO_HINT_ACHERON_CAPTURE_NAME,НЕВДАЧА ДОСЛІДЖЕННЯ ЛІКІВ ВІД СКВЕРНИ
+KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_DESCRIPTION,"З'явився новий штам скверни. На відміну від пандоравірусу, він заражає людей, які зазнають фізичних атак у бою або заходять на УРАЖЕНІ СКВЕРНОЮ ДІЛЯНКИ (будь-яку територію, вкриту туманом). Кожне очко скверни виснажує ВОЛЮ зараженого, водночас побічно збільшуючи завдану ним шкоду. Солдати отримують бонус +2% до завданої шкоди за кожне очко скверни.
+Рекрути, здобуті на уражених скверною ділянках, будуть заражені скверною."
+KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_NAME,ШТАМ ВІРУСУ СКВЕРНИ
+KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_OVER_DESCRIPTION,"Після довгих годин досліджень ми нарешті знайшли вакцину, яка назавжди усуне штам скверни. Поки наших солдатів щеплюють проти цієї хвороби, наші літаки розпорошують вакцину над полями битв, гарантуючи, що загиблі там більше не становитимуть загрози.
+
+Ваші солдати більше не можуть заразитися скверною. Утім, ті, хто вже уражений нею, усе ще потребують лікування."
+KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_OVER_NAME,ВАКЦИНА ВІД СКВЕРНИ
+KEY_GEO_HINT_ENEMY_SPECIAL_CURE_DESCRIPTION,"Тепер, коли ви дослідили ліки від штаму скверни, ви можете лікувати уражених нею солдатів на своїй базі.
+
+Щоб вилікувати ураженого скверною солдата, потрібно заплатити 50 МУТАГЕНІВ за кожні 25% скверни, якою він уражений."
+KEY_GEO_HINT_ENEMY_SPECIAL_CURE_NAME,ЛІКУВАННЯ СКВЕРНИ
+KEY_GEO_HINT_ENEMY_SPECIAL_MUTOID_DESCRIPTION,"Мутоїди — це штучно створені гуманоїди, виведені за допомогою МУТАГЕНІВ. Маючи імунітет до скверни, вони можуть опановувати здібності з усіх досліджених класів солдатів, а також деякі здібності пандоранів після проведення розтину.
+Хоча мутоїд здатен опанувати багато здібностей, на кожному рівні він може обрати лише одну здібність солдата й одну здібність пандорана. Для цього потрібні додаткові мутагени.
+Вилікувати мутоїда можна лише на базі за допомогою МУТАГЕНІВ."
+KEY_GEO_HINT_ENEMY_SPECIAL_MUTOID_NAME,СОЛДАТИ-МУТОЇДИ
+KEY_GEO_HINT_ENEMY_SPECIAL_MUTOID_SCREEN_DESCRIPTION,"Солдати-мутоїди мають лише п'ять рівнів, кожен із яких дає доступ до 1 здібності солдата й 1 здібності пандорана. Хоча мутоїди здобувають досвід так само, як і інші солдати, для опанування нових здібностей їм потрібні мутагени.
+
+Підвищення характеристик також потребує мутагенів і відбувається так само, як і в інших солдатів."
+KEY_GEO_HINT_ENEMY_SPECIAL_MUTOID_SCREEN_NAME,ЕКРАН МУТОЇДА
+KEY_GEO_HINT_PANDORAN_BASE_DIPLOMACY_EFFECTS_DESCRIPTION,"Фракції та керівники притулків реагуватимуть негативно на виявлені бази пандоранів, якщо ви не знищите їх. Якщо притулки фракції потрапляють у радіус впливу бази пандоранів, дипломатичний штраф буде ще більшим. Дипломатичний штраф набуде чинності лише під час наступного звіту про дослідження пандоранів, і тоді у вас буде чотири дні на знищення бази, перш ніж штраф застосується під час наступного звіту про дослідження пандоранів.
+
+Інформаційна панель бази пандоранів покаже дипломатичні штрафи фракцій (і штраф для кожного керівника притулку) у радіусі впливу бази. Вона також покаже, скільки днів залишилося до набуття чинності ефекту, а також дипломатичні здобутки за знищення бази. Поки панель відображається, ви можете бачити радіус впливу бази у вигляді фіолетового кола на глобусі."
+KEY_GEO_HINT_PANDORAN_BASE_DIPLOMACY_EFFECTS_TITLE,ДИПЛОМАТИЧНІ НАСЛІДКИ БАЗ ПАНДОРАНІВ
+KEY_GEO_HINT_RESEARCH_SHARING_DESCRIPTION,"У міру покращення вашої репутації з фракцією вона час від часу ділитиметься з вами частиною своїх унікальних досліджень.
+
+Вам усе ще доведеться провести власне дослідження цих спільних елементів, щоб повністю їх зрозуміти. Спільні дослідження позначені на екрані досліджень логотипом фракції, яка ними поділилася."
+KEY_GEO_HINT_RESEARCH_SHARING_TITLE,ОБМІН ДОСЛІДЖЕННЯМИ
+KEY_GOO_SPRAY_DESCRIPTION,Розпорошує слиз по цілі чи ворогу. Додатково до шкоди цілі вкриваються слизом.
+KEY_GOO_SPRAY_NAME,СПРЕЙ СЛИЗУ
+KEY_HACKING_STATUS_DESCRIPTION,Цей оперативник зараз зламує термінал. Протягом 2 ходів він не зможе виконувати жодних інших дій.
+KEY_HACKING_STATUS_NAME,ЗЛАМ
+KEY_HACK_ABILITY_DESCRIPTION,"Розпочати злам найближчого термінала, щоб отримати доступ до захищених даних. Процес зламу триватиме 2 ходи, але його можна перервати."
+KEY_HACK_ABILITY_NAME,РОЗПОЧАТИ ЗЛАМ
+KEY_HAVEN_ALERT_COOLDOWN_TIMER,ЗНИЖЕННЯ РІВНЯ ТРИВОГИ ЧЕРЕЗ {0}
+KEY_HEAL_MUTOID_BUTTON,ЛІКУВАТИ
+KEY_HEAL_MUTOID_DIALOG_BOTTOM,Хочете вилікувати його зараз?
+KEY_HEAL_MUTOID_DIALOG_COST,ВАРТІСТЬ ЛІКУВАННЯ
+KEY_HEAL_MUTOID_DIALOG_DESCRIPTION,Цей мутоїд зазнав {0}% ушкоджень.
+KEY_HEAL_MUTOID_DIALOG_TITLE,ЛІКУВАННЯ МУТОЇДА
+KEY_HUSK_DESCRIPTION,ОБОЛОНКА
+KEY_HUSK_DESCRIPTION_TEMP,"Велика подібна до кальмара частина тіла, яку можна сплутати з головою ахерона. Вона є джерелом усіх видів хмарних атак."
+KEY_HUSK_NAME,ОБОЛОНКА
+KEY_INDEPENDENT_MUTOID_NAME,НЕЗАЛЕЖНИЙ МУТОЇД
+KEY_INFILTRATION_HIGH_ALERT_DISABLED,"Неможливо розпочати місію, оскільки притулок перебуває в стані підвищеної тривоги"
+KEY_INSPECT_SOLDIER_CORRUPTED,"НАТИСНІТЬ, ЩОБ ОГЛЯНУТИ"
+KEY_LAUNCH_ACIDWORM_DESCRIPTION,Запускає кислотного черв'яка у вказану область
+KEY_LAUNCH_ACIDWORM_NAME,ЗАПУСК КИСЛОТНОГО ЧЕРВ'ЯКА
+KEY_LAUNCH_FIREWORM_DESCRIPTION,Запускає вогняного черв'яка у вказану область
+KEY_LAUNCH_FIREWORM_NAME,ЗАПУСК ВОГНЯНОГО ЧЕРВ'ЯКА
+KEY_LAUNCH_GOO_BOMB_DESCRIPTION,Запускає слизову бомбу у вказану область
+KEY_LAUNCH_GOO_BOMB_NAME,ЗАПУСК СЛИЗОВОЇ БОМБИ
+KEY_LAUNCH_POISONWORM_DESCRIPTION,Запускає отруйного черв'яка у вказану область
+KEY_LAUNCH_POISONWORM_NAME,ЗАПУСК ОТРУЙНОГО ЧЕРВ'ЯКА
+KEY_MAIN_MENU_CINEMATICS_LIBRARY,РОЛИКИ
+KEY_MIST_REPELLING_ABILITY_DESCRIPTION,Розсіює весь туман у радіусі 2 клітинок під час руху.
+KEY_MIST_REPELLING_ABILITY_NAME,ВІДШТОВХУВАННЯ ТУМАНУ
+KEY_MUTOID_ACID_EXPLOSION_DESCRIPTION,Завдає кислотної шкоди навколишній території після смерті
+KEY_MUTOID_ACID_EXPLOSION_NAME,КИСЛОТНИЙ ВИБУХ
+KEY_MUTOID_ACID_SPIT_DESCRIPTION,Плюється кислотою на невеликій відстані
+KEY_MUTOID_ACID_SPIT_NAME,КИСЛОТНИЙ ПЛЮВОК
+KEY_MUTOID_CANNOT_BE_HEALED_DESCRIPTION,Здоров'я можна відновити лише за допомогою мутагенів поза місією
+KEY_MUTOID_CANNOT_BE_HEALED_NAME,НЕ МОЖНА ВИЛІКУВАТИ
+KEY_MUTOID_CLASS,МУТОЇД
+KEY_MUTOID_CLASS_DESCRIPTION,КЛАС СОЛДАТА «МУТОЇД»
+KEY_MUTOID_CURE_SPRAY_DESCRIPTION,"Знімає всі статусні ефекти паралічу, кровотечі, отруєння, травми, зараження, приголомшення й уповільнення з цільового союзника."
+KEY_MUTOID_DEATH_BELCH_DESCRIPTION,Породжує розумозлама після смерті
+KEY_MUTOID_DEATH_BELCH_NAME,ПЕРЕДСМЕРТНИЙ ВИКИД
+KEY_MUTOID_DESCRIPTION,"Клас солдата, створений за допомогою мутагенів, здатний обирати з усіх людських навичок і багатьох навичок пандоранів."
+KEY_MUTOID_FIRE_EXPLOSION_DESCRIPTION,Завдає вогняної шкоди навколишній території після смерті
+KEY_MUTOID_FIRE_EXPLOSION_NAME,ВОГНЯНИЙ ВИБУХ
+KEY_MUTOID_GOO_SPIT_DESCRIPTION,Плюється слизом на невеликій відстані
+KEY_MUTOID_GOO_SPIT_NAME,СЛИЗОВИЙ ПЛЮВОК
+KEY_MUTOID_HEAD_DESCRIPTION,Генетично сконструйована голова мутоїда
+KEY_MUTOID_HEAD_NAME,Голова мутоїда
+KEY_MUTOID_POISON_EXPLOSION_DESCRIPTION,Завдає отруйної шкоди навколишній території після смерті
+KEY_MUTOID_POISON_EXPLOSION_NAME,ОТРУЙНИЙ ВИБУХ
+KEY_MUTOID_SYPHON_ATTACK_DESCRIPTION,Завдає 50 од. шкоди в ближньому бою та відновлює стільки ж очок здоров'я
+KEY_MUTOID_SYPHON_ATTACK_NAME,ВИСНАЖУЮЧА АТАКА
+KEY_MUTOID_VIRAL_EXPLOSION_DESCRIPTION,Завдає вірусної шкоди навколишній території після смерті
+KEY_MUTOID_VIRAL_EXPLOSION_NAME,ВІРУСНИЙ ВИБУХ
+KEY_OBJECTIVE_CAPTURE_ACHERON,ЗАХОПІТЬ АХЕРОНА
+KEY_OPTIONS_VEHICLE_AUTO_UNPAUSE,РЕЖИМ АВТОМАТИЧНОГО ЗНЯТТЯ ПАУЗИ ДЛЯ ЛІТАКІВ НА ГЛОБУСІ
+KEY_OPTIONS_VEHICLE_UNPAUSE_ALL_VEHICLE_TRAVEL,УСІ ЛІТАКИ В ПОЛЬОТІ
+KEY_OPTIONS_VEHICLE_UNPAUSE_ALWAYS,ЗАВЖДИ
+KEY_OPTIONS_VEHICLE_UNPAUSE_NEVER,НІКОЛИ
+KEY_OPTIONS_VEHICLE_UNPAUSE_ONE_VEHICLE,ОДИН ЛІТАК
+KEY_PARALYTIC_CLOUD_DESCRIPTION,Знижує Швидкість на 75% і Точність на 50% усім органічним ворожим цілям у радіусі 10 клітинок протягом 1 ходу.
+KEY_PARALYTIC_CLOUD_NAME,ХМАРА СПЛУТАНОСТІ
+KEY_PARALYTIC_SPRAY_DESCRIPTION,Виводить із ладу цільову частину тіла на 1 хід.
+KEY_PARALYTIC_SPRAY_NAME,НЕЙРОТОКСИЧНИЙ СПРЕЙ
+KEY_PARALYZE_LIMB_DESCRIPTION,Виводить із ладу цільову частину тіла на 1 хід
+KEY_PARALYZE_LIMB_NAME,ПАРАЛІЗУВАТИ КІНЦІВКУ
+KEY_PEPPER_CLOUD_DESCRIPTION,Знижує Точність на 50% усім органічним ворогам у радіусі 5 клітинок протягом 1 ходу.
+KEY_PEPPER_CLOUD_NAME,ПЕРЦОВА ХМАРА
+KEY_PROGRESSION_MUTAGEN_COST,ВАРТІСТЬ У МУТАГЕНАХ
+KEY_PROGRESSION_NO_AVAILABLE_PANDORAN_ SPECIALIZATION,"ДОСЛІДІТЬ РОЗТИН ПАНДОРАНА, ЩОБ ПРОДОВЖИТИ"
+KEY_PROGRESSION_PANDORAN_SKILLS_DESCRIPTION,Оберіть навичку пандорана з наявних
+KEY_PROGRESSION_PANDORAN_SKILLS_TITLE,НАВИЧКИ ПАНДОРАНА
+KEY_PROGRESSION_PHOENIX_SKILLS_DESCRIPTION,Оберіть навичку «Фенікса» з наявних спеціалізацій
+KEY_PROGRESSION_PHOENIX_SKILLS_TITLE,НАВИЧКИ «ФЕНІКСА»
+KEY_PROGRESSION_SKILL_CANNOT_BE_LEARNED,ЗДІБНІСТЬ НЕ МОЖНА ОТРИМАТИ
+KEY_PX_HEAL_GRENADE_DESCRIPTION,"Лікувальна граната, яка усуває кровотечу та отруєння, а також відновлює 50 очок здоров'я всім органічним істотам у радіусі 3 клітинок від місця удару."
+KEY_PX_HEAL_GRENADE_NAME,ВІТА-ГРАНАТА
+KEY_RECRUITS_DEPLOYMENT_TITLE,РОЗГОРТАННЯ
+KEY_RECRUITS_RECRUITS_SPECIALIZAION_HEADING,ОБЕРІТЬ СПЕЦІАЛІЗАЦІЮ РЕКРУТА
+KEY_RECRUITS_SCREEN_DESCRIPTION,"Рекрути походять зі збройних груп, які змогли самостійно вижити в дикій природі. Хоча більшість із них не пройшли офіційної військової підготовки, вони можуть стати цінним активом у боротьбі проти пандоранів."
+KEY_REDUCE_ENEMY_ACCURACY_DESCRIPTION,Знижує Точність на 50% усім органічним ворогам у радіусі 5 клітинок протягом 1 ходу.
+KEY_REDUCE_ENEMY_ACCURACY_NAME,ПЕРЦОВА ХМАРА
+KEY_REDUCE_ENEMY_SPEED_DESCRIPTION,Знижує Швидкість на 75% усім органічним ворожим цілям у радіусі 10 клітинок протягом 1 ходу.
+KEY_REDUCE_ENEMY_SPEED_NAME,ХМАРА СПЛУТАНОСТІ
+KEY_RESEARCH_POINTS_TEXT,ДОСЛІДЖЕННЯ
+KEY_RESEARCH_SHARED_THROUGH_DIPLOMACY,З вами поділилися новим дослідницьким проєктом
+KEY_RESEARCH_UNKNOWN,НЕВІДОМО
+KEY_RESTORE_PANDORAN_ARMOR_DESCRIPTION,Додає 10 од. броні всім пандоранам у радіусі 10 клітинок.
+KEY_RESTORE_PANDORAN_ARMOR_NAME,ВІДНОВИТИ БРОНЮ ПАНДОРАНА
+KEY_RESURRECT_CORPSES_DESCRIPTION,Перетворює всі трупи людського розміру в радіусі 10 клітинок на артронів або тритонів.
+KEY_RESURRECT_CORPSES_NAME,ВОСКРЕСІННЯ ТРУПІВ
+KEY_RESURRECT_DESCRIPTION,Воскрешає одну гуманоїдну ціль як артрона або тритона
+KEY_RESURRECT_NAME,ВОСКРЕСІННЯ
+KEY_ROSTER_DEATH_CORRUPTED,СКВЕРНА
+KEY_SITE_INFO_ATTITUDE_GAIN_DESTROY,ЗМІНА СТАВЛЕННЯ В РАЗІ ЗНИЩЕННЯ
+KEY_SITE_INFO_ATTITUDE_PENALTY_AFTER,ЗМІНА СТАВЛЕННЯ ЧЕРЕЗ {0}
+KEY_SOLDIER_CORRUPTION_STATUS_SINGULAR_TOOLTIP,Помре за 1 день
+KEY_SOLDIER_CORRUPTION_STATUS_TOOLTIP,Помре за {0} днів
+KEY_STATUS_BLINDED_DESCRIPTION,Сприйняття знижене на 75%.
+KEY_STATUS_BLINDED_NAME,ЗАСЛІПЛЕНИЙ
+KEY_STATUS_CORRUPTED_DESCRIPTION,"Сила волі знижується відповідно до поточного рівня скверни. Крім того, завдана шкода зростає на 2% за кожне очко скверни."
+KEY_STATUS_CORRUPTED_NAME,УРАЖЕНИЙ СКВЕРНОЮ
+KEY_STATUS_SLOWED_DESCRIPTION,Швидкість знижена на 50%.
+KEY_STATUS_SLOWED_NAME,УПОВІЛЬНЕНИЙ
+KEY_STATUS_STRAINED_DESCRIPTION,Кінцівку тимчасово виведено з ладу.
+KEY_STATUS_STRAINED_NAME,ТРАВМОВАНИЙ
+KEY_STATUS_TREMBLING_DESCRIPTION,Точність знижена на 50%.
+KEY_STATUS_TREMBLING_NAME,ТРЕМТІННЯ
+KEY_SYNEDRION_MUTOID_NAME,МУТОЇД СИНЕДРІОНУ
+KEY_TAC_HINT_ENEMY_ACHERON_DESCRIPTION,"Ахерон — великий підрозділ пандоранів, здатний накладати різні негативні стани на союзні й ворожі підрозділи у великому радіусі на полі бою. Знищуйте їх якомога швидше."
+KEY_TAC_HINT_ENEMY_ACHERON_NAME,ПАНДОРАН — АХЕРОН
+KEY_TAC_HINT_ENEMY_MUTOID_DESCRIPTION,Мутоїд — штучно створена істота з мутагенів. Він здатен опановувати всі людські здібності та багато здібностей пандоранів.
+KEY_TAC_HINT_ENEMY_MUTOID_NAME,ВОРОГ — МУТОЇД
+KEY_TAC_HINT_ENEMY_SPECIAL_CORRUPTION_DESCRIPTION,"Шкода від скверни заражає солдата скверною. Після заражання рівень скверни зростатиме, поступово знижуючи Силу волі солдата. За кожне очко скверни завдана в бою шкода зростає на 2%."
+KEY_TAC_HINT_ENEMY_SPECIAL_CORRUPTION_NAME,ДОДАТКОВА ЗДІБНІСТЬ ПАНДОРАНА — ШКОДА ВІД СКВЕРНИ
+KEY_TAC_HINT_ENEMY_SPECIAL_CO_CORRUPT_DESCRIPTION,Це дозволяє будь-якій іншій істоті на полі бою завдавати шкоди скверною.
+KEY_TAC_HINT_ENEMY_SPECIAL_CO_CORRUPT_NAME,ДОДАТКОВА ЗДІБНІСТЬ ПАНДОРАНА — СПІЛЬНА СКВЕРНА
+KEY_TAC_HINT_ENEMY_SPECIAL_GOO_ATTACK_DESCRIPTION,"Атаки слизом уражають одну ціль, приклеюючи її до землі. Прямі атаки слизом діють лише на невеликі підрозділи і не працюють проти техніки."
+KEY_TAC_HINT_ENEMY_SPECIAL_GOO_ATTACK_NAME,ДОДАТКОВА ЗДІБНІСТЬ ПАНДОРАНА — АТАКА СЛИЗОМ
+KEY_TAC_HINT_ENEMY_SPECIAL_REINFORCEMENTS_DESCRIPTION,Це дозволяє істотам миттєво закликати пандоранів на поле бою. Нове підкріплення стає активним на початку наступного ходу.
+KEY_TAC_HINT_ENEMY_SPECIAL_REINFORCEMENTS_NAME,ДОДАТКОВА ЗДІБНІСТЬ ПАНДОРАНА — ЗАКЛИК ПІДКРІПЛЕННЯ
+KEY_TAC_HINT_ENEMY_SPECIAL_REMOVE_DEBUFF_DESCRIPTION,"Це миттєво знімає всі негативні бойові статусні ефекти з ураженої цілі, включно з кровотечею, кислотою, отруєнням, панікою, паралічем і контролем розуму. Це не впливає на скверну, втому чи виснаження."
+KEY_TAC_HINT_ENEMY_SPECIAL_REMOVE_DEBUFF_NAME,ДОДАТКОВА ЗДІБНІСТЬ ПАНДОРАНА — ЗНЯТТЯ НЕГАТИВНИХ ЕФЕКТІВ
+KEY_TAC_HINT_ENEMY_SPECIAL_RESIST_DESCRIPTION,Це дозволяє істоті адаптуватися до будь-якого типу атак. Після отримання шкоди певного типу істоти з динамічним опором зазнаватимуть лише 50% ефекту цього типу шкоди.
+KEY_TAC_HINT_ENEMY_SPECIAL_RESIST_NAME,ДОДАТКОВА ЗДІБНІСТЬ ПАНДОРАНА — ДИНАМІЧНИЙ ОПІР
+KEY_TAC_HINT_ENEMY_SPECIAL_RESTORE_ARMOR_DESCRIPTION,"Це відновлює всю броню цільової істоти, а також підвищує її на +5 понад максимальне значення. Ефект застосовується до броні всіх частин тіла."
+KEY_TAC_HINT_ENEMY_SPECIAL_RESTORE_ARMOR_NAME,ДОДАТКОВА ЗДІБНІСТЬ ПАНДОРАНА — ВІДНОВЛЕННЯ БРОНІ
+KEY_TAC_HINT_STATUS_BLINDED_DESCRIPTION,Сприйняття знижене на 75% протягом 1 ходу.
+KEY_TAC_HINT_STATUS_BLINDED_NAME,ЗАСЛІПЛЕНИЙ
+KEY_TAC_HINT_STATUS_CORRUPTED_DESCRIPTION,"Ваш солдат уражений скверною, що знижує його Силу волі. Чим нижчою стає Сила волі солдата, тим сильніше він схильний до паніки чи контролю розуму. Цікавий побічний ефект: уражені скверною солдати завдають додаткові 2% шкоди за кожне очко скверни.
+
+Скверна може накопичуватися, тож якщо ваших солдатів кілька разів атакує пандоран, що поширює скверну, рівень їхньої скверни зростатиме."
+KEY_TAC_HINT_STATUS_CORRUPTED_NAME,УРАЖЕНИЙ СКВЕРНОЮ
+KEY_TAC_HINT_STATUS_SLOWED_DESCRIPTION,Швидкість знижена на 50% протягом 1 ходу.
+KEY_TAC_HINT_STATUS_SLOWED_NAME,УПОВІЛЬНЕНИЙ
+KEY_TAC_HINT_STATUS_STRAINED_DESCRIPTION,Одну або кілька кінцівок тимчасово виведено з ладу на 1 хід.
+KEY_TAC_HINT_STATUS_STRAINED_NAME,ТРАВМОВАНИЙ
+KEY_TAC_HINT_STATUS_TREMBLING_DESCRIPTION,Точність знижена на 50% протягом 1 ходу.
+KEY_TAC_HINT_STATUS_TREMBLING_NAME,ТРЕМТІННЯ
+TUTORIAL1_CUTSCENE,Скарабей
+TUTORIAL2_CUTSCENE,Станція відновлення
+TUTORIAL2_ITEMSFROMCRATE_C_CUTSCENE,
+TUTORIAL2_ITEMSFROMCRATE_K_CUTSCENE,
+TUTORIAL2_OMARJUMP_C_CUTSCENE,
+TUTORIAL2_OMARJUMP_K_CUTSCENE,
+TUTORIAL3_CUTSCENE,Битва за Phoenix Point
+TUTORIAL3_ROTATECAMERA_C_CUTSCENE,
+TUTORIAL3_ROTATECAMERA_K_CUTSCENE,
+TUTORIAL4_CUTSCENE,Наш новий дім
+TUTORIAL4_TRADE_C_CUTSCENE,
+TUTORIAL4_TRADE_K_CUTSCENE,

@@ -1,0 +1,44 @@
+Key,Ukrainian
+KEY_K2_MISSION_FLAVOUR_TEXT,ЗАВАНТАЖИТИ ДОСЛІДЖЕННЯ НЕМОЖЛИВОЇ ЗБРОЇ
+BASEDEFENSE_INFESTATION_OBJECTIVE,ЗНИЩТЕ РОЗПЛІДНИК ТА ВАРТОВИХ
+BASEDEFENSE_SECOND_OBJECTIVE,"ЗНИЩТЕ РЕШТУ ПАНДОРАНІВ. ЯЙЦЯ, ЧЕРВ'ЯКІВ, ПРОМИВАЧІВ І МИРМІДОНІВ МОЖНА ЗАЛИШИТИ ДЛЯ ПРИБИРАЛЬНОЇ КОМАНДИ."
+BASEDEFENSE_SURVIVE5_OBJECTIVE,ВИЖИВІТЬ {0} ХОДІВ
+BASEDEFENSE_SURVIVE_COMPLETE,АТАКУ ВІДБИТО
+BASEDEFENSE_SURVIVE3_OBJECTIVE,ВИЖИВІТЬ {0} ХОДІВ
+BASEDEFENSE_SENTINEL_OBJECTIVE,ЗНИЩТЕ ВАРТОВОГО
+BASEDEFENSE_VENTING_PROMPT,"Активувати аварійну вентиляцію? Це зупинить хвилю підкріплень пандоранів, що насувається, але пошкодить ваш генератор енергії та спричинить випадкові пожежі й вибухи на базі!"
+CAPTURE_ABILITY_NAME,ПРІОРИТЕТНА ЕВАКУАЦІЯ «СКАЙХУК»
+CAPTURE_ABILITY_DESCRIPTION,Позначає паралізованого пандорана для пріоритетної евакуації та захоплення наприкінці місії.
+CAPTURE_STATUS_NAME,ПРІОРИТЕТ ДЛЯ ЕВАКУАЦІЇ ТА ЗАХОПЛЕННЯ
+CAPTURE_STATUS_DESCRIPTION,"Цього пандорана позначено для пріоритетної евакуації наприкінці місії; його буде евакуйовано, навіть якщо паралізовано цінніших пандоранів."
+CANCEL_CAPTURE_NAME,СКАСУВАТИ ПРІОРИТЕТНУ ЕВАКУАЦІЮ «СКАЙХУК»
+CANCEL_CAPTURE_DESCRIPTION,Прибирає цього паралізованого пандорана зі списку пріоритетної евакуації наприкінці місії.
+CAPTURE_CAPACITY_BASE,"НАЯВНИЙ ДІЮЧИЙ ІЗОЛЯТОР, ПОВНІСТЮ ПАРАЛІЗОВАНИХ ПАНДОРАНІВ БУДЕ ЗАХОПЛЕНО"
+CAPTURE_CAPACITY_AIRCRAFT,ЗАЛИШИЛОСЯ МІСЦЯ ДЛЯ ЗАХОПЛЕННЯ:
+CAPTURE_CAPACITY_TOTAL,ЗАГАЛЬНА ДОСТУПНА МІСТКІСТЬ ІЗОЛЯТОРА:
+KEY_OBJECTIVE_YUGG_EXALTED,ОБ'ЄДНАЙТЕ ВОЗВЕЛИЧЕНУ ЗІ ЗНЕШКОДЖЕНИМ ЮГГОТІАНСЬКИМ РЕЦЕПТАКЛЕМ
+KEY_OBJECTIVE_YUGG_INJECTOR,РОЗМІСТІТЬ ІН'ЄКТОР НАД ЗНЕШКОДЖЕНИМ ЮГГОТІАНСЬКИМ РЕЦЕПТАКЛЕМ
+KEY_OBJECTIVE_YUGG_NUKE,РОЗМІСТІТЬ МАЯК НАД ЗНЕШКОДЖЕНИМ ЮГГОТІАНСЬКИМ РЕЦЕПТАКЛЕМ
+KEY_OBJECTIVE_CONVINCE_SPARKS,ПІДІЙДІТЬ ДО МІСТЕРА СПАРКА Й ПЕРЕКОНАЙТЕ ЙОГО ПІТИ З ВАМИ
+KEY_OBJECTIVE_CONVINCE_FELIPE,ПІДІЙДІТЬ ДО ФЕЛІПЕ Й ПЕРЕКОНАЙТЕ ЙОГО ПІТИ З ВАМИ
+KEY_OBJECTIVE_CONVINCE_HELENA,ПІДІЙДІТЬ ДО ХЕЛЕНИ Й ПЕРЕКОНАЙТЕ ЇЇ ПІТИ З ВАМИ
+KEY_OBJECTIVE_CONVINCE_CALENDAR,ПІДІЙДІТЬ ДО ДОКТОРА КАЛІНДАРА Й ПЕРЕКОНАЙТЕ ЙОГО ПІТИ З ВАМИ
+PROTECT_THE_CYCLOPS,ЗАХИЩАЙТЕ ЦИКЛОПА
+KEY_BADLY_INJURED_OPERATIVE,ТЯЖКО ПОРАНЕНИЙ
+KEY_MISSION_AMBUSH_BRIEFING_DESCRIPTION,Протримайтеся 3 ходи і евакуюйтеся.
+TFTV_KEY_KILL_SCYLLA_OBJECTIVE,ЗНИЩТЕ СЦИЛЛУ
+TFTV_KEY_KILL_REVENANT_OBJECTIVE,ПЕРЕМОЖІТЬ РЕВЕНАНТА. ПРОГРЕС ДОСЛІДЖЕННЯ:
+TFTV_KEY_KILL_REVENANT_OBJECTIVE_SUMMARY,ПЕРЕМОЖІТЬ РЕВЕНАНТА
+TFTV_KEY_CAPTURE_REVENANT_OBJECTIVE,ЗАХОПІТЬ РЕВЕНАНТА
+TFTV_KEY_CAPTURE_SCYLLA_OBJECTIVE,ЗАХОПІТЬ СЦИЛЛУ
+TFTV_KEY_CAPTURE_VIRUS_OBJECTIVE,ЗАХОПІТЬ ПАНДОРАНА ЗІ ЗДІБНІСТЮ ВІРУСУ
+TFTV_KEY_CAPTURE_SIREN_OBJECTIVE,ЗАХОПІТЬ СИРЕНУ
+TFTV_KEY_CAPTURE_PSYCHIC_OBJECTIVE,ЗАХОПІТЬ ПАНДОРАНА З ПСИХІЧНОЮ ЗДІБНІСТЮ
+TFTV_KEY_CAPTURE_GOO_OBJECTIVE,ЗАХОПІТЬ ПАНДОРАНА ЗІ ЗДІБНІСТЮ СЛИЗУ
+TFTV_KEY_SECONDARY_OBJECTIVES,ДРУГОРЯДНІ ЗАВДАННЯ
+TFTV_KEY_OBJECTIVE_ACCOMPLISHED,ЗАВДАННЯ ВИКОНАНО
+TFTV_KEY_NEW_SECONDARY_OBJECTIVE,НОВЕ ДРУГОРЯДНЕ ЗАВДАННЯ
+TFTV_KEY_BASE_DEFENSE_GENERATORS,"Генератори на {0}%, вентиляцію можна виконати ще {1} разів"
+TFTV_KEY_CAPTURE_FREE_SLOTS,"Вільні місця для захоплення: "
+BASEDEFENSE_VENTING_PROMPT0,"Активувати аварійну вентиляцію? Це зупинить хвилю підкріплень пандоранів, що насувається. Ви більше не зможете скористатися цією консоллю. <b>Наступного разу</b>, коли ви скористаєтеся консоллю, це пошкодить генератори енергії та спричинить вибухи й пожежі на базі."
+TFTV_KEY_CAPTURE_MIST_OBJECTIVE,"ЗАХОПІТЬ ПАНДОРАНА, ЩО ВИПУСКАЄ ТУМАН"

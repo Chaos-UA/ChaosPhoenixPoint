@@ -1,0 +1,18 @@
+Key,Ukrainian
+KEY_MANUFACTURE_AMMO_NAME,ВИРОБИТИ БОЄПРИПАСИ
+KEY_MANUFACTURE_DEPLOY,ОБЕРІТЬ МІСЦЕ РОЗГОРТАННЯ
+KEY_MANUFACTURE_NAME,ВИРОБНИЦТВО
+KEY_MANUFACTURE_NEW_AIRCRAFT,ДОСТУПНЕ НОВЕ ПОВІТРЯНЕ СУДНО
+KEY_MANUFACTURE_NEW_MUTOG,ДОСТУПНИЙ НОВИЙ МУТОГ
+KEY_MANUFACTURE_NEW_VEHICLE,ДОСТУПНА НОВА НАЗЕМНА МАШИНА
+KEY_MANUFACTURE_NOT_ENOUGH_RESOURCES_WARNING,У вас недостатньо ресурсів для виробництва цього предмета.
+KEY_MANUFACTURE_NOT_ITEMS_ARMOR_TT,Немає доступної броні
+KEY_MANUFACTURE_NOT_ITEMS_VEHICLES_TT,Немає доступних машин
+KEY_MANUFACTURE_NOT_ITEMS_WARNING_TT,Немає доступних предметів
+KEY_MANUFACTURE_RETURNED_RESOURCES,ПОВЕРНЕНІ РЕСУРСИ
+KEY_MANUFACTURE_SCRAP_CONFIRMATION,"Ви впевнені, що хочете здати в брухт усі предмети зі списку?"
+KEY_MANUFACTURE_SCRAP_LIST,СПИСОК НА БРУХТ
+KEY_MANUFACTURE_SCRAP_WARNING,"У вашому списку на брухт є предмети. Ви впевнені, що хочете вийти?"
+KEY_MANUFACTURE_UNAFFORDABLE,Не по кишені
+KEY_RECYCLING_DESCIPTION,"Переробіть предмети, щоб отримати ресурси"
+KEY_RECYCLING_NAME,ПЕРЕРОБКА

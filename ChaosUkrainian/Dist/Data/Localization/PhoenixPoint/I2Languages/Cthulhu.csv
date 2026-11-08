@@ -1,0 +1,103 @@
+Key,Ukrainian
+KEY_ACTIVATION_COST,ВАРТІСТЬ АКТИВАЦІЇ
+KEY_ALIEN_BASE_DISCOVERED,ВИЯВЛЕНО КОЛОНІЮ ПАНДОРАНІВ
+KEY_AN_ASSAULT_NAME,ШТУРМОВИК ПОСЛІДОВНИКІВ АНУ
+KEY_AN_BERSERKER_NAME,БЕРСЕРК ПОСЛІДОВНИКІВ АНУ
+KEY_AN_PRIEST_NAME,СВЯЩЕННИК ПОСЛІДОВНИКІВ АНУ
+KEY_AREA_SCAN_LOADING,СКАНУВАННЯ ТЕРИТОРІЇ
+KEY_ASSAULT_FILTER_TT,Фільтр класу «Штурмовик»
+KEY_AVAILABLE_SLOTS,Доступні слоти
+KEY_BAN_ASSAULT_NAME,ШТУРМОВИК БАНДИТІВ
+KEY_BAN_HEAVY_NAME,ВАЖКИЙ ШТУРМОВИК БАНДИТІВ
+KEY_BAN_SNIPER_NAME,СНАЙПЕР БАНДИТІВ
+KEY_BASE_PANDORAN_BASE_REVEALED_DESCRIPTION,"Аналіз поведінки пандоранів розкрив місцезнаходження їхньої колонії. На геоскопі тепер видно нову точку {0}, яку можна атакувати."
+KEY_BASE_PANDORAN_BASE_REVEALED_FAILED_DESCRIPTION,"Аналіз пересувань пандоранів не дав змоги встановити їхнє походження. Точне місцезнаходження колонії пандоранів, відповідальної за напад, досі невідоме. Якщо колонія атакує в межах радіуса сканування бази Проєкту «Фенікс», її буде виявлено негайно."
+KEY_BASE_PANDORAN_BASE_REVEALED_NAME,АНАЛІЗ НАПАДУ ПАНДОРАНІВ
+KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_FOOD,Убити пандорана {0} заради {1} провіанту?
+KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_FOOD_RESULT,Пандорана {0} вбито. Отримано провіант ({1})
+KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_MUTAGENS,Убити пандорана {0} заради {1} мутагенів?
+KEY_BASE_PROMPT_HARVEST_ALIEN_FOR_MUTAGENS_RESULT,Пандорана {0} вбито. Отримано мутагени ({1})
+KEY_BASE_PROMPT_KILL_CAPTURED_ALIEN,"Ви впевнені, що хочете вбити пандорана {0}?"
+KEY_BASE_PROMPT_KILL_CAPTURED_ALIEN_RESULT,Пандорана {0} вбито.
+KEY_BASE_RECRUITS_AVAILABLE_1DAY,НОВОБРАНЦІ ДОСТУПНІ ЧЕРЕЗ 1 ДЕНЬ
+KEY_BERSERKER_FILTER_TT,Фільтр класу «Берсерк»
+KEY_CHARACTERNAME_CHIRONASTERIA,ХІРОН АСТЕРІЯ
+KEY_CHARACTERNAME_SIRENPRAETORIAN,СИРЕНА ПРЕТОРІАН
+KEY_CLOSE_INTELLIGENCE_REPORT,ЗАКРИТИ РОЗВІДЗВЕДЕННЯ
+KEY_CONSTRUCTED_FACILITIES,Побудовані об'єкти
+KEY_FACILITY_LIMIT_WARNING,На одній базі не можна побудувати більше {0} об'єктів типу {1}
+KEY_FK_ASSAULT_NAME,ШТУРМОВИК ВИГНАНЦІВ
+KEY_FK_BERSERKER_NAME,БЕРСЕРК ВИГНАНЦІВ
+KEY_FK_PRIEST_NAME,СВЯЩЕННИК ВИГНАНЦІВ
+KEY_GEOSCAPE_BASE_BUILDING_SLOTS,Вільні слоти об'єктів: {0}
+KEY_GEOSCAPE_BASE_FACILITIES_BUILT,Побудовані об'єкти
+KEY_GEOSCAPE_BASE_INFESTATION_THREAT_HIGH,ВИСОКО
+KEY_GEOSCAPE_BASE_INFESTATION_THREAT_LOW,НИЗЬКО
+KEY_GEOSCAPE_BASE_INFESTATION_THREAT_MEDIUM,СЕРЕДНЬО
+KEY_GEOSCAPE_BASE_INFESTED,ПАНДОРАНИ НА БАЗІ
+KEY_GEOSCAPE_MESSAGE_HAVEN_ZONE_ATTRITION,Зона {0} у притулку {2} ({1}) занепала
+KEY_GEOSCAPE_SCAN_AREA_COL,Радіус сканування:
+KEY_HEAVY_FILTER_TT,Фільтр класу «Важкий штурмовик»
+KEY_INFESTESTATION_THREAT,Шанс появи пандоранів
+KEY_INFESTESTATION_THREAT_DESC,"Після активації заражену базу потрібно буде зачистити загоном, перш ніж її можна буде використовувати."
+KEY_INFILTRATOR_FILTER_TT,Фільтр класу «Розвідник»
+KEY_MISSION_PX_BASE_ACTIVATED_INFESTED_DEFEAT_DESCRIPTION,"Наші сили не змогли захистити базу, і зараження залишилося. Ми можемо повторити спробу пізніше."
+KEY_MISSION_PX_BASE_ACTIVATED_INFESTED_DEFEAT_NAME,НЕ ВДАЛОСЯ ЗАЧИСТИТИ БАЗУ
+KEY_MISSION_PX_BASE_ACTIVATED_INFESTED_DESCRIPTION,"Під час активації на базі виявлено загарбників! Надішліть загін, щоб зачистити зараження, перш ніж базу можна буде використовувати."
+KEY_MISSION_PX_BASE_ACTIVATED_INFESTED_NAME,Увага: пандорани на базі!
+KEY_MISSION_PX_BASE_ACTIVATED_INFESTED_VICTORY_DESCRIPTION,"Наші сили успішно знищили загарбників-пандоранів, і тепер база працює в штатному режимі."
+KEY_MISSION_PX_BASE_ACTIVATED_INFESTED_VICTORY_NAME,БАЗУ ЗАЧИЩЕНО
+KEY_MISSION_PX_BASE_ACTIVATED_STANDARD_DESCRIPTION,"Базу Проєкту «Фенікс» активовано. Усі системи працюють у штатному режимі, загроз не виявлено. Пошкоджені об'єкти бази потрібно відремонтувати, щоб вони запрацювали в повну силу."
+KEY_MISSION_PX_BASE_ACTIVATED_STANDARD_NAME,Базу Проєкту «Фенікс» активовано
+KEY_MISSION_PX_BASE_INFESTED_BRIEFING_DESCRIPTION,Знищте всіх пандоранів на базі та захистіть якомога більше ключових споруд.
+KEY_MISSION_PX_BASE_INFESTED_BRIEFING_NAME,ЗАЧИСТІТЬ БАЗУ ВІД ПАНДОРАНІВ
+KEY_MORE_INFO,ДЕТАЛЬНИЙ АНАЛІЗ
+KEY_NEXT_ENTRY,НАСТУПНИЙ ЗАПИС
+KEY_NJ_ASSAULT_NAME,ШТУРМОВИК НОВОГО ЄРИХОНА
+KEY_NJ_HEAVY_NAME,ВАЖКИЙ ШТУРМОВИК НОВОГО ЄРИХОНА
+KEY_NJ_SNIPER_NAME,СНАЙПЕР НОВОГО ЄРИХОНА
+KEY_NJ_TECHNICIAN_NAME,ТЕХНІК НОВОГО ЄРИХОНА
+KEY_OBJECTIVE_INFESTED_BASE,Зачистити базу від пандоранів
+KEY_OPTIONS_CUSTOMISABLE_SOLDIERS,ВИПАДКОВЕ ОБМУНДИРУВАННЯ СОЛДАТІВ
+KEY_OPTIONS_USE_BACKERS_NAMES,ВИКОРИСТОВУВАТИ ІМЕНА ПОКРОВИТЕЛІВ
+KEY_PANDORAN_RESEARCH_REPORT,РОЗВІДЗВЕДЕННЯ ПРО ПАНДОРАНІВ {0}/{1}
+KEY_PANDORAN_RESEARCH_REPORT_DESC,Звіти притулків і наукові спостереження виявили нові мутації пандоранів. Доступний такий аналіз:
+KEY_PANDORAN_RESEARCH_REPORT_SUMMARY,ОГЛЯД
+KEY_POP_METER_TT,"Населення, що вижило в притулках. Якщо ця цифра опуститься нижче {0}%, ви програєте гру."
+KEY_PREVIOUS_ENTRY,ПОПЕРЕДНІЙ ЗАПИС
+KEY_PRIEST_FILTER_TT,Фільтр класу «Священник»
+KEY_PU_ASSAULT_NAME,ШТУРМОВИК НЕПОРОЧНИХ
+KEY_PU_HEAVY_NAME,ВАЖКИЙ ШТУРМОВИК НЕПОРОЧНИХ
+KEY_PU_INFILTRATOR_NAME,РОЗВІДНИК НЕПОРОЧНИХ
+KEY_PU_SNIPER_NAME,СНАЙПЕР НЕПОРОЧНИХ
+KEY_PU_TECHNICIAN_NAME,ТЕХНІК НЕПОРОЧНИХ
+KEY_PX_BASE_NAME_PROMPT,Дайте своїй базі унікальну назву
+KEY_RESEARCH_PANDORAN_SPECIES,КЛАСИФІКАЦІЯ ВИДІВ
+KEY_SCV_OVG_RESCUE_SOLDIERS_TT,Урятувати досвідчених незалежних солдатів
+KEY_SCV_OVG_RESCUE_VEHICLE_TT,Повернути покинутий транспорт і забрати предмети з ящиків
+KEY_SCV_OVG_STANDARD_TT,Багате місце — забрати предмети з ящиків і втекти
+KEY_SCV_RESCUE_SOLDIERS_TT,Урятувати незалежних солдатів
+KEY_SCV_RESCUE_VEHICLE_TT,Повернути покинутий транспорт
+KEY_SCV_STANDARD_TT,Забрати предмети з ящиків і втекти
+KEY_SKILLPOINTS_RESET,СКИНУТИ ОЧКИ УМІНЬ
+KEY_SNIPER_FILTER_TT,Фільтр класу «Снайпер»
+KEY_SY_ASSAULT_NAME,ШТУРМОВИК СИНЕДРІОНА
+KEY_SY_INFILTRATOR_NAME,РОЗВІДНИК СИНЕДРІОНА
+KEY_SY_SNIPER_NAME,СНАЙПЕР СИНЕДРІОНА
+KEY_TECHNICIAN_FILTER_TT,Фільтр класу «Технік»
+KEY_TUTORIAL_BASE_ACTIVATION_DESCRIPTION,"У всьому світі розкидано чимало неактивних баз Проєкту «Фенікс». Щоб активувати базу, виберіть її на геоскопі, а потім оберіть у меню пункт АКТИВУВАТИ БАЗУ. Активація потребує ресурсів, і їхня вартість зростає з кожною активованою базою.
+
+Що більше баз ви активуєте, то вища ймовірність того, що на них з'являться пандорани. Перш ніж використовувати базу, вам знадобиться надіслати туди загін, щоб зачистити її від пандоранів."
+KEY_TUTORIAL_BASE_ACTIVATION_NAME,АКТИВАЦІЯ БАЗИ
+KEY_TUTORIAL_PANDORAN_BASE_REVEALED_DESCRIPTION,"Після успішного виконання місії ОБОРОНА ПРИТУЛКУ є шанс виявити колонію пандоранів. Що більше нападів здійснює колонія, то вищий шанс її виявити.
+
+Якщо колонія пандоранів атакує в межах радіуса сканування бази Проєкту «Фенікс», її буде виявлено негайно."
+KEY_TUTORIAL_PANDORAN_BASE_REVEALED_NAME,ВИЯВЛЕННЯ КОЛОНІЙ ПАНДОРАНІВ
+KEY_TUTORIAL_SATELLITE_SCANNING_ORGANIC_DESCRIPTION,"СУПУТНИКОВЕ СКАНУВАННЯ
+
+Справний супутниковий зв'язок на базі почне сканувати навколишні точки, з часом розширюючи область пошуку. Виявлені точки позначаються символом «?» — надішліть туди повітряне судно, щоб ДОСЛІДИТИ їх і дізнатися, що це за місця.
+
+РОЗВІДКА ЗА КОНТАКТОМ
+
+Коли ви виявляєте притулок, поблизу нього визначається розташування низки інших точок. Кількість точок, виявлених у такий спосіб, залежить від розміру та значущості притулку, і зазвичай так виявляються інші притулки тієї самої фракції. Так само можуть бути виявлені й деякі загальні точки для дослідження."
+KEY_TUTORIAL_SATELLITE_SCANNING_ORGANIC_NAME,Супутникове сканування

@@ -1,0 +1,117 @@
+Key,Ukrainian
+KEY_ACIDWORM_DESCRIPTION,Кислотний черв'як
+KEY_ACIDWORM_EGG_DESC,"Коли до нього доторкнутися, з нього вилуплюється кислотний черв'як"
+KEY_ACIDWORM_EGG_NAME,ЯЙЦЕ КИСЛОТНОГО ЧЕРВ'ЯКА
+KEY_ACIDWORM_NAME,КИСЛОТНИЙ ЧЕРВ'ЯК
+KEY_AIRCRAFT_ANU_LONG,"Напівмеханічний, напіворганічний дирижабль Послідовників Ану створений на основі повітряного судна часів до Чуми. Розроблений просторим і міцним у бою, він здатний витримувати значні пошкодження, жертвуючи при цьому швидкістю."
+KEY_AIRCRAFT_NJ_LONG,"Чотиривинтовий транспортний літак вертикального зльоту та посадки третього покоління, розроблений Новим Єрихоном спеціально для сучасних умов поля бою та атмосфери. Увесь корпус вкритий посиленою зовнішньою бронею та антикорозійним покриттям, що забезпечує повний захист усього, що знаходиться всередині."
+KEY_AIRCRAFT_PP_LONG,"Створена інженерами НАСА з використанням найсучасніших технологій, «Мантикора» Фенікса є вершиною сучасної авіації. Оснащена парою двоконтурних турбореактивних двигунів без форсажної камери та вкрита титановим сплавом, ця машина, ймовірно, є єдиним видом транспорту, здатним вижити на відкритій місцевості."
+KEY_AIRCRAFT_SYN_LONG,"Судно на повітряній подушці четвертого покоління, модифіковане Синедріоном для польотів на великих висотах виключно за рахунок технології термоядерних елементів. Вкрите світловідбивним теплопоглинальним матеріалом, це судно здатне на надзвичайну маневреність у повітрі та високу швидкість."
+KEY_ALIEN_SWARMER_DESCRIPTION,Ройовик
+KEY_ALIEN_SWARMER_NAME,РОЙОВИК
+KEY_ALN_CHIRON_DESCRIPTION,Хірон
+KEY_ALN_CHIRON_NAME,ХІРОН
+KEY_ALN_CRABMAN_DESCRIPTION,Артрон
+KEY_ALN_CRABMAN_NAME,АРТРОН
+KEY_ALN_FISHMAN_DESCRIPTION,Тритон
+KEY_ALN_FISHMAN_NAME,ТРИТОН
+KEY_ALN_MINDFRAGGER_DESCRIPTION,Промивач
+KEY_ALN_MINDFRAGGER_NAME,ПРОМИВАЧ
+KEY_ALN_QUEEN_DESCRIPTION,Сцилла
+KEY_ALN_QUEEN_NAME,СКІЛЛА
+KEY_ALN_SENTINEL_HATCHING_DESCRIPTION,Страж-квочка
+KEY_ALN_SENTINEL_HATCHING_NAME,СТРАЖ-КВОЧКА
+KEY_ALN_SENTINEL_MIST_DESCRIPTION,Туманний страж
+KEY_ALN_SENTINEL_MIST_NAME,ТУМАННИЙ СТРАЖ
+KEY_ALN_SENTINEL_TERROR_DESCRIPTION,Страж жаху
+KEY_ALN_SENTINEL_TERROR_NAME,СТРАЖ ЖАХУ
+KEY_ALN_SIREN_DESCRIPTION,Сирена
+KEY_ALN_SIREN_NAME,СИРЕНА
+KEY_ALN_SPAWNING_POOL_DESCRIPTION,Інкубатор
+KEY_ALN_SPAWNING_POOL_NAME,ІНКУБАТОР
+KEY_ALN_YUGGOTHIAN_RECEPTACLE,ЮГГОТСЬКИЙ РЕЦЕПТАКУЛ
+KEY_ALN_YUGGOTHIAN_RECEPTACLE_DESCRIPTION,Югготський рецептакул
+KEY_ARMADILLO_DESCRIPTION,Наземна машина «Броненосець» Нового Єрихона
+KEY_ARMADILLO_NAME,БРОНЕНОСЕЦЬ
+KEY_ASPIDA_DESCRIPTION,Наземна допоміжна машина Синедріона
+KEY_ASPIDA_NAME,АСПІДА
+KEY_ASSAULT_DESCRIPTION,"Універсальний солдат, який є основою кожної армії. Спеціалізується на швидкості та тактичному веденні бою."
+KEY_BERSERKER_DESCRIPTION,Результат селективних генетичних маніпуляцій та безжального вишколу Послідовників Ану. Спеціалізується на агресії та ближньому бою.
+KEY_CIVILIAN_DESCRIPTION,Цивільний
+KEY_CIVILIAN_NAME,ЦИВІЛЬНИЙ
+KEY_CLASS_ASSAULT_DESCRIPTION,Солдат класу «Штурмовик»
+KEY_CLASS_ASSAULT_NAME,ШТУРМОВИК
+KEY_CLASS_BERSERKER_DESCRIPTION,Солдат класу «Берсерк»
+KEY_CLASS_BERSERKER_NAME,БЕРСЕРК
+KEY_CLASS_FILTER,ФІЛЬТР КЛАСУ
+KEY_CLASS_HEAVY_DESCRIPTION,Солдат класу «Важкий штурмовик»
+KEY_CLASS_HEAVY_NAME,ВАЖКИЙ ШТУРМОВИК
+KEY_CLASS_INFILTRATOR_DESCRIPTION,Солдат класу «Розвідник»
+KEY_CLASS_INFILTRATOR_NAME,РОЗВІДНИК
+KEY_CLASS_PRIEST_DESCRIPTION,Солдат класу «Священник»
+KEY_CLASS_PRIEST_NAME,СВЯЩЕННИК
+KEY_CLASS_SNIPER_DESCRIPTION,Солдат класу «Снайпер»
+KEY_CLASS_SNIPER_NAME,СНАЙПЕР
+KEY_CLASS_TECHNICIAN_DESCRIPTION,Солдат класу «Технік»
+KEY_CLASS_TECHNICIAN_NAME,ТЕХНІК
+KEY_CRATE_DESCRIPTION,ЯЩИК
+KEY_CRATE_NAME,ЯЩИК
+KEY_DECOY_CHARACTER_DESCRIPTION,Приманка
+KEY_DECOY_CHARACTER_NAME,ПРИМАНКА
+KEY_EGG,ЯЙЦЕ
+KEY_EGG_DESCRIPTION,ЯЙЦЕ ПРИБУЛЬЦІВ
+KEY_EGG_NAME,ЯЙЦЕ ПРИБУЛЬЦІВ
+KEY_FIREWORM_DESCRIPTION,ВОГНЯНИЙ ЧЕРВ'ЯК
+KEY_FIREWORM_EGG_DESCRIPTION,"Коли по ньому вдарити, з нього вилуплюється вогняний черв'як"
+KEY_FIREWORM_EGG_NAME,ЯЙЦЕ ВОГНЯНОГО ЧЕРВ'ЯКА
+KEY_FIREWORM_NAME,ВОГНЯНИЙ ЧЕРВ'ЯК
+KEY_GEOSCAPE_SY_AIRCRAFT_DESCRIPTION,Літальний апарат Синедріона
+KEY_GEOSCAPE_SY_AIRCRAFT_NAME,ГЕЛІОС
+KEY_GROUNDVEHICLE_ANU_1_LONG,"Диво біоінженерії — Мутог був виведений так, щоб мати самостійне мислення, водночас підкоряючись голосовим командам. Модель v1 здатна стрибати на великі відстані та має отруйний язик і хвіст у формі булави."
+KEY_GROUNDVEHICLE_ANU_2_LONG,"Диво біоінженерії — Мутог був виведений так, щоб мати самостійне мислення, водночас підкоряючись голосовим командам. Модель v2 здатна стрибати на великі відстані та має отруйний язик і шипастий хвіст."
+KEY_GROUNDVEHICLE_ANU_3_LONG,"Диво біоінженерії — Мутог був виведений так, щоб мати самостійне мислення, водночас підкоряючись голосовим командам. Модель v3 має підвищений фактор регенерації, що дозволяє їй лікувати рани прямо на полі бою. Вона має отруйний язик і хвіст у формі булави."
+KEY_GROUNDVEHICLE_ANU_4_LONG,"Диво біоінженерії — Мутог був виведений так, щоб мати самостійне мислення, водночас підкоряючись голосовим командам. Модель v4 має підвищений фактор регенерації, що дозволяє їй лікувати рани прямо на полі бою. Вона має отруйний язик і шипастий хвіст."
+KEY_GROUNDVEHICLE_ANU_5_LONG,"Диво біоінженерії — Мутог був виведений так, щоб мати самостійне мислення, водночас підкоряючись голосовим командам. Модель v5 здатна стрибати на великі відстані та має голову для тарану і хвіст у формі булави."
+KEY_GROUNDVEHICLE_ANU_6_LONG,"Диво біоінженерії — Мутог був виведений так, щоб мати самостійне мислення, водночас підкоряючись голосовим командам. Модель v6 здатна стрибати на великі відстані та має голову для тарану і шипастий хвіст."
+KEY_GROUNDVEHICLE_ANU_7_LONG,"Диво біоінженерії — Мутог був виведений так, щоб мати самостійне мислення, водночас підкоряючись голосовим командам. Модель v7 має підвищений фактор регенерації, що дозволяє їй лікувати рани прямо на полі бою. Вона має голову для тарану і хвіст у формі булави."
+KEY_GROUNDVEHICLE_ANU_8_LONG,"Диво біоінженерії — Мутог був виведений так, щоб мати самостійне мислення, водночас підкоряючись голосовим командам. Модель v8 має підвищений фактор регенерації, що дозволяє їй лікувати рани прямо на полі бою. Вона має голову для тарану і шипастий хвіст."
+KEY_GROUNDVEHICLE_NJ_LONG,"Повністю керований штучним інтелектом позашляховий бронетранспортер, що використовує гібридний електричний заряд і біопаливо. Оснащений автоматизованою гаусівською гарматною туреллю, цей транспортний засіб здатний перевозити до 4 солдатів через небезпечні території без ризику зараження."
+KEY_GROUNDVEHICLE_PP_LONG,"Прототип передового бронетранспортера, який спочатку був створений для використання в Третій світовій війні. Вдосконалений встановленою здвоєною ракетною установкою, розробленою на основі гармати «Гель I», цей транспортний засіб може перевозити загін з 4 бійців у будь-яку точку поля бою і назад."
+KEY_GROUNDVEHICLE_SYN_LONG,"Заснована на авіаційних технологіях, «Аспіда» — це бойове судно на повітряній подушці, яке живиться виключно за рахунок технології термоядерних елементів. Здатне перевозити загін із 1 бійця, це судно оснащене автоматизованою польовою хірургічною роботехнікою, що дозволяє лікувати або паралізувати біологічні об'єкти на полі бою."
+KEY_HEAVY_DESCRIPTION,"Чемпіон поля бою, здатний завдавати і витримувати величезні пошкодження. Майстерно володіє важкою зброєю та бронею."
+KEY_INFILTRATOR_DESCRIPTION,"Таємний спеціаліст, навчений передовим технологіям і тактиці Синедріона. Спеціалізується на скритності та хитрощах."
+KEY_MINDFRAGGER_EGG_DESCRIPTION,ЯЙЦЕ ПРОМИВАЧА
+KEY_MINDFRAGGER_EGG_NAME,ЯЙЦЕ ПРОМИВАЧА
+KEY_MUTOG_DESCRIPTION,Мутог
+KEY_MUTOG_NAME,МУТОГ
+KEY_MUTOG_POISON_AGILE_BASHER_DESCRIPTION,Отруйний спритний мутог-трощій
+KEY_MUTOG_POISON_AGILE_BASHER_NAME,ШАМАШ
+KEY_MUTOG_POISON_AGILE_BLADED_DESCRIPTION,Отруйний спритний мутог-різун
+KEY_MUTOG_POISON_AGILE_BLADED_NAME,НАННА
+KEY_MUTOG_POISON_REGEN_BASHER_DESCRIPTION,Отруйний регенеруючий мутог-трощій
+KEY_MUTOG_POISON_REGEN_BASHER_NAME,ГУДУД
+KEY_MUTOG_POISON_REGEN_BLADED_DESCRIPTION,Отруйний регенеруючий мутог-різун
+KEY_MUTOG_POISON_REGEN_BLADED_NAME,ДЛІБАТ
+KEY_MUTOG_RAM_AGILE_BASHER_DESCRIPTION,Таранний спритний мутог-трощій
+KEY_MUTOG_RAM_AGILE_BASHER_NAME,МАСТАБАРРУ
+KEY_MUTOG_RAM_AGILE_BLADED_DESCRIPTION,Таранний спритний мутог-різун
+KEY_MUTOG_RAM_AGILE_BLADED_NAME,УМУНПАДДУ
+KEY_MUTOG_RAM_REGEN_BASHER_DESCRIPTION,Таранний регенеруючий мутог-трощій
+KEY_MUTOG_RAM_REGEN_BASHER_NAME,КАЙМАНУ
+KEY_MUTOG_RAM_REGEN_BLADED_DESCRIPTION,Таранний регенеруючий мутог-різун
+KEY_MUTOG_RAM_REGEN_BLADED_NAME,НІНКАШІ
+KEY_POISONWORM_DESCRIPTION,Отруйний черв'як
+KEY_POISONWORM_EGG_DESC,"Коли по ньому вдарити, з нього вилуплюється отруйний черв'як"
+KEY_POISONWORM_EGG_NAME,ЯЙЦЕ ОТРУЙНОГО ЧЕРВ'ЯКА
+KEY_POISONWORM_NAME,ОТРУЙНИЙ ЧЕРВ'ЯК
+KEY_PRIEST_DESCRIPTION,Вершина еволюції Послідовників Ану. Володіє псіонічними здібностями та вміє керувати Мутогами.
+KEY_PX_SENTRY_TURRET_DESCRIPTION,Сторожова турель бази Фенікса
+KEY_PX_SENTRY_TURRET_NAME,СТОРОЖОВА ТУРЕЛЬ БАЗИ ФС
+KEY_SCARAB_DESCRIPTION,Бронована бойова машина Фенікса
+KEY_SCARAB_NAME,СКАРАБЕЙ ФС
+KEY_SNIPER_DESCRIPTION,"Влучний стрілець на далекі відстані, здатний завдавати величезних пошкоджень одним пострілом. Зосереджений на точності та влучності."
+KEY_SOLDER_DESCRIPTION,Солдат
+KEY_SOLDIER_NAME,СОЛДАТ
+KEY_SPIDER_DRONE_DESCRIPTION,Дрон-павук
+KEY_SPIDER_DRONE_NAME,ДРОН-ПАВУК
+KEY_TECHNICIAN_DESCRIPTION,"Інженерний спеціаліст, здатний керувати нейротехнічними приладдями. Спеціалізується на підтримці та механічних пристроях."

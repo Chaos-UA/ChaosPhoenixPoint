@@ -1,0 +1,390 @@
+Key,Ukrainian
+KEY_AMMO_AN_ACID_HANDGUN_DESCRIPTION,Магазин кислотного пістолета Послідовників Ану
+KEY_AMMO_AN_ACID_HANDGUN_NAME,Магазин «Святитель»
+KEY_AMMO_AN_HAND_CANNON_DESCRIPTION,Магазин ручниці Послідовників Ану
+KEY_AMMO_AN_HAND_CANNON_NAME,Магазин «Гнів Нергала»
+KEY_AMMO_AN_REDEMPTOR_DESCRIPTION,Магазин вірусної гвинтівки Послідовників Ану
+KEY_AMMO_AN_REDEMPTOR_NAME,Магазин «Спокутувач»
+KEY_AMMO_AN_SHOTGUN_DESCRIPTION,Магазин дробовика Послідовників Ану
+KEY_AMMO_AN_SHOTGUN_NAME,Магазин «Іконоборець»
+KEY_AMMO_AN_SHREDDING_SHOTGUNN_NAME,Магазин «Спустошувач»
+KEY_AMMO_AN_SHREDDING_SHOTGUN_DESCRIPTION,Магазин розривного дробовика Послідовників Ану
+KEY_AMMO_AN_SUBJECTOR_DESCRIPTION,Магазин вірусної снайперської гвинтівки Послідовників Ану
+KEY_AMMO_AN_SUBJECTOR_NAME,Магазин «Підкорювач»
+KEY_AMMO_ASSAULT_RIFLE_DESCRIPTION,Магазин штурмової гвинтівки Гаусса Нового Єрихона
+KEY_AMMO_ASSAULT_RIFLE_NAME,Магазин «Бульдог AR-50»
+KEY_AMMO_GRENADE_LAUNCHER_DESCRIPTION,Магазин гранатомета Фенікса
+KEY_AMMO_GRENADE_LAUNCHER_NAME,Магазин «Голіаф GL-2»
+KEY_AMMO_HAND_GUN_NAME,Магазин пістолета «Залізна лють»
+KEY_AMMO_HAND_GUN_NAME_DESCRIPTION,Магазин пістолета Гаусса Нового Єрихона
+KEY_AMMO_LASER_ARRAY_CANNON_DESCRIPTION,Енергоблок лазерної гармати Фенікса
+KEY_AMMO_LASER_ARRAY_CANNON_NAME,Енергоблок «Дестіні III»
+KEY_AMMO_MACHINE_GUN_DESCRIPTION,Магазин кулемета Гаусса Нового Єрихона
+KEY_AMMO_MACHINE_GUN_NAME,Магазин «Ошуканець MG»
+KEY_AMMO_NE_ASSAULT_RIFLE_DESCRIPTION,Магазин штурмової гвинтівки Незалежних
+KEY_AMMO_NE_ASSAULT_RIFLE_NAME,Магазин «Ять AR»
+KEY_AMMO_NE_MACHINE_GUN_DESCRIPTION,Магазин кулемета Незалежних
+KEY_AMMO_NE_MACHINE_GUN_NAME,Магазин «Ураган MG»
+KEY_AMMO_NE_PISTOL_DESCRIPTION,Магазин пістолета Незалежних
+KEY_AMMO_NE_PISTOL_NAME,Магазин «Удар HG»
+KEY_AMMO_NE_SNIPER_RIFLE_DESCRIPTION,Магазин снайперської гвинтівки Незалежних
+KEY_AMMO_NE_SNIPER_RIFLE_NAME,Магазин «Вяра SR»
+KEY_AMMO_NJ_GUIDED_MISSILE_LAUNCHER_DESCRIPTION,Удосконалена ракета Нового Єрихона
+KEY_AMMO_NJ_GUIDED_MISSILE_LAUNCHER_NAME,Ракета «Тор AML»
+KEY_AMMO_NJ_HEAVY_ROCKET_LAUNCHER_DESCRIPTION,Боєприпаси важкої ракетної установки Нового Єрихона
+KEY_AMMO_NJ_HEAVY_ROCKET_LAUNCHER_NAME,Магазин ракет «Архангел RL1»
+KEY_AMMO_NJ_PIERCING_ASSAULT_RIFLE_DESCRIPTION,Магазин бронебійної штурмової гвинтівки Нового Єрихона
+KEY_AMMO_NJ_PIERCING_ASSAULT_RIFLE_NAME,Магазин «Піранья AR-51»
+KEY_AMMO_NJ_PIERCING_PDW_DESCRIPTION,Магазин бронебійної ОЗС Нового Єрихона
+KEY_AMMO_NJ_PIERCING_PDW_NAME,Магазин «Силовик VDM»
+KEY_AMMO_NJ_PIERCING_SNIPER_RIFLE_DESCRIPTION,Магазин бронебійної снайперської гвинтівки Нового Єрихона
+KEY_AMMO_NJ_PIERCING_SNIPER_RIFLE_NAME,Магазин «Ворон SR13»
+KEY_AMMO_NJ_PIERCING_TURRET_DESCRIPTION,Магазин бронебійної автотурелі Нового Єрихона
+KEY_AMMO_NJ_PIERCING_TURRET_NAME,Магазин «Гримуча змія AT»
+KEY_AMMO_PDW_MAGAZINE_DESCRIPTION,Магазин ОЗС Гаусса Нового Єрихона
+KEY_AMMO_PDW_MAGAZINE_NAME,Магазин «Захисник VDM»
+KEY_AMMO_PX_ACID_CANNON_DESCRIPTION,Магазин кислотної гармати Фенікса
+KEY_AMMO_PX_ACID_CANNON_NAME,Магазин гармати «Йормунганд»
+KEY_AMMO_PX_ASSAULT_RIFLE_DESCRIPTION,Магазин штурмової гвинтівки Фенікса
+KEY_AMMO_PX_ASSAULT_RIFLE_NAME,Магазин «Арес AR-1»
+KEY_AMMO_PX_LASER_PDW_DESCRIPTION,Енергоблок лазерної ОЗС Фенікса
+KEY_AMMO_PX_LASER_PDW_NAME,Енергоблок «Око Горгони-А»
+KEY_AMMO_PX_LASER_TURRET_DESCRIPTION,Магазин лазерної автотурелі Фенікса
+KEY_AMMO_PX_LASER_TURRET_NAME,Магазин «Спопелювач AT»
+KEY_AMMO_PX_PISTOL_DESCRIPTION,Магазин пістолета Фенікса
+KEY_AMMO_PX_PISTOL_NAME,Магазин «Шифр HG»
+KEY_AMMO_PX_VIROPHAGE_SNIPER_RIFLE_DESCRIPTION,Магазин вірофагової снайперської гвинтівки Фенікса
+KEY_AMMO_PX_VIROPHAGE_SNIPER_RIFLE_NAME,Магазин «Гунгнір SR-2»
+KEY_AMMO_ROCKET_LAUNCHER_DESCRIPTION,Ракета ракетної установки Нового Єрихона
+KEY_AMMO_ROCKET_LAUNCHER_NAME,Ракета «Лють-2»
+KEY_AMMO_SHOTGUN_DESCRIPTION,Магазин дробовика Фенікса
+KEY_AMMO_SHOTGUN_NAME,Магазин «Милосердя SG3»
+KEY_AMMO_SHRED_LAUNCHER_DESCRIPTION,Ракета розривної ракетної установки Фенікса
+KEY_AMMO_SHRED_LAUNCHER_NAME,Ракета «Рагнарок»
+KEY_AMMO_SNIPER_PX_RIFLE_DESCRIPTION,Магазин снайперської гвинтівки Фенікса
+KEY_AMMO_SNIPER_PX_RIFLE_NAME,Магазин «Жар-птиця SR»
+KEY_AMMO_SNIPER_RIFLE_DESCRIPTION,Магазин снайперської гвинтівки Гаусса Нового Єрихона
+KEY_AMMO_SNIPER_RIFLE_NAME,Магазин «Циклоп SR7»
+KEY_AMMO_SY_CROSSBOW_DESCRIPTION,Сагайдак арбалета Синедріона
+KEY_AMMO_SY_CROSSBOW_NAME,Сагайдак «Ерос CRB III»
+KEY_AMMO_SY_LASER_ASSAULT_RIFLE_DESCRIPTION,Магазин лазерної штурмової гвинтівки Синедріона
+KEY_AMMO_SY_LASER_ASSAULT_RIFLE_NAME,Магазин «Деймос AR-L»
+KEY_AMMO_SY_LASER_PISTOL_DESCRIPTION,Магазин лазерного пістолета Синедріона
+KEY_AMMO_SY_LASER_PISTOL_NAME,Магазин «Гефест II»
+KEY_AMMO_SY_LASER_SNIPER_RIFLE_DESCRIPTION,Магазин лазерної снайперської гвинтівки Синедріона
+KEY_AMMO_SY_LASER_SNIPER_RIFLE_NAME,Магазин «Піфагор VII»
+KEY_AMMO_SY_NEURAL_PISTOL_DESCRIPTION,Магазин нейронного пістолета Синедріона
+KEY_AMMO_SY_NEURAL_PISTOL_NAME,Магазин «Гера NP-1»
+KEY_AMMO_SY_NEURAL_SNIPER_RIFLE_DESCRIPTION,Магазин нейронної снайперської гвинтівки Синедріона
+KEY_AMMO_SY_NEURAL_SNIPER_RIFLE_NAME,Магазин «Афіна NS-2»
+KEY_AMMO_SY_POISON_CROSSBOW_DESCRIPTION,Сагайдак отруйного арбалета Синедріона
+KEY_AMMO_SY_POISON_CROSSBOW_NAME,Сагайдак «Психея CRB IV»
+KEY_AMMO_SY_SPIDER_DESCRIPTION,Спеціальний набір пістолета дрона-павука Синедріона
+KEY_AMMO_SY_SPIDER_NAME,Набір «Арахні SP 1»
+KEY_AMMO_TURRET_DESCRIPTION,Магазин автотурелі Гаусса Нового Єрихона
+KEY_AMMO_TURRET_NAME,Магазин «Вартовий AT»
+KEY_AN_ACID_GRENADE_DESCRIPTION,Кислотна граната Послідовників Ану
+KEY_AN_ACID_GRENADE_NAME,Граната «Імхуллу»
+KEY_AN_ACID_HANDGUN_DESCRIPTION,Кислотний пістолет Послідовників Ану
+KEY_AN_ACID_HANDGUN_NAME,Святитель
+KEY_AN_ASSAULT_BODY_DESCRIPTION,Нагрудна броня штурмовика Послідовників Ану
+KEY_AN_ASSAULT_BODY_NAME2,Нагрудна броня «Послушник»
+KEY_AN_ASSAULT_HELMET_DESCRIPTION,Шолом штурмовика Послідовників Ану
+KEY_AN_ASSAULT_HELMET_NAME2,Шолом «Послушник»
+KEY_AN_ASSAULT_LEGS_DESCRIPTION,Ножна броня штурмовика Послідовників Ану
+KEY_AN_ASSAULT_LEGS_NAME2,Ножна броня «Послушник»
+KEY_AN_BERSERKER_BODY_DESCRIPTION,Нагрудна броня берсерка Послідовників Ану
+KEY_AN_BERSERKER_BODY_NAME2,Нагрудна броня «Аксу»
+KEY_AN_BERSERKER_HELMET_DESCRIPTION,Шолом берсерка Послідовників Ану
+KEY_AN_BERSERKER_HELMET_NAME2,Шолом «Аксу»
+KEY_AN_BERSERKER_LEGS_DESCRIPTION,Ножна броня берсерка Послідовників Ану
+KEY_AN_BERSERKER_LEGS_NAME2,Ножна броня «Аксу»
+KEY_AN_BLADE_DESCRIPTION,Клинок Послідовників Ану
+KEY_AN_BLADE_NAME,Зуб Дагона
+KEY_AN_HAMMER_DESCRIPTION,Бойовий молот Послідовників Ану
+KEY_AN_HAMMER_NAME,Кулак Мардука
+KEY_AN_HAND_CANNON_DESCRIPTION,Ручниця Послідовників Ану
+KEY_AN_HAND_CANNON_NAME,Гнів Нергала
+KEY_AN_MACE_DESCRIPTION,Булава Послідовників Ану
+KEY_AN_MACE_NAME,Нащадок Шарура
+KEY_AN_PRIEST_BODY_DESCRIPTION,Нагрудна броня священника Послідовників Ану
+KEY_AN_PRIEST_BODY_NAME2,Нагрудна броня «Амфіон»
+KEY_AN_PRIEST_LEGS_DESCRIPTION,Ножна броня священника Послідовників Ану
+KEY_AN_PRIEST_LEGS_NAME2,Ножна броня «Амфіон»
+KEY_AN_REDEMPTOR_DESCRIPTION,Вірусна гвинтівка Послідовників Ану
+KEY_AN_REDEMPTOR_NAME,Спокутувач
+KEY_AN_SHOTGUN_DESCRIPTION,Дробовик Послідовників Ану
+KEY_AN_SHOTGUN_NAME,Іконоборець
+KEY_AN_SHREDDING_SHOTGUN_DESCRIPTION,Розривний дробовик Послідовників Ану
+KEY_AN_SHREDDING_SHOTGUN_NAME,Спустошувач
+KEY_AN_SUBJECTOR_DESCRIPTION,Вірусна снайперська гвинтівка Послідовників Ану
+KEY_AN_SUBJECTOR_NAME,Підкорювач
+KEY_ARMOR_TT,"Броня забезпечує додатковий захист (для частин тіла, які вона покриває) у бою та може змінювати характеристики солдата. Броню можна екіпірувати лише в розділі спорядження особового складу."
+KEY_CHITIN_BODY_ARMOR_DESCRIPTION,Біотехнологічна нагрудна броня
+KEY_CHITIN_BODY_ARMOR_NAME2,Нагрудна броня «Самну»
+KEY_CHITIN_HELMET_DESCRIPTION,Біотехнологічний шолом
+KEY_CHITIN_HELMET_NAME2,Шолом «Самну»
+KEY_CHITIN_LEG_ARMOR_DESCRIPTION,Біотехнологічна ножна броня
+KEY_CHITIN_LEG_ARMOR_NAME2,Ножна броня «Самну»
+KEY_GRENADE_DESCRIPTION,ГРАНАТА
+KEY_GRENADE_NAME,ГРАНАТА
+KEY_INVENTORY_IN_ARMOR,У БРОНІ
+KEY_INVENTORY_IN_BACKPACK,У РЮКЗАКУ
+KEY_INVENTORY_IN_READY_ITEMS,У ГОТОВИХ ПРЕДМЕТАХ
+KEY_INVENTORY_IN_STORAGE,НА ЗБЕРІГАННІ
+KEY_IN_ASSAULT_BODY_DESCRIPTION,Нагрудна броня штурмовика
+KEY_IN_ASSAULT_BODY_NAME2,Нагрудна броня «Преторіанець-2»
+KEY_IN_ASSAULT_HELMET_DESCRIPTION,Шолом штурмовика
+KEY_IN_ASSAULT_HELMET_NAME2,Шолом «Преторіанець-2»
+KEY_IN_ASSAULT_LEGS_DESCRIPTION,Ножна броня штурмовика
+KEY_IN_ASSAULT_LEGS_NAME2,Ножна броня «Преторіанець-2»
+KEY_LIVING_MACHINE_GUN_DESCRIPTION,"Живий кулемет, що стріляє отрутою"
+KEY_LIVING_MACHINE_GUN_NAME,Данчев MG
+KEY_LIVING_RIFLE_DESCRIPTION,"Жива штурмова гвинтівка, що стріляє кислотою"
+KEY_LIVING_RIFLE_NAME,Данчев AR
+KEY_MACHINE_GUN_DESCRIPTION,КУЛЕМЕТ
+KEY_MACHINE_GUN_NAME,КУЛЕМЕТ
+KEY_MACHINE_GUN_POISON_DESCRIPTION,"Кулемет, що отруює"
+KEY_MACHINE_GUN_POISON_NAME,ОТРУЙНИЙ КУЛЕМЕТ
+KEY_MECHARMS,Маніпулятори
+KEY_MECHARMS_CHARGE_DESCRIPTION,Енергоблок маніпуляторів Нового Єрихона
+KEY_MECHARMS_CHARGE_NAME,Енергоблок маніпуляторів VVA-2
+KEY_MECH_ARMS_DESCRIPTION,Маніпулятори Нового Єрихона
+KEY_MECH_ARMS_NAME,Маніпулятори VVA-2
+KEY_MEDKIT_CHARGE_DESCRIPTION,Наноплазмова перезарядка аптечки
+KEY_MEDKIT_CHARGE_NAME,ЗАРЯД ДЛЯ АПТЕЧКИ
+KEY_MEDKIT_DESCRIPTION,Відновлює {GeneralHealAmount} очок здоров'я та усуває кровотечу й отруєння
+KEY_MEDKIT_NAME,Аптечка
+KEY_MOUNTED_WEAPONS_TT,"Зброя та модулі, прикріплені до броні. Вони завжди екіпіровані й можуть надавати додаткові дії та здібності, а також додатковий слот для готового предмета."
+KEY_MUTATION_PART_HEAD_ARMORED_DESCRIPTION,Мутація Послідовників Ану: броньована голова
+KEY_MUTATION_PART_HEAD_ARMORED_NAME2,Броньована голова
+KEY_MUTATION_PART_HEAD_PERCEPTOR_DESCRIPTION,Мутація Послідовників Ану: голова-персептор
+KEY_MUTATION_PART_HEAD_PERCEPTOR_NAME2,Голова-персептор
+KEY_MUTATION_PART_HEAD_RESISTOR_DESCRIPTION,Мутація Послідовників Ану: голова-резистор
+KEY_MUTATION_PART_HEAD_RESISTOR_NAME2,Голова-резистор
+KEY_MUTATION_PART_LEG_AGILE_DESCRIPTION,Мутація Послідовників Ану: спритні ноги
+KEY_MUTATION_PART_LEG_AGILE_NAME2,Спритні ноги
+KEY_MUTATION_PART_LEG_SNEAKER_DESCRIPTION,Мутація Послідовників Ану: потайні ноги
+KEY_MUTATION_PART_LEG_SNEAKER_NAME2,Тіньові ноги
+KEY_MUTATION_PART_LEG_STOMPER_DESCRIPTION,Мутація Послідовників Ану: ноги-топтуни
+KEY_MUTATION_PART_LEG_STOMPER_NAME2,Ноги-топтуни
+KEY_MUTATION_PART_PRIEST_JUDGEMENT_DESCRIPTION,Мутація Послідовників Ану: голова священника суду
+KEY_MUTATION_PART_PRIEST_JUDGEMENT_NAME2,Судна голова
+KEY_MUTATION_PART_PRIEST_SCREAMING_DESCRIPTION,Мутація Послідовників Ану: кричуща голова священника
+KEY_MUTATION_PART_PRIEST_SCREAMING_NAME2,Кричуща голова
+KEY_MUTATION_PART_PRIEST_SYNOD_DESCRIPTION,Мутація Послідовників Ану: голова священника Синоду
+KEY_MUTATION_PART_PRIEST_SYNOD_NAME2,Голова Синоду
+KEY_MUTATION_PART_TORSO_REGEN_DESCRIPTION,Мутація Послідовників Ану: регенеративний тулуб
+KEY_MUTATION_PART_TORSO_REGEN_NAME2,Регенеративний тулуб
+KEY_MUTATION_PART_TORSO_SHOOT_DESCRIPTION,Мутація Послідовників Ану: отруйний тулуб
+KEY_MUTATION_PART_TORSO_SHOOT_NAME2,Отруйний тулуб
+KEY_MUTATION_PART_TORSO_TENTACLE_DESCRIPTION,Мутація Послідовників Ану: тулуб зі щупальцями
+KEY_MUTATION_PART_TORSO_TENTACLE_NAME2,Тулуб зі щупальцями
+KEY_NEU_ASSAULT_BODY_DESCRIPTION,Нагрудна броня штурмовика
+KEY_NEU_ASSAULT_BODY_NAME2,Нагрудна броня «Преторіанець-2»
+KEY_NEU_ASSAULT_HELMET_DESCRIPTION,Шолом штурмовика
+KEY_NEU_ASSAULT_HELMET_NAME2,Шолом «Преторіанець-2»
+KEY_NEU_ASSAULT_LEGS_DESCRIPTION,Ножна броня штурмовика
+KEY_NEU_ASSAULT_LEGS_NAME2,Ножна броня «Преторіанець-2»
+KEY_NEU_HEAVY_BODY_DESCRIPTION,Важка нагрудна броня
+KEY_NEU_HEAVY_BODY_NAME2,Нагрудна броня «Страж XA»
+KEY_NEU_HEAVY_HELMET_DESCRIPTION,Важкий шолом
+KEY_NEU_HEAVY_HELMET_NAME2,Шолом «Страж XA»
+KEY_NEU_HEAVY_LEGS_DESCRIPTION,Важка ножна броня
+KEY_NEU_HEAVY_LEGS_NAME2,Ножна броня «Страж XA»
+KEY_NEU_SNIPER_BODY_DESCRIPTION,Нагрудна броня снайпера
+KEY_NEU_SNIPER_BODY_NAME2,Нагрудна броня «Болотяний кіт»
+KEY_NEU_SNIPER_HELMET_DESCRIPTION,Шолом снайпера
+KEY_NEU_SNIPER_HELMET_NAME2,Шолом «Болотяний кіт»
+KEY_NEU_SNIPER_LEGS_DESCRIPTION,Ножна броня снайпера
+KEY_NEU_SNIPER_LEGS_NAME2,Ножна броня «Болотяний кіт»
+KEY_NE_ASSAULT_RIFLE_DESCRIPTION,Штурмова гвинтівка Незалежних
+KEY_NE_ASSAULT_RIFLE_NAME,Ять AR
+KEY_NE_MACHINE_GUN_DESCRIPTION,Кулемет Незалежних
+KEY_NE_MACHINE_GUN_NAME,Ураган MG
+KEY_NE_PISTOL_DESCRIPTION,Пістолет Незалежних
+KEY_NE_PISTOL_NAME,Удар HG
+KEY_NE_SNIPER_RIFLE_DESCRIPTION,Снайперська гвинтівка Незалежних
+KEY_NE_SNIPER_RIFLE_NAME,Вяра SR
+KEY_NJ_ASSAULT_BODY_DESCRIPTION,Нагрудна броня штурмовика Нового Єрихона
+KEY_NJ_ASSAULT_BODY_NAME2,Нагрудна броня «Вояка»
+KEY_NJ_ASSAULT_DESCRIPTION,Штурмовик Нового Єрихона
+KEY_NJ_ASSAULT_HELMET_DESCRIPTION,Шолом штурмовика Нового Єрихона
+KEY_NJ_ASSAULT_HELMET_NAME2,Шолом «Вояка»
+KEY_NJ_ASSAULT_LEGS_DESCRIPTION,Ножна броня штурмовика Нового Єрихона
+KEY_NJ_ASSAULT_LEGS_NAME2,Ножна броня «Вояка»
+KEY_NJ_ASSAULT_RIFLE_DESCRIPTION,Штурмова гвинтівка Гаусса Нового Єрихона
+KEY_NJ_ASSAULT_RIFLE_NAME,Бульдог AR-50
+KEY_NJ_FIRE_RES_VEST_ATTACHMENT_DESCRIPTION,Вогнестійкий модуль підкостюма Нового Єрихона
+KEY_NJ_FIRE_RES_VEST_ATTACHMENT_NAME,Вогнестійкий жилетний модуль
+KEY_NJ_FLAMETHROWER_AMMO_DESCRIPTION,Каністра з паливом для вогнемета Нового Єрихона
+KEY_NJ_FLAMETHROWER_AMMO_NAME,Каністра з паливом «Данте FT»
+KEY_NJ_FLAMETHROWER_DESCRIPTION,Вогнемет Нового Єрихона
+KEY_NJ_FLAMETHROWER_NAME,Данте FT
+KEY_NJ_GRENADE_NAME,Граната «Ванадій»
+KEY_NJ_GRENADE_NAME_DESCRIPTION,Граната Нового Єрихона
+KEY_NJ_GUIDED_MISSILE_LAUNCHER_DESCRIPTION,Удосконалена ракетна установка Нового Єрихона
+KEY_NJ_GUIDED_MISSILE_LAUNCHER_NAME,Тор AML
+KEY_NJ_HEAVY_BODY_DESCRIPTION,Важка нагрудна броня Нового Єрихона
+KEY_NJ_HEAVY_BODY_NAME2,Нагрудна броня «Ковадло-2»
+KEY_NJ_HEAVY_DESCRIPTION,Важкий штурмовик Нового Єрихона
+KEY_NJ_HEAVY_HELMET_DESCRIPTION,Важкий шолом Нового Єрихона
+KEY_NJ_HEAVY_HELMET_NAME2,Шолом «Ковадло-2»
+KEY_NJ_HEAVY_LEGS_DESCRIPTION,Важка ножна броня Нового Єрихона
+KEY_NJ_HEAVY_LEGS_NAME2,Ножна броня «Ковадло-2»
+KEY_NJ_HEAVY_ROCKET_LAUNCHER_DESCRIPTION,Важка ракетна установка Нового Єрихона
+KEY_NJ_HEAVY_ROCKET_LAUNCHER_NAME,Архангел RL1
+KEY_NJ_MACHINE_GUN_DESCRIPTION,Кулемет Гаусса Нового Єрихона
+KEY_NJ_MACHINE_GUN_NAME,Ошуканець MG
+KEY_NJ_MISSILE_LAUNCHER_DESCRIPTION,Ракетна установка Нового Єрихона
+KEY_NJ_MISSILE_LAUNCHER_NAME,Лють-2
+KEY_NJ_PDW_DESCRIPTION,ОЗС Гаусса Нового Єрихона
+KEY_NJ_PDW_NAME,Захисник VDM
+KEY_NJ_PIERCING_ASSAULT_RIFLE_DESCRIPTION,Бронебійна штурмова гвинтівка Нового Єрихона
+KEY_NJ_PIERCING_ASSAULT_RIFLE_NAME,Піранья AR-51
+KEY_NJ_PIERCING_PDW_DESCRIPTION,Бронебійна ОЗС Нового Єрихона
+KEY_NJ_PIERCING_PDW_NAME,Силовик VDM
+KEY_NJ_PIERCING_SNIPER_RIFLE_DESCRIPTION,Бронебійна снайперська гвинтівка Нового Єрихона
+KEY_NJ_PIERCING_SNIPER_RIFLE_NAME,Ворон SR13
+KEY_NJ_PIERCING_TURRET_DESCRIPTION,Бронебійна автотурель Нового Єрихона
+KEY_NJ_PIERCING_TURRET_NAME,Гримуча змія AT
+KEY_NJ_PISTOL_NAME,Залізна лють HG
+KEY_NJ_PISTOL_NAME_DESCRIPTION,Пістолет Гаусса Нового Єрихона
+KEY_NJ_SNIPER_BODY_DESCRIPTION,Нагрудна броня снайпера Нового Єрихона
+KEY_NJ_SNIPER_BODY_NAME2,Нагрудна броня «Ейдолон»
+KEY_NJ_SNIPER_DESCRIPTION,Снайпер Нового Єрихона
+KEY_NJ_SNIPER_HELMET_DESCRIPTION,Шолом снайпера Нового Єрихона
+KEY_NJ_SNIPER_HELMET_NAME2,Шолом «Ейдолон»
+KEY_NJ_SNIPER_LEGS_DESCRIPTION,Ножна броня снайпера Нового Єрихона
+KEY_NJ_SNIPER_LEGS_NAME2,Ножна броня «Ейдолон»
+KEY_NJ_SNIPER_RIFLE_DESCRIPTION,Снайперська гвинтівка Гаусса Нового Єрихона
+KEY_NJ_SNIPER_RIFLE_NAME,Циклоп SR7
+KEY_NJ_TECHNICIAN_BODY_DESCRIPTION,Нагрудна броня техніка Нового Єрихона
+KEY_NJ_TECHNICIAN_BODY_NAME2,Нагрудна броня «ТехОпс-7»
+KEY_NJ_TECHNICIAN_DESCRIPTION,Технік Нового Єрихона
+KEY_NJ_TECHNICIAN_HELMET_DESCRIPTION,Шолом техніка Нового Єрихона
+KEY_NJ_TECHNICIAN_HELMET_NAME2,Шолом «ТехОпс-7»
+KEY_NJ_TECHNICIAN_LEGS_DESCRIPTION,Ножна броня техніка Нового Єрихона
+KEY_NJ_TECHNICIAN_LEGS_NAME2,Ножна броня «ТехОпс-7»
+KEY_PX_ACID_CANNON_DESCRIPTION,Кислотна гармата Фенікса
+KEY_PX_ACID_CANNON_NAME,Гармата «Йормунганд»
+KEY_PX_AMMO_HEAVY_CANNON_DESCRIPTION,Магазин важкої гармати Фенікса
+KEY_PX_AMMO_HEAVY_CANNON_NAME,Магазин гармати «Хель II»
+KEY_PX_ASSAULT_BODY_DESCRIPTION,Нагрудна броня штурмовика Фенікса
+KEY_PX_ASSAULT_BODY_NAME2,Нагрудна броня «Одін»
+KEY_PX_ASSAULT_HELMET_DESCRIPTION,Шолом штурмовика Фенікса
+KEY_PX_ASSAULT_HELMET_NAME2,Шолом «Одін»
+KEY_PX_ASSAULT_LEGS_DESCRIPTION,Ножна броня штурмовика Фенікса
+KEY_PX_ASSAULT_LEGS_NAME2,Ножна броня «Одін»
+KEY_PX_ASSAULT_RIFLE_DESCRIPTION,Штурмова гвинтівка Фенікса
+KEY_PX_ASSAULT_RIFLE_NAME,Арес AR-1
+KEY_PX_GOO_REPEL_ATTACHMENT_DESCRIPTION,Протислизовий модуль черевиків Фенікса
+KEY_PX_GOO_REPEL_ATTACHMENT_NAME,Протислизовий модуль — Марк C
+KEY_PX_GRENADE_DESCRIPTION,Граната Фенікса
+KEY_PX_GRENADE_LAUNCHER_DESCRIPTION,Гранатомет Фенікса
+KEY_PX_GRENADE_LAUNCHER_NAME,Голіаф GL-2
+KEY_PX_GRENADE_NAME,Граната «Одін»
+KEY_PX_HEAVY_BODY_DESCRIPTION,Важка нагрудна броня Фенікса
+KEY_PX_HEAVY_BODY_NAME2,Нагрудна броня «Голем-Б»
+KEY_PX_HEAVY_CANNON_DESCRIPTION,Важка гармата Фенікса
+KEY_PX_HEAVY_CANNON_NAME,Гармата «Хель II»
+KEY_PX_HEAVY_HELMET_DESCRIPTION,Важкий шолом Фенікса
+KEY_PX_HEAVY_HELMET_NAME2,Шолом «Голем-Б»
+KEY_PX_HEAVY_LEGS_DESCRIPTION,Важка ножна броня Фенікса
+KEY_PX_HEAVY_LEGS_NAME2,Ножна броня «Голем-Б»
+KEY_PX_INCINDIERY_GRENADE_DESCRIPTION,Запалювальна граната Нового Єрихона
+KEY_PX_INCINDIERY_GRENADE_NAME,Граната очищення
+KEY_PX_LASER_ARRAY_DESCRIPTION,Лазерна гармата Фенікса
+KEY_PX_LASER_ARRAY_NAME,Дестіні III
+KEY_PX_LASER_PDW_DESCRIPTION,Лазерна ОЗС Фенікса
+KEY_PX_LASER_PDW_NAME,Око Горгони-А
+KEY_PX_LASER_TURRET_DESCRIPTION,Лазерна автотурель Фенікса
+KEY_PX_LASER_TURRET_NAME,Спопелювач AT
+KEY_PX_NEURAZER_DESCRIPTION,Паралізуюча зброя ближнього бою Фенікса
+KEY_PX_NEURAZER_NAME,Нейтралізатор
+KEY_PX_PISTOL_NAME,Шифр HG
+KEY_PX_PISTOL_NAME_DESCRIPTION,Пістолет Фенікса
+KEY_PX_PSYCHIC_RES_ATTACHMENT_DESCRIPTION,Психонейтралізувальний модуль шолома Фенікса
+KEY_PX_PSYCHIC_RES_ATTACHMENT_NAME,Модуль шолома «Ясність»
+KEY_PX_SHOTGUN_RIFLE_DESCRIPTION,Дробовик Фенікса
+KEY_PX_SHOTGUN_RIFLE_NAME,Милосердя SG3
+KEY_PX_SHREDDED_GRENADE_DESCRIPTION,Розривна граната Фенікса
+KEY_PX_SHREDDED_GRENADE_NAME,Граната «Мйольнір»
+KEY_PX_SHRED_LAUNCHER_DESCRIPTION,Розривна ракетна установка Фенікса
+KEY_PX_SHRED_LAUNCHER_NAME,Рагнарок
+KEY_PX_SNIPER_BODY_DESCRIPTION,Нагрудна броня снайпера Фенікса
+KEY_PX_SNIPER_BODY_NAME2,Нагрудна броня «Банші»
+KEY_PX_SNIPER_HELMET_DESCRIPTION,Шолом снайпера Фенікса
+KEY_PX_SNIPER_HELMET_NAME2,Шолом «Банші»
+KEY_PX_SNIPER_LEGS_DESCRIPTION,Ножна броня снайпера Фенікса
+KEY_PX_SNIPER_LEGS_NAME2,Ножна броня «Банші»
+KEY_PX_SNIPER_RIFLE_DESCRIPTION,Снайперська гвинтівка Фенікса
+KEY_PX_SNIPER_RIFLE_NAME,Жар-птиця SR
+KEY_PX_STUN_ROD_DESCRIPTION,Шокова зброя ближнього бою Фенікса
+KEY_PX_STUN_ROD_NAME,Шоковий спис Фенікса
+KEY_PX_VIROPHAGE_GRENADE_DESCRIPTION,Вірофагова граната Фенікса
+KEY_PX_VIROPHAGE_GRENADE_NAME,Граната «Іґдрасіль»
+KEY_PX_VIROPHAGE_SNIPER_RIFLE_DESCRIPTION,Вірофагова снайперська гвинтівка Фенікса
+KEY_PX_VIROPHAGE_SNIPER_RIFLE_NAME,Гунгнір SR-2
+KEY_QUEEN_ARM_BLASTER_DESCRIPTION,Потужна багатозарядна гармата
+KEY_QUEEN_ARM_BLASTER_NAME,ГАРМАТА-БЛАСТЕР
+KEY_SHIELD_DESCRIPTION,Щит артрона
+KEY_SHIELD_NAME,ЩИТ
+KEY_SMASHER_DESCRIPTION,РОЗТРОЩУВАЧ
+KEY_SMASHER_NAME,РОЗТРОЩУВАЧ
+KEY_STIMPACK_DESCRIPTION,"Потужний стимулятор, що викликає шаленство."
+KEY_STIMPACK_NAME,Стимулятор
+KEY_SY_ASSAULT_BODY_DESCRIPTION,Нагрудна броня штурмовика Синедріона
+KEY_SY_ASSAULT_BODY_NAME2,Нагрудна броня «Флегетон»
+KEY_SY_ASSAULT_HELMET_DESCRIPTION,Шолом штурмовика Синедріона
+KEY_SY_ASSAULT_HELMET_NAME2,Шолом «Флегетон»
+KEY_SY_ASSAULT_LEGS_DESCRIPTION,Ножна броня штурмовика Синедріона
+KEY_SY_ASSAULT_LEGS_NAME2,Ножна броня «Флегетон»
+KEY_SY_CROSSBOW_DESCRIPTION,Арбалет Синедріона
+KEY_SY_CROSSBOW_NAME,Ерос CRB III
+KEY_SY_INFILTRATOR_BODY_DESCRIPTION,Нагрудна броня розвідника Синедріона
+KEY_SY_INFILTRATOR_BODY_NAME2,Нагрудна броня «Стікс»
+KEY_SY_INFILTRATOR_HELMET_DESCRIPTION,Шолом розвідника Синедріона
+KEY_SY_INFILTRATOR_HELMET_NAME2,Шолом «Стікс»
+KEY_SY_INFILTRATOR_LEGS_DESCRIPTION,Ножна броня розвідника Синедріона
+KEY_SY_INFILTRATOR_LEGS_NAME2,Ножна броня «Стікс»
+KEY_SY_LASER_ASSAULT_RIFLE_DESCRIPTION,Лазерна штурмова гвинтівка Синедріона
+KEY_SY_LASER_ASSAULT_RIFLE_NAME,Деймос AR-L
+KEY_SY_LASER_PISTOL_DESCRIPTION,Лазерний пістолет Синедріона
+KEY_SY_LASER_PISTOL_NAME,Гефест II
+KEY_SY_LASER_SNIPER_RIFLE_DESCRIPTION,Лазерна снайперська гвинтівка Синедріона
+KEY_SY_LASER_SNIPER_RIFLE_NAME,Піфагор VII
+KEY_SY_MIST_REPEL_ATTACHMENT_DESCRIPTION,Протитуманний модуль шолома Синедріона
+KEY_SY_MIST_REPEL_ATTACHMENT_NAME,Протитуманний модуль
+KEY_SY_MOTION_DETECTION_ATTACHMENT_DESCRIPTION,Модуль виявлення руху шолома Синедріона
+KEY_SY_MOTION_DETECTION_ATTACHMENT_NAME,Модуль виявлення руху
+KEY_SY_NEURAL_PISTOL_DESCRIPTION,Нейронний пістолет Синедріона
+KEY_SY_NEURAL_PISTOL_NAME,Гера NP-1
+KEY_SY_NEURAL_SNIPER_RIFLE_DESCRIPTION,Нейронна снайперська гвинтівка Синедріона
+KEY_SY_NEURAL_SNIPER_RIFLE_NAME,Афіна NS-2
+KEY_SY_POISON_CROSSBOW_DESCRIPTION,Отруйний арбалет Синедріона
+KEY_SY_POISON_CROSSBOW_NAME,Психея CRB IV
+KEY_SY_POISON_GRENADE_DESCRIPTION,Отруйна граната Синедріона
+KEY_SY_POISON_GRENADE_NAME,Граната «Химера»
+KEY_SY_POISON_RES_VEST_ATTACHMENT_DESCRIPTION,Протиотрутний модуль підкостюма Синедріона
+KEY_SY_POISON_RES_VEST_ATTACHMENT_NAME,Протиотрутний жилетний модуль
+KEY_SY_SNIPER_BODY_DESCRIPTION,Нагрудна броня снайпера Синедріона
+KEY_SY_SNIPER_BODY_NAME2,Нагрудна броня «Ахерон»
+KEY_SY_SNIPER_HELMET_DESCRIPTION,Шолом снайпера Синедріона
+KEY_SY_SNIPER_HELMET_NAME2,Шолом «Ахерон»
+KEY_SY_SNIPER_LEGS_DESCRIPTION,Ножна броня снайпера Синедріона
+KEY_SY_SNIPER_LEGS_NAME2,Ножна броня «Ахерон»
+KEY_SY_SONIC_GRENADE_DESCRIPTION,Звукова шокова граната Синедріона
+KEY_SY_SONIC_GRENADE_NAME,Граната «Кідоймос»
+KEY_SY_SPIDER_DESCRIPTION,Спеціальний пістолет дрона-павука Синедріона
+KEY_SY_SPIDER_NAME,Арахні SP 1
+KEY_SY_VISUAL_SENSOR_ATTACHMENT_DESCRIPTION,Мультивізуальний сенсорний модуль шолома Синедріона
+KEY_SY_VISUAL_SENSOR_ATTACHMENT_NAME,Мультивізуальний сенсорний модуль
+KEY_TURRET_DESCRIPTION,Автотурель Гаусса Нового Єрихона
+KEY_TURRET_NAME,Вартовий AT
+KEY_VEHICLE_ROCKET_TURRET_DESCRIPTION,Ракетна турель «Скарабей» Фенікса
+KEY_VEHICLE_ROCKET_TURRET_NAME,Близнюки V
+KEY_VEHICLE_TURRET_GAUS_DESCRIPTION,Турель Гаусса «Броненосець» Нового Єрихона
+KEY_VEHICLE_TURRET_GAUS_NAME,Град GT
+KEY_VIROPHADE_MEDKIT_DESCRIPTION,"Відновлює {GeneralHealAmount} очок здоров'я та усуває вірус, кровотечу й отруєння"
+KEY_VIROPHADE_MEDKIT_NAME,Вірофаговий набір

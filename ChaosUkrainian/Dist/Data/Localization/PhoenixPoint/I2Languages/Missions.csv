@@ -1,0 +1,291 @@
+Key,Ukrainian
+#Defeat the Scylla USE OBJECTIVE STRING,БАЗИ ПАНДОРАНІВ ВИЯВЛЕНО
+Be aware of the Pandoran defense systems. Sentinels will trigger if a soldier is in its sensor range or attacks them. Eggs will hatch if a soldier gets close.,ЗАХИСТ ПРИТУЛКУ
+KEY_MISSION_ACCEPT,ПРИЙНЯТИ
+KEY_MISSION_ALIEN,ПАНДОРАН
+KEY_MISSION_ALIEN_LAIR,ЛОГОВО ПАНДОРАНІВ
+KEY_MISSION_ALIEN_NEST,ГНІЗДО ПАНДОРАНІВ
+KEY_MISSION_ALIEN_PALACE,ПАЛАЦ ПАНДОРАНІВ
+KEY_MISSION_AMBUSH_BRIEFING_NAME,ЗАСІДКА
+KEY_MISSION_AMBUSH_BRIEFING_TEXT,ПРОТРИМАЙТЕСЯ 3 ХОДИ
+KEY_MISSION_AMBUSH_DEFEAT_BRIEFING_NAME,ВТЕЧА НЕ ВДАЛАСЯ!
+KEY_MISSION_AMBUSH_DEFEAT_BRIEFING_TEXT,ВАШІ ВІЙСЬКА СТАЛИ ЖЕРТВОЮ ЗАСІДКИ.
+KEY_MISSION_AMBUSH_VICTORY_BRIEFING_NAME,ВИ ВИЖИЛИ В ЗАСІДЦІ!
+KEY_MISSION_AMBUSH_VICTORY_BRIEFING_TEXT,ВАШІ ВІЙСЬКА ВТЕКЛИ ІЗ ЗАСІДКИ!
+KEY_MISSION_ATTACKED_BY,Атакував: {AttackerName}
+KEY_MISSION_ATTACKER,НАПАДНИК
+KEY_MISSION_ATTACKING_FORCES,СИЛИ НАПАДУ
+KEY_MISSION_ATTACKING_STRENGTH,СИЛА НАПАДУ
+KEY_MISSION_ATTACK_CITADEL_BRIEFING_DESCRIPTION,"Знайдіть і знищіть Сциллу, а потім евакуюйте свій загін"
+KEY_MISSION_ATTACK_CITADEL_BRIEFING_NAME,АТАКУВАТИ ЦИТАДЕЛЬ ПАНДОРАНІВ
+KEY_MISSION_ATTACK_CITADEL_DEFEAT_DESCRIPTION,"Чудовисько, що керує цією цитаделлю, продовжить тероризувати найближчі людські поселення"
+KEY_MISSION_ATTACK_CITADEL_DEFEAT_NAME,ЦИТАДЕЛЬ ПАНДОРАНІВ УЦІЛІЛА
+KEY_MISSION_ATTACK_CITADEL_VICTORY_DESCRIPTION,"Сциллу знищено, а споруду покинуто. Решта людства може зітхнути з полегшенням."
+KEY_MISSION_ATTACK_CITADEL_VICTORY_NAME,ЦИТАДЕЛЬ ПАНДОРАНІВ ЗНИЩЕНО
+KEY_MISSION_ATTACK_LAIR_BRIEFING_DESCRIPTION,"Знайдіть і знищіть Розплідник, щоб знешкодити Логово, а потім евакуюйте свій загін."
+KEY_MISSION_ATTACK_LAIR_BRIEFING_NAME,АТАКУВАТИ ЛОГОВО ПАНДОРАНІВ
+KEY_MISSION_ATTACK_LAIR_DEFEAT_DESCRIPTION,"Логово пандоранів і далі плодить свій мерзенний виводок, загрожуючи всім поселенням у радіусі своєї дії."
+KEY_MISSION_ATTACK_LAIR_DEFEAT_NAME,ЛОГОВО ПАНДОРАНІВ УЦІЛІЛО
+KEY_MISSION_ATTACK_LAIR_VICTORY_DESCRIPTION,"Логово пандоранів знешкоджено, а його мешканці покинули це місце. Решта людства може зітхнути з полегшенням."
+KEY_MISSION_ATTACK_LAIR_VICTORY_NAME,ЛОГОВО ПАНДОРАНІВ ЗНИЩЕНО
+KEY_MISSION_ATTACK_NEST_BRIEFING_DESCRIPTION,"Знайдіть і знищіть Вартових-наседок, щоб зруйнувати гніздо."
+KEY_MISSION_ATTACK_NEST_BRIEFING_NAME,АТАКУВАТИ ГНІЗДО ПАНДОРАНІВ
+KEY_MISSION_ATTACK_NEST_DEFEAT_DESCRIPTION,"Гніздо пандоранів і далі плодить свій мерзенний виводок, загрожуючи всім поселенням у радіусі своєї дії."
+KEY_MISSION_ATTACK_NEST_DEFEAT_NAME,ГНІЗДО ПАНДОРАНІВ УЦІЛІЛО
+KEY_MISSION_ATTACK_NEST_VICTORY_DESCRIPTION,"Гніздо пандоранів знешкоджено, а його мешканці покинули це місце. Решта людства може зітхнути з полегшенням."
+KEY_MISSION_ATTACK_NEST_VICTORY_NAME,ГНІЗДО ПАНДОРАНІВ ЗНИЩЕНО
+KEY_MISSION_ATTACK_PHOENIX_DISCOVERED_DESCRIPTION,"Ви повернули покинуту базу Проєкту «Фенікс» до ладу. Відремонтуйте пошкоджені об'єкти, щоб повністю відновити її роботу."
+KEY_MISSION_ATTACK_PHOENIX_DISCOVERED_NAME,БАЗУ ПРОЄКТУ «ФЕНІКС» АКТИВОВАНО
+KEY_MISSION_ATTACK_SCAVENGING_SITE_BRIEFING_DESCRIPTION,"Заберіть з ящиків стільки предметів, скільки зможете безпечно винести, і евакуюйте свій загін"
+KEY_MISSION_ATTACK_SCAVENGING_SITE_BRIEFING_NAME,МІСЦЕВІСТЬ ІЗ РЕСУРСАМИ
+KEY_MISSION_ATTACK_SCAVENGING_SITE_DEFEAT_DESCRIPTION,"Місцевість захоплено, і решту ящиків більше не вдасться забрати"
+KEY_MISSION_ATTACK_SCAVENGING_SITE_DEFEAT_NAME,МІСЦЕВІСТЬ ІЗ РЕСУРСАМИ ПОКИНУТА
+KEY_MISSION_ATTACK_SCAVENGING_SITE_VICTORY_DESCRIPTION,Усі зібрані набори ресурсів перенесено на наші склади
+KEY_MISSION_ATTACK_SCAVENGING_SITE_VICTORY_NAME,МІСЦЕВІСТЬ ІЗ РЕСУРСАМИ ОЧИЩЕНА
+KEY_MISSION_ATTACK_SCAVENGING_SITE_WARNING,"Увага! Місії зі збору ресурсів значно небезпечніші, якщо проходять у зоні туману."
+KEY_MISSION_ATTACK_SCAVENGING_SITE_WARNING_DESCRIPTION,"Пам'ятайте, що пандорани намагатимуться знищити всі ящики з ресурсами, до яких зможуть дістатися. Ви можете покинути місцевість у будь-який момент через зону евакуації, навіть якщо там залишаться вороги."
+KEY_MISSION_ATTACK_WARNING,"Стережіться захисних систем пандоранів. Вартові активуються, якщо солдат потрапить у радіус дії їхніх сенсорів або атакує їх. Яйця вилупляться, якщо солдат підійде надто близько."
+KEY_MISSION_ATTITUDE,СТАВЛЕННЯ
+KEY_MISSION_ATTITUDE_FACTION,СТАВЛЕННЯ ФРАКЦІЇ
+KEY_MISSION_ATTITUDE_FACTIONS_ALL,СТАВЛЕННЯ ВСІХ ФРАКЦІЙ
+KEY_MISSION_ATTITUDE_LEADER,СТАВЛЕННЯ ЛІДЕРА
+KEY_MISSION_AVAILABLE,ЗАВДАННЯ ДОСТУПНЕ
+KEY_MISSION_AVAILABLE_INCURSION_MISSIONS,ДОСТУПНІ ЗАВДАННЯ НАШЕСТЯ
+KEY_MISSION_BEENAMBUSHED,ВИ ПОТРАПИЛИ В ЗАСІДКУ!
+KEY_MISSION_BONUSES,БОНУСИ
+KEY_MISSION_CANCEL,СКАСУВАТИ
+KEY_MISSION_CHANGE_ATTITUDE,ЗМІНА СТАВЛЕННЯ ПІСЛЯ ПЕРЕМОГИ
+KEY_MISSION_DEFENDING_STRENGTH,СИЛА ОБОРОНИ
+KEY_MISSION_DEPLOYED,СИЛИ ПАНДОРАНІВ РОЗГОРНУТО
+KEY_MISSION_DISCIPLES_OF_ANU,ПОСЛІДОВНИКИ АНУ
+KEY_MISSION_ENEMY,ВОРОГ
+KEY_MISSION_ENTER_CITADEL,УВІЙТИ В ЦИТАДЕЛЬ
+KEY_MISSION_ENTER_LAIR,УВІЙТИ В ЛОГОВО
+KEY_MISSION_ENTER_NEST,УВІЙТИ В ГНІЗДО
+KEY_MISSION_ENTER_SITE,УВІЙТИ НА МІСЦЕВІСТЬ
+KEY_MISSION_EXPLORATION_SITE,МІСЦЕВІСТЬ РОЗВІДКИ
+KEY_MISSION_FACTION,ФРАКЦІЯ
+KEY_MISSION_GAIN,ВИ ОТРИМУЄТЕ
+KEY_MISSION_HAVEN,ПРИТУЛОК
+KEY_MISSION_HAVEN_ALERT,ТРИВОГА
+KEY_MISSION_HAVEN_ALERT_HIGH,ВИСОКА
+KEY_MISSION_HAVEN_ALERT_LOW,НИЗЬКА
+KEY_MISSION_HAVEN_ALERT_NONE,НЕМАЄ
+KEY_MISSION_HAVEN_ATTACK1_BRIEFING_DESCRIPTION,"Знищіть усіх ворожих загарбників, щоб урятувати притулок."
+KEY_MISSION_HAVEN_ATTACK1_BRIEFING_NAME,ПРИТУЛОК ПІД АТАКОЮ!
+KEY_MISSION_HAVEN_ATTACK1_DEFEAT_DESCRIPTION,"Ви покинули притулок напризволяще. Можливо, його мешканці впораються і без вас, але лідер не вражений вашими зусиллями."
+KEY_MISSION_HAVEN_ATTACK1_DEFEAT_NAME,ВІДСТУП ІЗ БИТВИ ЗА ПРИТУЛОК
+KEY_MISSION_HAVEN_ATTACK1_VICTORY_DESCRIPTION,Ви успішно перемогли всі ворожі сили. Лідер притулку вдячний за вашу допомогу.
+KEY_MISSION_HAVEN_ATTACK1_VICTORY_NAME,ПРИТУЛОК УРЯТОВАНО
+KEY_MISSION_HAVEN_ATTACK1_WARNING_DESCRIPTION,"Втрутіться, щоб усунути загрозу, захищаючи ключові споруди притулку. У разі успіху ви отримаєте нагороду від притулку."
+KEY_MISSION_HAVEN_ATTACK2_WARNING_DESCRIPTION,"Втрутіться, щоб усунути загрозу, захищаючи якомога більше цивільних. У разі успіху ви отримаєте нагороду від притулку."
+KEY_MISSION_HAVEN_DEFENCE,ОБОРОНА ПРИТУЛКУ
+KEY_MISSION_HAVEN_DEFENDERS,ЗАХИСНИКИ ПРИТУЛКУ
+KEY_MISSION_HAVEN_DESTROYED,ЗНИЩЕНИЙ ПРИТУЛОК: {LocalizedSiteName}
+KEY_MISSION_HAVEN_LEADER_NAME,ЛІДЕР: {LeaderName}
+KEY_MISSION_HAVEN_NAME,ПРИТУЛОК: {LocalizedSiteName}
+KEY_MISSION_HAVEN_POPULATION,НАСЕЛЕННЯ: {Population}
+KEY_MISSION_HAVEN_SAVED,ПРИТУЛОК УРЯТОВАНО
+KEY_MISSION_HAVEN_STILL_UNDER_ATTACK,ПРИТУЛОК УСЕ ЩЕ ПІД АТАКОЮ
+KEY_MISSION_ITEMS_RECOVERED,ОТРИМАНО ПРЕДМЕТИ
+KEY_MISSION_JOIN_BATTLE,ПРИЄДНАТИСЯ ДО БОЮ
+KEY_MISSION_LEADER,ЛІДЕР
+KEY_MISSION_LEAVE,ПОКИНУТИ
+KEY_MISSION_LIGHTING_CONDITIONS,УМОВИ ОСВІТЛЕННЯ
+KEY_MISSION_LIGHTING_CONDITIONS_DAY,ДЕНЬ
+KEY_MISSION_LIGHTING_CONDITIONS_NIGHT,НІЧ
+KEY_MISSION_LIGHT_LEVEL,РІВЕНЬ ОСВІТЛЕННЯ
+KEY_MISSION_LIGHT_LEVEL_HIGH,ВИСОКИЙ
+KEY_MISSION_LIGHT_LEVEL_LOW,НИЗЬКИЙ
+KEY_MISSION_MIST_ZONE,ЗОНА ТУМАНУ
+KEY_MISSION_NEW_JERICHO,НОВИЙ ЄРИХОН
+KEY_MISSION_NONE,Немає
+KEY_MISSION_OBJECTIVE_ENEMIES_DESCRIPTION,#Kill all enemies USE OBJECTIVE STRING
+KEY_MISSION_OBJECTIVE_ENEMIES_NAME,ЗНИЩИТИ ВСІХ ВОРОГІВ
+KEY_MISSION_OBJECTIVE_FIREBIRD_FILES,ЗНАЙТИ ФАЙЛИ ІНІЦІАТИВИ «ЖАР-ПТИЦЯ»
+KEY_MISSION_OBJECTIVE_PROTECT_EXALTED,ЗАХИСТИТИ ВОЗВЕЛИЧЕНУ
+KEY_MISSION_OBJECTIVE_PROTECT_TW,ЗАХИСТИТИ ТОБІАСА ВЕСТА
+KEY_MISSION_OBJECTIVE_PX1,ЗНАЙТИ ДОКАЗИ ІСНУВАННЯ ДОПОТОПНОЇ ЦИВІЛІЗАЦІЇ
+KEY_MISSION_OBJECTIVE_QUEEN_DESCRIPTION,#Kill the Alien Queen USE OBJECTIVE STRING
+KEY_MISSION_OBJECTIVE_QUEEN_NAME,ЗНИЩИТИ ПАНДОРАНСЬКУ СКІЛЛУ
+KEY_MISSION_OBJECTIVE_RAVI,ЕВАКУЮВАТИ VIP-ПЕРСОНУ
+KEY_MISSION_OBJECTIVE_RAVI_TEAM,ЕВАКУЮВАТИ VIP-ПЕРСОНУ ТА СВОЮ КОМАНДУ
+KEY_MISSION_OBJECTIVE_RETRIEVE_ALN_DATA,ОТРИМАТИ ДАНІ З ІНОПЛАНЕТНОЇ СПОРУДИ
+KEY_MISSION_OBJECTIVE_SCARABAI,ЗАХОПИТИ ШІ «СКАРАБЕЙ»
+KEY_MISSION_OBJECTIVE_SPAWNING_POOL_DESCRIPTION,#Destroy the Crabman Spawning Pool USE OBJECTIVE STRING
+KEY_MISSION_OBJECTIVE_SPAWNING_POOL_NAME,ЗНИЩИТИ РОЗПЛІДНИК
+KEY_MISSION_OK,ГАРАЗД
+KEY_MISSION_OUTCOME_AIRCRAFT_DAMAGE,Наше повітряне судно отримало пошкодження ({0}).
+KEY_MISSION_OUTCOME_ALIEN_ATTACKS,На кілька притулків напали.
+KEY_MISSION_OUTCOME_DIPLOMACY_CHANGE,Дипломатичні відносини з {0} змінилися.
+KEY_MISSION_OUTCOME_NEW_DIPLOMACY,Отримано нове дипломатичне завдання від {0}.
+KEY_MISSION_OUTCOME_POPULATION,Населення {0} змінилося на {1}.
+KEY_MISSION_OUTCOME_RESEARCH,Отримано очки досліджень ({0}).
+KEY_MISSION_OUTCOME_SDI_DECREASED,ІОД зменшився на {0}
+KEY_MISSION_OUTCOME_SDI_INCREASE,ІОД збільшився на {0}
+KEY_MISSION_OUTCOME_SKILL,Отримано ОУ ({0}).
+KEY_MISSION_OUTCOME_SOLDIER,{0} приєднався до Проєкту «Фенікс».
+KEY_MISSION_OUTCOME_SOLDIER_INJURED,{0} отримав пошкодження ({1}).
+KEY_MISSION_OUTCOME_SOLDIER_INJURED_ALL,Усі солдати Фенікса втратили очки здоров'я ({0}).
+KEY_MISSION_OUTCOME_SOLDIER_TIRED,{0} втратив витривалість ({1}).
+KEY_MISSION_OUTCOME_SOLDIER_TIRED_ALL,Усі солдати Фенікса втратили витривалість ({0}).
+KEY_MISSION_OUTCOME_TEAM_INJURED,Ваші солдати отримали пошкодження ({0}).
+KEY_MISSION_OUTCOME_TEAM_TIRED,Ваші солдати втратили витривалість ({0}).
+KEY_MISSION_OUTCOME_ZONE,Зона притулку {0} отримала пошкодження ({1}).
+KEY_MISSION_POINTS_ATTACKERS,Очки сил нападу: {FriendlyAttackerDeploymentPoints}
+KEY_MISSION_POINTS_DEFENDERS,Очки сил оборони: {FriendlyDefenderDeploymentPoints}
+KEY_MISSION_POPULATION,НАСЕЛЕННЯ
+KEY_MISSION_PX_BASE_DEFENCE_ABANDON,ЗАЛИШИТИ БАЗУ
+KEY_MISSION_PX_BASE_DEFENCE_DESCRIPTION,Захистіть свою базу і знищіть усіх загарбників.
+KEY_MISSION_PX_BASE_DEFENCE_START,ПІДГОТУВАТИ ВСІ СИСТЕМИ ОБОРОНИ
+KEY_MISSION_PX_BASE_DEFENCE_TITLE,БАЗУ ПРОЄКТУ «ФЕНІКС» АТАКУЮТЬ
+KEY_MISSION_PX_BASE_DEFENDED_DESCRIPTION,Наші сили успішно відбили загарбників. Наразі базу врятовано.
+KEY_MISSION_PX_BASE_DEFENDED_TITLE,БАЗУ ПРОЄКТУ «ФЕНІКС» ЗАХИЩЕНО
+KEY_MISSION_PX_BASE_DESTROYED_DESCRIPTION,"Наші сили не витримали натиску загарбників, і база зазнала серйозних пошкоджень."
+KEY_MISSION_PX_BASE_DESTROYED_TITLE,БАЗУ ПРОЄКТУ «ФЕНІКС» РОЗГРАБОВАНО
+KEY_MISSION_PX_BASE_WARNING_DESCRIPTION,"На базу {0} напали сили: {1}. Усуньте загрозу, захищаючи ключові споруди бази. Поразка призведе до критичних пошкоджень цієї бази."
+KEY_MISSION_RANGE,Радіус дії: {Value} км
+KEY_MISSION_RECRUIT_ARMADILLO,АРМАДИЛ ДОСТУПНИЙ ДЛЯ ВЕРБУВАННЯ
+KEY_MISSION_RECRUIT_HAVEN_NAME,ПРИТУЛОК {0}
+KEY_MISSION_RECRUIT_SOLDIER,СОЛДАТ ДОСТУПНИЙ ДЛЯ ВЕРБУВАННЯ
+KEY_MISSION_RESIDENT_MUTATIONS,МУТАЦІЇ МЕШКАНЦІВ
+KEY_MISSION_RESOURCES_RECOVERED,ОТРИМАНО РЕСУРСИ
+KEY_MISSION_REVEALED_ALIEN_CITADEL,Цитадель
+KEY_MISSION_REVEALED_ALIEN_LAIR,Логово
+KEY_MISSION_REVEALED_ALIEN_NEST,Гніздо
+KEY_MISSION_REVEALED_ALIEN_PALACE,Палац
+KEY_MISSION_REWARD,НАГОРОДА
+KEY_MISSION_REWARD_NONE,НЕМАЄ
+KEY_MISSION_SABOTAGE_ELITE_TRANINING,САБОТУВАТИ ЕЛІТНУ ПІДГОТОВКУ
+KEY_MISSION_SABOTAGE_ENERGY_BRIEFING_DESC,Знищіть усі ключові споруди.
+KEY_MISSION_SABOTAGE_ENERGY_BRIEFING_NAME,ПРОВЕСТИ ДИВЕРСІЮ НА ЕЛЕКТРОСТАНЦІЇ
+KEY_MISSION_SABOTAGE_ENERGY_DEFEAT_DESC,Генератори енергії продовжують безперебійно працювати.
+KEY_MISSION_SABOTAGE_ENERGY_DEFEAT_NAME,ДИВЕРСІЮ НА ЕЛЕКТРОСТАНЦІЇ ПРОВАЛЕНО
+KEY_MISSION_SABOTAGE_ENERGY_GENERATOR,ПРОВЕСТИ ДИВЕРСІЮ НА ЕЛЕКТРОСТАНЦІЇ
+KEY_MISSION_SABOTAGE_ENERGY_VICTORY_DESC,"Жодна інша спеціалізована зона притулку не може працювати, доки не відремонтують генератори енергії."
+KEY_MISSION_SABOTAGE_ENERGY_VICTORY_NAME,ДИВЕРСІЮ НА ЕЛЕКТРОСТАНЦІЇ ЗАВЕРШЕНО УСПІШНО
+KEY_MISSION_SABOTAGE_FACTORY,ПРОВЕСТИ ДИВЕРСІЮ НА ФАБРИЦІ
+KEY_MISSION_SABOTAGE_FACTORY_BRIEFING_DESC,Знищіть усі ключові споруди.
+KEY_MISSION_SABOTAGE_FACTORY_BRIEFING_NAME,ПРОВЕСТИ ДИВЕРСІЮ НА ФАБРИЦІ
+KEY_MISSION_SABOTAGE_FACTORY_DEFEAT_DESC,Фабрика й далі пришвидшує ремонт і виробництво в притулку та в радіусі його впливу.
+KEY_MISSION_SABOTAGE_FACTORY_DEFEAT_NAME,ДИВЕРСІЮ НА ФАБРИЦІ ПРОВАЛЕНО
+KEY_MISSION_SABOTAGE_FACTORY_VICTORY_DESC,"Можливості ремонту та будівництва різко знижуються в цьому притулку й дещо знижуються в радіусі його впливу, доки не відремонтують зону фабрики."
+KEY_MISSION_SABOTAGE_FACTORY_VICTORY_NAME,ДИВЕРСІЮ НА ФАБРИЦІ ЗАВЕРШЕНО УСПІШНО
+KEY_MISSION_SABOTAGE_FOOD,ЗНИЩИТИ ПРОВІАНТ
+KEY_MISSION_SABOTAGE_FOOD_BRIEFING_DESC,Знищіть усі ключові споруди.
+KEY_MISSION_SABOTAGE_FOOD_BRIEFING_NAME,ПРОВЕСТИ ДИВЕРСІЮ НА ХАРЧОВОМУ КОМБІНАТІ
+KEY_MISSION_SABOTAGE_FOOD_DEFEAT_DESC,"Виробництво їжі триває безперебійно, а населення влаштовує велике свято."
+KEY_MISSION_SABOTAGE_FOOD_DEFEAT_NAME,ДИВЕРСІЮ НА ХАРЧОВОМУ КОМБІНАТІ ПРОВАЛЕНО
+KEY_MISSION_SABOTAGE_FOOD_VICTORY_DESC,"Виробництво їжі різко скорочується в цьому притулку й дещо скорочується в радіусі його впливу, доки не відремонтують виробничі об'єкти."
+KEY_MISSION_SABOTAGE_FOOD_VICTORY_NAME,ДИВЕРСІЮ НА ХАРЧОВОМУ КОМБІНАТІ ЗАВЕРШЕНО УСПІШНО
+KEY_MISSION_SABOTAGE_MISSIONARYCENTER,ПРОВЕСТИ ДИВЕРСІЮ В МІСІОНЕРСЬКОМУ ЦЕНТРІ
+KEY_MISSION_SABOTAGE_MISSIONARY_BRIEFING_DESC,Знищіть усі ключові споруди.
+KEY_MISSION_SABOTAGE_MISSIONARY_BRIEFING_NAME,ПРОВЕСТИ ДИВЕРСІЮ В МІСІОНЕРСЬКОМУ ЦЕНТРІ
+KEY_MISSION_SABOTAGE_MISSIONARY_DEFEAT_DESC,Місіонерський центр і далі поповнюватиме ряди послідовників Ану мешканцями в радіусі свого впливу.
+KEY_MISSION_SABOTAGE_MISSIONARY_DEFEAT_NAME,ДИВЕРСІЮ В МІСІОНЕРСЬКОМУ ЦЕНТРІ ПРОВАЛЕНО
+KEY_MISSION_SABOTAGE_MISSIONARY_VICTORY_DESC,"Доки місіонерський центр не відремонтують, він не зможе залучати сусідніх мешканців чи розширювати зону впливу притулку."
+KEY_MISSION_SABOTAGE_MISSIONARY_VICTORY_NAME,ДИВЕРСІЮ В МІСІОНЕРСЬКОМУ ЦЕНТРІ ЗАВЕРШЕНО УСПІШНО
+KEY_MISSION_SABOTAGE_MISTREPELLER,ПРОВЕСТИ ДИВЕРСІЮ НА ПРОТИТУМАННОМУ КОМПЛЕКСІ
+KEY_MISSION_SABOTAGE_REPELLER_BRIEFING_DESC,Знищіть усі ключові споруди.
+KEY_MISSION_SABOTAGE_REPELLER_BRIEFING_NAME,ПРОВЕСТИ ДИВЕРСІЮ НА ПРОТИТУМАННОМУ КОМПЛЕКСІ
+KEY_MISSION_SABOTAGE_REPELLER_DEFEAT_DESC,Відштовхування пандоранського туману триватиме безперебійно.
+KEY_MISSION_SABOTAGE_REPELLER_DEFEAT_NAME,ДИВЕРСІЮ НА ПРОТИТУМАННОМУ КОМПЛЕКСІ ПРОВАЛЕНО
+KEY_MISSION_SABOTAGE_REPELLER_VICTORY_DESC,"Доки комплекс не відремонтують, пандоранський туман більше не відштовхуватиметься від цього притулку."
+KEY_MISSION_SABOTAGE_REPELLER_VICTORY_NAME,ДИВЕРСІЮ НА ПРОТИТУМАННОМУ КОМПЛЕКСІ ЗАВЕРШЕНО УСПІШНО
+KEY_MISSION_SABOTAGE_RESEARCH,ЗНИЩИТИ ДОСЛІДЖЕННЯ
+KEY_MISSION_SABOTAGE_RESEARCH_BRIEFING_DESC,Знищіть усі ключові споруди.
+KEY_MISSION_SABOTAGE_RESEARCH_BRIEFING_NAME,ПРОВЕСТИ ДИВЕРСІЮ В ДОСЛІДНИЦЬКОМУ ЦЕНТРІ
+KEY_MISSION_SABOTAGE_RESEARCH_DEFEAT_DESC,"Цей притулок і далі сприяє дослідженням, важливим для стратегічних цілей фракції."
+KEY_MISSION_SABOTAGE_RESEARCH_DEFEAT_NAME,ДИВЕРСІЮ В ДОСЛІДНИЦЬКОМУ ЦЕНТРІ ПРОВАЛЕНО
+KEY_MISSION_SABOTAGE_RESEARCH_VICTORY_DESC,"Доки дослідницький центр не відремонтують, він не сприятиме дослідницьким можливостям фракції."
+KEY_MISSION_SABOTAGE_RESEARCH_VICTORY_NAME,ДИВЕРСІЮ В ДОСЛІДНИЦЬКОМУ ЦЕНТРІ ЗАВЕРШЕНО УСПІШНО
+KEY_MISSION_SABOTAGE_SATELLITEUPLINK,ПРОВЕСТИ ДИВЕРСІЮ НА СУПУТНИКОВОМУ КОМПЛЕКСІ
+KEY_MISSION_SABOTAGE_TRAINING,ЗІРВАТИ ПІДГОТОВКУ
+KEY_MISSION_SABOTAGE_TRAINING_BRIEFING_DESC,Знищіть усі ключові споруди.
+KEY_MISSION_SABOTAGE_TRAINING_BRIEFING_NAME,ПРОВЕСТИ ДИВЕРСІЮ В ЦЕНТРІ ПІДГОТОВКИ
+KEY_MISSION_SABOTAGE_TRAINING_DEFEAT_DESC,Центр підготовки й далі готовий захищати притулок за будь-яку ціну.
+KEY_MISSION_SABOTAGE_TRAINING_DEFEAT_NAME,ДИВЕРСІЮ В ЦЕНТРІ ПІДГОТОВКИ ПРОВАЛЕНО
+KEY_MISSION_SABOTAGE_TRAINING_VICTORY_DESC,"Доки центр підготовки не відремонтують, він не поповнюватиме військові сили притулку та радіуса його впливу."
+KEY_MISSION_SABOTAGE_TRAINING_VICTORY_NAME,ДИВЕРСІЮ В ЦЕНТРІ ПІДГОТОВКИ ЗАВЕРШЕНО УСПІШНО
+KEY_MISSION_SABOTAGE_UPLINK_BRIEFING_DESC,Знищіть усі ключові споруди.
+KEY_MISSION_SABOTAGE_UPLINK_BRIEFING_NAME,ПРОВЕСТИ ДИВЕРСІЮ НА СУПУТНИКОВОМУ КОМПЛЕКСІ
+KEY_MISSION_SABOTAGE_UPLINK_DEFEAT_DESC,"Супутниковий комплекс і далі сканує велику територію, збільшуючи радіус впливу притулку та виявляючи активність пандоранів."
+KEY_MISSION_SABOTAGE_UPLINK_DEFEAT_NAME,ДИВЕРСІЮ НА СУПУТНИКОВОМУ КОМПЛЕКСІ ПРОВАЛЕНО
+KEY_MISSION_SABOTAGE_UPLINK_VICTORY_DESC,"Доки комплекс не відремонтують, він припинить працювати, що позбавить можливості виявляти активність пандоранів і зменшить радіус впливу притулку."
+KEY_MISSION_SABOTAGE_UPLINK_VICTORY_NAME,ДИВЕРСІЮ НА СУПУТНИКОВОМУ КОМПЛЕКСІ ЗАВЕРШЕНО УСПІШНО
+KEY_MISSION_SCAVENGING_SITE,МІСЦЕВІСТЬ ІЗ РЕСУРСАМИ
+KEY_MISSION_SCAVENGING_SITE_ITEMS_RECOVERED,"ОТРИМАНО ПРЕДМЕТИ З УСІХ ЯЩИКІВ, ЩО ЗАЛИШИЛИСЯ"
+KEY_MISSION_SITE_ENCOUNTER_FACTION_DIPLOMACY_CHANGE,Ставлення {0} до {1}: {2}
+KEY_MISSION_SITE_ENCOUNTER_LEADER_DIPLOMACY_CHANGE,Ставлення лідера притулку до {0}: {1}
+KEY_MISSION_SITE_ENCOUNTER_TYPE,{0} #ПРИТУЛОК
+KEY_MISSION_SITE_TYPE,ТИП МІСЦЕВОСТІ
+KEY_MISSION_SOLDIERS_AMOUNT,Солдати: {CharactersCount}
+KEY_MISSION_SPECIAL OPERATION,ОСОБЛИВЕ ЗАВДАННЯ
+KEY_MISSION_START_MISSION,ПОЧАТИ ЗАВДАННЯ
+KEY_MISSION_STEAL_AIRCRAFT,ВИКРАСТИ ЛІТАЛЬНИЙ АПАРАТ
+KEY_MISSION_STEAL_AIRCRAFT_BRIEFING_DESC,"Дістаньтеся літального апарата, щоб активувати його, і евакуюйте свій загін."
+KEY_MISSION_STEAL_AIRCRAFT_BRIEFING_NAME,ЗАХОПИТИ ЛІТАЛЬНИЙ АПАРАТ
+KEY_MISSION_STEAL_AIRCRAFT_DEFEAT_DESC,Нам не вдалося захопити літальний апарат.
+KEY_MISSION_STEAL_AIRCRAFT_DEFEAT_NAME,ЛІТАЛЬНИЙ АПАРАТ НЕ ЗАХОПЛЕНО
+KEY_MISSION_STEAL_AIRCRAFT_VICTORY_DESC,Літальний апарат успішно захоплено.
+KEY_MISSION_STEAL_AIRCRAFT_VICTORY_NAME,ЛІТАЛЬНИЙ АПАРАТ ЗАХОПЛЕНО
+KEY_MISSION_STEAL_FOOD,ВИКРАСТИ ПРОВІАНТ
+KEY_MISSION_STEAL_FOOD_BRIEFING_DESC,"Заберіть з ящиків стільки предметів, скільки зможете безпечно винести, і евакуюйте свій загін"
+KEY_MISSION_STEAL_FOOD_BRIEFING_NAME,ЗАХОПИТИ ПРОВІАНТ
+KEY_MISSION_STEAL_FOOD_DEFEAT_DESC,Завдання не принесло жодної здобичі
+KEY_MISSION_STEAL_FOOD_DEFEAT_NAME,ПРОВІАНТ НЕ ЗАХОПЛЕНО
+KEY_MISSION_STEAL_FOOD_VICTORY_DESC,Усі зібрані набори провіанту перенесено на наші склади
+KEY_MISSION_STEAL_FOOD_VICTORY_NAME,ЗАВЕРШЕННЯ НАЛЬОТУ
+KEY_MISSION_STEAL_MATERIALS,ВИКРАСТИ МАТЕРІАЛИ
+KEY_MISSION_STEAL_MATERIALS_BRIEFING_DESC,"Заберіть з ящиків стільки предметів, скільки зможете безпечно винести, і евакуюйте свій загін"
+KEY_MISSION_STEAL_MATERIALS_BRIEFING_NAME,ЗАХОПИТИ МАТЕРІАЛИ
+KEY_MISSION_STEAL_MATERIALS_DEFEAT_DESC,Завдання не принесло жодної здобичі
+KEY_MISSION_STEAL_MATERIALS_DEFEAT_NAME,МАТЕРІАЛИ НЕ ЗАХОПЛЕНО
+KEY_MISSION_STEAL_MATERIALS_VICTORY_DESC,Усі зібрані набори матеріалів перенесено на наші склади
+KEY_MISSION_STEAL_MATERIALS_VICTORY_NAME,ЗАВЕРШЕННЯ НАЛЬОТУ
+KEY_MISSION_STEAL_RESEARCH,ВИКРАСТИ ДОСЛІДЖЕННЯ
+KEY_MISSION_STEAL_RESEARCH_BRIEFING_DESC,"Проникніть на дослідницький об'єкт і зламайте консолі, які, за нашими даними, містять дослідницькі дані."
+KEY_MISSION_STEAL_RESEARCH_BRIEFING_NAME,ВИКРАСТИ ДОСЛІДЖЕННЯ
+KEY_MISSION_STEAL_RESEARCH_DEFEAT_DESC,Нам не вдалося здобути жодних корисних дослідницьких даних.
+KEY_MISSION_STEAL_RESEARCH_DEFEAT_NAME,ДОСЛІДЖЕННЯ НЕ ЗАХОПЛЕНО
+KEY_MISSION_STEAL_RESEARCH_VICTORY_DESC,Здобуто дані дослідницького проєкту.
+KEY_MISSION_STEAL_RESEARCH_VICTORY_NAME,ДОСЛІДЖЕННЯ ЗАХОПЛЕНО
+KEY_MISSION_STEAL_TECH,ВИКРАСТИ ТЕХНОЛОГІЇ
+KEY_MISSION_STEAL_TECH_BRIEFING_DESC,"Заберіть з ящиків стільки предметів, скільки зможете безпечно винести, і евакуюйте свій загін"
+KEY_MISSION_STEAL_TECH_BRIEFING_NAME,ЗАХОПИТИ ТЕХНОЛОГІЇ
+KEY_MISSION_STEAL_TECH_DEFEAT_DESC,Завдання не принесло жодної здобичі
+KEY_MISSION_STEAL_TECH_DEFEAT_NAME,ТЕХНОЛОГІЇ НЕ ЗАХОПЛЕНО
+KEY_MISSION_STEAL_TECH_VICTORY_DESC,Усі зібрані набори технологій перенесено на наші склади
+KEY_MISSION_STEAL_TECH_VICTORY_NAME,ЗАВЕРШЕННЯ НАЛЬОТУ
+KEY_MISSION_STRENGTH,СИЛА
+KEY_MISSION_SUMMARY_BACK_GEOSCAPE,ПОВЕРНУТИСЯ ДО ГЕОСКОПА
+KEY_MISSION_SUMMARY_COMPLETED,ЗАВДАННЯ ВИКОНАНО
+KEY_MISSION_SUMMARY_ENEMY_DEFEATED,ВОРОГА ПЕРЕМОЖЕНО
+KEY_MISSION_SUMMARY_EXPERIENCE,ДОСВІД:
+KEY_MISSION_SUMMARY_FAILED,ЗАВДАННЯ ПРОВАЛЕНО
+KEY_MISSION_SUMMARY_GENERAL_XP,ЗАГАЛЬНИЙ ДОСВІД ЗА ЗАВДАННЯ
+KEY_MISSION_SUMMARY_PROGRESS,ПРОГРЕС
+KEY_MISSION_SUMMARY_SOLDIER,СОЛДАТ
+KEY_MISSION_SUMMARY_SOLDIERS,СОЛДАТИ ТА ПРОГРЕС
+KEY_MISSION_SUMMARY_STATUS,СТАТУС
+KEY_MISSION_SUMMARY_STATUS_DAMAGED,ПОШКОДЖЕНО
+KEY_MISSION_SUMMARY_STATUS_DESTROYED,ЗНИЩЕНО
+KEY_MISSION_SUMMARY_STATUS_INJURED,ПОРАНЕНО
+KEY_MISSION_SUMMARY_STATUS_KILLED,ЗАГИНУВ У БОЮ
+KEY_MISSION_SUMMARY_STATUS_LEVEL_UP,ПІДВИЩЕННЯ РІВНЯ
+KEY_MISSION_SUMMARY_STATUS_UNMODIFIED,БЕЗ ЗМІН
+KEY_MISSION_SUMMARY_SUMMARY,ПІДСУМОК
+KEY_MISSION_SUMMARY_XP,XP
+KEY_MISSION_SUMMARY_XP_EARNED,ОТРИМАНО ОЧКІВ ДОСВІДУ
+KEY_MISSION_SUMMARY_XP_POOL,ПУЛ ОЧОК УМІНЬ (ОУ)
+KEY_MISSION_SUMMARY_XP_TOTAL,УСЬОГО
+KEY_MISSION_SYNEDRION,СИНЕДРІОН
+KEY_MISSION_THREAT_LEVEL,РІВЕНЬ ЗАГРОЗИ
+KEY_MISSION_THREAT_LEVEL_EXTREME,КРИТИЧНИЙ
+KEY_MISSION_THREAT_LEVEL_HIGH,ВИСОКИЙ
+KEY_MISSION_THREAT_LEVEL_LOW,НИЗЬКИЙ
+KEY_MISSION_THREAT_LEVEL_MEDIUM,СЕРЕДНІЙ
+KEY_MISSION_UNEXPLORED,НЕДОСЛІДЖЕНА МІСЦЕВІСТЬ
+KEY_MISSION_UPDATE_RESTART,"Останнє оновлення спричинило несумісність із вашим поточним збереженням. Прогрес кампанії не втрачено, і ви можете перезапустити завдання з Геоскопа."
+KEY_MISSION_WARNING,УВАГА
+KEY_MISSION_WP,ОВ

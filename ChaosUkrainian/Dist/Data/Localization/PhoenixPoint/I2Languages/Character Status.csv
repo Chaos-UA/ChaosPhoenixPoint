@@ -1,0 +1,46 @@
+Key,Ukrainian
+KEY_ACID_STATUS_DESCRIPTION,"Кислота роз'їдає 10 одиниць броні за хід. Якщо броні немає, урон завдається частині тіла. Значення кислоти зменшується на 10 за хід."
+KEY_ACID_STATUS_NAME,КИСЛОТА
+KEY_ALERTED_STATUS_DESCRIPTION,Ворог знає про вашу присутність
+KEY_ALERTED_STATUS_NAME,ТРИВОГА!
+KEY_BLEEDING,КРОВОТЕЧА:
+KEY_BLEED_STATUS_DESCRIPTION,"Щохода втрачаються Очки здоров'я, що дорівнюють значенню кровотечі"
+KEY_BLEED_STATUS_NAME,КРОВОТЕЧА
+KEY_BURNING_STATUS_DESCRIPTION,На початку ходу вогняний урон завдається кожній частині тіла з урахуванням броні.
+KEY_BURNING_STATUS_NAME,ГОРІННЯ
+KEY_EXHAUSTED_STATUS_DESCRIPTION,-2 ОД щохода
+KEY_EXHAUSTED_STATUS_NAME,ВИСНАЖЕННЯ
+KEY_FRENZY_STATUS_DESCRIPTION,"Швидкість збільшується на 50%, і з'являється несприйнятливість до паніки"
+KEY_FRENZY_STATUS_NAME,ШАЛ
+KEY_GOOED_STATUS_DESCRIPTION,"Неможливо рухатися, доки слиз не розпадеться або не буде видалений"
+KEY_GOOED_STATUS_NAME,СЛИЗ
+KEY_INFECTED_STATUS_DESCRIPTION,"На початку ходу значення вірусу віднімається від Очків волі, після чого значення вірусу зменшується на 1"
+KEY_INFECTED_STATUS_NAME,ЗАРАЖЕННЯ ВІРУСОМ
+KEY_OVERWATCH_STATUS_DESCRIPTION,"Вороги, що входять у зону спостереження, спровокують атаку"
+KEY_OVERWATCH_STATUS_NAME,СПОСТЕРЕЖЕННЯ
+KEY_PANIC_STATUS_DESCRIPTION,"Неможливо рухатися протягом ходу, поки відновлюються Очки волі"
+KEY_PANIC_STATUS_NAME,ПАНІКА
+KEY_POISON_STATUS_DESCRIPTION,"На початку ходу значення отрути віднімається від Очків здоров'я, після чого значення отрути зменшується на 10"
+KEY_POISON_STATUS_NAME,ОТРУЄННЯ
+KEY_PREPARING_STATUS_DESCRIPTION,Готується активувати особливу здібність на наступному ході
+KEY_PREPARING_STATUS_NAME,ПІДГОТОВКА
+KEY_SHIELD_DEPLOYED_STATUS_DESCRIPTION,Щит встановлено для захисту
+KEY_SHIELD_DEPLOYED_STATUS_NAME,ЩИТ ВСТАНОВЛЕНО
+KEY_STATUS_ACTIVATED_DESCRIPTION,Пристрій активовано
+KEY_STATUS_ACTIVATED_NAME,АКТИВОВАНО
+KEY_STATUS_CIVILIAN_CONTROLLED_DESCRIPTION,Тепер під контролем гравця
+KEY_STATUS_CIVILIAN_CONTROLLED_NAME,ПІД КОНТРОЛЕМ «ФЕНІКСА»
+KEY_STATUS_DAZED,ОГЛУШЕННЯ
+KEY_STATUS_DAZED_DESCRIPTION,"ОД зменшуються до 1, а точність зменшується вдвічі"
+KEY_STATUS_MUTOG_BERSERK_DESCRIPTION,"Мутог дичавіє й атакує і друзів, і ворогів"
+KEY_STATUS_MUTOG_BERSERK_NAME,БЕРСЕРК
+KEY_STATUS_MUTOG_ENRAGED_DESCRIPTION,"Завдана шкода та швидкість збільшуються на 50%. Існує 10% шанс, що мутог впаде в берсерк на початку кожного ходу."
+KEY_STATUS_MUTOG_ENRAGED_NAME,ЛЮТЬ
+KEY_STATUS_PARALYSED_DESCRIPTION,Не може рухатися чи виконувати будь-які дії
+KEY_STATUS_PARALYSED_NAME,ПАРАЛІЗОВАНИЙ
+KEY_STATUS_PARALYSIS_DESCRIPTION,ОД зменшуються пропорційно співвідношенню значення паралічу до Сили
+KEY_STATUS_PARALYSIS_NAME,ПАРАЛІЧ
+KEY_STATUS_UNDER_CONTROL_DESCRIPTION,Розум під контролем; контролер витрачає Очки волі за хід
+KEY_STATUS_UNDER_CONTROL_NAME,КОНТРОЛЬ РОЗУМУ
+KEY_TIRED_STATUS_DESCRIPTION,-1 ОД щохода
+KEY_TIRED_STATUS_NAME,ВТОМА

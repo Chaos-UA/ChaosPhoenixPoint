@@ -1,0 +1,24 @@
+{
+  "ID": "com.chaos.ChaosOverwatch",
+  "AssemblyName": "ChaosOverwatch.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "Chaos-UA-"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "Chaos OverWatch"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "This mod replaces the instant-fire OverWatch system with a manual aiming phase. When Overwatch is triggered, time pauses and the player is given control of Free Aim to manually adjust the shot before firing. The turn resumes only after the player confirms or cancels the attack. During manual overwatch ESC - cancel shot, right click - auto shot, left click - manual shot"
+    }
+  ],
+  "Dependencies": []
+}

@@ -1,0 +1,24 @@
+{
+  "ID": "com.chaos.ChaosInventory",
+  "AssemblyName": "ChaosInventory.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "Chaos-UA-"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "Chaos Inventory"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "ChaosInventory"
+    }
+  ],
+  "Dependencies": []
+}

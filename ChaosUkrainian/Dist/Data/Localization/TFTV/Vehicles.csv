@@ -1,0 +1,100 @@
+Key,Ukrainian
+UI_HITPOINTS,ДОДАТКОВІ ОЧКИ ЗДОРОВ'Я
+UI_TRAMPLE_NAME,НАЇЗД
+UI_TRAMPLE_DESC,"Ця машина може роздавлювати Черв'яків, Промивачів і Мирмідонів"
+UI_LAUNCHMISSILES_DESC,Запустити ракету у вказане місце
+UI_SCARAB_CATEGORY,КАТЕГОРІЯ СТРІЛЬБИ СКАРАБЕЯ
+UI_SALVO_DESC,Запустити три ракети у вказане місце
+UI_DOUBLESHOOT_DESC,Двічі вистрілити по обраному ворогу чи точці.
+UI_TRIPLESHOOT_DESC,Тричі вистрілити по обраному ворогу чи точці.
+UI_RELOAD_DESC,Перезарядити поточну екіпіровану зброю
+UI_JUNKER_NAME,ДЖАНКЕР
+UI_JUNKER_HULL,ПОКРАЩЕННЯ КОРПУСУ ДЖАНКЕРА
+UI_JUNKER_ENGINE,ПОКРАЩЕННЯ ДВИГУНА ДЖАНКЕРА
+UI_JUNKER_GOOGUN,СЛИЗОВА ТУРЕЛЬ ДЖАНКЕРА
+UI_JUNKER_SCREAMER,АКУСТИЧНА ТУРЕЛЬ ДЖАНКЕРА
+UI_JUNKER_TITAN,ГРАНАТОМЕТНА ТУРЕЛЬ ДЖАНКЕРА
+UI_JUNKER_MINIGUN,МІНІГАН ДЖАНКЕРА
+UI_JUNKER_WHEEL,КОЛЕСО ДЖАНКЕРА
+AN_MUTOG_BASHER_NAME,БОЙОВИЙ ХВІСТ
+AN_MUTOG_BASHER_DESC,"Виконує атаку, що може розірвати броню та приголомшити ворога"
+KB_DEATHPROOF_NAME,НЕВМИРУЩІСТЬ
+KB_KNR_NAME,УБИЙ І ВТІКАЙ
+KB_KNR_DESC,Один раз за хід після знищення ворога здійсніть безкоштовний рух на 12 клітинок
+KB_SLAUGHTERHOUSE_NAME,БІЙНЯ
+KB_GUNNERMODULE_NAME,КАБІНА СТРІЛЬЦЯ
+KB_MANNEDGUNNER_NAME,РУЧНЕ НАВЕДЕННЯ ЗБРОЇ
+KB_MANNEDGUNNER_DESC,"Вартість Очок Дій за стрільбу зі зброї зменшується на 1, поки всередині перебуває пасажир"
+KB_EXITGUNNER_NAME,ЗАБЛОКОВАНИЙ ВИХІД
+KB_EXITGUNNER_DESC,Вихід із машини коштує 3 Очки Дій
+KB_KAMIKAZE_NAME,КАМІКАДЗЕ
+KB_KAMIKAZE_DESC,"Машина вибухає після знищення, завдаючи значної шкоди цілям поблизу"
+SY_KINETIC_NAME,КІНЕТИЧНИЙ ЩИТ
+SY_KINETIC_DESC,Атаки ворогів на відстані понад 10 клітинок завдають на 25% менше шкоди
+SY_STASIS_NAME,КАМЕРА СТАЗИСУ
+SY_STASIS_DESC,Пасажири відновлюють 80 очок здоров'я та 5 очок волі на початку кожного ходу
+SY_NAVMODULE_NAME,НАВІГАЦІЙНИЙ МАЯК
+SY_DETECTION_NAME,ПОКРАЩЕНЕ ВИЯВЛЕННЯ РУХУ
+SY_DETECTION_DESC,"Виявляє всіх ворогів у радіусі 20 клітинок, навіть за перешкодами"
+SY_MISTREPELLER_NAME,ПОКРАЩЕНИЙ РОЗСІЮВАЧ ТУМАНУ
+SY_MISTREPELLER_DESC,Розсіює весь Туман у радіусі 3 клітинок під час руху. Союзники в цьому радіусі імунні до ефектів Туману
+SY_MISTIMMUNITY_NAME,ІМУНІТЕТ ДО ТУМАНУ
+SY_MISTIMMUNITY_DESC,Персонаж імунний до ефектів Туману
+SY_JAMMER_DESC,"Усі ворожі одиниці в радіусі 12 клітинок стають ДЕЗОРІЄНТОВАНИМИ й не можуть використовувати здібності, що коштують очок волі"
+SY_HYBRID_NAME,ГЕРМЕС X1
+SY_STIM_NAME,ХМАРА СТИМУЛЯНТУ
+SY_STIM_DESC,Усі союзники в радіусі 5 клітинок відновлюють 2 Очки Дій
+SY_THRUSTERS_NAME,КЛІРИК X2
+SY_CURE_NAME,ЦІЛЮЩА ХМАРА
+SY_CURE_DESC,"Знімає всі статусні ефекти паралічу, кровотечі, отруєння, травми, зараження, оглушення й уповільнення з усіх союзних одиниць у радіусі 10 клітинок"
+SY_ARMOUR_NAME,ВІДНОВЛЕННЯ БРОНІ
+SY_ARMOUR_DESC,Відновлює 10 очок броні всім союзним одиницям у радіусі 10 клітинок
+PX_LAZARUS_NAME,ЩИТ ЛАЗАРЯ
+PX_VANISH_NAME,ЗНИКНЕННЯ
+PX_VANISH_DESC,Зникнути з поля зору на наступний хід (або до виявлення)
+PX_HIDDEN_NAME,ПРИХОВАНІСТЬ
+PX_HIDDEN_DESC,Машина прихована
+PX_DEPLOY_NAME,ДЕСАНТНИЙ ВІДСІК
+PX_EJECT_NAME,КАТАПУЛЬТУВАННЯ
+PX_EJECT_DESC,До кінця ходу вихід із машини не коштує Очок Дій
+PX_STABILITY_NAME,ПОСИЛЕНІ СТАБІЛІЗАТОРИ
+PX_AMMUNITION_NAME,СТЕЛАЖІ ДЛЯ БОЄПРИПАСІВ
+NJ_REINFORCED_NAME,ПОСИЛЕНЕ БРОНЮВАННЯ
+NJ_REINFORCED_DESC,Броня корпусу отримує +50 очок здоров'я
+NJ_LIGHTWEIGHT_NAME,ШВИДКИЙ ВХІД
+NJ_LIGHTWEIGHT_DESC,Вхід у машину не коштує Очок Дій
+NJ_GASTANKS_NAME,ГАЗОВІ БАКИ
+NJ_TRACTION_NAME,ПОСИЛЕНА ПІДВІСКА
+NJ_TRACTION_DESC,Надає +10 до броні та +100 очок здоров'я всім колесам
+NJ_BLASTVULN_NAME,ВРАЗЛИВІСТЬ ДО ВИБУХІВ
+NJ_BLASTVULN_DESC,Подвоює шкоду від Вибуху
+NJ_OBLITERATOR_NAME,ЗНИЩУВАЧ
+NJ_OBLITERATOR_DESC,"Надає додатковий режим стрільби, призначений для знищення однієї цілі"
+NJ_INCENDIARY_NAME,ЗАРЯДИТИ ЗАПАЛЮВАЛЬНІ ГРАНАТИ
+NJ_INCENDIARY_DESC,"Зарядити запалювальні гранати, що завдають додатково 40 очок шкоди від Вогню"
+NJ_CONCUSSION_NAME,ЗАРЯДИТИ ОГЛУШУВАЛЬНІ ГРАНАТИ
+NJ_CONCUSSION_DESC,"Зарядити оглушувальні гранати, що завдають додатково 30 очок шкоди від Звуку"
+KEY_VEHICLE_AMMO_gemini,Боєприпаси «Джеміні V» Скарабея
+KEY_VEHICLE_AMMO_DESCRIPTION_gemini,Боєприпаси для ракетної турелі «Джеміні» Скарабея.
+KEY_VEHICLE_AMMO_junkerMinigun,Боєприпаси для мінігана Джанкера
+KEY_VEHICLE_AMMO_DESCRIPTION_junkerMinigun,Боєприпаси для мінігана Джанкера.
+KEY_VEHICLE_AMMO_vishnu,Боєприпаси «Вішну» для Джанкера
+KEY_VEHICLE_AMMO_DESCRIPTION_vishnu,Боєприпаси для гранатомета «Вішну» Джанкера.
+KEY_VEHICLE_AMMO_fullstop,Боєприпаси «Фулстоп» для Джанкера
+KEY_VEHICLE_AMMO_DESCRIPTION_fullstop,Боєприпаси для слизомета «Фулстоп» Джанкера.
+KEY_VEHICLE_AMMO_screamer,Боєприпаси «Скример» для Джанкера
+KEY_VEHICLE_AMMO_DESCRIPTION_screamer,Боєприпаси для звукової зброї «Скример» Джанкера.
+KEY_VEHICLE_AMMO_scorpio,Боєприпаси «Скорпіо VII» Скарабея
+KEY_VEHICLE_AMMO_DESCRIPTION_scorpio,Боєприпаси для вірофагової ракетної турелі «Скорпіо» Скарабея.
+KEY_VEHICLE_AMMO_taurus,Боєприпаси «Таурус II» Скарабея
+KEY_VEHICLE_AMMO_DESCRIPTION_taurus,Боєприпаси для гармати «Таурус» Скарабея.
+KEY_VEHICLE_AMMO_hailstorm,Боєприпаси «Хейлсторм GT» Броненосця
+KEY_VEHICLE_AMMO_DESCRIPTION_hailstorm,Боєприпаси для гаусівського кулемета «Хейлсторм» Броненосця.
+KEY_VEHICLE_AMMO_purgatory,Боєприпаси «Пургаторі GL» Броненосця
+KEY_VEHICLE_AMMO_DESCRIPTION_purgatory,Боєприпаси для гранатомета «Пургаторі» Броненосця.
+KEY_VEHICLE_AMMO_ft,Боєприпаси «Мефістофель FT» Броненосця
+KEY_VEHICLE_AMMO_DESCRIPTION_ft,Боєприпаси для вогнемета «Мефістофель» Броненосця.
+KEY_VEHICLE_AMMO_aspida_arms,Боєприпаси для технологічних рук Аспіди
+KEY_VEHICLE_AMMO_DESCRIPTION_aspida_arms,Боєприпаси для технологічних рук Аспіди.
+KEY_VEHICLE_AMMO_aspida_themis,Боєприпаси «Феміда NT» Аспіди
+KEY_VEHICLE_AMMO_DESCRIPTION_aspida_themis,Боєприпаси для паралізувальної зброї «Феміда» Аспіди.

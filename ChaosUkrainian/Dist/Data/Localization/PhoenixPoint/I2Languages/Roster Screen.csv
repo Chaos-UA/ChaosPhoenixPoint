@@ -1,0 +1,32 @@
+Key,Ukrainian
+KEY_ATTRIBUTES_MAX,МАКС.
+KEY_CONTAINMENT_ALIENTYPE,ТИП ПАНДОРАНА
+KEY_CONTAINMENT_SLOTS,СЛОТИ ІЗОЛЯТОРА
+KEY_DEPLOY_SQUAD,РОЗГОРНУТИ ЗАГІН
+KEY_FATIGUE_CONFIRMATION,"Деякі з ваших солдатів втомлені або виснажені. У бою вони матимуть менше очок дій. Продовжити?"
+KEY_GEOROSTER_ACTIONS,ДІЇ
+KEY_GEOROSTER_ARMOUR,БРОНЯ
+KEY_GEOROSTER_BACK,НАЗАД
+KEY_GEOROSTER_BODY,РЮКЗАК
+KEY_GEOROSTER_CANCEL,СКАСУВАТИ
+KEY_GEOROSTER_DISALLOW,ЗАБОРОНИТИ
+KEY_GEOROSTER_EQUIP,СПОРЯДЖЕННЯ
+KEY_GEOROSTER_MOUNTS,КРІПЛЕННЯ
+KEY_GEOROSTER_NAME,ІМ'Я СОЛДАТА
+KEY_GEOROSTER_PROGRESS,ТРЕНУВАННЯ
+KEY_GEOROSTER_RENAME_CHARACTER,Перейменувати цього солдата?
+KEY_GEOROSTER_STORES,СХОВИЩА
+KEY_GEOROSTER_TRANSFER,ПЕРЕНЕСТИ
+KEY_GEOSCAPE_PANDORANS_TT,Усі захоплені пандорани в ізоляторах
+KEY_GEOSCAPE_SOLDIERS_TT,Солдати Фенікса на активній службі
+KEY_GEOSCAPE_VEHICLES_TT,Уся наземна техніка під командуванням Фенікса
+KEY_HARVEST,ЗБІР
+KEY_READY_ITEM_SLOTS_USED_TT,ЗБРОЮ НЕ ЕКІПІРОВАНО
+KEY_ROSTER_LOCATION,МІСЦЕ
+KEY_SQUAD_SLOTS_USED,ВИКОРИСТАНО СЛОТІВ ЗАГОНУ {0}/{1}
+KEY_STATUS_GEO_INJURED,ПОРАНЕНИЙ
+KEY_STATUS_GEO_READY,ГОТОВИЙ
+KEY_STATUS_GEO_TRAINING,ТРЕНУВАННЯ
+KEY_STATUS_GEO_WORKING,РОБОТА
+KEY_STATUS_RECOVERY_TIME,{0:f0} год до одужання
+KEY_VEHICLE_LIMIT,На завдання можна відправити лише одну машину

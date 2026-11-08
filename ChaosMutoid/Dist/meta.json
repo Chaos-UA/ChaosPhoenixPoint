@@ -1,0 +1,24 @@
+{
+  "ID": "com.chaos.ChaosMutoid",
+  "AssemblyName": "ChaosMutoid.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "Chaos-UA-"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "Chaos Mutoid"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "Mutoid can now mutate to change selected ability"
+    }
+  ],
+  "Dependencies": []
+}

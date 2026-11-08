@@ -1,0 +1,89 @@
+Key,Ukrainian
+KEY_ASPIDA_ARM_DESCRIPTION,Технологічна рука «Аспіди» Синедріону
+KEY_ASPIDA_ARM_NAME,ТЕХНОЛОГІЧНА РУКА
+KEY_ASPIDA_ENGINE_DESCRIPTION,Двигун екранного ефекту «Аспіди»
+KEY_ASPIDA_ENGINE_NAME,ДВИГУН
+KEY_ASPIDA_HULL_DESCRIPTION,Корпус «Аспіди»
+KEY_ASPIDA_HULL_NAME,КОРПУС
+KEY_ASPIDA_SHIELDING_DESCRIPTION,Захист «Аспіди»
+KEY_ASPIDA_SHIELDING_NAME,ЗАХИСТ
+KEY_BASE_ACTIVATE_CONFIRM_DESCRIPTION,"Запуск протоколів активації витратить ресурси, щоб зробити базу робочою. Усі пошкоджені споруди потрібно буде відремонтувати."
+KEY_BASE_ACTIVATE_CONFIRM_NAME,ПРОТОКОЛ АКТИВАЦІЇ «ФЕНІКС»
+KEY_BASE_ACTIVATE_DESCRIPTION,"Активуйте базу «Фенікс» дистанційно, щоб зробити її робочою."
+KEY_BASE_ACTIVATE_NAME,АКТИВУВАТИ БАЗУ
+KEY_BASE_ACTIVATE_NOTIFICATION_ACTIVATED,База «Фенікс» вже функціонує.
+KEY_BASE_ACTIVATE_NOTIFICATION_LIMIT,Ви досягли ліміту активних баз «Фенікс». Більше баз активувати не можна.
+KEY_BASE_ACTIVATE_NOTIFICATION_RESOURCES,"У вас недостатньо ресурсів, щоб активувати базу"
+KEY_BASE_DISMISS_MUTOG,"Відпустити мутога, вилучивши його з Проєкту «Фенікс»"
+KEY_BASE_DISMISS_MUTOG_PROMPT,"Ви впевнені, що хочете відпустити {0}?"
+KEY_BASE_DISMISS_MUTOG_RESULT,{0} було відпущено
+KEY_BASE_DISMISS_PERSON,"Звільнити солдата, вилучивши його з Проєкту «Фенікс». Усе спорядження буде відправлено на склад."
+KEY_BASE_DISMISS_PERSON_PROMPT,"Ви впевнені, що хочете звільнити {0}? Якщо так, його спорядження буде відправлено на склад."
+KEY_BASE_DISMISS_PERSON_RESULT,{0} було звільнено.
+KEY_BASE_DISMISS_VEHICLE,Вилучити транспорт із Проєкту «Фенікс»
+KEY_BASE_DISMISS_VEHICLE_PROMPT,"Ви впевнені, що хочете вилучити {0}?"
+KEY_BASE_DISMISS_VEHICLE_RESULT,{0} було залишено
+KEY_BASE_RECRUITS_ABILITIES,ЗДІБНОСТІ
+KEY_BASE_RECRUITS_AVAILABLE,НОВОБРАНЦІ БУДУТЬ ДОСТУПНІ ЧЕРЕЗ {0} ДН.
+KEY_BASE_RECRUITS_DEPLOYMENT,РОЗПОДІЛ НОВОБРАНЦІВ
+KEY_BASE_RECRUITS_RECRUIT_ACTION,ЗАВЕРБУВАТИ
+KEY_BASE_RECRUITS_ROSTER_DESCRIPTION,"Усі добровольці, доступні для вербування на вашій базі"
+KEY_BASE_RECRUITS_ROSTER_NAME,НОВОБРАНЦІ
+KEY_BASE_RECRUITS_SPAWNED,Доступні нові новобранці.
+KEY_BASE_RECRUIT_CONFIRMATION,"Ви впевнені, що хочете завербувати {0} за {1}?"
+KEY_BASE_RECRUIT_DEPLOYMENT,{0} було завербовано та направлено на базу {1}
+KEY_BASE_STATUS_RECRUITING_ATTACK,НАБЛИЖАЄТЬСЯ АТАКА
+KEY_BASE_STATUS_RECRUITING_NORMAL,ОНЛАЙН
+KEY_CONTINUOUS_ATTACK_DESCRIPTION,"Ворожі підкріплення постійно прибуватимуть з територій, позначених цим символом"
+KEY_GEOSCAPE_PANDORAN_CITADEL_DISCOVERED,Виявлено цитадель пандоранів. Її розташування показано на геоскопі.
+KEY_GEOSCAPE_PANDORAN_LAIR_DISCOVERED,Виявлено лігво пандоранів. Його розташування показано на геоскопі.
+KEY_GEOSCAPE_PANDORAN_NEST_DISCOVERED,Виявлено гніздо пандоранів. Його розташування показано на геоскопі.
+KEY_LAUNCH_LASER_DESCRIPTION,Вистрелити лазером у вказане місце.
+KEY_LAUNCH_LASER_NAME,ЛАЗЕРНИЙ ПОСТРІЛ
+KEY_LOAD_INVALID_TACTICAL,Це збереження під час бою несумісне з поточною версією гри. Гра поверне геоскоп до стану безпосередньо перед місією.
+KEY_MANUFACTURING_STORAGE_INSUFFICIENT,<color=#ECBA62> (недостатньо місця на складі)</color>
+KEY_MESSAGE_HAVEN_LEADER_DOESNT_TRADE,Дипломатичні відносини з Притулком надто слабкі. Лідер Притулку відмовляється торгувати з вами.
+KEY_MESSAGE_NOT_ENOUGH_RESOURCES,"У вас недостатньо ресурсів, щоб виконати цю дію."
+KEY_MESSAGE_NO_SPACE_INVENTORY,Немає місця в інвентарі
+KEY_MESSAGE_NO_SPACE_TO_RECRUIT,У ВАШОМУ ЛІТАЛЬНОМУ АПАРАТІ НЕДОСТАТНЬО МІСЦЯ ДЛЯ НОВОГО НОВОБРАНЦЯ
+KEY_MESSAGE_SITE_UNREACHABLE,"Це місце занадто далеко, щоб дістатися туди напряму."
+KEY_MISSION_DEBRIEF_RESCUE,НОВИЙ ПЕРСОНАЛ
+KEY_MISSION_RAID_RESOURCES_SITE_BRIEFING_DESCRIPTION,Обшукайте ящики та здобудьте якомога більше наборів з ресурсами.
+KEY_MISSION_RAID_RESOURCES_SITE_BRIEFING_NAME,НАБІГ ЗА РЕСУРСАМИ
+KEY_MISSION_RAID_RESOURCES_SITE_DEFEAT_DESCRIPTION,Усю вашу команду знищено. Жодних ресурсів не здобуто.
+KEY_MISSION_RAID_RESOURCES_SITE_DEFEAT_NAME,НАБІГ ЗА РЕСУРСАМИ ПРОВАЛЕНО
+KEY_MISSION_RAID_RESOURCES_SITE_VICTORY_DESCRIPTION,"Вашу команду успішно евакуйовано. Усі ресурси, здобуті під час місії, додано до вашого запасу ресурсів."
+KEY_MISSION_RAID_RESOURCES_SITE_VICTORY_NAME,НАБІГ ЗА РЕСУРСАМИ УСПІШНИЙ
+KEY_MISSION_RAID_RESOURCES_SITE_WARNING,Увага! Місії з набігу за ресурсами значно небезпечніші в зоні туману.
+KEY_MISSION_RAID_RESOURCES_SITE_WARNING_DESCRIPTION,"Пам'ятайте, що вам доведеться протистояти безперервному потоку місцевих підкріплень. Зберіть якомога більше спорядження та ресурсів з ящиків і покиньте територію через зону евакуації."
+KEY_MISSION_RECOVER_VEHICLE_BRIEFING_DESC,"Візьміть під контроль транспорт, що знаходиться десь на території, і евакуюйтеся на ньому"
+KEY_MISSION_RECOVER_VEHICLE_BRIEFING_NAME,ЗАХОПИТИ ТРАНСПОРТ
+KEY_MISSION_RECOVER_VEHICLE_DEFEAT_DESC,Ваш загін було знищено
+KEY_MISSION_RECOVER_VEHICLE_DEFEAT_NAME,ТРАНСПОРТ НЕ ЕВАКУЙОВАНО
+KEY_MISSION_RECOVER_VEHICLE_VICTORY_DESC,"Усіх солдатів, що вижили, та транспорт евакуйовано"
+KEY_MISSION_RECOVER_VEHICLE_VICTORY_NAME,ЗАВЕРШЕННЯ МІСІЇ З ЕВАКУАЦІЇ ТРАНСПОРТУ
+KEY_MISSION_RESCUE_SOLDIERS_BRIEFING_DESC,Візьміть під контроль незалежних солдатів і евакуюйтеся з ними з території
+KEY_MISSION_RESCUE_SOLDIERS_BRIEFING_NAME,ВРЯТУВАТИ СОЛДАТІВ
+KEY_MISSION_RESCUE_SOLDIERS_DEFEAT_DESC,Ваш загін було знищено
+KEY_MISSION_RESCUE_SOLDIERS_DEFEAT_NAME,СОЛДАТІВ НЕ ВРЯТОВАНО
+KEY_MISSION_RESCUE_SOLDIERS_VICTORY_DESC,"Усіх солдатів, що вижили, та транспорт евакуйовано"
+KEY_MISSION_RESCUE_SOLDIERS_VICTORY_NAME,ЗАВЕРШЕННЯ МІСІЇ З ПОРЯТУНКУ
+KEY_OBJECTIVE_GET_SOLDIERS,ВРЯТУВАТИ СОЛДАТІВ: {0}/{1}
+KEY_OBJECTIVE_GET_VEHICLE,ЗАХОПИТИ ТРАНСПОРТ
+KEY_OBJECTIVE_PICK_RESOURCES,ЗІБРАНО НАБОРІВ З РЕСУРСАМИ: {0}/{1}
+KEY_OBJECTIVE_RECOVER_VEHICLE,#ЗАХОПИТИ ТРАНСПОРТ
+KEY_OBJECTIVE_RESCUE_ALLY,#ВРЯТУВАТИ СОЮЗНИКІВ: {0}/{1}
+KEY_RESOURCE_FOOD_DESCRIPTION,Концентровані поживні порції
+KEY_RESOURCE_FOOD_NAME,ПРОДОВОЛЬЧИЙ НАБІР
+KEY_RESOURCE_MATERIALS_DESCRIPTION,Будівельні матеріали
+KEY_RESOURCE_MATERIALS_NAME,НАБІР МАТЕРІАЛІВ
+KEY_RESOURCE_MUTAGENS_DESCRIPTION,Капсула з активними мутагенами пандоранів.
+KEY_RESOURCE_MUTAGENS_NAME,НАБІР МУТАГЕНІВ
+KEY_RESOURCE_TECH_DESCRIPTION,Високотехнологічні будівельні компоненти
+KEY_RESOURCE_TECH_NAME,НАБІР ТЕХНОЛОГІЙ
+KEY_SCARAB_TIRE_DESCRIPTION,Гусениця «Скарабея»
+KEY_SCARAB_TIRE_NAME,ГУСЕНИЦЯ
+KEY_STATUS_AI_CONTROLLED_DESCRIPTION,Повернуто під автономний контроль ШІ
+KEY_STATUS_AI_CONTROLLED_NAME,АВТОНОМНИЙ
+KEY_STATUS_REPAIR_TIME,{0:f0} год. до ремонту
+KEY_WARNING_CONTINUOUS_ATTACK,БЕЗПЕРЕРВНА АТАКА
